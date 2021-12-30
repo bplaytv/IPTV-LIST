@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,ATV Avrupa
+http://185.226.88.3:1036/live/backup/backup/155.m3u8
+#EXTINF:-1,TV Avrupa
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-1,İsviçre TV
+http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
+#EXTINF:-1,Almanya TV
+http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
+#EXTINF:-1,EURO D
+http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
+#EXTINF:-1,EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1,EURO D
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:-1,Euro Genç TV
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@126972/index_150_av-p.m3u8
+#EXTINF:-1,EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:-1,KANAL 7 AVRUPA
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1,SHOW TÜRK
+http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
+#EXTINF:-1,SHOW TÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:-1,TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1,TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8

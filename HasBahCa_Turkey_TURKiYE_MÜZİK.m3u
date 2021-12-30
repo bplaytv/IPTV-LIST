@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,VATAN TV
+http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:-1,Vatan TV
+https://livesx.canlitv.center/vatantv.m3u8
+#EXTINF:-1,Arabesk TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:-1,Arma
+https://yayin.santraltr.com/hls/arma.m3u8
+#EXTINF:-1,aviva
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1,Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1,Demo TV
+http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
+#EXTINF:-1,DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,Dream Türk
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,ezo tv
+https://yayin.santraltr.com/hls/ezo.m3u8
+#EXTINF:-1,Fora Müzik
+http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
+#EXTINF:-1,Genç Kral TV
+http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
+#EXTINF:-1,Genç SMS TV
+https://yayin.santraltr.com/hls/genctv.m3u8
+#EXTINF:-1,Gidon TV
+http://tv56245.ozelip.com:2052/tvgidon/tvgidon/playlist.m3u8
+#EXTINF:-1,KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1,Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1,KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:-1,KRAL TV
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1,Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
+#EXTINF:-1,Lugat TV
+http://145.239.37.125:20458/lugat/lugat/playlist.m3u8
+#EXTINF:-1,Mega TV İskenderun
+http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
+#EXTINF:-1,MILYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1,Moda FM TV
+http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist_w1385220734.m3u8
+#EXTINF:-1,Müzik Habercisi
+https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
+#EXTINF:-1,Number 1 Aşk
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch24
+#EXTINF:-1,Number 1 Damar
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch8g
+#EXTINF:-1,Number 1 Dance
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67chco
+#EXTINF:-1,Pala TV
+http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
+#EXTINF:-1,POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1,POWER TV
+https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1,POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,POWER TÜRK
+https://waw1.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1,Powertürk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+#EXTINF:-1,Radyo Esenyurt
+https://cdn10-radyoesenyurt.yayin.com.tr/radyoesenyurt/radyoesenyurt/playlist.m3u8
+#EXTINF:-1,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1,Sıla TV
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1,TATLISES
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1,TATLISES
+https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1,TEMPO TV
+http://waw1.artiyerelmedya.net:1935/tempotv/bant1/playlist.m3u8
+#EXTINF:-1,TEMPO TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/chunks.m3u8
+#EXTINF:-1,Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:-1,Tempo TV
+https://waw3.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:-1,TMB TV
+https://ankara.tvizlehd.com/live/tmbtv.m3u8
+#EXTINF:-1,Top Pop TV
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1,TR:Power Turk (1080p)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,TR:Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1,TR:POWERTÜRK TV (1080p)
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1,TRT MÜZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TV SMS
+https://yayin.santraltr.com/hls/tvsms.m3u8
+#EXTINF:-1,Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
