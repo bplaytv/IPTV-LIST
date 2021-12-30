@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:-1 group-title="webcam_DE+AU+CH",***HasBahCa IPTV***WEBCAM DE+AU+CH***
+http://hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1 group-title="webcam_int",Africam 1
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1 group-title="webcam_int",Africam 2
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:-1 group-title="webcam_int",Africam 3
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:-1 group-title="webcam_int",Africam 4
+https://outbound-production.explore.org/stream-production-49/.m3u8
+#EXTINF:-1 group-title="webcam_int",Aktau - Caspian Coast (KZ)
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 group-title="webcam_int",Amsterdam (NL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchyST7Ux0ypUM
+#EXTINF:-1 group-title="webcam_int",Argentina (AR)
+http://200.50.248.57:8080/Camara1/index.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Jerzens Tirol airport
+http://83.218.163.132:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Linz Oberosterreich
+http://77.119.245.144:8001/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Maria Enzersdorf Niederosterreich
+http://78.142.149.231:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Murau teiermark
+http://87.243.152.28:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Rauriser Marktplatz
+http://195.70.107.151:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Salzburg
+http://195.70.117.61:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Salzburg
+http://85.199.1.39:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Salzburg
+http://89.26.43.105:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",AU Salzburg
+http://91.113.179.211:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_int",Austria (AT)
+https://cdn.livespotting.com/vpu/y6tzfe2i/j76qemhq.m3u8
+#EXTINF:-1 group-title="webcam_int",Barra (PT)
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int",Berdyansk Hall (UA)
+https://stream.bmr.gov.ua/hls/511.m3u8
+#EXTINF:-1 group-title="webcam_int",Bishkek - Kyrgyzstan (KG)
+http://iptv.saima.kg/hls-cam/berengold.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam10: Вишневе. Переїзд.
+http://94.158.80.166:9000/play/web_cam10/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam11: Боярка - Сквер
+http://94.158.80.166:9000/play/web_cam11/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam13: Стадіон
+http://94.158.80.166:9000/play/web_cam13/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam18: Боярка. Переїзд.
+http://94.158.80.166:9000/play/web_cam18/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam1: Білогородська
+http://94.158.80.166:9000/play/web_cam1/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam23: Боярка.Білогородська 51-1
+http://94.158.80.166:9000/play/web_cam23/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam2: Незалежності
+http://94.158.80.166:9000/play/web_cam2/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam30: Боярка.Білогородська 51-8
+http://94.158.80.166:9000/play/web_cam30/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam32: Боярка.Білогородська 51-10
+http://94.158.80.166:9000/play/web_cam32/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam33: Боярка.Білогородська 51-11
+http://94.158.80.166:9000/play/web_cam33/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam34: Боярка.Білогородська 51-12
+http://94.158.80.166:9000/play/web_cam34/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam36: Боярка.Білогородська 51-14
+http://94.158.80.166:9000/play/web_cam36/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam39: Боярка.Білогородська 51-17
+http://94.158.80.166:9000/play/web_cam39/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam3: Молодіжна-Білогородська
+http://94.158.80.166:9000/play/web_cam3/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam40: Боярка.Білогородська 51-18
+http://94.158.80.166:9000/play/web_cam40/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam41: Боярка.Білогородська 25-1
+http://94.158.80.166:9000/play/web_cam41/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam42: Боярка.Білогородська 25-2
+http://94.158.80.166:9000/play/web_cam42/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam43: Боярка.Білогородська 25-3
+http://94.158.80.166:9000/play/web_cam43/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam44: Боярка.Білогородська 25-4
+http://94.158.80.166:9000/play/web_cam44/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam45: Незалежності 10
+http://94.158.80.166:9000/play/web_cam45/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam46: Незалежності 10
+http://94.158.80.166:9000/play/web_cam46/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam47: Незалежності 10
+http://94.158.80.166:9000/play/web_cam47/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam48: Гоголя 78
+http://94.158.80.166:9000/play/web_cam48/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam49: Гоголя 78-2
+http://94.158.80.166:9000/play/web_cam49/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam4: Тарасівка. Переїзд.
+http://94.158.80.166:9000/play/web_cam4/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam50: Білогородська 27
+http://94.158.80.166:9000/play/web_cam50/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam51: Білогородська 27
+http://94.158.80.166:9000/play/web_cam51/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam52: Білогородська 27
+http://94.158.80.166:9000/play/web_cam52/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam54: Лінійна 28
+http://94.158.80.166:9000/play/web_cam54/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam55: Білогородска 144
+http://94.158.80.166:9000/play/web_cam55/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam56: Боярка. Лінійна 28
+http://94.158.80.166:9000/play/web_cam56/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam57: Боярка. Київська
+http://94.158.80.166:9000/play/web_cam57/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam58: Боярка. Київська
+http://94.158.80.166:9000/play/web_cam58/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam59: Боярка. Київська
+http://94.158.80.166:9000/play/web_cam59/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam5: Боярка. Білогородське Коло.
+http://94.158.80.166:9000/play/web_cam5/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam60: Боярка. Лінійна-Гоголя
+http://94.158.80.166:9000/play/web_cam60/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam61: Боярка. Лінійна-Молодіжна
+http://94.158.80.166:9000/play/web_cam61/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam63: Боярка. Білогородська - Соборноті
+http://94.158.80.166:9000/play/web_cam63/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam67: Білогородська 45 - 3
+http://94.158.80.166:9000/play/web_cam67/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam7: Боярка. Михайлівська площа
+http://94.158.80.166:9000/play/web_cam7/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam8: Чабани. Перехрестя
+http://94.158.80.166:9000/play/web_cam8/index.m3u8
+#EXTINF:-1 group-title="webcam_rus",cam9: Вишневе. Лесі Укр./Зелена
+http://94.158.80.166:9000/play/web_cam9/index.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH",CH Aarau Aargau
+http://89.186.193.101:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",CH Lausanne Vaud
+http://145.232.235.226:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",CH Zurich
+http://129.132.117.46:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",CH Zurich
+http://80.75.119.250:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",CH Zurich CH
+http://213.200.245.146:83/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Camping Rožnov
+http://31.47.96.14:80/hls/camp.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Dolní Bečva
+http://31.47.96.14:80/hls/DBecva.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Horní Bečva - Rališka
+http://31.47.96.14:80/hls/raliska.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Horní Bečva - Rališka_Horní stanice
+http://31.47.96.14:80/hls/raliska2.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Hutisko-Solanec
+http://31.47.96.14:80/hls/hutisko.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Hutisko-Solanec_Kostel
+http://31.47.96.14:80/hls/kostelhutisko_hd.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera na Radhošti - Kaple
+http://31.47.96.14:80/hls/radhostkaple.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera na Radhošti - východ
+http://31.47.96.14:80/hls/radhostvychod.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Pustevny - rozcestí
+http://31.47.96.14:80/hls/pustevny.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Valašská Bystřice - Búřov
+http://31.47.96.14:80/hls/burov.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Vidče
+http://31.47.96.14:80/hls/vidce.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Zašová
+http://31.47.96.14:80/hls/zasova.m3u8
+#EXTINF:-1 group-title="webcam_int",CZ Kamera Zubří
+http://31.47.96.14:80/hls/zubri.m3u8
+#EXTINF:-1 group-title="webcam_int",Czech Heaven (CZ)
+https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Beilngries Bayern
+http://185.18.129.86:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Berlin
+http://130.149.32.46:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE BFE Oldenburg
+http://212.6.91.123/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Bonn Nordrhein-Westfalen Campus Poppelsdorf
+http://131.220.172.253:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Bremen Thuringen
+http://217.91.208.210:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Chemnitz Sachsen
+http://77.235.182.8:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Stadtwerke Emsdetten GmbH
+http://91.190.227.198/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE University of Halle
+http://141.48.169.7/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH",DE Weiden Thuringen
+http://195.243.58.195:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_int",Downtown Wilmington (US)
+http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Düsseldorf (DE)
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Bad Egmond (NL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchVfVOZ1ailwc
+#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Boulevard (NL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchL2obWMdThDg
+#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Pompplein (NL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watch58C6PBg9mkI
+#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Strandafgang (NL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchguULTauXDlA
+#EXTINF:-1 group-title="webcam_int",EXYUG-Zrenjanin
+http://109.94.224.254/video1.mjpg
+#EXTINF:-1 group-title="webcam_int",Gran Canaria Irish center (ES) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchMXqKk4WEhsE
+#EXTINF:-1 group-title="webcam_int",Green Parrot Bar (US)
+http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Hamburg (DE)
+https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
+#EXTINF:-1 group-title="webcam_int",Hotel Bania (PL)
+http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Ilfracombe (UK)
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 group-title="webcam_int",Jelsa - Croatia (HR)
+https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
+#EXTINF:-1 group-title="webcam_int",Juist (DE)
+https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
+#EXTINF:-1 group-title="webcam_int",Kolobrzeg (PL)
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Krakow (PL)
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",LOS300 (NO) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchtsOEL9HJLTk
+#EXTINF:-1 group-title="webcam_int",Moscow 1 (RU)
+http://57820f09e94a7.streamlock.net/live/Metropolia2.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Moscow 2 (RU)
+http://77.108.82.59:8080/R2/index.m3u8
+#EXTINF:-1 group-title="webcam_int",Murino (RU)
+http://91.202.44.216:8080/cam1/index.m3u8
+#EXTINF:-1 group-title="webcam_int",Murino - Server room (RU)
+http://91.202.44.216:8080/cam22/index.m3u8
+#EXTINF:-1 group-title="webcam_int",New York-Brooklyn Bridge (US) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchKGuCGd726RA
+#EXTINF:-1 group-title="webcam_int",Norway Live (NO)
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 group-title="webcam_int",Nuuk Airport (GL) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchGzj8WhyH2Sg
+#EXTINF:-1 group-title="webcam_int",Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",Rialto Bridge Venice (IT) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchK_Vg94nBiaY
+#EXTINF:-1 group-title="webcam_int",Romania Church (RO)
+http://media.ercis.ro:9999/cmareis/playlist.m3u8
+#EXTINF:-1 group-title="webcam_rus",RU Г/K «Бобровый лог» (Красноярск)
+http://62.213.36.148:1935/live/kkd2-bot.stream/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_rus",RU Екатеринбург - Плотинка HD
+rtmp://80.78.116.125:1935/rtplive/plot_hd.stream
+#EXTINF:-1 group-title="webcam_rus",RUS http://iptv.zone Петрозаводск - Перекресток ул.Чкалова и ул.Чапаева
+http://s2.moidom.karelia.pro/s/public/0000001199.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0212.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000212.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0521.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000521.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0683.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000683.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0969.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000969.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0973.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000973.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 0975.m3u8
+http://s1.moidom.karelia.pro/s/public/0000000975.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1017.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001017.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1037.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001037.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1039.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001039.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1049.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001049.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1097.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001097.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1099.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001099.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1101.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001101.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1109.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001109.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1111.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001111.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1113.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001113.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1147.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001147.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1197.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001197.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1199.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001199.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1201.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001201.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1203.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001203.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1213.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001213.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1235.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001235.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1239.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001239.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1241.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001241.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1265.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001265.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1267.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001267.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1269.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001269.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1271.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001271.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1277.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001277.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1281.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001281.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1283.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001283.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1299.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001299.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1301.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001301.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1307.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001307.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1319.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001319.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1321.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001321.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1327.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001327.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1339.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001339.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1341.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001341.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1345.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001345.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1347.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001347.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1349.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001349.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1351.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001351.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1353.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001353.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1355.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001355.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1357.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001357.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1359.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001359.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1361.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001361.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1363.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001363.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1365.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001365.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1369.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001369.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1379.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001379.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1381.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001381.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1383.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001383.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1385.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001385.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1391.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001391.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1419.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001419.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1425.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001425.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1427.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001427.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1429.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001429.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1431.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001431.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1469.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001469.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1471.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001471.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1531.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001531.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1533.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001533.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1583.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001583.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1591.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001591.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1615.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001615.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS moidom.karelia 1657.m3u8
+http://s1.moidom.karelia.pro/s/public/0000001657.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 0103.m3u8
+http://s2.moidom.karelia.pro/s/public/0000000103.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 0192.m3u8
+http://s2.moidom.karelia.pro/s/public/0000000192.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 0212.m3u8
+http://s2.moidom.karelia.pro/s/public/0000000212.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 0418.m3u8
+http://s2.moidom.karelia.pro/s/public/0000000418.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 1017.m3u8
+http://s2.moidom.karelia.pro/s/public/0000001017.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 1147.m3u8
+http://s2.moidom.karelia.pro/s/public/0000001147.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 1343.m3u8
+http://s2.moidom.karelia.pro/s/public/0000001343.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 1415.m3u8
+http://s2.moidom.karelia.pro/s/public/0000001415.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS s2moidomkarelia 1469.m3u8
+http://s2.moidom.karelia.pro/s/public/0000001469.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Кондопога - Ледовый дворец
+http://s2.moidom.karelia.pro/s/public/0000001049.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Белый кролик
+http://s2.moidom.karelia.pro/s/public/0000001583.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Бумажников ул. - Пролетарская ул.
+http://s2.moidom.karelia.pro/s/public/0000001339.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Варкауса наб. - Мурманская ул.
+http://s1.moidom.karelia.pro/s/public/0000001415.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Верхнее чапаевское кольцо
+http://s2.moidom.karelia.pro/s/public/0000001391.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Гиперборея - пр. Ленина
+http://s2.moidom.karelia.pro/s/public/0000001471.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Дворец Искусств
+http://s2.moidom.karelia.pro/s/public/0000001383.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Детская площадка на Кукковке
+http://s2.moidom.karelia.pro/s/public/0000001101.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Детская площадка на ул.Советов
+http://s2.moidom.karelia.pro/s/public/0000001353.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Детская площадка у Столицы
+http://s1.moidom.karelia.pro/s/public/0000000418.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Древлянское кольцо
+http://s1.moidom.karelia.pro/s/public/0000000192.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Енотовидные собаки в Эколого-биологическом центре
+http://s2.moidom.karelia.pro/s/public/0000000683.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Калинина ул. - Пролетарская ул.
+http://s2.moidom.karelia.pro/s/public/0000001359.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Кафе-клуб Теремок
+http://s2.moidom.karelia.pro/s/public/0000001351.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Комсомольская ул. - М. Горького ул.
+http://s2.moidom.karelia.pro/s/public/0000001385.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Комсомольская ул. - Октябрьское шоссе
+http://s2.moidom.karelia.pro/s/public/0000001363.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Комсомольская ул. - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001349.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Кукковское кольцо
+http://s2.moidom.karelia.pro/s/public/0000001241.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Ледовый дворец Lumi: камера 1
+http://s2.moidom.karelia.pro/s/public/0000001097.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Ледовый дворец Lumi: камера 2
+http://s2.moidom.karelia.pro/s/public/0000001099.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Ледовый дворец Lumi: камера 3
+http://s2.moidom.karelia.pro/s/public/0000001591.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Ленинградская ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001425.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Лыжная ул. - Ровио ул.
+http://s2.moidom.karelia.pro/s/public/0000001239.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Мелентьевой ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001429.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Московская ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001427.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Набережная Онежского озера
+http://s1.moidom.karelia.pro/s/public/0000000103.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Новокирпичная ул. - Бумажников ул.
+http://s2.moidom.karelia.pro/s/public/0000001355.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Октябрьское шоссе - Калинина ул.
+http://s2.moidom.karelia.pro/s/public/0000001361.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Октябрьское шоссе - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001369.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Открытая хоккейная площадка
+http://s2.moidom.karelia.pro/s/public/0000001431.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Памятник О.В.Куусинену
+http://s1.moidom.karelia.pro/s/public/0000000089.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Парковка Лотос Сити
+http://s2.moidom.karelia.pro/s/public/0000001357.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток Первомайского пр. и ул.Ленинградской
+http://s2.moidom.karelia.pro/s/public/0000001201.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.А.Невского и Комсомольского пр.
+http://s2.moidom.karelia.pro/s/public/0000001197.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Александра Невского и ул.Правды
+http://s2.moidom.karelia.pro/s/public/0000000973.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Андропова
+http://s2.moidom.karelia.pro/s/public/0000001301.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Анохина
+http://s2.moidom.karelia.pro/s/public/0000001281.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Антикайнена
+http://s2.moidom.karelia.pro/s/public/0000001277.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Герцена
+http://s2.moidom.karelia.pro/s/public/0000001269.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Дзержинского
+http://s2.moidom.karelia.pro/s/public/0000001307.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Кирова
+http://s2.moidom.karelia.pro/s/public/0000001283.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Куйбышева
+http://s2.moidom.karelia.pro/s/public/0000001299.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток пр.Ленина и ул.Фридриха Энгельса
+http://s2.moidom.karelia.pro/s/public/0000001271.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Анохина и ул.Гоголя
+http://s2.moidom.karelia.pro/s/public/0000001265.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Антикайнена и ул.Гоголя
+http://s2.moidom.karelia.pro/s/public/0000001267.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Антикайнена и ул.Красной
+http://s2.moidom.karelia.pro/s/public/0000001235.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Древлянка и Лесного пр.
+http://s2.moidom.karelia.pro/s/public/0000001203.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Красноармейской и пр.Ленина
+http://s2.moidom.karelia.pro/s/public/0000001039.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Лыжная и ул.Балтийская
+http://s2.moidom.karelia.pro/s/public/0000001379.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Ровио и пр.Комсомольский
+http://s2.moidom.karelia.pro/s/public/0000000969.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Чапаева и ул.Ватутина
+http://s2.moidom.karelia.pro/s/public/0000000975.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Чапаева и ул.Шотмана
+http://s2.moidom.karelia.pro/s/public/0000001319.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекресток ул.Шотмана и пр.Ленина
+http://s2.moidom.karelia.pro/s/public/0000001037.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Перекрёсток пр.Первомайский и ул.Мелентьевой
+http://s2.moidom.karelia.pro/s/public/0000001381.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Пешеходный переход на Лососинском шоссе
+http://s2.moidom.karelia.pro/s/public/0000001213.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Пешеходный переход на ул.Ровио
+http://s2.moidom.karelia.pro/s/public/0000001321.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Площадь Кирова
+http://s1.moidom.karelia.pro/s/public/0000000088.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Площадь Кирова
+http://s2.moidom.karelia.pro/s/public/0000001615.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Площадь Кирова
+http://s2.moidom.karelia.pro/s/public/0000001657.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Площадь Ленина
+http://s2.moidom.karelia.pro/s/public/0000001341.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Площадь Мира
+http://s2.moidom.karelia.pro/s/public/0000001347.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Пролетарская ул. - Октябрьское шоссе
+http://s2.moidom.karelia.pro/s/public/0000001365.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Пролетарская ул. - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001345.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Ротонда на Онежской набережной
+http://s2.moidom.karelia.pro/s/public/0000000521.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Спортивный зал в Доме бокса
+http://s2.moidom.karelia.pro/s/public/0000001113.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Спортивный зал в ТЦ Десяточка
+http://s2.moidom.karelia.pro/s/public/0000001109.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Спортивный зал во Дворце творчества
+http://s2.moidom.karelia.pro/s/public/0000001111.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Стадион Юность
+http://s1.moidom.karelia.pro/s/public/0000000087.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Студенческий бульвар
+http://s2.moidom.karelia.pro/s/public/0000001531.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - ул.Пархоменко - ул.Чапаева
+http://s2.moidom.karelia.pro/s/public/0000001327.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Улица Гвардейская
+http://s2.moidom.karelia.pro/s/public/0000001419.m3u8
+#EXTINF:-1 group-title="webcam_rus",RUS Петрозаводск - Фонтан Молекула
+http://s2.moidom.karelia.pro/s/public/0000001533.m3u8
+#EXTINF:-1 group-title="webcam_int",Schmitten - Zell am See (AT)
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+#EXTINF:-1 group-title="webcam_int",Sochi (RU)
+http://sochi.camera:8080/cam_185/index.m3u8?token=null
+#EXTINF:-1 group-title="webcam_int",Sottomarina (IT) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watch1pf1qjYpHlY
+#EXTINF:-1 group-title="webcam_int",Switzerland (CH)
+https://cdn.livespotting.com/vpu/jsxhx3vx/9chmjag2.m3u8
+#EXTINF:-1 group-title="webcam_int",TR Gaziantep
+http://212.175.206.58:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_int",Valasske Mezirici (CZ)
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int",White Stork (DE) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchK7rjApxYPtQ
+#EXTINF:-1 group-title="webcam_int",Zero Point Levi (FI) YT
+https://linkastream.co/headless?url=https://www.silgitsin.com/watchLwihxyJ4V20
+#EXTINF:-1 group-title="webcam_rus",Артек Кипарисный [Web Camera]
+http://193.238.110.3/9/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Лазурный [Web Camera]
+http://193.238.110.3/7/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Лесной [Web Camera]
+http://193.238.110.3/5/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Морской [Web Camera]
+http://193.238.110.3/1/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Озерный [Web Camera]
+http://193.238.110.3/8/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Речной [Web Camera]
+http://193.238.110.3/6/hls/live.m3u8
+#EXTINF:-1 group-title="webcam_rus",Артек Хрустальный [Web Camera]
+http://193.238.110.3/2/hls/live.m3u8
+#EXTINF:-1 group-title="Webcam China Live 直播中国",全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-中央电视塔东
+http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-八达岭长城南七楼
+http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-南宫温泉休闲度假区
+http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-水立方
+http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-黄花城水长城01
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-黄花城水长城02
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-黄花城水长城03
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",北京-黄花城水长城04
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",天津-天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",天津-天津海河
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-九华山
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-九华山拜经台
+https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-九华山花台
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-宏村月沼
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山光明顶
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山梦笔生花
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",安徽-黟县芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-太平岭
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-开山
+https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-扇子崖
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-拱北日出
+https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山天街
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-玉皇顶东
+https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-白云亭悬崖
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-瞻鲁台
+https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",山东-经石峪
+https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",广东-东莞中心广场
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",广东-丹霞山丹梯铁锁
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",广东-深圳世界之窗
+https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-兴化千垛景区
+https://mlivecncc.v.wscdns.com/mlive/mlive_djy02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-徐州云龙湖观景台南
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-徐州云龙湖观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江苏-无锡鼋头渚长春桥
+https://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8?BR=md&region=beijing
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江西-婺源江岭1号观景台
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江西-婺源江岭2号观景台
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",江西-龙虎山-中间水泡
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-云台山小寨沟
+https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-云台山百家岩
+https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-云台山红石峡
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-云台山茱萸峰
+https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-八里沟天界山玻璃栈道
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-八里沟桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-少林寺广场
+https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",河南-郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-丽水仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-乌镇全景
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-云栖小镇
+https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-千岛湖
+https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",浙江-舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖北-武汉长江大桥
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖北-武汉黄鹤楼
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖北-金丝猴01
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖北-龙王庙
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-凤凰古城南华山
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-十八洞村
+https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-天门山云梦仙顶
+https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-天门山天空步道
+https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-天门山天门洞
+https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-宝峰湖
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-张家界将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-张家界水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-张家界迷魂台
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",湖南-阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",福建-厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",福建-宁德太姥山景区
+https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",福建-武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",福建-漳州六鳌翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",福建-醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",辽宁-沈阳金廊
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="Webcam China Live 直播中国",黑龙江-雪乡梦幻家园
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
