@@ -61,10 +61,30 @@ http://45.148.147.13:8011/play/a038
 http://78.58.133.179:28000/play/a061/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",.Sci-Fi
 http://78.58.133.179:28000/play/a062/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_3837_Sky News
+http://95.141.128.163:8004/play/a0kq
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_506_MTV Europe
+http://95.141.128.163:8004/play/a0k5
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_507_MTV 00s
+http://95.141.128.163:8004/play/a0k9
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_510_MTV 80s
+http://95.141.128.163:8004/play/a0k7
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_511_MTV 90s
+http://95.141.128.163:8004/play/a0k8
+#EXTINF:-1 group-title="RUS+Kazakhstan",0.8_7816_Crime + Investigation
+http://95.141.128.163:8004/play/a0ma
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",000_1011-TELESUR
 http://190.108.83.142:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",001. Setanta Qazaqstan HD
+http://95.141.128.163:8004/play/a0n1
+#EXTINF:-1 group-title="RUS+Kazakhstan",002.Setanta 1 HD
+http://95.141.128.163:8004/play/a0n3
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",002_1078-COMEDI CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",003. Setanta 2 HD
+http://95.141.128.163:8004/play/a0n4
+#EXTINF:-1 group-title="RUS+Kazakhstan",004. Channel 4
+http://95.141.128.163:8004/play/a0fa
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",006_1075-CITY TV
 http://190.108.83.142:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",008_4010-SMART PELICULAS
@@ -139,6 +159,8 @@ http://176.118.42.26:10030/play/0001
 http://176.118.42.26:10030/play/0177
 #EXTINF:-1 group-title="RUS+UKRAINA",1+1 International
 http://176.118.42.26:10030/play/0241
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",1+1 International
+http://109.200.130.124:7003/play/a005
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",1+1 SD
 http://iptv.prosto.tv:7000/ch272/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",1+1 Спорт HD
@@ -307,180 +329,14 @@ https://vs42.vcdn.biz/aabb4d885071375c981c8b4819cef48f_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/fedya_zaycev.mp4
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",121_AXN Black
 http://78.83.191.18:8000/play/a066
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 AZTECA UNO
-http://187.200.251.57:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 C
-http://187.200.251.57:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 CLARO SPORT
-http://187.200.251.57:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 DINSEY XD
-http://187.200.251.57:8000/play/a0cj/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 DISCOVERY ID
-http://187.200.251.57:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 ESTRELLAS
-http://187.200.251.57:8000/play/a0d4/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 FXM
-http://187.200.251.57:8000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 HBO +
-http://187.200.251.57:8000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 HBO 2
-http://187.200.251.57:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 HBO FAMILY
-http://187.200.251.57:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 IMAGEN
-http://187.200.251.57:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 LIFE TIME
-http://187.200.251.57:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 MC
-http://187.200.251.57:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 MULTI PREMIER
-http://187.200.251.57:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 NATGEO LA
-http://187.200.251.57:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 NICK JR
-http://187.200.251.57:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 PARAMOUNT
-http://187.200.251.57:8000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 RT
-http://187.200.251.57:8000/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 SPACE
-http://187.200.251.57:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12253 WARNER
-http://187.200.251.57:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 AZTECA 7
-http://187.200.251.57:8000/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 CANAL 22
-http://187.200.251.57:8000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 cnn
-http://187.200.251.57:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 fox clasiccs
-http://187.200.251.57:8000/play/a0do/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 fox family
-http://187.200.251.57:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 fox sport 3
-http://187.200.251.57:8000/play/a0dk/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 history 2
-http://187.200.251.57:8000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 hola tv
-http://187.200.251.57:8000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 milenio
-http://187.200.251.57:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 natgeo kids
-http://187.200.251.57:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 tbs
-http://187.200.251.57:8000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12297 TNT SERIES
-http://187.200.251.57:8000/play/a0da/index.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",122_FOX
 http://78.83.191.18:8000/play/a05c
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 A&E
-http://187.200.251.57:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 BOOMERAN
-http://187.200.251.57:8000/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 canal 5
-http://187.200.251.57:8000/play/a0fl/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 CARTOON NETWORK
-http://187.200.251.57:8000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 DISCOVERY TURBO
-http://187.200.251.57:8000/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 DISNEY JR
-http://187.200.251.57:8000/play/a0bz/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 ESPN 3
-http://187.200.251.57:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 E¡
-http://187.200.251.57:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 FOX PREMIUM SERIES
-http://187.200.251.57:8000/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 H&H
-http://187.200.251.57:8000/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 HBO
-http://187.200.251.57:8000/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 letra a
-http://187.200.251.57:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 NATGEO WILD
-http://187.200.251.57:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 once
-http://187.200.251.57:8000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 TLC
-http://187.200.251.57:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12399 universal
-http://187.200.251.57:8000/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",123_FOX Life
 http://78.83.191.18:8000/play/a04f
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428  AXN
-http://187.200.251.57:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428  FX
-http://187.200.251.57:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 cine latino
-http://187.200.251.57:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 CINEMAX
-http://187.200.251.57:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 ESPN
-http://187.200.251.57:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 ESPN 2
-http://187.200.251.57:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX ACTION
-http://187.200.251.57:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 fox channel
-http://187.200.251.57:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX CINEMA
-http://187.200.251.57:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX LIFE
-http://187.200.251.57:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX MOVIES
-http://187.200.251.57:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX SPORT
-http://187.200.251.57:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 FOX SPORT 2
-http://187.200.251.57:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12428 HBO XTREME
-http://187.200.251.57:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 ANIMAL PLANET
-http://187.200.251.57:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 D KIDS
-http://187.200.251.57:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 DISNEY CHANNEL
-http://187.200.251.57:8000/play/a0al/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 HISTORY CHANNEL
-http://187.200.251.57:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 MTV
-http://187.200.251.57:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 NICK
-http://187.200.251.57:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 SONY
-http://187.200.251.57:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12472 TNT
-http://187.200.251.57:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12486 DICOVERY CHANNEL
-http://187.200.251.57:8000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",124_FOX Crime
 http://78.83.191.18:8000/play/a04h
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",125_FILMBOX
 http://78.83.191.18:8000/play/a06i
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 A3 SERIES
-http://187.200.251.57:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 ARTS
-http://187.200.251.57:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 BABY TV
-http://187.200.251.57:8000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 COMEDY CENTRAL
-http://187.200.251.57:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 FORMULA NOTICIAS
-http://187.200.251.57:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 HTV
-http://187.200.251.57:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 ISAT
-http://187.200.251.57:8000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 MTV HITS
-http://187.200.251.57:8000/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 STUDIO UNIVERSAL
-http://187.200.251.57:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 SYFY
-http://187.200.251.57:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 VH1
-http://187.200.251.57:8000/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",12661 VIDEO ROLA
-http://187.200.251.57:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",126_FilmBox Plus
 http://78.83.191.18:8000/play/a04r
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",127_Movie Star
@@ -513,6 +369,102 @@ http://78.83.191.18:8000/play/a042
 http://78.83.191.18:8000/play/a05q
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",139_Hobby TV HD
 http://78.83.191.18:8000/play/a06k
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1040_TV1000
+http://95.141.128.163:8004/play/a0ix
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10501_TNT HD
+http://95.141.128.163:8004/play/a04j
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10502_Cartoon Network HD Keys
+http://95.141.128.163:8004/play/a048
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10506_Extreme Sports HD
+http://95.141.128.163:8004/play/a04l
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10507_CBS Europa HD
+http://95.141.128.163:8004/play/a08l
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10511_HBO HD Polska
+http://95.141.128.163:8004/play/a05y
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_10552_Disney Junior_Keys
+http://95.141.128.163:8004/play/a09d
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1060_TV1000 Action HD
+http://95.141.128.163:8004/play/a0iy
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1102_FTV UHD
+http://95.141.128.163:8004/play/a0gj
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1104_MyZen 4K
+http://95.141.128.163:8004/play/a0bw
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_12_Comedy Central HD
+http://95.141.128.163:8004/play/a04q
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_13_Paramount Channel HD Keys
+http://95.141.128.163:8004/play/a0g5
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_14803_Detskiy Mir AU
+http://95.141.128.163:8004/play/a0mx
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_14803_Detskiy Mir Keys
+http://95.141.128.163:8004/play/a0kg
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_14804_Lubimoe Kino
+http://95.141.128.163:8004/play/a0mo
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1500_Epic Drama HD
+http://95.141.128.163:8004/play/a0j3
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_15032_Discovery HD
+http://95.141.128.163:8004/play/a08v
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_15033_nSport+ Keys
+http://95.141.128.163:8004/play/a0a7
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_15037_TVP 1 HD AU
+http://95.141.128.163:8004/play/a0oa
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_15037_TVP 1 HD AU Keys
+http://95.141.128.163:8004/play/a0fr
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_1520_TV1000 World Kino
+http://95.141.128.163:8004/play/a0j8
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_15_MTV Polska HD
+http://95.141.128.163:8004/play/a05x
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_17201_SRF 1 HD
+http://95.141.128.163:8004/play/a0oi
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2006_BBC Brit
+http://95.141.128.163:8004/play/a054
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2021_BBC Lifestyle HD
+http://95.141.128.163:8004/play/a055
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2101_RT HD
+http://95.141.128.163:8004/play/a0fb
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2102_RT Doc HD
+http://95.141.128.163:8004/play/a0fc
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2109_BBC CBeebies
+http://95.141.128.163:8004/play/a0ad
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_2_Nick Music
+http://95.141.128.163:8004/play/a0ls
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3103_Fox Comedy HD
+http://95.141.128.163:8004/play/a04r
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3109_AXN HD
+http://95.141.128.163:8004/play/a04s
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3119_History HD
+http://95.141.128.163:8004/play/a0ac
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3120_CI Polsat HD
+http://95.141.128.163:8004/play/a053
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3506_Discovery Historia Keys
+http://95.141.128.163:8004/play/a0g1
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3508_AXN SPIN HD_Keys
+http://95.141.128.163:8004/play/a09m
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3540_BBC FIRST
+http://95.141.128.163:8004/play/a09l
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3542_BBC Earth HD
+http://95.141.128.163:8004/play/a0g3
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3593_HBO2 HD Polska
+http://95.141.128.163:8004/play/a0a5
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_3594_HBO3 HD Polska
+http://95.141.128.163:8004/play/a0a6
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_4320_Discovery Life Keys
+http://95.141.128.163:8004/play/a058
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_4321_MotorTrend HD Keys
+http://95.141.128.163:8004/play/a0k0
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_4331_HGTV HD
+http://95.141.128.163:8004/play/a057
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_4334_HGTV Italy HD Keys
+http://95.141.128.163:8004/play/a0k1
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_5107_Eleven Sports 1 HD
+http://95.141.128.163:8004/play/a0a8
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_5109_Eleven Sports 2 HD
+http://95.141.128.163:8004/play/a0a9
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_5112_Eleven Sports 3 HD
+http://95.141.128.163:8004/play/a0aa
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_7306_Al Jazeera English HD
+http://95.141.128.163:8004/play/a0fd
+#EXTINF:-1 group-title="RUS+Kazakhstan",13_808_France 24 HD
+http://95.141.128.163:8004/play/a09c
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",14."Опять двойка"
 https://mults.info/mp4/opjat_dvoyka.mp4
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",140_Viasat Explorer
@@ -657,8 +609,6 @@ https://dj0iol4ovl33h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dpu24vd0o32rf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",21 Jump Street
 https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
-#EXTINF:-1 group-title="ENG Great Britain_PLUTO",21 Jump Street
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",21 Mix
 https://t2.tvmak.com/tv/RTV21MIX.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",21 Plus
@@ -849,6 +799,16 @@ https://sc.id-tv.kz/31Kanal.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",31 канал/Алва ТВ
 http://live-alvatv.cdnvideo.ru/alvatv-push/alvatv_720/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",31_7525_Дождь
+http://95.141.128.163:8004/play/a09i
+#EXTINF:-1 group-title="RUS+Kazakhstan",31_7585_NTV MIR
+http://95.141.128.163:8004/play/a09g
+#EXTINF:-1 group-title="RUS+Kazakhstan",31_Discovery _AU
+http://95.141.128.163:8004/play/a01i
+#EXTINF:-1 group-title="RUS+Kazakhstan",31_Eurosport 1 NEE HD Keys AU1
+http://95.141.128.163:8004/play/a0dg
+#EXTINF:-1 group-title="RUS+Kazakhstan",31_Eurosport 2 NEE HD Keys AU2
+http://95.141.128.163:8004/play/a0dh
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",32-е декабря (2004)
 https://vs56.vcdn.biz/7a35fcd44512bfcb10911f1a49c7111b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/252111/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1944656673-b2000000.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",324 (1080p)
@@ -875,6 +835,56 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 https://mults.info/mp4/shakalenok_i_verblud.mp4
 #EXTINF:-1 group-title="RUS+UKRAINA",36 6
 http://176.118.42.26:10030/play/0086
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_104_Индийское Кино
+http://95.141.128.163:8004/play/a0fw
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1109_Че
+http://95.141.128.163:8004/play/a0lu
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_110_Кухня ТВ
+http://95.141.128.163:8004/play/a0c2
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1115_Комедия
+http://95.141.128.163:8004/play/a0lv
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1116_Россия 1 +2
+http://95.141.128.163:8004/play/a0lw
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_12103_HDL
+http://95.141.128.163:8004/play/a0c3
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_12107_МАТЧ! СТРАНА HD
+http://95.141.128.163:8004/play/a0oj
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1311_Звезда
+http://95.141.128.163:8004/play/a0gx
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1326_Мир Баскетбола
+http://95.141.128.163:8004/play/a0gy
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1327_NickToons
+http://95.141.128.163:8004/play/a0gz
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1407_МАТЧ! БОЕЦ HD
+http://95.141.128.163:8004/play/a0oc
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_17105_Viasat Nature/History HD
+http://95.141.128.163:8004/play/a01z
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_17106_Mezzo Live HD
+http://95.141.128.163:8004/play/a0c4
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_17108_Hollywood HD
+http://95.141.128.163:8004/play/a0bu
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1801_Первый канал +2
+http://95.141.128.163:8004/play/a0fx
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1802_HTB +2
+http://95.141.128.163:8004/play/a0fy
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1804_ТНТ +2
+http://95.141.128.163:8004/play/a0fz
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_1821_BRIDGE TV
+http://95.141.128.163:8004/play/a0lr
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_207_Bollywood
+http://95.141.128.163:8004/play/a01o
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_2203_КОННЫЙ МИР HD
+http://95.141.128.163:8004/play/a0fu
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_2205_Дом Кино Премиум HD
+http://95.141.128.163:8004/play/a0bx
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_810_Русский Иллюзион
+http://95.141.128.163:8004/play/a0af
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_811_Иллюзион+
+http://95.141.128.163:8004/play/a0c0
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_821_ Boomerang
+http://95.141.128.163:8004/play/a0hk
+#EXTINF:-1 group-title="RUS+Kazakhstan",36+_824_ Телекафе
+http://95.141.128.163:8004/play/a0lg
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",36."Петух и краски"
 https://mults.info/mp4/petuh_i_kraski.mp4
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",36.6
@@ -927,10 +937,26 @@ https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_STB/variant.m3u8
 http://46.174.83.66/365/mpegts
 #EXTINF:-1 group-title="RUS+Kazakhstan",365 dney
 http://91.185.3.218:4000/play/2077
-#EXTINF:-1 group-title="*TÜRK_DIGER",365 TV
-https://cdn10-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",365 дней ТВ
 http://31.173.178.110:8004/play/a08n/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",36T_34001_ КИНО UHD
+http://95.141.128.163:8004/play/a0n9
+#EXTINF:-1 group-title="RUS+Kazakhstan",36T_34003_ Love Nature 4K
+http://95.141.128.163:8004/play/a0n8
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3001_Russian Extreme HD
+http://95.141.128.163:8004/play/a0nb
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3002_Шокирующее HD
+http://95.141.128.163:8004/play/a0nc
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3003_Комедийное HD
+http://95.141.128.163:8004/play/a0nd
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3004_Еда Премиум
+http://95.141.128.163:8004/play/a0ne
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3006_День Победы HD
+http://95.141.128.163:8004/play/a0nh
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3007_Любимое HD
+http://95.141.128.163:8004/play/a0ng
+#EXTINF:-1 group-title="RUS+Kazakhstan",36Т_3009_AIVA HD
+http://95.141.128.163:8004/play/a0nf
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",37."Чуня"
 https://mults.info/mp4/chunya.mp4
 #EXTINF:-1 group-title="*TÜRK_YEREL",38 KENT TV
@@ -1043,6 +1069,10 @@ http://92.60.237.19:8889/play/ArenaEsport
 http://201.111.25.106:8002/play/a01a/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",42."Верните Рекса"
 https://mults.info/mp4/vernite_reksa.mp4
+#EXTINF:-1 group-title="RUS+Kazakhstan",42_1158_DA Vinci_Keys
+http://95.141.128.163:8004/play/a0fg
+#EXTINF:-1 group-title="RUS+Kazakhstan",42_1161_Trace Urban
+http://95.141.128.163:8004/play/a0fh
 #EXTINF:-1 group-title="RUS+UKRAINA",43 HD
 http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",43."Ровно в три пятнадцать"
@@ -1051,6 +1081,36 @@ https://mults.info/mp4/rovno_v_3_15.mp4
 https://mults.info/mp4/tri_drovoseka.mp4
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",45."Жирафа и очки"
 https://mults.info/mp4/zhirafa_i_ochki.mp4
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_10_1 tv-ganatleba
+http://95.141.128.163:8004/play/a0i1
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_11_Rustavi 2
+http://95.141.128.163:8004/play/a0i3
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_12_Kavkasia
+http://95.141.128.163:8004/play/a0i4
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_13_Comedy Arkhi
+http://95.141.128.163:8004/play/a0i5
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_14_POS TV
+http://95.141.128.163:8004/play/a0i6
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_15_Marneuli TV
+http://95.141.128.163:8004/play/a0i9
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_2_Ajara TV
+http://95.141.128.163:8004/play/a0hu
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_36_ Marao
+http://95.141.128.163:8004/play/a0i8
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_3_Imedi TV
+http://95.141.128.163:8004/play/a0hv
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_4_GDS TV
+http://95.141.128.163:8004/play/a0hw
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_5_Maestro
+http://95.141.128.163:8004/play/a0hx
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_6_TV Pirveli
+http://95.141.128.163:8004/play/a0hy
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_7_Mtavari Arkhi
+http://95.141.128.163:8004/play/a0hz
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_8_Obieqtivi
+http://95.141.128.163:8004/play/a0i0
+#EXTINF:-1 group-title="RUS+Kazakhstan",46_9_TV25
+http://95.141.128.163:8004/play/a0i2
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",47 RONIN
 http://www.deadlyblogger.com/NewRelease/47ronin.mp4
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",47."Огневушка-поскакушка"
@@ -1097,8 +1157,6 @@ http://45.153.35.221:8000/play/a00v/index.m3u8
 http://51.154.28.81:2052/play/a056
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",5 USA
 http://50.7.144.98:4000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",5 канал
-http://212.42.193.122:8888/play/a02l/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",5 Канал
 http://188.113.190.14/5/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",5 канал
@@ -1111,6 +1169,20 @@ https://mults.info/mp4/zajats_koska_i_rodnichok.mp4
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",53395
 http://51.154.28.81:2052/play/a06c
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_307_IN Sport HD
+http://95.141.128.163:8004/play/a0ly
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_307_Q Sport HD
+http://95.141.128.163:8004/play/a0e3
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_322_Q Sport Extra HD
+http://95.141.128.163:8004/play/a0e4
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_325_Q KinoHit
+http://95.141.128.163:8004/play/a0e5
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_326_Q KinoAlem
+http://95.141.128.163:8004/play/a0e6
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_401_UFC HD
+http://95.141.128.163:8004/play/a0ff
+#EXTINF:-1 group-title="RUS+Kazakhstan",58_614_Black
+http://95.141.128.163:8004/play/a0cy
 #EXTINF:-1 group-title="Amerika_Canada",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Canada",5AAB TV (720p)
@@ -1207,6 +1279,22 @@ http://201.111.25.106:8001/play/a00q/index.m3u8
 https://mults.info/mp4/kak_griby_s_goroxom_voevali.mp4
 #EXTINF:-1 group-title="RUSVOD_1 MIX",713-й просит посадку (1962)
 https://vs49.vcdn.biz/e68942b7fa1d3b888e39a5f2125f9875_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/320411/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid455133790-b1500000.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_ UFC HD
+http://95.141.128.163:8004/play/a0av
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_1293_Eurosport 4K
+http://95.141.128.163:8004/play/a0n7
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_1446_Discovery ULTRA
+http://95.141.128.163:8004/play/a0n6
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_31_BRIDGE Fresh
+http://95.141.128.163:8004/play/a0od
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_Regional FOX HD
+http://95.141.128.163:8004/play/a01l
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_Regional NG WILD HD
+http://95.141.128.163:8004/play/a01n
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_Regional NGC HD
+http://95.141.128.163:8004/play/a01k
+#EXTINF:-1 group-title="RUS+Kazakhstan",75_Russkiy Roman HD
+http://95.141.128.163:8004/play/a0aq
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",7D7 TV
 http://7d7tv.cdn-04.cosmonova.net.ua/hls/7d7tv_ua_hi/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",7D7TV
@@ -1261,6 +1349,42 @@ https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",80s Moviesᴴᴰ
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1112_Детский
+http://95.141.128.163:8004/play/a0lm
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1113_Доктор
+http://95.141.128.163:8004/play/a0oe
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1219 Мир Сериала
+http://95.141.128.163:8004/play/a09x
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1223 Fashion HD
+http://95.141.128.163:8004/play/a09w
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1225 Родное Кино
+http://95.141.128.163:8004/play/a09y
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1305_Моя Планета HD
+http://95.141.128.163:8004/play/a0de
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1314_BRIDGE TV Русский Хит
+http://95.141.128.163:8004/play/a0aj
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1320_Еврокино
+http://95.141.128.163:8004/play/a0ai
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1405 Глазами Туриста HD
+http://95.141.128.163:8004/play/a023
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1406 iConcerts HD
+http://95.141.128.163:8004/play/a09v
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1406 Живая Природа HD
+http://95.141.128.163:8004/play/a024
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1603_Plan B HD
+http://95.141.128.163:8004/play/a0lj
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_1617 НТВ Сериал
+http://95.141.128.163:8004/play/a00w
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_307_ Киносемья HD
+http://95.141.128.163:8004/play/a0ay
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_413_ТНТ (+4)
+http://95.141.128.163:8004/play/a0lp
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_501_ C Music
+http://95.141.128.163:8004/play/a0df
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_711_Домашний
+http://95.141.128.163:8004/play/a0js
+#EXTINF:-1 group-title="RUS+Kazakhstan",85_904_ Первый Канал HD (+4)
+http://95.141.128.163:8004/play/a0g0
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",86 Канал (Сургут)
 https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 group-title="Amerika_COSTA RICA",88 Stereo
@@ -1309,6 +1433,16 @@ http://221.120.204.4/92-NEWS-LOCKLE/index.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",99FM RADIO1
 http://62.212.82.208:8000/stream
+#EXTINF:-1 group-title="RUS+Kazakhstan",9_5200_TLC Balkans HD
+http://95.141.128.163:8004/play/a0mm
+#EXTINF:-1 group-title="RUS+Kazakhstan",9_5300_Discovery Central Europe HD
+http://95.141.128.163:8004/play/a0mh
+#EXTINF:-1 group-title="RUS+Kazakhstan",9_5400_Animal Planet Europe HD
+http://95.141.128.163:8004/play/a0ml
+#EXTINF:-1 group-title="RUS+Kazakhstan",9_5500_ID: Investigation Discovery HD
+http://95.141.128.163:8004/play/a0me
+#EXTINF:-1 group-title="RUS+Kazakhstan",9_5700_Discovery Science HD
+http://95.141.128.163:8004/play/a0mb
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",9Gem
 https://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",9Gem
@@ -1437,6 +1571,8 @@ http://31.173.178.110:8004/play/a07k/index.m3u8
 http://dmitry-tv.ml/hls/CH_AMEDIAI.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",A1
 https://89.106.234.4/A1_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",A1
+http://109.200.130.124:7006/play/a02j
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",A1 HD
 http://stream.a1mediagroep.eu/hls/a1tv.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",A1 HD
@@ -1453,6 +1589,8 @@ http://31.173.178.110:8004/play/a07l/tracks-v1a1/index.m3u8
 https://livex458745.livestreamlive.xyz/a2.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",A2
 https://89.106.234.4/A2_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",A2
+http://109.200.130.124:7006/play/a02k
 #EXTINF:-1 group-title="RUS+Kazakhstan",A2 (576p) [Not 24/7]
 https://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",A21 Network
@@ -2835,6 +2973,8 @@ http://31.173.178.110:8004/play/a07m/index.m3u8
 http://dmitry-tv.ml/hls/CH_AMEDIAHIT.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",AMedia Hit
 https://89.106.234.4/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",AMEDIA HIT
+http://109.200.130.124:7006/play/a02l
 #EXTINF:-1 group-title="RUS+Kazakhstan",Amedia Hit (1080p) [Not 24/7]
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",Amedia Hit HD
@@ -2853,8 +2993,12 @@ http://188.113.190.14/140/video.m3u8
 http://31.173.178.110:8004/play/a0br/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",AMEDIA Premium
 http://31.173.178.110:8004/play/a0br/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Amedia Premium
+http://109.200.130.124:7006/play/a02m
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Amedia Premium HD
 http://31.173.178.110:8004/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Amedia Premium HD
+http://109.200.130.124:7002/play/a014
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",AMEN RADIO
 http://stream2.emisorasvirtuales.com:8144/;
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",America (720p) [Not 24/7]
@@ -2903,8 +3047,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 group-title="Lesbian",Amirah.Adara.Red.Fox.Tiffany.Tatum.And.Angelika.Lesbian.Orgy.mp4
-http://eviptv.com/lesb/Amirah.Adara.Red.Fox.Tiffany.Tatum.And.Angelika.Lesbian.Orgy.mp4
 #EXTINF:-1 group-title="Arabic_ARAPCA",Amman TV
 http://2.138.228.74:7005/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Amman TV (720p)
@@ -2921,8 +3063,6 @@ https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 group-title="webcam_int",Amsterdam (NL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchyST7Ux0ypUM
 #EXTINF:-1 group-title="EU_Italy_TVPLUS",AMUSE ANIMATION
 https://2fc68d114219486eb49e5d7ac3189dbb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_AmuseAnimation/playlist.m3u8?ads.wurl_channel=650&ads.wurl_name=AmuseAnimation&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="EU_France_TVPLUS",AMUSE ANIMATION
@@ -2993,6 +3133,8 @@ http://185.129.1.242:80/animalplanet/mpegts
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Animal Planet
 http://201.182.242.135:12000/play/a019/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Animal Planet
+http://109.200.130.124:7006/play/a00v
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Animal Planet (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Animal Planet ENG HD
@@ -3017,6 +3159,8 @@ http://187.49.191.6:8080/play/a011/index.m3u8
 http://119.156.26.155:8000/play/a078
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Animal Planet HD
 http://190.6.202.166:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Animal Planet HD
+http://109.200.130.124:7001/play/a003
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Animal Planet HD (English)
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_HD&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Animal Planet Hindi HD
@@ -3165,8 +3309,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://139.99.96.93:1935/anutv/anutv/mono.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",AnwarTV2
 http://2.138.228.74:7006/play/a045/index.m3u8
-#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ANZOA TV
-http://vcp1.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Music",AOA - Excuse Me
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
 #EXTINF:-1 group-title="ASIA_Music",AOA Mini skart
@@ -3735,6 +3877,8 @@ http://deadlyblogger.com/NewRelease/avenger2018.webm
 http://dl2.svdl.ir/Film/KH/2018/Avengers.Infinity.War.2018.BluRay.720p.x265.RMT.mkv
 #EXTINF:-1 group-title="RUS+UKRAINA",AVERS
 http://176.118.42.26:10030/play/0102
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",AVERS
+http://109.200.130.124:7003/play/a00l
 #EXTINF:-1 group-title="*TÜRK_MUZIK",aviva
 https://yayin.santraltr.com/hls/vivatv.m3u8
 #EXTINF:-1 group-title="Amerika_Honduras",Aviva TV (1080p)
@@ -4279,8 +4423,6 @@ http://50.7.144.98:4000/play/a0ds/index.m3u8
 http://185.157.161.141:22222/play/a01s
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",BBC Four
 http://50.7.144.98:4000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",BBC Four FHD
-http://50.7.144.98:4000/play/a0cj/index.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",BBC Life - s01e01 Challenges of Life (2009)
 https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e01.Challenges.of.Life.2009.HDTV.720p.x264.AC3.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",BBC Life - s01e02 Reptiles and Amphibians (2009)
@@ -4517,6 +4659,8 @@ http://190.6.202.166:8000/play/a022/index.m3u8
 http://84.22.33.214/bbc/index.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",BBC World News
 http://80.164.71.194:6565/play/bbcworddk
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",BBC World News
+http://109.200.130.124:7000/play/a00w
 #EXTINF:-1 group-title="03INT_MIX",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA_1",BBC World News (eng)
@@ -4657,8 +4801,6 @@ http://94.236.145.205:8000/play/a01s
 http://cdn8.video.az/storage/movie/12/11861/video.mp4
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",BENDICION TV
 https://59825a54e4454.streamlock.net:8443/manuel284/manuel284/chunklist_w1921287165.m3u8
-#EXTINF:-1 group-title="ASIA_Indonesia",Bengkulu TV
-http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER/1",BENGÜ TÜRK
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 group-title="*TÜRKÇE_Filmler",Benim Adım Feridun (2016)
@@ -5177,6 +5319,8 @@ http://iptv.prosto.tv:7000/ch61/video.m3u8
 https://sc.id-tv.kz/bollywood_hd
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",bollywood HD
 https://89.106.234.4/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Bollywood HD
+http://109.200.130.124:7002/play/a01a
 #EXTINF:-1 group-title="RUS+Kazakhstan",Bollywood HD [Not 24/7]
 https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Bolt
@@ -5221,8 +5365,6 @@ http://201.111.25.106:8000/play/a06j/index.m3u8
 http://190.107.20.94:8000/play/a00b
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Boomerang
 http://79.114.34.202:8000/play/a01x
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Boomerang
-http://212.42.193.122:8888/play/a014/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Boomerang
 http://217.21.34.160:7003/boomerang
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Boomerang
@@ -5237,6 +5379,8 @@ http://185.157.161.141:22222/play/a06r
 http://190.6.202.166:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",Boomerang
 http://80.164.71.194:6565/play/bomerang
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Boomerang
+http://109.200.130.124:7006/play/a01e
 #EXTINF:-1 group-title="RUS+UKRAINA",Boomerang (HU)
 http://176.118.42.26:10030/play/0144
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BOOMERANG FHD
@@ -5333,22 +5477,18 @@ https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8807f46b11c0007b800a9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ENG Great Britain_TVPLUS",Bridezillas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00366-runtimeammo-bridezillas-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",BRIDGE HD
+http://109.200.130.124:7001/play/a007
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Bridge TV
 http://178.163.37.161:4022/udp/234.0.0.180:2000
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Bridge TV
-http://81.23.184.187:4022/udp/234.0.0.180:2000?zi/
 #EXTINF:-1 group-title="01Music_MÜZİK",Bridge TV (480p)
 http://ott-cdn.ucom.am/s34/index.m3u8$OPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Bridge TV Classic
-http://81.23.184.187:4022/udp/234.0.0.223:2000?zi/
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",BRIDGE TV Deluxe HD
 http://213.226.137.133:81/tl/l322/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",BRIDGE TV HITS
 http://31.173.178.110:8004/play/a05y/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",BRIDGE TV Русский Хит
 http://31.173.178.110:8004/play/a061/index.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Bridge TV Русский Хит
-http://81.23.184.187:4022/udp/234.0.0.179:2000?zi/
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",BRiDGE TV Шлягер
 http://188.113.190.14/137/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",BridgeTV
@@ -5869,8 +6009,6 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 https://algochivo.com:1936/canal11/canal11/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_DOMINICAN REPUBLIC",Canal 12 (480p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",CANAL 12 HD
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w2130800709.m3u8
 #EXTINF:-1 group-title="Amerika_PANAMA",Canal 12 HD
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Canal 12 Puerto Madryn
@@ -6113,8 +6251,6 @@ https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",CANAL 9 HD (D)
 http://80.164.71.194:6565/play/canal9dkdk
-#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 9 RIO CUARTO
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Honduras",Canal 9 TeleDanlí (720p)
@@ -6485,6 +6621,8 @@ http://119.156.26.155:8000/play/a05s
 http://201.182.242.135:12000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",Cartoon Network
 http://80.164.71.194:6565/play/cartonnetwork
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Cartoon Network
+http://109.200.130.124:7006/play/a00w
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Cartoon Network (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Cartoon Network (HU)
@@ -6871,8 +7009,6 @@ https://playout4multirtmp.tulix.tv/live8/Stream1/chunklist_w1946922006.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/chunks.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",CELESTE CHANNEL.
 https://video01.logicahost.com.br/guatuso/guatuso/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA_Indonesia",Celestial Movies (480p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",CEM RADYO
 https://yayin2.canliyayin.org:10924/;stream.mp3
 #EXTINF:-1 group-title="*TÜRK_DIGER",CEM TV
@@ -6921,6 +7057,8 @@ http://live.cgtn.com/500/prog_index.m3u8
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 group-title="Arabic_ARAPCA",CGTN
 http://2.138.228.74:7005/play/a02f/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",CGTN
+http://109.200.130.124:7000/play/a00p
 #EXTINF:-1 group-title="ASIA_China_ÇİN",CGTN (432p)
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN",CGTN (576p)
@@ -7829,8 +7967,6 @@ https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",CLASSICLAND
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
-#EXTINF:-1 group-title="Lesbian",Clea.Gaultier.And.Mariska.Lesbian.Pleasures.mp4
-http://eviptv.com/lesb/Clea.Gaultier.And.Mariska.Lesbian.Pleasures.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Clear and Present Danger
 https://cloclo14.cloud.mail.ru/videowl/0p/MlZ3dy83QXJYcTJDaVE=.m3u8?double_encode=1
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Clear and present danger
@@ -8023,6 +8159,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500
 http://213.226.137.133:81/tl/l24/mpegts
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",CNN International
 http://80.164.71.194:6565/play/cnninternacional
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",CNN International
+http://109.200.130.124:7000/play/a00v
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNN INTL
@@ -8561,8 +8699,12 @@ http://46.174.83.66/CTC/mpegts
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",CTC Kids HD
 http://31.173.178.110:8004/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",CTC Kids HD
+http://109.200.130.124:7002/play/a015
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",CTC Love
 http://31.173.178.110:8004/play/a09o/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",CTC Love
+http://109.200.130.124:7007/play/a007
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",CTC md
 http://77.89.204.105:8001/play/a01b/index.m3u8
 #EXTINF:-1 group-title="03INT_MIX",CTN
@@ -8677,8 +8819,6 @@ https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",D-CODE 96.2
 http://s15.myradiostream.com:13980/;
-#EXTINF:-1 group-title="EU_France_FRANSA",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Da Vinci
@@ -9703,6 +9843,8 @@ http://31.173.178.110:8004/play/a07a/index.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=86&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Discovery Channel
 http://201.182.242.135:12000/play/a018/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Discovery Channel
+http://109.200.130.124:7006/play/a00x
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Discovery Channel (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Discovery Channel (HU)
@@ -9717,6 +9859,8 @@ http://201.111.25.106:8000/play/a054/index.m3u8
 http://187.49.191.6:8080/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Discovery Channel HD
 http://190.6.202.166:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Discovery Channel HD
+http://109.200.130.124:7004/play/a015
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",DISCOVERY CHANNEL HD1
 http://45.148.147.13:8010/play/a00c
 #EXTINF:-1 group-title="Amerika_USA * TEST",Discovery en Espanol
@@ -9823,6 +9967,8 @@ https://marine2.miplay.cl/science/mono.m3u8
 http://119.156.26.155:8000/play/a07k
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Discovery Science
 http://201.111.25.106:8002/play/a00i/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Discovery Science
+http://109.200.130.124:7007/play/a00b
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",Discovery Science (NO/SE/DK)
 http://195.222.7.26:7001/play/a02d
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",DISCOVERY SCIENCE FHD
@@ -10839,14 +10985,6 @@ http://195.155.98.170:5858/play/a0b7
 https://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Ege Türk
 https://iptv.egeturk.tv/iptv/canliyayin/chunklist_w1989788996.m3u8
-#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Bad Egmond (NL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchVfVOZ1ailwc
-#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Boulevard (NL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchL2obWMdThDg
-#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Pompplein (NL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watch58C6PBg9mkI
-#EXTINF:-1 group-title="webcam_int",Egmond aan Zee - Strandafgang (NL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchguULTauXDlA
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Egyptian TV HD
@@ -11011,8 +11149,6 @@ https://tinyurl.com/y7aykewx
 http://stream.electroradio.ch:26630
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Electronic
 https://tinyurl.com/yaasw3je
-#EXTINF:-1 group-title="Lesbian",Elegantangel.Lesbian.Performers.Of.The.Year.2019..mp4
-http://eviptv.com/lesb/Elegantangel.Lesbian.Performers.Of.The.Year.2019..mp4
 #EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Elevation
@@ -11083,8 +11219,6 @@ https://tinyurl.com/yzlxj7c7
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Elvis Presley
 https://tinyurl.com/ydzl3hwc
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ElW
-http://hls.goodgame.ru:80/hls/152922.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ELWATANIA TV ALGERIA
 http://2.138.228.74:7001/play/a0ei/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Em TV (486p)
@@ -11173,8 +11307,6 @@ http://176.118.42.26:10030/play/0242
 http://176.118.42.26:10030/play/0258
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Enter-фільм
 http://iptv.prosto.tv:7000/ch54/video.m3u8
-#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Enter10 Rangeela (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0tp/index.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Entertainment Tonight (1080p)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 group-title="EU_Spain_PLUTO",Entre Nosotras
@@ -11275,24 +11407,10 @@ https://radyo.akyuznet.com.tr/radio/8160/radio.mp3
 https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",EROTIKOS 94.8
 http://eu9.fastcast4u.com:5282/;
-#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT 1 (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT 2 (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT 3 (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT News (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ERT RODOS
 http://radiostreaming.ert.gr/ert-rodos
 #EXTINF:-1 group-title="*TÜRK_YEREL",Ert Sah TV
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",ERT Sports (1080p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",ERT Sports 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",ERT Sports 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",ERT TV
 https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist_w2051378804.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT WORLD
@@ -11747,14 +11865,14 @@ https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/
 https://97f90ef61a6244789817737a9e99c01b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_EuroNewsLive/playlist.m3u8?ads.wurl_channel=547&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Euronews Português (720p)
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Euronews RU
+http://109.200.130.124:7000/play/a00f
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Europa HD
 http://201.111.25.106:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Europa HD
 http://187.49.191.6:8080/play/a018/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Europa HD
 http://190.6.202.166:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Europa Plus
-http://81.23.184.187:4022/udp/234.0.0.183:2000?zi/
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",European League of Football TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d311f85b07a400088a8f39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DE_SCHWEIZ_TVPLUS",European League of Football TV
@@ -11781,6 +11899,8 @@ http://51.154.28.81:2052/play/a0bn
 http://31.173.178.110:8004/play/a0bz/index.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",Eurosport 1 HD
 http://185.157.161.141:22222/play/a02v
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",EUROSPORT 1 HD
+http://109.200.130.124:7002/play/a012
 #EXTINF:-1 group-title="RUS+Kazakhstan",Eurosport 2
 http://91.185.3.218:4000/play/322
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Eurosport 2
@@ -11937,6 +12057,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.
 http://58.65.171.202:8000/play/10506
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Extreme Sports
 http://31.173.178.110:8004/play/a05f/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Extreme Sports
+http://109.200.130.124:7000/play/a00a
 #EXTINF:-1 group-title="EU_NL_BE",Extreme Sports Channel
 http://185.157.161.141:22222/play/a079
 #EXTINF:-1 group-title="EU_Slovakia-Sloveina+HU+CZ+RO",Extreme Sports Channel
@@ -12253,8 +12375,6 @@ https://radiocp.from-dc.com:1515/stream
 http://176.118.42.26:10030/play/0172
 #EXTINF:-1 group-title="EU_Slovakia-Sloveina+HU+CZ+RO",Fem3 HU
 http://185.216.167.18:5555/play/a03z
-#EXTINF:-1 group-title="Lesbian",Femalefaketaxi.Female.Lesbian.Cabbies.Get.Downright.Dirty.mp4
-http://eviptv.com/lesb/Femalefaketaxi.Female.Lesbian.Cabbies.Get.Downright.Dirty.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Fences
 http://198.144.157.127:1935/redirect/ondemand-1/_definst_/mp4:path2/MOVIES.2016/2016.FENCES.ENG.mp4?type=m3u8
 #EXTINF:-1 group-title="*TÜRK_SPOR",Fenerbahçe TV (FBTV) (480p)
@@ -12783,8 +12903,6 @@ http://www.deadlyblogger.com/NewRelease/fourb.mp4
 http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
 #EXTINF:-1 group-title="ASIA_Music",Four Ladies-Move
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Fox
-http://212.42.193.122:8888/play/a03h/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",FOX
 http://31.173.178.110:8004/play/a05i/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",FOX
@@ -12793,6 +12911,8 @@ http://dmitry-tv.ml/hls/CH_FOX.m3u8
 http://176.118.42.26:10030/play/0036
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",FOX
 http://190.6.202.166:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",FOX
+http://109.200.130.124:7000/play/a00g
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",FOX 10 Phoenix AZ (KZAS) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",FOX 11 Los Angeles CA (KTTV) (720p)
@@ -12877,6 +12997,8 @@ http://176.118.42.26:10030/play/0198
 http://190.6.202.166:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Fox Life
 http://201.182.242.135:12000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Fox Life
+http://109.200.130.124:7006/play/a00z
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Fox Life ENG HD
 http://195.201.82.32:5001/play/a007
 #EXTINF:-1 group-title="RUS+Kazakhstan",Fox Life HD
@@ -14011,8 +14133,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",GRACIA TV
 http://190.107.20.94:8000/play/a04w
-#EXTINF:-1 group-title="webcam_int",Gran Canaria Irish center (ES) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchMXqKk4WEhsE
 #EXTINF:-1 group-title="03INT_MIX",Grand Lille TV
 http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Grand Lille TV HD
@@ -14635,6 +14755,8 @@ http://91.185.3.218:4000/play/142
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",HDL
 https://89.106.234.4/hdl_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",HDL
+http://109.200.130.124:7004/play/a013
 #EXTINF:-1 group-title="RUS+Kazakhstan",HDL [Not 24/7]
 https://sc.id-tv.kz/hdl.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ_TVPLUS",Health TV
@@ -14663,8 +14785,6 @@ https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Hell's Kitchen
 https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
-#EXTINF:-1 group-title="ENG Great Britain_PLUTO",Hell's Kitchen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Spain_PLUTO",Hell's Kitchen en Español
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",HELLAS FM
@@ -14973,6 +15093,8 @@ http://31.173.178.110:8004/play/a0bs/index.m3u8
 http://iptv.prosto.tv:7000/ch157/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Hollywood
 http://31.173.178.110:8004/play/a0bs/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Hollywood
+http://109.200.130.124:7006/play/a02n
 #EXTINF:-1 group-title="01Music_MÜZİK",Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Hollywood HD
@@ -15149,8 +15271,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",HRT Akdeniz
 https://ankara.tvizlehd.com/live/hrttv.m3u8
-#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Hrvatski Radio Karlovac (HR)
-https://5b57bb229a2e6.streamlock.net/live/_definst_/karlovac/playlist.m3u8
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA_LOKAL",HSE (1080p)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA_1",HSE24
@@ -15177,6 +15297,8 @@ http://195.245.97.133:8800/play/NTV/index.m3u8
 http://31.173.178.110:8004/play/a05r/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",HTB HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntv
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",HTB HD
+http://109.200.130.124:7001/play/a002
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",HTV 1 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",HTV 2 - Houston Television (720p)
@@ -15867,6 +15989,8 @@ http://31.173.178.110:8004/play/a0bh/index.m3u8
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1840
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Investigation Discovery
 http://119.156.26.155:8000/play/a06k
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Investigation Discovery
+http://109.200.130.124:7006/play/a010
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_TVPLUS",InWild
@@ -16631,8 +16755,6 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 group-title="Amerika_HAITI",Kajou TV (480p)
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalai isai
-http://51.79.207.150:1935/kalai/kalaiisai/mono.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar Chithiram
@@ -16737,8 +16859,6 @@ https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
 http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Kanal 34 (720p)
 https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_YEREL",Kanal 38
-https://59cba4d34b678.streamlock.net/live/kanal38/chunklist_w1906550147.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",KANAL 38
 https://59cba4d34b678.streamlock.net/live/kanal38/chunklist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Kanal 38 (576p)
@@ -16795,8 +16915,6 @@ https://broadcasttr.com:446/kanala/bant1/chunklist_w343770598.m3u8?hash=2ed19746
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_YEREL",Kanal B
-https://mn-nl.mncdn.com/blutv_kanalb2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Kanal B (480p)
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",KANAL D
@@ -17367,8 +17485,6 @@ http://38.96.148.39:8846/;stream.mp3
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="*TÜRKÇE_Filmler",Korku Komedi: Bana Normal Aktiviteler (2016)
 http://cdn8.video.az/storage/movie/12/12495/video.mp4
-#EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Korça +
-http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Koza TV
 https://ankara.tvizlehd.com/live/kozatv.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",KOZAN FM
@@ -18057,30 +18173,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed80fa09f120007c8da
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60549d97cd7b090007c73314/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_France_PLUTO",Les Nouveaux Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lesbian",Lesbian.Anal.Workout2.mp4
-http://eviptv.com/lesb/Lesbian.Anal.Workout2.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Analingus.13.mp4
-http://eviptv.com/lesb/Lesbian.Analingus.13.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Encounters.2.mp4
-http://eviptv.com/lesb/Lesbian.Encounters.2.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Encounters.mp4
-http://eviptv.com/lesb/Lesbian.Encounters.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Games.mp4
-http://eviptv.com/lesb/Lesbian.Games.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.House.Hunters.18.mp4
-http://eviptv.com/lesb/Lesbian.House.Hunters.18.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Interracial.2.mp4
-http://eviptv.com/lesb/Lesbian.Interracial.2.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Milf.Doctors.mp4
-http://eviptv.com/lesb/Lesbian.Milf.Doctors.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Performers.Of.The.Year.2019.mp4
-http://eviptv.com/lesb/Lesbian.Performers.Of.The.Year.2019.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Psychodramas.mp4
-http://eviptv.com/lesb/Lesbian.Psychodramas.mp4
-#EXTINF:-1 group-title="Lesbian",Lesbian.Sexual.Healing.2019.mkv
-http://eviptv.com/lesb/Lesbian.Sexual.Healing.2019.mkv
-#EXTINF:-1 group-title="Lesbian",Lesbianx.Emily.Willis.And.Lexi.Lore.Super.Cute.Anal.Gapers.mp4
-http://eviptv.com/lesb/Lesbianx.Emily.Willis.And.Lexi.Lore.Super.Cute.Anal.Gapers.mp4
 #EXTINF:-1 group-title="03INT_MIX",LeSEA Broadcasting Network (USA)
 http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Let's Play Minecraft
@@ -18383,8 +18475,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e0b2b870001a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 group-title="webcam_int",LOS300 (NO) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchtsOEL9HJLTk
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",LOTPLUS TV
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/chunklist_w312187882.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",LotPlus TV (Chiclayo) (720p) [Not 24/7]
@@ -18589,8 +18679,6 @@ http://app.m4stream.live/mfourmalayalamhls/live.m3u8
 http://176.118.42.26:10030/play/0149
 #EXTINF:-1 group-title="03INT_MIX",M4 TV
 http://5a32c05065c79.streamlock.net:1935/live/stream/chunklist.m3u8
-#EXTINF:-1 group-title="03INT_MIX",M4TV
-https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",m5 (HU)
 http://176.118.42.26:10030/play/0162
 #EXTINF:-1 group-title="EU_Slovakia-Sloveina+HU+CZ+RO",m5 HD
@@ -18801,8 +18889,6 @@ http://i.mjh.nz/nz/tv.13.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master_iPad720p.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",Maori TV (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Mar TV
-http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Marah FM (720p) [Not 24/7]
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",MARAŞ SULTAN RADYO
@@ -18907,8 +18993,6 @@ http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/ind
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",Matkanalen (NO)
 http://195.222.7.26:7001/play/a00o
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",MATЧ! ТВ (Россия 2 - Спорт)
-http://212.42.193.122:8888/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Maury (1080p)
 https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",Mav TV
@@ -19321,6 +19405,8 @@ http://iptv.prosto.tv:7000/ch139/video.m3u8
 https://89.106.234.4/mezzo_34_35.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",Mezzo
 http://185.157.161.141:22222/play/a074
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Mezzo
+http://109.200.130.124:7000/play/a00r
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Mezzo Life HD
 https://89.106.234.4/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Mezzo Live HD
@@ -19827,8 +19913,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6081648340382e0007f73d
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",MOSTANAD (720p)
 https://sdm.telewebion.com/live/mostanad/playlist.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",MostVideo TV
-http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MostvideoTV
 http://iptv.prosto.tv:7000/ch119/video.m3u8
 #EXTINF:-1 group-title="EU_Italy_TVPLUS",Motor1TV
@@ -20117,6 +20201,8 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1854
 http://176.118.42.26:10030/play/0094
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",MTV
 http://201.111.25.106:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV
+http://109.200.130.124:7006/play/a012
 #EXTINF:-1 group-title="Amerika_USA * TEST",MTV (Alternate)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1729
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",MTV (SE)
@@ -20139,6 +20225,8 @@ http://94.236.145.205:8000/play/a02j
 http://188.113.190.14/146/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV 80s
 http://213.226.137.133:81/tl/l108/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV 80s
+http://109.200.130.124:7006/play/a02q
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",MTV 90s
 http://94.236.145.205:8000/play/a02n
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV 90s
@@ -20255,6 +20343,8 @@ http://tecnotv.club/matrix/principal.php?c=117&f=.m3u8
 http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",MTV Live HD
 http://185.157.161.141:22222/play/a00i
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV Live HD
+http://109.200.130.124:7005/play/a00e
 #EXTINF:-1 group-title="EU_Spain_PLUTO",MTV Love Music
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="01Music_MÜZİK",MTV Music 24 (Free from akamaihd.net!)
@@ -20347,6 +20437,8 @@ http://201.182.242.135:12000/play/a03u/index.m3u8
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1857
 #EXTINF:-1 group-title="Amerika_USA * TEST",MTV2 (West)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1858
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",MTV90
+http://109.200.130.124:7006/play/a015
 #EXTINF:-1 group-title="RUS+UKRAINA",MTVLive HD
 http://176.118.42.26:10030/play/0165
 #EXTINF:-1 group-title="RUS_Региональные Regional",MTVmix
@@ -20625,8 +20717,6 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c5
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",My5 GP's
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="EU_France_FRANSA",MyComedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",MYKONOS FM 98.1
 http://radio.streamings.gr:8007/stream
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Mylene Farmer
@@ -20697,8 +20787,6 @@ http://arifozbey.com:8000/radyogozlem.ogg
 http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Vietnam",Một Thể ThaoTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",N TV
-http://51.79.158.179:1935/ntv/live/mono.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",n TV (US Eastern)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA_1",n-tv
@@ -20873,6 +20961,8 @@ http://187.49.191.6:8080/play/a02u/index.m3u8
 http://190.6.202.166:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Nat Geo Wild
 http://201.111.25.106:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Nat Geo Wild
+http://109.200.130.124:7000/play/a00h
 #EXTINF:-1 group-title="RUS+UKRAINA",Nat Geo Wild (HU)
 http://176.118.42.26:10030/play/0054
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Nat Geo Wild (NGW)
@@ -20897,6 +20987,8 @@ http://79.114.34.202:8000/play/a031
 http://185.157.161.141:22222/play/a01h
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NAT Geo Wild HD
 http://119.156.26.155:8000/play/a06f
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Nat Geo Wild HD
+http://109.200.130.124:7002/play/a019
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",NAT GEO WILD HD1
 http://45.148.147.13:8010/play/a01u
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Nat Geo Wild Hindi HD
@@ -20951,6 +21043,8 @@ http://187.49.191.6:8080/play/a02c/index.m3u8
 http://176.118.42.26:10030/play/0081
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",National Geographic
 http://190.6.202.166:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",National Geographic
+http://109.200.130.124:7006/play/a016
 #EXTINF:-1 group-title="Arabic_ARAPCA",National Geographic Abu Dhabi
 http://2.138.228.74:7003/play/a06t
 #EXTINF:-1 group-title="Arabic_ARAPCA",National Geographic Abu Dhabi (1080p)
@@ -20969,6 +21063,8 @@ http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",National Geographic HD
 http://119.156.26.155:8000/play/a06r
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",National Geographic HD
+http://109.200.130.124:7002/play/a013
 #EXTINF:-1 group-title="03INT_MIX",National Geographic Vietnam Subs
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",National Geographic Wild HD
@@ -21265,8 +21361,6 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1867
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=03fab75a9287d0b2dd1aaca726d9d06ad2f64e769
 #EXTINF:-1 group-title="*TÜRKÇE_Filmler",Nerede Bulunurlar (2016)
 http://cdn10.video.az/storage/movie/11/11614/video.mp4
-#EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Neser TV
-https://nesertv.live/ntv/livestream/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",NESN National (1080p)
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Net TV
@@ -21329,8 +21423,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmo
 http://bit.ly/2N6lxn9
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",New York
 https://tinyurl.com/yf3tk7y9
-#EXTINF:-1 group-title="webcam_int",New York-Brooklyn Bridge (US) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchKGuCGd726RA
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",New York: Albany (STIRR) (720p)
 https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",New York: Rochester
@@ -21339,8 +21431,6 @@ https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
 https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
 #EXTINF:-1 group-title="03INT_MIX",News 12
 https://lnc-news12.tubi.video/primary/5.m3u8
-#EXTINF:-1 group-title="ISRAEL_İsrail",NEWS 12 Feed - Events
-http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 group-title="ISRAEL_İsrail",NEWS 12 Main - Nightly
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 group-title="03INT_MIX",News 12 New York
@@ -21693,6 +21783,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://185.157.161.141:22222/play/a07d
 #EXTINF:-1 group-title="RUS+UKRAINA",Nick Jr.
 http://176.118.42.26:10030/play/0085
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Nick Jr.
+http://109.200.130.124:7006/play/a017
 #EXTINF:-1 group-title="Amerika_USA * TEST",Nick Jr. (East)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1871
 #EXTINF:-1 group-title="Amerika_USA * TEST",Nick Jr. (West)
@@ -21789,10 +21881,10 @@ http://iptv-telik.usite.pro/load/0-0-1-125-20
 http://185.157.161.141:22222/play/a037
 #EXTINF:-1 group-title="RUS+UKRAINA",Nickelodeon HD
 http://176.118.42.26:10030/play/0178
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Nickelodeon HD
+http://109.200.130.124:7005/play/a00i
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Nickelodeon-ext
 http://201.182.242.135:12000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",nickelodeonhd
-http://45.161.188.242:88/nickhd/mono.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",nickjr
 http://45.161.188.242:88/nickjr/mono.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",NickMusic
@@ -22285,8 +22377,6 @@ https://n10101m.mediatriple.net/trrap
 https://n10101m.mediatriple.net/musiki
 #EXTINF:-1 group-title="ASIA_Indonesia",Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-#EXTINF:-1 group-title="webcam_int",Nuuk Airport (GL) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchGzj8WhyH2Sg
 #EXTINF:-1 group-title="Amerika_USA * LOCALS",NV | Henderson | FOX KVVU
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1427
 #EXTINF:-1 group-title="Amerika_USA * LOCALS",NV | Las Vegas | CBS KLAS
@@ -22363,6 +22453,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 http://188.113.190.14/136/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",O!
 http://31.173.178.110:8004/play/a07b/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",O!
+http://109.200.130.124:7006/play/a011
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",O-TV
 http://iptv.prosto.tv:7000/ch133/video.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",O-TV
@@ -23231,6 +23323,8 @@ http://31.173.178.110:8004/play/a05n/index.m3u8
 http://iptv.prosto.tv:7000/ch203/video.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Paramount Channel
 http://176.118.42.26:10030/play/0056
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Paramount Channel
+http://109.200.130.124:7000/play/a00m
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PARAMOUNT CHANNEL HD
 http://45.148.147.13:8000/play/a013
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",PARAMOUNT CHANNEL HD
@@ -23241,8 +23335,6 @@ http://45.148.147.13:8000/play/a014
 http://45.148.147.13:8000/play/a015
 #EXTINF:-1 group-title="RUS+Kazakhstan",Paramount Comedy
 http://91.185.3.218:4000/play/420
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Paramount Comedy
-http://212.42.193.122:8888/play/a01w/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Paramount Comedy
 http://31.173.178.110:8004/play/a05l/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Paramount Comedy
@@ -23251,6 +23343,8 @@ http://iptv.prosto.tv:7000/ch60/video.m3u8
 http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Paramount Comedy
 http://176.118.42.26:10030/play/0261
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Paramount Comedy
+http://109.200.130.124:7000/play/a00j
 #EXTINF:-1 group-title="03INT_MIX",Paramount Comedy HD
 http://myott.top/stream/DIPK8H19CP8/196.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Paramount HD
@@ -23729,10 +23823,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc11
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Spain_PLUTO",Pluto TV 007 en Español
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV 21 Jump Street
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV 21 Jump Street (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV 70s Cinema (684p)
@@ -24355,12 +24445,6 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Conspiracy (480p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Cookalong
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="ENG Great Britain_PLUTO",Pluto TV Cookalong
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Cookalong (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV COPS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Cops (720p)
@@ -24807,10 +24891,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Health (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Hell's Kitchen
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Hell's Kitchen (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV HER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",Pluto TV HER
@@ -24902,17 +24982,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV IMPACT Wrestling (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Indies
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Indies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce40e59246a395e9758923e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="ENG Great Britain_PLUTO",Pluto TV Indies
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA  PLUTO",Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce40e59246a395e9758923e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Spain_PLUTO",Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Indies (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Inside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="DE_OSTERREICH_TVPLUS",Pluto TV Inside
@@ -25400,13 +25474,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Nature
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Nature
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_USA PLUTO",Pluto TV Nature
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA  PLUTO",Pluto TV Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="ENG Great Britain_PLUTO",Pluto TV Nature
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_France_PLUTO",Pluto TV Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DE_SCHWEIZ PLUTO",Pluto TV Nature
@@ -28051,8 +28121,6 @@ http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RAP HOME
 https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8
-#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Rapsodia TV
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF:-1 group-title="AFRICA_AFRIKA",RASD TV Sáhara
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",RATATOUILLE
@@ -28669,8 +28737,6 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1505
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1506
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",Rialto (1080p)
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="webcam_int",Rialto Bridge Venice (IT) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchK_Vg94nBiaY
 #EXTINF:-1 group-title="ASIA_Indonesia",Riau TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Ribalka i Ohota
@@ -29015,10 +29081,6 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",RT UK (1080p)
 https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
-#EXTINF:-1 group-title="EU_Italia_ITALYA",RTC Telecalabria (576p) [Not 24/7]
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 group-title="EU_Italia_ITALYA",RTC Telecalabria (576p) [Not 24/7]
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",RTCG Montenegro
 http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Rte One HD
@@ -29029,6 +29091,8 @@ http://50.7.144.98:4000/play/a0d1/index.m3u8
 http://51.210.1.13:18000/rtg/hls/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",RTG HD
+http://109.200.130.124:7004/play/a018
 #EXTINF:-1 group-title="03INT_MIX",RTG TV
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",RTG TV
@@ -29163,8 +29227,6 @@ http://91.185.3.218:4000/play/303
 http://201.182.242.135:12000/play/a034/index.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",RTS HD
-https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 group-title="AFRICA_AFRIKA",RTS1
 http://51.210.1.13:18000/rts1/hls/playlist.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",RTSH 1
@@ -29729,8 +29791,6 @@ http://www1.mvpds.site/assets/files/2020/Rush%20Hour%202%20(2001)%20(BluRay)%20(
 http://www2.mvpds.site/assets/files/2021/Rush%20Hour%203%20(2007)%20(BRRip)%20(PC%20HD%20Full%20Movie).mp4
 #EXTINF:-1 group-title="RUS+Kazakhstan",Russia 24
 http://91.185.3.218:4000/play/602
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Russia Today
-http://212.42.193.122:8888/play/a02w/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Russia1
 http://46.174.83.66/Russia1/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Russia24
@@ -29745,8 +29805,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.
 http://46.174.83.66/Illusion+/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Russian JahrMarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Russian Travel Guide HD
-http://212.42.193.122:8888/play/a03q/index.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Russian Travel Guide Int
 http://94.236.145.205:8000/play/a00x
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Russian! Radio
@@ -31045,6 +31103,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 http://31.173.178.110:8004/play/a06d/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Sony Sci-Fi
 http://iptv.prosto.tv:7000/ch205/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Sony Sci-Fi
+http://109.200.130.124:7000/play/a00x
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sony Set HD
 http://195.201.82.32:5001/play/a022
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sony Six HD
@@ -31063,6 +31123,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 http://31.173.178.110:8004/play/a06e/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Sony Turbo
 http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Sony Turbo
+http://109.200.130.124:7000/play/a00y
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SONY TV HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SONY WAH
@@ -31089,8 +31151,6 @@ http://185.216.167.18:5555/play/a049
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Sorozat+ (HU)
 http://176.118.42.26:10030/play/0121
-#EXTINF:-1 group-title="webcam_int",Sottomarina (IT) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watch1pf1qjYpHlY
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Soulful House
 https://tinyurl.com/ybm33av4
 #EXTINF:-1 group-title="Arabic_ARAPCA",Souryana
@@ -32223,8 +32283,6 @@ https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
 http://194.76.186.77:8090/play/a00x
 #EXTINF:-1 group-title="DE_Deutsch_ALMANCA_1",SWR RP HD
 http://194.76.186.77:8090/play/a00y
-#EXTINF:-1 group-title="Lesbian",Sybil.And.Stacy.Bloom.Threesome.After.Lesbian.Fun.mp4
-http://eviptv.com/lesb/Sybil.And.Stacy.Bloom.Threesome.After.Lesbian.Fun.mp4
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",SyFy
 http://200.229.147.16:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",SYFY
@@ -32517,6 +32575,8 @@ http://2.138.228.74:7003/play/a06w
 http://cdn4.video.az/storage/movie/12/12742/video.mp4
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",TB 1000 Русское кино
 http://31.173.178.110:8004/play/a05a/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TB 1000 Русское кино
+http://109.200.130.124:7000/play/a005
 #EXTINF:-1 group-title="ASIA_Korea_KORE",TBC 대구 (SBS 大邱) (540p) [Geo-blocked]
 http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",TBD
@@ -33043,8 +33103,6 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
 https://diretta.teleterni.it/live/stream_src.m3u8
 #EXTINF:-1 group-title="Amerika_COSTA RICA",Teletica 7 (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",TELETICA CANAL 7 HD
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54FxE3vAXy4dHn0DVsFeVXM)/dm/3/x29e3wg/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",TeleToledo (720p) [Not 24/7]
 https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",teletrak
@@ -33159,8 +33217,6 @@ http://195.155.98.170:5858/play/a0as
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/adecf7be-6790-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="DE_SCHWEIZ_TVPLUS",Tempora
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e72be09a-7b34-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="02Sports_SPOR",Ten 1 Backup
-http://208.86.19.21/711.stream/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",TEN 10 hD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ten 2 HD
@@ -33171,8 +33227,6 @@ http://195.201.82.32:5001/play/a038
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w982424886_b1248000
 #EXTINF:-1 group-title="Amerika_Honduras",TEN Canal 10 (720p)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",Ten Sports
-http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",TeN TV
 http://2.138.228.74:7004/play/a09f
 #EXTINF:-1 group-title="02Sports_SPOR",TEN1
@@ -33873,6 +33927,8 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Thrillerz
 https://simultv.s.llnwi.net/o059/Thrillerz/interlink.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",THT HD
+http://109.200.130.124:7001/play/a008
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",THT MUSIC
 http://31.173.178.110:8004/play/a09j/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",THT4
@@ -33923,8 +33979,6 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 http://188.40.68.167/russia/tiji/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 group-title="EU_Greek_YUNANCA",Tilemousiki (720p) [Not 24/7]
-http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",TIM HD
 http://194.242.100.24:6666
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Time Line (720p)
@@ -34015,6 +34069,8 @@ http://45.161.188.242:88/tlc/mono.m3u8
 http://195.155.98.170:5858/play/a0a6
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",TLC
 http://190.6.202.166:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TLC
+http://109.200.130.124:7006/play/a018
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",TLC (DK)
 http://195.222.7.26:7001/play/a00g
 #EXTINF:-1 group-title="Amerika_USA * TEST",TLC (East)
@@ -34047,6 +34103,8 @@ http://195.155.98.170:5858/play/a0a5
 http://185.157.161.141:22222/play/a01b
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TLC HD
 http://119.156.26.155:8000/play/a06m
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TLC HD
+http://109.200.130.124:7002/play/a016
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",TLC HD (NO)
 http://195.222.7.26:7001/play/a00f
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",TLC HD (SE)
@@ -35025,6 +35083,8 @@ http://94.236.145.205:8000/play/a00k
 http://iptv.prosto.tv:7000/ch46/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",TV 1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/480p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TV 1000
+http://109.200.130.124:7000/play/a003
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TV 1000 Action
 http://dmitry-tv.ml/hls/CH_TV1000ACTION.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",TV 1000 Action
@@ -35035,6 +35095,8 @@ http://iptv.prosto.tv:7000/ch47/video.m3u8
 http://195.245.97.133:8800/play/TVAction_HLS/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",TV 1000 Action
 http://176.118.42.26:10030/play/0047
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TV 1000 Action
+http://109.200.130.124:7000/play/a004
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",TV 1000 World Kino HD
@@ -35313,8 +35375,6 @@ http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Tv J. Sid
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TV Jadran (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Japi | BR
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8
 #EXTINF:-1 group-title="EU_Slovakia-Sloveina+HU+CZ+RO",TV JOJ HD #5.3
@@ -35583,8 +35643,6 @@ http://45.148.147.13:8002/play/a072/index.m3u8
 http://tiquiciatv.com:1935/tvtica/web/chunklist_w1802027102.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Tribuna Santos
 http://200.4.97.162:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="RUS+Kazakhstan",TV TRWAM
-http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="EU_Polski_POLONYA",TV Trwam (480p)
 https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
 #EXTINF:-1 group-title="EU_Slovakia",TV Turzovka
@@ -35903,8 +35961,6 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1278619934.m3u8
 http://190.6.202.166:8000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",TVE
 http://201.111.25.106:8002/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",TVE Bahia (720p) [Not 24/7]
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",TVE LA 1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=198&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TVE RS (1080p) [Not 24/7]
@@ -36049,8 +36105,6 @@ https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtp
 https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Canada",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVO TOCOPILLA
-http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",TvOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 group-title="ASIA_Indonesia",TVOne
@@ -36209,8 +36263,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 https://rds3.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TVS Boxing (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",TVS CANAL 22 DE TODOS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",TVS Cipher Network (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",TVS Classic Movies (360p)
@@ -37135,6 +37187,8 @@ http://185.216.167.18:5555/play/a207
 http://176.118.42.26:10030/play/0204
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",VH1 Classic
 http://190.6.202.166:8000/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",VH1 Classic
+http://109.200.130.124:7006/play/a019
 #EXTINF:-1 group-title="EU_Spain_PLUTO",VH1 Classics
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Spain_PLUTO",VH1 Classics
@@ -37143,6 +37197,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007
 http://31.173.178.110:8004/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",VH1 European
 http://176.118.42.26:10030/play/0205
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",VH1 European
+http://109.200.130.124:7006/play/a01a
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",VH1 HD
 http://45.148.147.13:8002/play/a06m/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",VH1 HD
@@ -37171,6 +37227,8 @@ http://iptv.prosto.tv:7000/ch85/video.m3u8
 http://213.226.137.133:81/tl/l94/mpegts
 #EXTINF:-1 group-title="RUS+UKRAINA",Viasat Explore
 http://176.118.42.26:10030/play/0049
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Explore
+http://109.200.130.124:7000/play/a006
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Viasat Explore HD
 http://79.114.34.202:8000/play/a05n
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Explore HD
@@ -37179,6 +37237,8 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Golf
+http://109.200.130.124:7000/play/a00k
 #EXTINF:-1 group-title="RUS+Kazakhstan",Viasat History
 http://91.185.3.218:4000/play/323
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Viasat History
@@ -37193,6 +37253,8 @@ http://185.129.1.242:80/viasathistory/mpegts
 http://213.226.137.133:81/tl/l95/mpegts
 #EXTINF:-1 group-title="RUS+UKRAINA",Viasat History
 http://176.118.42.26:10030/play/0050
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat History
+http://109.200.130.124:7000/play/a007
 #EXTINF:-1 group-title="RUS+UKRAINA",Viasat History (HU)
 http://176.118.42.26:10030/play/0210
 #EXTINF:-1 group-title="03INT_MIX",Viasat History HD
@@ -37215,6 +37277,8 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 http://213.226.137.133:81/tl/l96/mpegts
 #EXTINF:-1 group-title="RUS+UKRAINA",Viasat Nature
 http://176.118.42.26:10030/play/0051
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Nature
+http://109.200.130.124:7000/play/a008
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Viasat Nature HD
 http://79.114.34.202:8000/play/a04z
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Nature HD
@@ -37235,6 +37299,8 @@ http://iptv.prosto.tv:7000/ch163/video.m3u8
 http://213.226.137.133:81/tl/l97/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Sport
 http://78.58.133.179:28000/play/a125/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Viasat Sport
+http://109.200.130.124:7000/play/a009
 #EXTINF:-1 group-title="RUS+UKRAINA",VIASAT Sports
 http://176.118.42.26:10030/play/0052
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ViasatExplorer
@@ -37813,8 +37879,6 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
-#EXTINF:-1 group-title="webcam_int",White Stork (DE) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchK7rjApxYPtQ
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",WHO FRAMED ROGGER RABIT
 http://www.deadlyblogger.com/NewRelease/framed.mp4
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",WHOH TV - Hastings-On-Hudson - NY (360p)
@@ -38079,8 +38143,6 @@ https://vs42.vcdn.biz/335a93a722ffb6a505df08474ec8100e_megogo/vod/hls/b/450_900_
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 group-title="03INT_MIX",WTV Canal 20 (720p)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="DE_Deutsch_ALMANCA_LOKAL",WTV Wettin
-http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",WTVD TV News (720p)
 https://api.abcotvs.com/v3/wtvd/m3u8/url?id=563661&key=yuemix
 #EXTINF:-1 group-title="Amerika_USA_PLEX",Wu Tang Collection
@@ -38197,8 +38259,6 @@ https://www.deadlyblogger.com/NewRelease/xmen2.mp4
 http://51.154.28.81:2052/play/a06u
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Xpanded TV2
 http://51.154.28.81:2052/play/a06r
-#EXTINF:-1 group-title="Amerika_*Latino MIX 1",XPERTV
-https://stream-02.nyc.dailymotion.com/sec(SyZYkGipT6ryQqDrbZs7JbfX9173q3kt1_Xio9koSuA)/dm/3/x2hfbst/s/live-0.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Xplore
@@ -38657,8 +38717,6 @@ http://eco.onestreaming.com:8023/;
 http://46.20.4.34/radyoland/zenland.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ZENLAND
 https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
-#EXTINF:-1 group-title="webcam_int",Zero Point Levi (FI) YT
-https://linkastream.co/headless?url=https://www.silgitsin.com/watchLwihxyJ4V20
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",Zerouno TV (720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ZEROUNO TV HD
@@ -38973,8 +39031,6 @@ http://avers.pp.ua/hls/efir.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",Авто Плюс
 http://91.185.3.218:4000/play/29
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Авто плюс
-http://212.42.193.122:8888/play/a01z/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Авто Плюс
 http://213.226.137.133:81/tl/l105/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Авто Плюс
@@ -39097,6 +39153,8 @@ https://tinyurl.com/ya3vujg7
 https://tinyurl.com/yjo5fhqa
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",АРМЕНИЯ ТВ
 http://31.173.178.110:8004/play/a05k/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",АРМЕНИЯ ТВ
+http://109.200.130.124:7000/play/a00i
 #EXTINF:-1 group-title="webcam_rus",Артек Кипарисный [Web Camera]
 http://193.238.110.3/9/hls/live.m3u8
 #EXTINF:-1 group-title="webcam_rus",Артек Лазурный [Web Camera]
@@ -39173,8 +39231,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Астрахань.Ru TV (1080p)
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1 group-title="RUSVOD_1 MIX",Атака титанов. Фильм второй: Конец света (2015)
-https://vs43.vcdn.biz/9d9dde49481fdb65930b7d353d5595ec_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34467021/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid327528319-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Атака титанов. Фильм первый: Жестокий мир (2015)
 https://vs50.vcdn.biz/22da407ade49ed43e058ef6d9e8de20a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34355791/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1487805335-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",АТВ (Ставрополь)
@@ -39369,6 +39425,8 @@ https://vs16.vcdn.biz/8c6e0385c9126d8dd77154e42a689e25_megogo/vod/hls/b/450_900_
 http://213.226.137.133:81/tl/l112/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",БОБЁР
 http://31.173.178.110:8004/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",БОБЁР
+http://109.200.130.124:7006/play/a02g
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Богатая невеста (1937)
 https://vs22.vcdn.biz/5be26cf8bd8b23eec16e17d91fb28b36_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/236951/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2111877932-b1500000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Боги Египта (2016)
@@ -39737,6 +39795,8 @@ http://a3569458168-rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/playlist.m
 https://vs803.vcdn.biz/97ef014812f7c575b8fd8d1a8aa9480a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/48492611/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid952475045-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Время: далекое и близкое
 http://31.173.178.110:8004/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Время: далекое и близкое
+http://109.200.130.124:7006/play/a01c
 #EXTINF:-1 group-title="RUS+UKRAINA",Все включено/Премьера
 https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Все оттенки Токио
@@ -40065,6 +40125,8 @@ https://tinyurl.com/yhguftho
 https://tinyurl.com/yztnb37p
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Детский
 http://31.173.178.110:8004/play/a09s/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Детский
+http://109.200.130.124:7007/play/a00d
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Детский Мир
 http://31.43.48.248:7000/ch75/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Детский Мир
@@ -40191,6 +40253,8 @@ https://vs819.vcdn.biz/59aff6b4b91cbf239b9915a33555691a_megogo/vod/hls/b/450_900
 http://212.42.193.122:8888/play/a023/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Дом Кино
 http://31.173.178.110:8004/play/a07f/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Дом Кино
+http://109.200.130.124:7006/play/a01d
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Дом Кино 17
 https://iptvdom.my1.ru/load/0-0-1-264-20
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Дом кино Премиум
@@ -40205,6 +40269,8 @@ http://188.113.190.14/91/video.m3u8
 http://213.226.137.133:81/tl/l75/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Дом Кино Премиум HD
 http://213.226.137.133:81/tl/l75/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Дом Кино Премиум HD
+http://109.200.130.124:7001/play/a006
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Дом который построил Джек (2018)
 https://vs40.vcdn.biz/62f26770f69e92f745fb1cc29d670eab_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71774661/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1586980108-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Дом напротив (2016)
@@ -40215,12 +40281,16 @@ https://vs35.vcdn.biz/27c0556620bf6cf095fd30b144b28397_megogo/vod/hls/b/450_900_
 https://vs37.vcdn.biz/a90c9051c90d0e2717479485815ffdca_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/7609751/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid890959655-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",домашние животные
 http://31.173.178.110:8004/play/a05g/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ДОМАШНИЕ ЖИВОТНЫЕ
+http://109.200.130.124:7000/play/a00d
 #EXTINF:-1 group-title="RUS+UKRAINA",Домашний
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ДОМАШНИЙ
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Домашний
 http://78.58.133.179:28000/play/a209/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Домашний
+http://109.200.130.124:7007/play/a01c
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Домашний (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Домашний (Москва)
@@ -40631,6 +40701,8 @@ https://vs16.vcdn.biz/e2585487795137d598dd8c50ce3d5b2e_megogo/vod/hls/b/450_900_
 http://31.173.178.110:8004/play/a06k/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Иллюзион+
 http://185.129.1.242:80/illuzion/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Иллюзион+
+http://109.200.130.124:7006/play/a014
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Иллюзия обмана 2 (2016)
 https://vs55.vcdn.biz/5212840df10a6e2b18e12ab9faa2d45e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34342041/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid549124674-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Имеретинские эскизы (1979)
@@ -40845,6 +40917,8 @@ http://212.42.193.122:8888/play/a01l/index.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Карусель
 http://msk3.peers.tv/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Карусель
+http://109.200.130.124:7006/play/a01f
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Карусель (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Карусель (+4)
@@ -40889,8 +40963,6 @@ http://178.163.37.161:4022/udp/234.0.0.233:2000
 https://mults.info/mp4/kele.mp4
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Киборги (2017)
 https://vs47.vcdn.biz/29bd526489baba412a6378550919ee3e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/60921651/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid215068295-b2000000.m3u8
-#EXTINF:-1 group-title="RUS+UKRAINA",Киев ТВ HD
-http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Киллеры (2010)
 https://vs58.vcdn.biz/065dee3f017d738a14a8b1487224d39a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/495941/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid913323690-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Кин-дза-дза! 1 серия (1986)
@@ -40909,6 +40981,8 @@ http://msk3.peers.tv/streaming/kino24/126/copy/playlist.m3u8
 https://webcams.ks.ua/hls/skifija.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",КИНО 24
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",КИНО ТВ
+http://109.200.130.124:7007/play/a00f
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",КИНО ТВ HD
 http://31.173.178.110:8004/play/a09u/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Кино1 VHS
@@ -40939,6 +41013,8 @@ http://212.42.193.122:8888/play/a009/index.m3u8
 http://213.226.137.133:81/tl/l303/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Кинопремьера HD
 http://213.226.137.133:81/tl/l303/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",КИНОПРЕМЬЕРА HD
+http://109.200.130.124:7004/play/a011
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",киносат
 http://37.17.12.119:8907/play/a007
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Киносат
@@ -41033,6 +41109,8 @@ https://tinyurl.com/ye3kdjvg
 https://vs818.vcdn.biz/7855794d7dcc7606b42997f1dac68bc2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58103541/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1198596551-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Комедия
 http://31.173.178.110:8004/play/a09v/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Комедия
+http://109.200.130.124:7007/play/a00g
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Комедия (576p) [Not 24/7]
 http://188.40.68.167/russia/komediya/playlist.m3u8
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Комедия ТВ
@@ -41063,6 +41141,8 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/index.m3u8
 http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Конный Мир [HQ]
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?ws_sport
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",КОННЫЙ МИР HD
+http://109.200.130.124:7001/play/a004
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Корабль призрак (2014)
 https://vs21.vcdn.biz/d29461911d966ce62ff8bda523603432_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1370295141-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Кориолан (2011)
@@ -41353,6 +41433,8 @@ https://vs15.vcdn.biz/d726845a042e401c50ab68a3d7da1bb0_megogo/vod/hls/b/450_900_
 https://vs51.vcdn.biz/a47435eed98ed3555a363c3bb3a9e7d3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17786441/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1989243892-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Любимое Кино
 http://31.173.178.110:8004/play/a06l/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Любимое Кино
+http://109.200.130.124:7007/play/a019
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Любимое ТВ
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_6.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Любимый HD/ТНТ4
@@ -41403,8 +41485,6 @@ https://vs50.vcdn.biz/ad1b81c1af25d3a09d9027298837aae2_megogo/vod/hls/b/450_900_
 https://vs55.vcdn.biz/b9f8c0ad12c8bb87ce3c78585c7ed6ae_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/9856371/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/6/type.amlst/chunklist-sid174340805-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Любэ
 https://tinyurl.com/yfuc7kam
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Ля-минор
-http://212.42.193.122:8888/play/a01g/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Лягушка-путешественница
 https://mults.info/mp4/ljagushka_puteshestvennitsa.mp4
 #EXTINF:-1 group-title="RUS+UKRAINA",М Студио
@@ -41455,6 +41535,8 @@ http://iptv.prosto.tv:7000/ch76/video.m3u8
 http://hls.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Мама
 http://31.173.178.110:8004/play/a05m/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Мама
+http://109.200.130.124:7000/play/a00l
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Мама дарагая! (2014)
 https://vs39.vcdn.biz/3a3b363154fea5750763a5a745f18132_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/32903271/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/1/type.amlst/chunklist-sid133825068-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Мама для мамонтенка
@@ -41485,12 +41567,12 @@ http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 http://31.173.178.110:8004/play/a09f/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ ПРЕМЬЕР HD
 https://s11.federal.tv:8082/gpm/mpremier/playlist.m3u8?wmsAuthSign=md5hash
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ ПРЕМЬЕР HD
+http://109.200.130.124:7005/play/a00d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ СТрана HD
+http://109.200.130.124:7004/play/a017
 #EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ ТВ
 http://178.163.95.38:4022/udp/234.0.0.204:2000
-#EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ ТВ
-http://94.19.220.168:81/udp/239.239.1.66:5239
-#EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ ТВ HD
-http://94.19.220.168:81/udp/239.239.3.34:5239
 #EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ ТВ!
 http://195.245.97.133:8800/play/Match/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Матч!
@@ -41505,6 +41587,8 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://188.113.190.14/167/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Матч! HD
 http://213.226.137.133:81/tl/l320/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! HD
+http://109.200.130.124:7001/play/a005
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Арена
 https://s11.federal.tv:8082/gpm/marenasd/playlist.m3u8?wmsAuthSign=md5hash
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Матч! Арена
@@ -41513,6 +41597,8 @@ http://188.113.190.14/97/video.m3u8
 http://31.173.178.110:8004/play/a094/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Арена HD
 https://s11.federal.tv:8082/gpm/marena/playlist.m3u8?wmsAuthSign=md5hash
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! АРЕНА HD
+http://109.200.130.124:7004/play/a014
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Боец
 http://178.163.95.38:4022/udp/234.0.0.6:2000
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Боец
@@ -41535,10 +41621,10 @@ http://188.113.190.14/142/video.m3u8
 http://31.173.178.110:8004/play/a096/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Матч! Игра HD
 http://213.226.137.133:81/tl/l304/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! ИГРА HD
+http://109.200.130.124:7004/play/a012
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Планета
 http://37.17.12.119:8907/play/a00k?token=gelow74
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Матч! Планета
-http://212.42.193.122:8888/play/a03i/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Матч! Премьер HD
 http://213.226.137.133:81/tl/l74/mpegts
 #EXTINF:-1 group-title="RUS+UKRAINA",МАТЧ! СТРАНА
@@ -41565,12 +41651,16 @@ https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 https://s11.federal.tv:8082/gpm/football1/playlist.m3u8?wmsAuthSign=md5hash
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",МАТЧ! ФУТБОЛ 1 HD
 https://185-198-56-56.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! ФУТБОЛ 1 HD
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Матч! Футбол 2
 http://188.113.190.14/176/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",МАТЧ! ФУТБОЛ 2
 http://31.173.178.110:8004/play/a099/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Футбол 2 HD
 https://s11.federal.tv:8082/gpm/football2/playlist.m3u8?wmsAuthSign=md5hash
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! ФУТБОЛ 2 HD
+http://109.200.130.124:7005/play/a00b
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Матч! Футбол 3
 http://188.113.190.14/177/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",МАТЧ! ФУТБОЛ 3
@@ -41581,6 +41671,8 @@ http://myott.top/stream/DIPK8H19CP8/185.m3u8
 http://185.129.1.242:80/matchfutbol3hd/mpegts
 #EXTINF:-1 group-title="RUS+UKRAINA",Матч! Футбол 3 HD
 https://s11.federal.tv:8082/gpm/football3/playlist.m3u8?wmsAuthSign=md5hash
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МАТЧ! ФУТБОЛ 3 HD
+http://109.200.130.124:7005/play/a00c
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Матч-реванш
 https://mults.info/mp4/match_revansh.mp4
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Маугли
@@ -41695,6 +41787,8 @@ http://212.42.193.122:8888/play/a01c/index.m3u8
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Мир сериала
 http://31.173.178.110:8004/play/a06j/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Мир сериала
+http://109.200.130.124:7007/play/a01a
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Мирабела в Транзистории 1988г.
 https://mults.info/mp4/marija_mirabela_v_tranzistorii.mp4
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Мисс миллионерша (1988)
@@ -41771,6 +41865,8 @@ http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Мосфильм. Золотая Коллекция
 http://78.58.133.179:28000/play/a027/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Мосфильм. Золотая Коллекция
+http://109.200.130.124:7007/play/a018
 #EXTINF:-1 group-title="RUS+UKRAINA",МОТВ HD
 http://stream.motoradio.online:8000/high-mp3
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",МОТВ HD
@@ -41779,6 +41875,8 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8?%7CUser-agent=mx
 https://vs41.vcdn.biz/4f880512102f1665c3726605b6b8e5b2_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84815091/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid403941324-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Моторспорт ТВ
 http://31.173.178.110:8004/play/a0by/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Моторспорт ТВ
+http://109.200.130.124:7000/play/a00z
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Моторспорт.ТВ
 http://188.113.190.14/220/video.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Моя Анфиса (1979)
@@ -41893,8 +41991,8 @@ http://autopilot.catcast.tv/content/37739/index.m3u8
 https://tinyurl.com/ybbqpoqp
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Музыка Первого
 http://31.173.178.110:8004/play/a07h/index.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Музыка Первого
-http://81.23.184.187:4022/udp/234.0.0.182:2000?zi/
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Музыка Первого
+http://109.200.130.124:7006/play/a01g
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Музыка футбола
 https://tinyurl.com/y9qp5qoy
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Музыкальная шкатулка (2018)
@@ -42035,8 +42133,6 @@ https://vs56.vcdn.biz/0e8722b3215896aa3c822de980a43d30_megogo/vod/hls/b/450_900_
 https://tinyurl.com/y8zcpdog
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",НАШ Спорт
 http://212.42.193.122:8888/play/a01b/index.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Наш футбол
-http://212.42.193.122:8888/play/a012/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Наша Russia: Яйца судьбы (2010)
 https://vs19.vcdn.biz/e4c9d8dc923c0e36ce51a5745047708e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87981/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid994866842-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Наша Сибирь (1080p) [Offline]
@@ -42271,8 +42367,6 @@ https://vs55.vcdn.biz/94b9f81bd283ce414220a756c5e9a653_megogo/vod/hls/b/450_900_
 https://vs17.vcdn.biz/fc1dff2d852d645338a9e0fb42e7ab66_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38097271/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid252929408-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Ностальгическое
 https://tinyurl.com/yz33sokk
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Ностальгия
-http://212.42.193.122:8888/play/a01k/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Ностальгия
 http://74.102.118.117:8812/udp/127.0.0.1:5312
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Ночная смена (2018)
@@ -42291,6 +42385,8 @@ https://plbl.m9.lfstrm.tv/nctv/normal/1/index.m3u8
 http://31.173.178.110:8004/play/a0be/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",НСТ
 https://89.106.234.4/NSTV_34_35.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",НСТ
+http://109.200.130.124:7006/play/a00y
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",НТА
 http://nta-hls1.cosmonova.net.ua/hls/nta_ua_mid/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",НТА (Львов)
@@ -42469,10 +42565,6 @@ https://vs55.vcdn.biz/f40daaf1ad8d85b63418638e53eaa535_megogo/vod/hls/b/450_900_
 http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ОНТ (576p)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 group-title="RUS+UKRAINA",ОНТ (Беларусь)
-http://persik.by/stream/8460/291680/10258.m3u8
-#EXTINF:-1 group-title="RUS+UKRAINA",ОНТ HD
-http://persik.by/stream/2313/415100/10258.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Опасная игра Слоун (2018)
 https://vs54.vcdn.biz/e0024df94db5629393ebe5dffa395af3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/70221551/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1909709819-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Опасно для жизни! (1985)
@@ -42613,6 +42705,8 @@ https://vs36.vcdn.biz/e1de92a93e590b367d74d21d40e20261_megogo/vod/hls/b/450_900_
 http://iptv.prosto.tv:7000/ch18/video.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Очень плохие парни (2013)
 https://vs55.vcdn.biz/ed665fabf3cdb4ad5e9a9c7a0a494271_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25081481/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/8/type.amlst/chunklist-sid1347275988-b2000000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ПOЕХАЛИ!
+http://109.200.130.124:7006/play/a02p
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ПOЕХАЛИ!!
 http://31.173.178.110:8004/play/a0bf/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Падал прошлогодний снег
@@ -42705,6 +42799,10 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Первый канал
+http://109.200.130.124:7007/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Первый канал
+http://109.200.130.124:7007/play/a002
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Первый канал (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",первый канал (+2)
@@ -42729,6 +42827,8 @@ http://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 http://91.192.168.251:5050
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Первый канал HD
 http://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Первый канал HD
+http://109.200.130.124:7005/play/a00g
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Первый канал Евразия
@@ -43263,8 +43363,6 @@ http://dfm.hostingradio.ru/disc9096.aacp
 http://dfm.hostingradio.ru/kalianrap96.aacp
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Радио DJ Станция (Тюмень)
 http://s.djstation.ru/stream192
-#EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Радио DJFM UA
-http://cast.brg.ua/djfm320.mp3
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Радио Kiss FM
 http://tavr.web-event.com.ua/kiss/kiss/chunklist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Радио Music History
@@ -43347,8 +43445,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3
 https://a635216413-s81121.cdn.ngenix.net/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/158/108_d20190315164730.smil/chunklist_b1800000_pd2635000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Радио Маяк (Веб-камера)
 http://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Радио Мир [BY]
-http://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Радио Москва FM
 http://radio-live-mg.rtr-vesti.ru/live/givc9.smil/chunklist_b2600000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Радио Пи FM
@@ -43471,8 +43567,6 @@ http://188.113.190.14/225/video.m3u8
 http://195.245.97.133:8800/play/RenTV/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Рен ТВ
 http://uiptv.do.am/1ufc/102323759/playlist.m3u8?streamType=live
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Рен ТВ
-http://212.42.193.122:8888/play/a02h/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Рен ТВ
@@ -43619,6 +43713,8 @@ http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u
 http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Россия 1 +2
 http://31.173.178.110:8004/play/a09w/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Россия 1 +2
+http://109.200.130.124:7007/play/a00h
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Россия 1 +6 (360p)
 https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Россия 1 HD
@@ -43629,6 +43725,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Россия 1 HD
 http://188.113.190.14/172/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Россия 1 HD
+http://109.200.130.124:7001/play/a00c
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Россия 1 HD (720p) [Not 24/7]
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Россия 24
@@ -43731,6 +43829,8 @@ http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8
 http://86.57.178.105:10823
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Русский иллюзион
 http://31.173.178.110:8004/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Русский Иллюзион
+http://109.200.130.124:7006/play/a013
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Русский Рок
 https://tinyurl.com/y76e4bmk
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Русский роман
@@ -44203,8 +44303,8 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 http://31.173.178.110:8004/play/a09n/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",СТС
 http://213.226.137.133:81/tl/l43/mpegts
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",СТС (Московская версия)
-http://212.42.193.122:8888/play/a02k/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",СТС
+http://109.200.130.124:7007/play/a006
 #EXTINF:-1 group-title="RUS+Kazakhstan",СТС [Not 24/7]
 https://sc.id-tv.kz/STS.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",стс HD
@@ -44347,8 +44447,6 @@ http://194.190.78.91:8080/tvextra720b/index.m3u8
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ТВ Экстра (720p)
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",ТВ-3
-http://212.42.193.122:8888/play/a01n/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТВ-3
 http://31.173.178.110:8004/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТВ-3
@@ -44425,8 +44523,6 @@ http://31.173.178.110:8004/play/a05s/index.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТВЦ +4
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",ТВЦ Москва
-http://212.42.193.122:8888/play/a02v/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Твій Плюс
 http://193.107.128.8:8552/play/a003
 #EXTINF:-1 group-title="RUS+UKRAINA",ТВІЙ ПЛЮС
@@ -44441,22 +44537,24 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телеканал 86 (Сургут) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Телеканал Да Винчи
+http://109.200.130.124:7000/play/a002
 #EXTINF:-1 group-title="RUS+UKRAINA",Телеканал КХЛ
 https://95-213-224-173.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телеканал КХЛ
 http://31.173.178.110:8004/play/a09g/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Телеканал КХЛ HD
 https://95-213-224-180.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Телеканал КХЛ HD
+http://109.200.130.124:7004/play/a016
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Телеканал новин 24
 http://iptv.prosto.tv:7000/ch25/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телеканал ФУТБОЛ
 https://95-213-224-173.livesports24.online/footballrus.m3u8
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Телекафе
-http://212.42.193.122:8888/play/a00o/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТЕЛЕКАФЕ
 http://31.173.178.110:8004/play/a07i/index.m3u8
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телестанция МИР (Новосибирск)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ТЕЛЕКАФЕ
+http://109.200.130.124:7006/play/a01h
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телплюс ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Телплюс ТВ (Астрахань) (360p)
@@ -44545,14 +44643,14 @@ http://hls-iptv.tattelecom.ru:80/online_tv_TNV/tracks-v1a1/index.m3u8
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТНВ-Планета
 http://31.173.178.110:8004/play/a09p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ТНВ-Планета
+http://109.200.130.124:7007/play/a009
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТНВ-Планета (576p)
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 group-title="RUS_Региональные Regional",ТНР24
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",ТНТ
 http://91.185.3.218:4000/play/332
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",ТНТ
-http://212.42.193.122:8888/play/a02j/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ТНТ (Ленинск)
 http://83.166.243.97:8081/ltv1TNT/1/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТНТ +2
@@ -44565,8 +44663,6 @@ https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
-#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",ТНТ HD
-http://46.164.255.247:10000/udp/235.1.10.229:10000
 #EXTINF:-1 group-title="01Music_MÜZİK",ТНТ MUSIC HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",ТНТ Music Радио
@@ -44615,6 +44711,8 @@ https://vs47.vcdn.biz/b13f8d997b781914cb5d0191a12d6264_megogo/vod/hls/b/450_900_
 https://vs817.vcdn.biz/3a0ce4e7b08b47441fb00b91222cc5d9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/75452181/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1445572809-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Точка невозврата (2018)
 https://vs55.vcdn.biz/45764e7b544a57693c1b850846a35d06_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58107261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid183834868-b2000000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Точка отрыва (TECT)
+http://109.200.130.124:7000/play/a00b
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Точка ТВ
 http://188.113.190.14/113/video.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Транзит (2011)
@@ -44767,6 +44865,8 @@ https://vs53.vcdn.biz/fc1187ce3f60a31e9b601565a4516b0a_megogo/vod/hls/b/450_900_
 http://188.113.190.14/41/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Уникум
 http://46.174.83.66/Unikum/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Уникум
+http://109.200.130.124:7007/play/a01b
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Уникум (1983)
 https://vs36.vcdn.biz/270e4bec1b9d2dc333faa326f50a1b25_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/238991/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1234533942-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",УНІАН
@@ -44781,6 +44881,8 @@ http://94.230.240.17:8080/usadba/index.m3u8
 http://46.174.83.66/Usadba/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Усадьба-ТВ
 http://31.173.178.110:8004/play/a05h/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Усадьба-ТВ (TECT)
+http://109.200.130.124:7000/play/a00e
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Ускорение (2015)
 https://vs55.vcdn.biz/abfe04ac3ce96b2a74c81dc10d9c6909_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33601951/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1601013093-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Утро без отметок (1983)
@@ -44851,8 +44953,6 @@ https://vs39.vcdn.biz/fd7a4467f8951677ac3840191b3aba80_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/zhertva.mp4
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Фру-89. Слева направо 1989г.
 https://mults.info/mp4/sleva_napravo.mp4
-#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Футбол
-http://212.42.193.122:8888/play/a03n/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Футбол 1
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Футбол 1
@@ -44987,6 +45087,8 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Че
 http://31.173.178.110:8004/play/a09q/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Че
+http://109.200.130.124:7007/play/a00a
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Че +7
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",ЧЕ!
@@ -45123,6 +45225,8 @@ https://vs56.vcdn.biz/6d6609d956af62a1a54ae2b1d184fc0d_megogo/vod/hls/b/450_900_
 http://iptv.prosto.tv:7000/ch112/video.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Шаян
 http://188.113.190.14/170/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ШАЯН ТВ
+http://109.200.130.124:7007/play/a017
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Шедевр (2018)
 https://vs37.vcdn.biz/22e206d3e0b48488df612f4f9a2f22c1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76415831/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1963924803-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Ширли-мырли (1995)
@@ -46081,10 +46185,6 @@ http://stream.zzgd.tv/3/sd/live.m3u8
 http://stream.zzgd.tv/2/sd/live.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN",枣庄新闻综合
 http://stream.zzgd.tv/1/sd/live.m3u8
-#EXTINF:-1 group-title="ASIA_China_ÇİN",柯桥时尚 (1080p)
-http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1 group-title="ASIA_China_ÇİN",柯桥综合 (1080p)
-http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN",栖霞新闻 (480p) [Not 24/7]
 http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN",梁平综合 (360p) [Not 24/7]
