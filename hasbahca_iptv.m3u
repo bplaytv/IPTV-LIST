@@ -573,6 +573,8 @@ https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
 http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 group-title="01Music_MÜZİK",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",1HD Music Television
 http://188.113.190.14/192/video.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",1HD Music Television (404p) [Not 24/7]
@@ -1389,6 +1391,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",89 RAINBOW
 http://62.212.82.197:8000/stream
+#EXTINF:-1 group-title="ISRAEL_İsrail",9 Channel
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",9 Волна
 http://cdn-01.bonus-tv.ru:8080/9volna/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",9 ВОЛНА
@@ -1569,6 +1573,8 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 http://fidece38941.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",A7
 http://77.89.204.105:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",A7 TV
+http://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=831085941&cn=aseventv
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",A7TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 group-title="Amerika_USA_PLEX",A8 Esports
@@ -2027,8 +2033,12 @@ http://85.10.206.222:8010/;
 http://79.114.34.202:8000/play/a026
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Agro TV
 http://94.236.145.205:8000/play/a01u
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",Agro TV Türkiye
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AgroMais HD
 http://201.35.250.178:8001/play/a00w
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",AgrotendenciaTV (480p)
@@ -2053,6 +2063,8 @@ http://51.154.28.81:2052/play/a05h
 http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Laos",Air TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Ajman (480p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
 #EXTINF:-1 group-title="Arabic_ARAPCA",AJMAN HD
 http://45.94.31.190:7003/play/a0ba
 #EXTINF:-1 group-title="Arabic_ARAPCA",Ajyal (720p)
@@ -2073,6 +2085,12 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1956
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Akaal TV (480p)
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Akaku TV 1
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Akaku TV 2
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Akaku TV 3
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 group-title="03INT_MIX",AKC Tv
 https://video.blivenyc.com/broadcast/prod/2061/22/file-429k.m3u8
 #EXTINF:-1 group-title="03INT_MIX",AKC TV
@@ -2139,6 +2157,8 @@ http://hls.goodgame.ru:80/hls/5346.m3u8
 https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",AKŞEHİR DOĞAN FM
 http://yayin.turkhosted.com:6046/;stream.mp3
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Aan (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
 #EXTINF:-1 group-title="Arabic_ARAPCA",AL AHAD HD
 http://45.94.31.190:7002/play/a0aw
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Alam (576p) [Not 24/7]
@@ -2155,6 +2175,10 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 http://45.94.31.190:7001/play/a0ab
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya TV
 http://31.24.12.113:8080/play/b013
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Araby 2 HD
@@ -2165,6 +2189,8 @@ http://45.94.31.190:7002/play/a0bf
 http://45.94.31.190:7002/play/a0av
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Basira
 http://45.94.31.190:7002/play/a0bi
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Dafrah TV (1080p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Emarat TV (1080p)
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Emarat TV HD
@@ -2177,6 +2203,10 @@ http://45.94.31.190:7003/play/a0cb
 http://45.94.31.190:7002/play/a0ao
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath HD
 http://45.94.31.190:7004/play/a0bn
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hayat
 http://45.94.31.190:7004/play/a0c8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hayat TV (720p)
@@ -2389,6 +2419,8 @@ http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",ALB MUSIC (AL)
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",ALB Swiss
 https://t2.tvmak.com/tv/ALBSWISS.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Albany | CBS 6 WRGB (720p)
@@ -2421,6 +2453,8 @@ https://cloclo50.cloud.mail.ru/videowl/0p/Ym05aC9hajYzUFNXOU4vMjAxOS0wMi0yMCUyMD
 https://cloclo21.cloud.mail.ru/videowl/0p/VGhkWS8yVlBBQlhvdmM=.m3u8?double_encode=1
 #EXTINF:-1 group-title="ASIA_Indonesia",ALEGRE TV (PELICULAS INFORMATIVO)
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",Alegria TV (ES)
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ALEM FM
 http://scturkmedya.radyotvonline.com/stream/80/;stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ALEM FM
@@ -2465,6 +2499,8 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessioni
 https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ALFA PREVEZAS 98.1
 https://i8.streams.ovh/sc/radioalf/stream
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALFA SPORT CY
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ASIA_MIX",AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alfajer TV 1 (720p) [Not 24/7]
@@ -2601,18 +2637,24 @@ http://91.185.3.218:4000/play/108
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Almaty TV
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Almograve - New
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALMOHTADI HD
 http://45.94.31.190:7004/play/a0c0
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALNOJABA TV
 http://45.94.31.190:7002/play/a0ar
 #EXTINF:-1 group-title="EU_France_FRANSA",Alpe d'Huez
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Alpeh Business
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",ALPHA
 http://31.177.62.174:8003/play/s116
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",Alpha 989
 http://stream.radiojar.com/xcdg6yggzfeuv
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ALPHA FM 104.7
 http://78.47.56.126:9219/stream
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALPHA HD
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ALPHA NEWS 106.2
 http://192.227.85.169:4382/;
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",ALPO (720p) [Not 24/7]
@@ -2629,6 +2671,8 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 group-title="EU_France_FRANSA",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Alsace 20
+https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Honduras",Alsacias TV (ATV | Canal 28) (1080p)
 https://emisoras.hn:8081/atv/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALSALAM
@@ -2651,6 +2695,8 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Altyn Asyr
 http://217.174.225.146/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALWAQIE TV HD
 http://45.94.31.190:7002/play/a09r
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alwasat TV (1080p)
@@ -2831,6 +2877,8 @@ http://nebula.shoutca.st:8569/
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 #EXTINF:-1 group-title="Amerika_COLOMBIA",Amordiscos
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 group-title="EU_Italy_TVPLUS",AMUSE ANIMATION
 https://2fc68d114219486eb49e5d7ac3189dbb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_AmuseAnimation/playlist.m3u8?ads.wurl_channel=650&ads.wurl_name=AmuseAnimation&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="EU_France_TVPLUS",AMUSE ANIMATION
@@ -2937,6 +2985,8 @@ http://45.161.188.242:88/animalplanet/mono.m3u8
 http://94.158.54.54:4000/play/a015/index.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Indonesia",Animax Asia (Indonesia)
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Animax Japan (Vietnamese Subs)
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 #EXTINF:-1 group-title="Amerika_USA TVPLUS",Anime All day
@@ -2951,6 +3001,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://v2.catcast.tv/content/35676/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Animestation (480p) [Not 24/7]
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Indonesia",Aniplus Asia (Malaysian subs)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Anixe HD
@@ -3081,6 +3133,8 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",APRENDE EN CASA
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",APT
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Aquaman
@@ -3163,6 +3217,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="ENG Great Britain_TVPLUS",Are We There Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 group-title="webcam_Portugal",Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Arena 1
 http://46.29.169.15:4001/play/a002/index.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Arena 2
@@ -3193,8 +3249,12 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ARGOLIDA FM 103.8
 https://24streams.me/8100/stream
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ARGOLIDA TV
+https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Arhat TV
 http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Ariana Afghan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Afghanistan",Ariana TV (480p)
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Afghanistan",Ariana TV US (720p) [Not 24/7]
@@ -3243,6 +3303,8 @@ https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-
 http://stream.radiojar.com/g34k4f92n74tv
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Arkansas: Little Rock (STIRR) (720p)
 https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
 #EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Armenia 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Armenia 1 TV
@@ -3471,6 +3533,8 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Afghanistan",ATN News (360p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",ATR
 http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",ATR
@@ -3823,6 +3887,8 @@ http://42.200.67.163:8090/play/a0pu
 http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U movies (576p)
@@ -4031,6 +4097,8 @@ https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV HD Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV HD SUMMER
+https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",BARCA TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",BARIŞ RADYO
@@ -4083,6 +4151,8 @@ https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",Baywatch
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e672d4676bf00076a3837/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="webcam_Portugal",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",BB Dance BREATHE
 https://cloclo57.cloud.mail.ru/videowl/0p/aDh6Ny9iZGVpQXZxaVIvQWN0NTQxX0JyZWF0aGVfQi5CLkRhbmNlUHJvZHVjdGlvbnMubXA0.m3u8?double_encode=1
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",BB Dance SCREAM
@@ -4313,6 +4383,10 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8efed9a2-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="EU_Spain_PLUTO",Bebecito Bum y sus Amigos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Arabic_ARAPCA",Bee Movies (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:-1 group-title="Arabic_ARAPCA",Bee Theater (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
 #EXTINF:-1 group-title="03INT_MIX",BeeTV | EN
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",beIN La Liga
@@ -4601,6 +4675,8 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 #EXTINF:-1 group-title="EU_France_FRANSA",BFM TV
 http://41.224.0.27:8877/play/a0as
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",BFM TV
+https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",BG DNES
 http://80.72.95.40:8088_IPTV
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",BG Music
@@ -4847,6 +4923,8 @@ https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Bloomberg TV Europe (720p)
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Bloomberg TV US
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Bloomberg TV US (180p)
@@ -5213,6 +5291,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5a4bb7da5c0007e5c9
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Bucovina TV (480p)
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",București TV
+http://89.38.8.130:39459/
 #EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Budakalasz
 https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amerika_COLOMBIA",Buenísima Radio TV (Gamarra | Cesar) (1080p) [Not 24/7]
@@ -5229,6 +5309,8 @@ http://ios.cdn.bg:2006/fls/bonair.stream/chunklist_w2129214630.m3u8
 http://ios.cdn.bg:2006/fls/bonair.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_BULGAR-BULSAT",Bulgaria On Air (576p)
+http://hls.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Bumblebee
 http://deadlyblogger.com/NewRelease/bee2018.webm
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Bumblebee TV AutoMoto (720p)
@@ -5823,6 +5905,10 @@ http://31.24.12.113:8080/play/b08a
 http://80.164.71.194:6565/play/canal9dkdk
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 9 RIO CUARTO
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Canal Alpha Jura (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Canal Alpha Neuchatel (1080p) [Offline]
+https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_DOMINICAN REPUBLIC",CANAL AME 47 HD
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Canal Antigua
@@ -6079,6 +6165,10 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u
 http://201.182.242.135:12002/play/a0an/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Caracola TV (Peñalolén) (720p)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Carcavelos - Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Career Day
 https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
@@ -6169,6 +6259,8 @@ http://58.27.219.166:8000/play/a0hw/index.m3u8
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",CARTOONS
 http://190.108.93.62:8000/play/a008
+#EXTINF:-1 group-title="webcam_Portugal",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Carwash
 http://deadlyblogger.com/NewRelease/carwash.mp4
 #EXTINF:-1 group-title="Arabic_ARAPCA",Casablanca
@@ -6195,6 +6287,8 @@ http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 https://tinyurl.com/y7x7dufc
 #EXTINF:-1 group-title="Arabic_ARAPCA",CATV
 http://45.94.31.190:7004/play/a0aq
+#EXTINF:-1 group-title="webcam_Portugal",Caxias
+https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Cay TV
@@ -6559,6 +6653,8 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",CGTN Documentary EN (720p)
@@ -6575,6 +6671,8 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://livefr.cgtn.com/500f/prog_index.m3u8
 #EXTINF:-1 group-title="EU_France_FRANSA",CGTN France
 http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",CGTN Français
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",CGTN Français (720p)
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",CGTN RU
@@ -7317,6 +7415,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3
 https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Circle (1080p)
 https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CITY CHANNEL
+https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",CITY FM 100
 http://eco.onestreaming.com:8173/;
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",CITY FM 103.8
@@ -7333,6 +7433,8 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",City TV
 http://cdn1.live-tv.od.ua:8081/a1od/citytvod/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",City TV (BG)
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",City TV (Одесса)
 http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",City TV Одесса
@@ -7591,6 +7693,8 @@ http://58.27.219.166:8000/play/a064/index.m3u8
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
 #EXTINF:-1 group-title="ASIA_MIX",CNN Philippines (720p) [Not 24/7]
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIyIDY6MDo0IFBNJmhhc2hfdmFsdWU9NHpzdEFSeitEeU94R2lDK1lxKzRJdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM0MDc0MjdmLTNhMGUtNDIyZi1iZTA5LTFkNTRkMjZmODM1Yg==
 #EXTINF:-1 group-title="*TÜRK_GENEL",CNN Turk HD
 http://31.24.12.113:8080/play/b02f
 #EXTINF:-1 group-title="*TÜRK_HABER/1",CNN TÜRK
@@ -7657,6 +7761,8 @@ http://58.27.219.166:8000/play/a04y/index.m3u8
 http://58.27.219.166:8000/play/a0ev/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",colors TAMI-Rs3
 http://58.27.219.166:8000/play/a0fx/index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Bangladesh",Colosal TV (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Colour Bangla
@@ -7801,6 +7907,8 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
 #EXTINF:-1 group-title="Amerika_USA XUMO",Complex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Comporta
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_DOMINICAN REPUBLIC",Comunion TV (720p)
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_France_TVPLUS",Comédies - Rakuten TV
@@ -7933,8 +8041,20 @@ https://neos.win:48038/stream
 https://neos.win:59320/stream
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",COSMOS SERRES 93
 http://cast5.magicstreams.gr:8132/;listen.pls
+#EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - Cabana do Pescador
+https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Costa Noroeste TV (720p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Country
@@ -8195,6 +8315,10 @@ https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 http://58.27.219.166:8000/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",D-CODE 96.2
 http://s15.myradiostream.com:13980/;
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",D5Music
+https://stream-07.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWwOOaKcuVtEu8zcXdowmxRU)/dm/3/x7zw8q9/s/live-1.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",D5tv
+https://stream-04.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWz7X8174yz_o7dRM30QBJXw)/dm/3/x7zw38l/s/live-1.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Da Vinci
@@ -9065,6 +9189,8 @@ http://cdn4.video.az/storage/movie/13/12823/video.mp4
 http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",DELTA FM 102.3
 http://81.171.10.41:1088/;
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",DeltaTV (Pacayzapa | San Martín) (768p) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8038/index.m3u8
 #EXTINF:-1 group-title="EU_France_TVPLUS",Deluxe Lounge HD
@@ -9161,6 +9287,8 @@ http://deadlyblogger.com/NewRelease/despic2.mp4
 http://www2.mvpds.site/assets/files/2343/Despicable%20Me%203%20(2017)%20(BluRay)%20(PC%20HD%20Full%20Movie).mp4
 #EXTINF:-1 group-title="Amerika_USA * TEST",Destination America
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1801
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",deutschewelle
 https://marine2.miplay.cl/deutschewelle/mono.m3u8
 #EXTINF:-1 group-title="*TÜRKÇE_Filmler",Devlet Kuşu (1980)
@@ -9235,6 +9363,8 @@ http://213.239.206.179:7060/
 http://netradio.live24.gr/diavlos911
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",DIAYLOS RODOPIS 92.4
 http://eco.onestreaming.com:8588/;
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Dibi TV
+http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Die Hard Vengeance
 http://www2.mvyg.xyz/assets/files/1959/Die%20Hard%20With%20A%20Vengeance%20(1995)%20(BRRip)%20(PC%20HD%20Full%20Movie).mp4
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Die Neue Zeit
@@ -10053,6 +10183,8 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Racing 2 (1080p)
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Racing 2 (1080p)
@@ -10065,18 +10197,24 @@ http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlis
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",DUBAI SPORTS 1 (1080p)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Sports 1 (1080p)
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",DUBAI SPORTS 2 (1080p)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Sports 2 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",DUBAI SPORTS 3 (1080p)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai Sports 3 (1080p)
@@ -10131,6 +10269,8 @@ https://cloclo4.cloud.mail.ru/videowl/0p/Mmk2dS9GNWZqcWZnNHo=.m3u8?double_encode
 https://cloclo5.cloud.mail.ru/videowl/0p/M2FkUy9aUU1OM3FhOVQ=.m3u8?double_encode=1
 #EXTINF:-1 group-title="03INT_MIX",Dungeon
 https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1 group-title="Amerika_Canada",DUST
 https://29955703caa546ac80a889f3df2317f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_Dust/playlist.m3u8?ads.wurl_channel=252&ads.wurl_name=Dust&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Amerika_USA TVPLUS",DUST
@@ -10409,6 +10549,8 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",EiTB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",EITB.EUS
+https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Ekin Türk TV
 https://ankara.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Ekinturk
@@ -10585,6 +10727,8 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 http://live.ellinikos.gr:8010/903.mp3
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ELLINIKOS 93.2
 http://orange.live24.gr/orange9320
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ELLINIKOS FM
+https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",ELM STREET 1
 http://www.deadlyblogger.com/NewRelease/elm1.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",ELM STREET 2
@@ -10797,24 +10941,48 @@ http://95.173.162.181:9912/;stream.mp3
 http://45.94.31.190:7002/play/a09c
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",EREĞLİ DEMOKRAT FM
 https://radyo.akyuznet.com.tr/radio/8160/radio.mp3
+#EXTINF:-1 group-title="webcam_Portugal",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ERKAM RADYO
 https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",EROTIKOS 94.8
 http://eu9.fastcast4u.com:5282/;
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT NEWS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ERT RODOS
 http://radiostreaming.ert.gr/ert-rodos
 #EXTINF:-1 group-title="*TÜRK_YEREL",Ert Sah TV
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_4Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_4Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",ERT TV
 https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist_w2051378804.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT WORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT World (720p)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT1 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT2 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ERT3 102 FM
 http://radiostreaming.ert.gr/ert-102fm
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ERT3 95.8
 http://radiostreaming.ert.gr/ert-958fm
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT3 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Ertis
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 group-title="RUS+GEORGIA",Ertseluvneba
@@ -10865,6 +11033,8 @@ https://sdm.telewebion.com/live/esfahan/playlist.m3u8
 https://sdm.telewebion.com/live/eshragh/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ESKİŞEHİR TEMPO RADYO
 http://217.195.193.2:9988/
+#EXTINF:-1 group-title="webcam_Portugal",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",Esne TV
 http://45.181.122.17:8000/play/a00g
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",ESNE TV (1080p)
@@ -10881,6 +11051,8 @@ http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",Esperia TV Calabria (Opt-1)
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",ESPN
 http://190.108.93.62:8000/play/a00q
 #EXTINF:-1 group-title="Amerika_*Latino MIX 2",ESPN
@@ -10993,6 +11165,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8da
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",ESR 24x7 eSports Network (1080p)
 https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",EST TV
+http://89.38.8.130:39435/
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Est TV (Neamt) (576p)
 http://89.38.8.130:39435
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESTACION TV HD
@@ -11075,6 +11249,8 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
 #EXTINF:-1 group-title="EU_Estonia",etv
 https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ETV
+https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",ETV Kayseri
 http://yerelmedya.tv:1935/etv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ETV Marathi
@@ -11345,6 +11521,8 @@ http://www1.mvpds.site/assets/files/2134/The%20Expendables%202%20(2012)%20(BRRip
 http://www2.mvpds.site/assets/files/2135/The%20Expendables%203%20(2014)%20(BRRip)%20(PC%20HD%20Full%20Movie).mp4
 #EXTINF:-1 group-title="EU_France_TVPLUS",Explore by TVPlayer
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",EXPLORIS
+http://89.38.8.130:39449/
 #EXTINF:-1 group-title="Arabic_ARAPCA",EXPO 2020 (1080p)
 https://shls-expotv-prod-dub.shahid.net/out/v1/d01b0b3888284878b8898017895a5922/index.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",Expo Channel
@@ -11357,6 +11535,8 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Exprezión TV (EXTV | Los Álamos) (720p)
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Extasy HD / Leo TV HD (576p)
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 group-title="03INT_MIX",External Ottera
 https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",EXTRA
@@ -11503,8 +11683,12 @@ http://cdnhls.goodgame.ru/hls/157239.m3u8?|User-agent=rostik_tv
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/51fe53a4-7cd7-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",FANTASTIKA SCI-FI
 http://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",FARO DE SANTIDAD
 https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w1856751743.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",FAROS TV CY
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",FAROS TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",FARS (576p)
@@ -11715,6 +11899,12 @@ https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
 https://listen.radyofenomen.com/fenomenturk/128/icecast.audio
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",FENOMEN TÜRKÇE RAP
 https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio
+#EXTINF:-1 group-title="webcam_Portugal",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Ferreira do Zêzere - Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Ferreira do Zêzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Fes
 http://45.94.31.190:7003/play/a0b3
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Festa
@@ -11751,6 +11941,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",FightBox HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Figueira da Foz - Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Film & arts HD
 http://187.49.191.6:8080/play/a013/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FILM BOX
@@ -12389,6 +12583,10 @@ http://45.161.188.242:88/foxsports2/mono.m3u8
 http://45.161.188.242:88/foxsports3/mono.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Foxᴴᴰ
 http://58.65.171.202:8000/play/3111
+#EXTINF:-1 group-title="webcam_Portugal",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",FRAMETV IP ALL & TRING
 http://163.172.87.151:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",France
@@ -12621,6 +12819,8 @@ https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
 https://simultv.s.llnwi.net/o054/FunnyBone/interlink.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Funoon (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Furious 7
 https://cloclo21.cloud.mail.ru/videowl/0p/NHFHVi9nVWdnNTZzWVg=.m3u8?double_encode=1
 #EXTINF:-1 group-title="Amerika_USA * TEST",fuse
@@ -12887,6 +13087,8 @@ http://65.21.196.79/mifa/master.m3u8
 http://65.21.196.79/gem_nature/master.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",GEM River (576p)
 http://65.21.196.79/gem_river/master.m3u8
+#EXTINF:-1 group-title="ASIA_MIX",Gem TV Asia
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",GEMINI COME-Rs5
 http://58.27.219.166:8000/play/a0fn/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",GEMINI MOV-Rs17
@@ -13293,6 +13495,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Grand Lille TV
 http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Grand Lille TV
+https://str81.creacast.com/grandlilletv/high/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Grand Lille TV HD
 http://str81.creacast.com/grandlilletv/high/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Grand Littoral TV
@@ -13311,6 +13515,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Gravity Fouls (480p) [Not 24/7]
 https://v3.catcast.tv/content/38105/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",Great American Country
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1761
 #EXTINF:-1 group-title="ASIA_MIX",Great Commission TV (GCTV) (360p) [Not 24/7]
@@ -15351,6 +15557,8 @@ http://jacksonspalace.radioca.st:8139/stream
 http://ice.streams.ovh:1120/;
 #EXTINF:-1 group-title="Arabic_ARAPCA",JAHANBIN (576p)
 https://sdm.telewebion.com/live/jahanbin/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Jail (2021)
 http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Jail%20(2021)/Jail%20(2021)%20HDRip/Jail%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
 #EXTINF:-1 group-title="ASIA_Indonesia",JAKARTA GLOBE NEWS
@@ -15697,6 +15905,8 @@ http://109.68.40.67/life/k1.m3u8
 https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",K24 HD
 http://45.94.31.190:7004/play/a0b7
+#EXTINF:-1 group-title="ISRAEL_İsrail",Kabbalah
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 group-title="ISRAEL_İsrail",KABBALAH 96
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 group-title="ISRAEL_İsrail",Kabbalah TV Hebrew (360p)
@@ -15729,12 +15939,16 @@ http://cdn4.video.az/storage/movie/12/12339/video.mp4
 http://karskafkasfm.ozelip.com:7890/;stream.mp3
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali Arabia (576p)
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali TV (576p)
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali We (576p)
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 group-title="Amerika_HAITI",Kajou TV (480p)
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar Seithikal (576p) [Not 24/7]
@@ -15891,6 +16105,10 @@ http://31.24.12.113:8080/play/b033
 http://31.24.12.113:8080/play/b02h
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Kanal 9 auf Deutsch (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Kanal 9 en Français (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",KANAL AVRUPA
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 group-title="*TÜRK_AVRUPA",Kanal Avrupa
@@ -16027,6 +16245,8 @@ http://dinle.kardelenfm.com:2000/;stream.mp3
 http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",Kardeş TV
 http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",Karibena HD (BR)
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",Karibeña (720p) [Not 24/7]
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Kartoon Circus
@@ -16219,6 +16439,8 @@ https://sdm.telewebion.com/live/khoozestan/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Khushkhabri
 http://51.154.28.81:2052/play/a079
+#EXTINF:-1 group-title="Arabic_ARAPCA",Khyber Middle East TV (720p) [Not 24/7]
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1 group-title="ASIA_Pakistan",Khyber News
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Khyber News TV
@@ -16343,6 +16565,8 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream_300p/playlist.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",KISS TV
 http://79.114.34.202:8000/play/a04u
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Kiss TV
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Kiss TV (576p)
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",KISS 💋
@@ -16753,6 +16977,8 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-b.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",LA 1
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1841
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",La 1 (720p) [Geo-blocked]
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",La 1 Canarias (576p)
@@ -16827,6 +17053,8 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",LA MEGA MUNDIAL
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",La Mega Mundial (ES)
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LA MEJOR CR 99.1 FM
 http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",LA MIA TV ( (PELICULAS MUSICA)
@@ -16865,6 +17093,10 @@ https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino PLUTO TV",LA TRAMPA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a8a84ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",La Télé (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",La Télé (1080p)
+https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",La Urban TV (1080p) [Not 24/7]
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",La Voz 24h
@@ -16913,6 +17145,8 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
 http://45.94.31.190:7003/play/a0b5
 #EXTINF:-1 group-title="Arabic_ARAPCA",Laayoune TV HD
 http://45.94.31.190:7001/play/a0ac
+#EXTINF:-1 group-title="webcam_Portugal",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Pakistan",Lahore News
 http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",LAIKO RADIO CHANIA
@@ -17133,8 +17367,14 @@ https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Lex TV (720p)
 https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",LFM TV (1080p)
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",LFM TV (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",LFM TV (720p)
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",LIBERO 107.4
 https://radio.libero.fm:10750/live
 #EXTINF:-1 group-title="Arabic_ARAPCA",Libya Al Ahrar HD
@@ -17211,6 +17451,10 @@ https://tinyurl.com/yzqflwt7
 http://www.deadlyblogger.com/NewRelease/lionking.mp4
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Liquid Funk
 https://tinyurl.com/ycxcm3ob
+#EXTINF:-1 group-title="webcam_Portugal",Lisboa - Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Lisboa - Cais do Sodré
+https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",Little Baby Bum
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc68f4b2591a0007f0ac65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Litus TV Santa Fe
@@ -17305,6 +17549,8 @@ https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV (576p) [Not 24/7]
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",LOKUM FM
@@ -17319,8 +17565,16 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1 group-title="03INT_MIX",LoneStar | Channel 2
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Look Sport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 group-title="02Sports_SPOR",Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 group-title="02Sports_SPOR",Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 group-title="02Sports_SPOR",Look Sport HD3
 https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 group-title="ASIA_Laos",Look Thoong TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",LookPlus
@@ -17535,6 +17789,8 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",Lyaminor
 http://91.185.3.218:4000/play/2222
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",LYDIA FM 94.2
 http://eu1.radiolydia.com:1086/stream
 #EXTINF:-1 group-title="DE_OSTERREICH _AVUSTURYA",Ländle Tv
@@ -17621,6 +17877,8 @@ http://51.210.199.33/hls/stream.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",MAD RADIO 107
 http://sc2.streamwithq.com:8018/;
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MAD TV
+https://www.youtube.com/watch?v=q0nj_pb-5iM
 #EXTINF:-1 group-title="EU_Spain_PLUTO",MADE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_Spain_PLUTO",MADE
@@ -17637,6 +17895,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb71a26ed8300076433
 http://www.deadlyblogger.com/NewRelease/madea1.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",MADEAS FAMILY REUNION
 http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 group-title="webcam_Portugal",Madeira - Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Madeira - Ponta Pequena - Paul
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Madonna
 https://tinyurl.com/ye2kzda7
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Maestrat TV (1080p) [Not 24/7]
@@ -17671,6 +17933,8 @@ http://stream.magic-radio.net:8100
 http://79.114.34.202:8000/play/a05e
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Magic TV RO
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",Magna Channel
 http://202.150.172.4:4000/play/MagnaChannel
 #EXTINF:-1 group-title="ASIA_Indonesia",Magna Channel HD
@@ -17757,6 +18021,8 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 http://91.185.3.218:4000/play/217
 #EXTINF:-1 group-title="*TÜRK_YEREL",Manisa TV
 https://yayin.manisatv.com.tr/live/stream.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 group-title="ASIA_MIX",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Manoto
@@ -17827,6 +18093,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",matc_arena
 http://37.187.28.95:2022/matc_arena/mpegts
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",matc_boec
@@ -17863,10 +18131,14 @@ http://193.33.88.172/football1_hd/index.m3u8
 http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Math 3HD
 http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",MaticesTV (Cañete) (720p) [Not 24/7]
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 group-title="EU_SKANDINAV+FIN",Matkanalen (NO)
 http://195.222.7.26:7001/play/a00o
+#EXTINF:-1 group-title="webcam_Portugal",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Maury (1080p)
 https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",Mav TV
@@ -18089,6 +18361,10 @@ http://46.105.35.48:9346/;stream.mp3
 http://45.4.0.46:8000/play/a08g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",MEGA HD
 http://45.225.93.154:4000/play/a08g
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MEGA HD
+https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MEGA HD
+https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MEGA MOVIES
 http://42.200.67.163:8090/play/a0ml
 #EXTINF:-1 group-title="Amerika_PERU",Mega TV (Arequipa) (360p) [Not 24/7]
@@ -18111,6 +18387,8 @@ https://cdn-curie.wasd.tv/live/305240/tracks-v1a1/mono.m3u8
 http://200.229.147.16:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",MEGAVISION
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1135556674.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",MEKAMELEEN TV (720p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Mekameleen TV (720p)
@@ -18627,6 +18905,8 @@ https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/
 http://www.deadlyblogger.com/NewRelease/monsters2.mp4
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Montana: Missoula (STIRR) (720p)
 https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_PERU",Monterrico TV (1080p) [Not 24/7]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Monterrico TV (360p) [Not 24/7]
@@ -19407,6 +19687,8 @@ http://cast.radiohost.ovh:9037/stream
 http://www.deadlyblogger.com/NewRelease/totoro.mp4
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",MY RADIO 89.6
 http://eco.onestreaming.com:8528/;
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MY RADIO TV
+https://vdo.alphaserver.gr:3894/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",My Strange Addiction
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e455469bb4200008374d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",MY TIME HD
@@ -19425,6 +19707,8 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c5
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",My5 GP's
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",MyComedy
+https://stream-10.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW64cIzsLNRfYu6R7IH40ApE)/dm/3/x7zw8t0/s/live-1.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",MYKONOS FM 98.1
 http://radio.streamings.gr:8007/stream
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Mylene Farmer
@@ -19745,6 +20029,18 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Nayanwa Alaan
 http://45.94.31.190:7002/play/a0c1
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Forte S. Miguel Arcanjo - Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Nazrana (1080p)
 https://live.hungama.com/linear/nazrana/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",NAZİLLİ RADYO ÖZDEN
@@ -19815,6 +20111,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",NBC News Now Event 1
@@ -19917,6 +20215,8 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duratio
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",NDTV 24x7
 http://51.154.28.81:2052/play/a07l
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",NDTV HD
@@ -19983,6 +20283,8 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.
 http://cdn10.video.az/storage/movie/11/11614/video.mp4
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",NESN National (1080p)
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Nest TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",Net TV
@@ -20093,6 +20395,8 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8
 #EXTINF:-1 group-title="03INT_MIX",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",News 24 (576p)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",News 24 Balkan
@@ -20671,6 +20975,8 @@ http://94.236.145.205:8000/play/a00y
 http://stream-mp3aac.live24.gr/nova931
 #EXTINF:-1 group-title="EU_Slovakia-Sloveina+HU+CZ+RO",Nova Sport 1 HD #5.3
 http://185.216.167.18:5555/play/a04j
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Nova TV
+http://novapress.ro:1935/live/nova/chunklist_w1766504351.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",NOVE FUL.HD
 https://ch.iptvmate.net/0de31111cc2fc0d0bd23ce7c74c544ec.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",Nove IT
@@ -20751,6 +21057,8 @@ http://s3.onweb.gr:9100/
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",NRG 91 MUSIC
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w114608949.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",NRG 98.5
 http://eco.onestreaming.com:8452/stream
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",NRG BEROIA 88.3
@@ -21037,6 +21345,8 @@ http://41.224.0.27:8877/play/a037
 http://www1.mvpds.site/assets/files/1990/Octopussy%20(1983)%20(BluRay)%20(PC%20HD%20Full%20Movie).mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Octopussy
 https://cloclo11.cloud.mail.ru/videowl/0p/MTVvai84blVwcW1wZkY=.m3u8?double_encode=1
+#EXTINF:-1 group-title="webcam_Portugal",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Odesa Live
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",Odessa Fashion
@@ -21065,6 +21375,8 @@ http://212.78.94.168:7062/stream
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Office Lounge
 https://tinyurl.com/y7cysc2m
+#EXTINF:-1 group-title="webcam_Portugal",Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
 #EXTINF:-1 group-title="EU_France_TVPLUS",OFIVE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofive-ofive-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
 #EXTINF:-1 group-title="DE_SCHWEIZ_TVPLUS",OFIVE [FR]
@@ -21355,8 +21667,12 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",One TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",One TV (720p) [Not 24/7]
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ONE TV HD
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="01Music_MÜZİK",ONE1 Slovenija (SI) (Not until Kodi 19!)
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",ONLY THE STRONG
@@ -21483,6 +21799,8 @@ http://45.94.31.190:7002/play/a0d8
 http://45.94.31.190:7002/play/a0d9
 #EXTINF:-1 group-title="Arabic_ARAPCA",ORPIT MOVIES
 http://45.94.31.190:7002/play/a0da
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ORT TV
+https://s2.netmax-host.eu:2053/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ORTACA FM
 http://live.radyotvonline.com:9100/;stream.mp3
 #EXTINF:-1 group-title="EU_NL_BE",ORTS
@@ -21725,6 +22043,8 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",PANIC 93.7
 http://eco.onestreaming.com:8518/;
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",PANIK TV
+https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Panjab Radio
 http://51.154.28.81:2052/play/a085
 #EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Pannon RTV
@@ -21811,6 +22131,8 @@ http://170.83.242.153:8000/play/a021
 https://cloudvideo.servers10.com:8081/8106/index.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",PAREA FM 104.1
 https://i.streams.ovh/sc/pareapatras/stream
+#EXTINF:-1 group-title="webcam_Portugal",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
 #EXTINF:-1 group-title="EU_France_FRANSA",PARIS PREMIERE
 http://41.224.0.27:8877/play/a03b
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",PARK FM
@@ -21821,8 +22143,12 @@ https://i.mjh.nz/nz/tv.18.m3u8
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Parnian TV
 https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Pars TV (240p) [Not 24/7]
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",ParsiLand TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",PARTY FM 97.1
 http://s1.onweb.gr:8824/
 #EXTINF:-1 group-title="Amerika_USA_PLEX",party tyme karaoke
@@ -21881,6 +22207,8 @@ http://yayin.pazarcikfm.com:9090/;stream.mp3
 http://yayin.pazarcikfm.com/9092/;stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",PAZARCIK FM 3
 http://radyo.pazarcikfm.com/9094/;stream.mp3
+#EXTINF:-1 group-title="webcam_Portugal",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",País Vasco 1ᴴᴰ
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",PAŞA FM
@@ -21953,6 +22281,12 @@ https://mediacpstreamchile.com:1936/clubtv/clubtv/.m3u8
 https://i7.streams.ovh/sc/pellafm/stream
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",Pella TV (576p) [Not 24/7]
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",PEMPTOUSIA TV
+https://www.youtube.com/watch?v=AgWETzT6S20
+#EXTINF:-1 group-title="webcam_Portugal",Peniche - Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Peniche - Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Pennsylvania: Harrisburg (STIRR) (720p)
 https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika",Pennsylvania: Johnstown - Altoona (STIRR) (720p)
@@ -24861,8 +25195,14 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 group-title="Amerika_USA TVPLUS",Portlandia
 https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8?ads.wurl_channel=928&ads.wurl_name=Portlandia&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="webcam_Portugal",Porto - Carneiro
+https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Porto - Homem do Leme
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Porto Canal (360p)
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",Positiv TV
@@ -24961,6 +25301,64 @@ http://95.173.161.131:9788/;stream.mp3
 https://vs47.vcdn.biz/464c578c07875e395a8378aac96b3827_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84021/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid1736498003-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia Canide Norte - Sul
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Cresmina
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Torre
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia da Vieira
+https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Guincho - Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Guincho - Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia Grande - Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia Grande - Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",praiseLive Global
 http://45.94.31.190:7004/play/a0bl
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Prakalya TV
@@ -25059,6 +25457,8 @@ https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",PRESENCIA TELEVISION
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",Press TV
+https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Press TV English (720p)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",PRESSING 90.1
@@ -25119,6 +25519,8 @@ http://77.89.204.105:8001/play/a00x/index.m3u8
 http://77.89.204.105:8001/play/a01q/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",PRO TV HD
 http://79.114.34.202:8000/play/a02y
+#EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",PRO X
 http://77.89.204.105:8001/play/a00s/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",PRO X HD
@@ -25135,6 +25537,8 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 http://79.114.34.202:8000/play/a054
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Profit TV
 http://stream1.profit.ro:1935/profit/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Profit.ro (404p)
 https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Progressive
@@ -25725,6 +26129,10 @@ http://s6.onweb.gr:8020/;
 http://s3.myradiostream.com:4060/;
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Radio Pilatus (1080p)
 http://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Radio Pilatus (1080p)
+https://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Radio Pilatus TV (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:rp_tv_1/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",RADIO PLAY 91.5
 http://s6.onweb.gr:8058/;
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio PONdENDS JAM
@@ -26733,6 +27141,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://stream.radiojar.com/redclassics
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Red HD
 http://188.113.190.14/149/video.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",RED MUSIC
+https://s2.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Red Tails
 https://cloclo21.cloud.mail.ru/videowl/0p/Q0VxbS83a2tnYkJiREE=.m3u8?double_encode=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;x-email=iptvmaster2%252540gmail.com&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;rnd=1541724171090
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",Red Tails
@@ -27381,6 +27791,10 @@ http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Rouge TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Rouge TV (720p)
+https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP RADIOS",Route 101
 https://tinyurl.com/ybnvbjun
 #EXTINF:-1 group-title="*TÜRK_GENEL",Royal TV
@@ -27539,12 +27953,22 @@ http://media.neuquen.gov.ar/rtn/television/media.m3u8
 http://media.neuquen.gov.ar/rtn/television/chunklist_w670459661.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",RTP Internacional
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1900
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",RTP1 (480p)
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 group-title="Amerika_Mexico- Meksika",RTQ Queretaro
@@ -28171,6 +28595,8 @@ http://kalite.radyoyayini.com:8036/;stream.mp3
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="EU_Iceland",R�V 1 Island
 https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",S4C
 http://51.154.28.81:2052/play/a0a7
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",S4C HD
@@ -28305,6 +28731,10 @@ http://stream.smntv.cn/smtv2/sd/live.m3u8
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Santa Cecilia TV (288p) [Not 24/7]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Santa Cruz - Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",SANTA CRUZTV
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Santa María Televisión (720p) [Not 24/7]
@@ -28323,6 +28753,8 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w52779246.m3u8
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 group-title="ASIA_SRI LANKA",Santhora TV - SHORTFILM (720p)
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w405490395.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Saout alaqila
 http://45.94.31.190:7002/play/a09h
 #EXTINF:-1 group-title="Amerika_Canada",Sardari TV (1080p)
@@ -28401,6 +28833,8 @@ https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8
 http://185.157.161.141:22222/play/a01n
 #EXTINF:-1 group-title="EU_NL_BE",SBS9 HD
 http://185.157.161.141:22222/play/a04h
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",SBT - TV Serra Dourada - (GO)
@@ -28543,6 +28977,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
+#EXTINF:-1 group-title="webcam_Portugal",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_PLUTO",Sensing Murder
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_USA *United States Amerika 2",Sent TV Global Network (720p) [Not 24/7]
@@ -28669,6 +29105,8 @@ https://content.jwplatform.com/manifests/f8Nojpff.m3u8
 https://content.jwplatform.com/manifests/NbeUabwS.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah 2 (1080p)
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah Radio Quran (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah TV (1080p)
@@ -28919,6 +29357,8 @@ http://skycomnet.gr/radio/8010/argolida
 http://netradio.live24.gr/skai1003
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SKAI HD
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",Skai TV (720p)
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Ski TV (1080p)
@@ -29311,6 +29751,8 @@ http://194.76.186.77:8090/play/a00z
 http://www.sonus.fm:1935/public/stream_in/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1 group-title="01Music_MÜZİK",Sonus FM TV (US)
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",sony
 http://45.161.188.242:88/sony/mono.m3u8
 #EXTINF:-1 group-title="Amerika_PARAGUAY",Sony
@@ -29501,6 +29943,8 @@ http://cdn6.video.az/storage/movie/11/11674/video.mp4
 http://185.216.167.18:5555/play/a03p
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Speranta TV
 http://us200.streamkit.tv/edge/_definst_/%20sperantatv_1200/chunklist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Speranta TV
+https://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8?wowzasessionid=614701662&cn=sperantatv
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Speranta TV (596p)
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Speranta TV (720p)
@@ -29819,6 +30263,8 @@ http://58.27.219.166:8000/play/a07b/index.m3u8
 http://58.27.219.166:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
+http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 group-title="Amerika_PARAGUAY",STAR HITS
 http://170.83.242.153:8000/play/a02l
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",STAR HITS 1 FHD H265
@@ -29985,6 +30431,8 @@ http://s7.myradiostream.com:10432/
 http://148.251.179.119:8000/;
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",STATUS RADIO 94.2
 http://eco.onestreaming.com:8131/;
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_Music",Stellar-Vibrato
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",STEP BROTHERS
@@ -30283,6 +30731,8 @@ https://waw3.artiyerelmedya.net/sunrtv/bant1/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",SUPER
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/index_800_av-p.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SUPER B
+https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",SUPER CANAL 3 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b200000.m3u8
 #EXTINF:-1 group-title="Amerika_DOMINICAN REPUBLIC",Super Canal 33
@@ -30451,8 +30901,14 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 http://45.94.31.190:7003/play/a0be
 #EXTINF:-1 group-title="03INT_MIX",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SYROS TV1
+http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",SZC
 https://ankara.tvizlehd.com/live/sozcutv.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",São Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKÇE_Filmler",Sümela'nın Şifresi 3: Cünyor Temel (2017)
 http://cdn8.video.az/storage/movie/13/12969/video.mp4
 #EXTINF:-1 group-title="*TÜRK_YEREL",Süper TV
@@ -30543,6 +30999,8 @@ http://51.154.28.81:2052/play/a088
 http://www.deadlyblogger.com/NewRelease/talla.mp4
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",TALOS FM 88.6
 http://eco.onestreaming.com:8840/stream
+#EXTINF:-1 group-title="webcam_Portugal",Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",TAMASHA (720p)
 https://sdm.telewebion.com/live/hdtest/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Tamazight (360p)
@@ -30747,6 +31205,10 @@ http://187.49.191.6:8080/play/a023/index.m3u8
 http://187.49.191.6:8080/play/a022/index.m3u8
 #EXTINF:-1 group-title="Amerika_COLOMBIA",TDI Colombia (936p) [Not 24/7]
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TDM - Teledifusão de Macau (CN)
+https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TDM - Teledifusão de Macau (PT)
+https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="ASIA_China_ÇİN LONG BUFFERS",TDM Info. Macau
 http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TDM Info. Macau (720p) [Not 24/7]
@@ -30893,12 +31355,16 @@ https://mediastreamm.com:3126/live/tele2000live.m3u8
 http://200.229.147.16:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",TeleArena (576p)
 http://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",Telebasel (432p)
+https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",Telebelluno (400p)
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 #EXTINF:-1 group-title="Amerika_DOMINICAN REPUBLIC",TeleBendicion (720p) [Not 24/7]
 http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
 #EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",TeleBielingue (720p)
 https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",TeleBielingue (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",TeleBoario (360p) [Not 24/7]
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",TeleChiara (720p)
@@ -31939,6 +32405,8 @@ http://41.224.0.27:8877/play/a06s
 http://188.40.68.167/russia/tiji/playlist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",TIM HD
 http://194.242.100.24:6666
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",Time Line (720p)
@@ -32347,6 +32815,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6
 https://tourismf.80.yayin.com.tr/;?_=0.8151082637915328
 #EXTINF:-1 group-title="EU_France_FRANSA",Toute L Histoire
 http://41.224.0.27:8877/play/a0br
+#EXTINF:-1 group-title="Arabic_ARAPCA",Towheed TV (720p) [Not 24/7]
+http://51.210.199.1/hls/stream.m3u8
 #EXTINF:-1 group-title="*VOD MOVIES ENG+DUBBED",TOY STORY OF TERROR
 http://www.deadlyblogger.com/NewRelease/storyterror.mp4
 #EXTINF:-1 group-title="03INT_MIX",Toy Zone
@@ -32523,6 +32993,8 @@ http://212.42.193.122:8888/play/a021/index.m3u8
 http://45.148.147.13:8011/play/a043
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Travel Channel
 http://31.173.178.110:8004/play/a05x/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TRAVEL CHANNEL
+https://channel.streams.ovh:1936/travelchannel/travelchannel/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_USA * TEST",Travel Channel (East)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1680
 #EXTINF:-1 group-title="Amerika_USA * TEST",Travel Channel (West)
@@ -32547,6 +33019,8 @@ http://iptv.prosto.tv:7000/ch202/video.m3u8
 http://213.226.137.133:81/tl/l14/mpegts
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Travel Mix
 http://79.114.34.202:8000/play/a05y
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Travel Mix
+http://89.38.8.131:39520/
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Travel Mix (576p)
 http://89.38.8.131:39520
 #EXTINF:-1 group-title="EU_BULGAR-BULSAT",Travel TV
@@ -32629,6 +33103,8 @@ http://trk555.tv:8888/live
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",TRO
 http://37.17.12.119:8907/play/a00g
+#EXTINF:-1 group-title="webcam_Portugal",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_PLUTO",TROL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="EU_France_PLUTO",TROLL TV
@@ -33257,6 +33733,8 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TV Galícia
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIX",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX 1",Tv Gazeta
@@ -33443,6 +33921,8 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TV Plus Suceava
+http://85.186.146.34:8080/
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Ponta da Serra | BR
 https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV Pop (720p)
@@ -33485,6 +33965,10 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Santa Cruz (720p)
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TV Sat
+http://89.38.8.130:39443/
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TV SE
+http://89.38.8.130:39419/
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TV SE (576p)
 http://89.38.8.130:39419
 #EXTINF:-1 group-title="EU_Italia_ITALYA",TV Sei (576p) [Not 24/7]
@@ -33831,6 +34315,8 @@ http://45.181.122.17:8000/play/a02q
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1278619934.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TVE
 http://187.94.148.4:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVE 24h
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TVE RS (1080p) [Not 24/7]
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TVE | BR
@@ -33887,8 +34373,12 @@ https://events2-crtvg.flumotion.com/playlist.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 group-title="Amerika_COLOMBIA",TVGracia (720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIyIDY6MDo0IFBNJmhhc2hfdmFsdWU9ZFFJazA1VlJwZmlHTktmNU5uWkQ0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQwMGE5ZjBhLTBmZGYtNDZkMS1hNTZmLWYxMjk5YmVhNTMxZg==
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVI (480p)
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIyIDY6MDo0IFBNJmhhc2hfdmFsdWU9MWhnN0EyaXhCUWdIRGxQSExWSC9LQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY2YmVjZWU3LTRiNDktNGYzZS05MGFhLWE4Y2RhZmVhZGY5Mg==
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVI24 (480p)
@@ -33913,6 +34403,10 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="EU_Portugal_PORTEKİZ",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",TVM3 (1080p)
+https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_PANAMA",TVMAS
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVMAX
@@ -33961,6 +34455,8 @@ http://31.24.12.113:8080/play/b05l
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",TVO (576p)
 https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtpshSvwcy.m3u8
+#EXTINF:-1 group-title="DE_SCHWEIZ SWITZERLAND",TVO (CH) (1080p) [Not 24/7]
+https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TVO (San Vicente) (270p)
 https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Canada",TVO Kids
@@ -33985,34 +34481,52 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 1
 http://77.89.204.105:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 1 (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 2
 http://77.89.204.105:8001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist_b6240000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 2 (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 3
 http://79.114.34.202:8000/play/a03l
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 3
 http://77.89.204.105:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/chunklist_b2144000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR 3 (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Cluj
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Cluj (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Craiova
 https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Craiova (720p) [Not 24/7]
 https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Iași (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR International (720p) [Not 24/7]
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR MOLDOVA
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b6096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Moldova (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Timișoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Timișoara (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Tirgu Mures
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVR Târgu Mureș (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",TVR.1
@@ -34041,16 +34555,22 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Bengkulu (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI DKI Jakarta (480p) [Not 24/7]
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Gorontalo (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Jambi (480p) [Not 24/7]
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Jambi (720p) [Not 24/7]
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Jawa Barat
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Jawa Barat (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",TVRI Jawa Tengah (480p)
@@ -34189,6 +34709,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVSat (576p)
 http://89.38.8.130:39443
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",TVSE
+http://89.38.8.130:39422/
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",TVSN
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA+NZeland",TVSN
@@ -34207,6 +34729,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TVídeoNews (720p) [Not 24/7]
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",TWR
 http://51.154.28.81:2052/play/a07r
 #EXTINF:-1 group-title="Amerika_USA * LOCALS",TX | Abilene | FOX Net
@@ -34701,6 +35225,8 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1583
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
 #EXTINF:-1 group-title="ENG Great Britain_England_Ingiltere",UTV
 http://45.153.35.221:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",UTV
+http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
 #EXTINF:-1 group-title="AFRICA_AFRIKA",UTV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",UTV ACTION-Rs 2
@@ -35151,6 +35677,14 @@ https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
 https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/chunklist_w1657085036.m3u8
 #EXTINF:-1 group-title="EU_Italia_ITALYA",Videostar Canale 193 (576p) [Not 24/7]
 https://5cbd3bc28341f.streamlock.net:444/videostar_live/videostar/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Vila Nova de Milfontes - Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Vila Nova de Milfontes - Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Vila Praia de Âncora
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",Villa Altagracia TV
 https://inliveserver.com:1936/10016/10016/chunklist_w433325697.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Vintage TV * | BR
@@ -35375,6 +35909,8 @@ https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",Vouli Tileorasi
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV CY
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV3
@@ -35399,6 +35935,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Voz de Poder (720p)
 https://v2.tustreaming.cl/vozdepoder/index.m3u8
+#EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",VP TV
+http://89.38.8.130:39437/
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",VP TV (576p)
 http://89.38.8.130:39437
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",VP Большое кино
@@ -36385,8 +36923,12 @@ http://46.174.83.66/Zdorovoe_TV/mpegts
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ZEE AFLAM
 http://45.94.31.190:7003/play/a0c5
+#EXTINF:-1 group-title="Arabic_ARAPCA",Zee Aflam (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ZEE ALWAN
 http://45.94.31.190:7003/play/a0c6
+#EXTINF:-1 group-title="Arabic_ARAPCA",Zee Alwan (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",ZEE BANGLA HD-Rs19
 http://58.27.219.166:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="ASIA_Indonesia",Zee Bioskop
@@ -36713,6 +37255,8 @@ http://safakradyo.com:2626/;stream.mp3
 http://92.62.234.233/slagr2.m3u
 #EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Šlágr 2
 http://92.62.234.233/slagr2.m3u#.m3u8
+#EXTINF:-1 group-title="EU_Czech+HU+Polski+DE",Šlágr TV (576p)
+https://stream-6.mazana.tv/slagr.m3u
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",ΑΝΤΕΝΝΑ FM 102.7
 http://r1.cloudskep.com/radio2/ant1fm/icecast.audio
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",Βουλή Τηλεόραση (540p)
@@ -39905,6 +40449,8 @@ http://212.113.38.100/hls/9f3d8a00e5da17f649f173ea361c1919//m1/Legacy.of.Lies.20
 https://vs58.vcdn.biz/9f755094ef0d0e8ab8ed684e6308d7ec_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/557891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1027271478-b2000000.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Настоящее время
 http://iptv.prosto.tv:7000/ch39/video.m3u8
+#EXTINF:-1 group-title="RUS+Armenia_ERMENİSTAN",Настоящее Время (480p)
+http://ott-cdn.ucom.am/s61/index.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Настоящие боссы
 http://212.113.38.100/hls/22b9c610f26f9d7190f031682fd6be5e//fhd/Like.a.Boss.2020.BDRip.1080p.seleZen.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Настя (1994)

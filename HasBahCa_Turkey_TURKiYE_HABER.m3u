@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="*TÜRK_HABER",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",24 TV (yedek)
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",24 TV (yedek)
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",A HABER (yedek)
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_HABER",AKIT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",BBN Türk
+https://ankara.tvizlehd.com/live/bbnturk.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",BENGÜ TÜRK
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",BLOOMBERG HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",BLOOMBERG HT (yedek)
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",BLOOMBERG HT (yedek)
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Cem TV
+https://ankara.tvizlehd.com/live/cemtv.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",CNN TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",CNN Türk
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",DHA Canlı 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",DHA Canlı 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HABER 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Haber Global
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HABER TÜRK
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HABER TÜRK (yedek)
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_HABER",Habertürk
+https://livex458745.livestreamlive.xyz/haberturk.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HALK TV
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Halk TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",KRT TV
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",NTV (yedek)
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TASC TV
+http://stream.tasc.tv:5080/WebRTCApp/streams/524722660612178507728771.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TELE 1
+http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Tele 1
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TGRT HABER (yedek)
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TR: TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TR: TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TRT Haber
+http://84.22.33.214/TRTHaber/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TRT HABER (yedek)
+http://iptvmasterlink.dyndns.org:8080/Entry/trthaberhd_yeni/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",Ulusal Kanal
+https://livex458745.livestreamlive.xyz/ulusal.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",YOL TV
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",ÜLKE
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8

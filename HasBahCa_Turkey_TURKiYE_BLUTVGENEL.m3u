@@ -65,6 +65,20 @@ https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TLC TR
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABER GLOBAL HD
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABERTURK HD
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: KANAL 7
+https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: NTV HD
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: STAR TV
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK HD
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK TV HD

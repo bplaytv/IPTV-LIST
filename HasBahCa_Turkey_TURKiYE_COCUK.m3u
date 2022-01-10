@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="*TÜRK_COCUK",blutv Kids
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",CARTOON NETWORK TR
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
+#EXTINF:-1 group-title="*TÜRK_COCUK",CARTOON NETWORK TR
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",DISNEY CHANNEL TR
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",EBA TV Lise
+https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",EBA TV Ortaokul
+https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",EBA TV İlkokul
+https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",MINIKA COCUK
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_COCUK",MINIKA GO
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",MINIKA GO
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_COCUK",Minika Çocuk
+https://lives2.canlitv.center/minikacocuk.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",Niloya TV
+https://nilotv.ozelip.com:3665/multi_web/play.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",Sevgim Çiçeği TV
+https://5be5d840359c6.streamlock.net/sevgicicegi/sevgicicegi/chunklist_w988948456.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",TR: TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_COCUK",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8

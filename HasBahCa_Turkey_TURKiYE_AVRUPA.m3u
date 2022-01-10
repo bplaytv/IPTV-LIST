@@ -1,29 +1,47 @@
 #EXTM3U
-#EXTINF:-1,ATV Avrupa
-http://185.226.88.3:1036/live/backup/backup/155.m3u8
-#EXTINF:-1,TV Avrupa
-http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1,İsviçre TV
-http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
-#EXTINF:-1,Almanya TV
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Almanya TV
 http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:-1,EURO D
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",ATV Avrupa
+http://185.226.88.3:1036/live/backup/backup/155.m3u8
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",ATV Avrupa
+http://31.24.12.113:8080/play/b03p
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Elit TV HD
+http://31.24.12.113:8080/play/b07b
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",EURO D
 http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
-#EXTINF:-1,EURO D
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,EURO D
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-#EXTINF:-1,Euro Genç TV
-https://dcunilive258-lh.akamaihd.net/i/dclive_1@126972/index_150_av-p.m3u8
-#EXTINF:-1,EURO STAR
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",EuroD
+http://31.24.12.113:8080/play/b03b
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Eurostar
+http://31.24.12.113:8080/play/b032
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1,SHOW TÜRK
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Kanal 7 Avrupa
+http://31.24.12.113:8080/play/b033
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Kanal Avrupa
+http://31.24.12.113:8080/play/b08v
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",Kibris TV
+http://31.24.12.113:8080/play/b08q
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",SHOW TÜRK
 http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
-#EXTINF:-1,SHOW TÜRK
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-#EXTINF:-1,TGRT EU
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",ShowTurk
+http://31.24.12.113:8080/play/b02k
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1,TV8 INT
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",TGRT EU
+http://31.24.12.113:8080/play/b046
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",TV Avrupa
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",TV8int
+http://31.24.12.113:8080/play/b03c
+#EXTINF:-1 group-title="*TÜRK_AVRUPA",İsviçre TV
+http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8

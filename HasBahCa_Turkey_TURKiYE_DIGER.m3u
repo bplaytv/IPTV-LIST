@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="*TÜRK_DIGER",Albayrak Ajans
+https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",ARTI TV (1080p)
+http://176.10.117.18:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Bilsen Bizim TV
+http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Business Channel Türk
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",CEM TV
+http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Düğün TV
+https://5864df9ceac85.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist_w1932197580.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Fındık TV
+https://tv170.ozelip.com:1936/findiktv/findiktv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Guek
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+#EXTINF:-1 group-title="*TÜRK_DIGER",Hayran TV
+http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Kardeş TV
+http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Maximum TV
+http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Medya 24
+https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Misket TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1 group-title="*TÜRK_DIGER",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist_w395051295.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",SAT 7 TÜRK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",SEMERKAND
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Super Türk TV
+http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",SZC
+https://ankara.tvizlehd.com/live/sozcutv.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TBRT Kanal 1
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TBRT Kanal 6
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TC TV
+http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Turkuvaz Kovboy
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+#EXTINF:-1 group-title="*TÜRK_DIGER",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",tvO
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Türkay TV
+https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Uzay Haber
+https://livesx.canlitv.center/uzayhaber2.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Avrupa Yakası
+https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w1855313850.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Bizimkiler
+https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w922421904.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Kemal Sunal
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1839200918.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Recep İvedik
+https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w1540882173.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Türk Sineması
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w857099784.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Yeşilçam Komedi
+https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1220276431.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Yeşilçam Nostalji
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1875254040.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Şener Şen
+https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1898736178.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Premium
+https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Sinema
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Yaren TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist_w1479224570.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Yarımada TV
+http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Üniversite TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist_w662238065.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",Şaban TV
+http://ankara.tvizlehd.com/live/sabantv.m3u8

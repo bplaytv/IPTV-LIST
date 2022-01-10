@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",BELGESEL
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",blutv Belgesel
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index_3.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",D MAX
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",NOSTALJI
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TLC TR
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TLC TR
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_BELGESEL",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
