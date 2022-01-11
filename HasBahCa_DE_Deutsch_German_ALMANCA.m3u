@@ -1,0 +1,989 @@
+#EXTM3U
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",1-2-3.tv HD
+http://194.76.186.77:8090/play/a00b
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",3 SAT
+https://zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/b86e28c244b21d0de01736d44ac9fb78/3/3.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",3sat HD
+http://194.76.186.77:8090/play/a03x
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Action Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ARD alpha HD
+http://194.76.186.77:8090/play/a043
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",arte HD
+http://194.76.186.77:8090/play/a00w
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Auto Motor Sport
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Avatar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600adbdf8c554e00072125c9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",BBC Travel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Beat Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Being Human
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Beverly Hills 90210
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afb576053df900076fa2f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Beyblade Burst
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",BILD HD
+http://194.76.186.77:8090/play/a00g
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Blaze
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b60419becf60008c841fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Blue's Clues
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b564ff59d130007363823/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",BR Fernsehen
+https://mcdn.br.de/bfs_sued/de/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Bubble Guppies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",CC Made in Germany
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",CC Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Channel21 HD
+http://194.76.186.77:8090/play/a00j
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Chaos City
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afbad343e3840007164348/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Cheers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Chefkoch
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Clubbing TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Comedy Central Made in Germany
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c716084d842c00085f6e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Dark Matter
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e843d849109b700075d5ada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Das Erste HD
+http://194.76.186.77:8090/play/a00v
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:AbsintheTV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/52cb6c9d-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Actionfilme - Rakuten TV
+https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Anixe HD (720p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:ARD-alpha (720p)
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:art-tv-ch
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/195bc34d-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Augsburg TV
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:auto motor und sport
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bachstiftung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV (720p)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV (720p)
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV Karlsruhe
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC Food
+https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Beauty TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a9232731-6fb0-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bergblick Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV (720p)
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV Hohenmölsen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV Hohenmölsen (1080p)
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bloomberg TV+
+https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Nord (720p)
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Nord (720p)
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus TV Magdeburg (1080p)
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Charlie
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Clubbing TV
+https://d2yhuzhcjz5de4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-DE-prod/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:CNN
+https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:CNN International (Germany)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Craction TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-palatin-cractiontv-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Das Erste (720p)
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Das Erste (720p)
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Deutsches Musik Fernsehen (720p) [Not 24/7]
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Donau TV
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Drama Filme - Rakuten TV
+https://2937ba9c0c3e46babadc32c327b710b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenTVShows/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:DUST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/gunpowder-dust-int-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:DW (480p)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:DW Deutsch (1080p)
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:DW Deutsch+ (1080p)
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:EAT CLUB TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f7858cd7-7d4c-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal Schönebeck
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal Schönebeck (576p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:eoTV HD (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Euronews Live
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:European League of Football TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-ottera-europeanfootballleague-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fabella
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FailArmy
+https://799e1e65b6954f11b65eba4ce0d6b8ae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FailArmy/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Family - Rakuten TV
+https://558441307ee2441fbd0f67ae40a04646.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenFamily/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fantasja
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fashion TV
+https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Fernsehen Magdeburg
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Filstalwelle (576p)
+http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Filstalwelle Göppingen
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Franken Fernsehen (1080p)
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Franken Fernsehen Nürnberg
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Friesischer Rundfunk Friedeburg (350p) [Not 24/7]
+https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FTF
+https://7fffe3f012a842fcaf3303e75eec1028.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FTFNextInternational/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FUEL TV
+https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:GoldStar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Grjngo
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/11edf121-80c2-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:gTV
+https://d18pgv3x27ap9o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Ubisoft-german-Germany-prod/ubi_ug.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Haldensleben TV
+https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Hallo:Eltern
+https://9b76b74987e54141b85aa9b3226b9612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_HALLOELTERN/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Hauptstadt TV (Potsdam)
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:health tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Health TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8df8031c-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Heimatkino.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Hip Trips
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d48ace9-7cd7-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Horse & Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-hnc-free-samsung-germany/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Insight HD (720p)
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insighttv-german-samsungtv-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:InWonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwonder-german-samsungtv-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Inwonder TV (720p)
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Isar TV (1080p)
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Itsin TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6f93baef-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Just cooking
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:K-TV (Fernsehen)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Kanal 12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Komödien - Rakuten TV
+https://d69cd6f2ab304e228ebea8afc7420983.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenComedyMovies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Kultur MD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:KulturMD Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Lausitzwelle (Fernsehen) (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Light Channel (576p)
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Minute Shorts
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/caabeb19-2887-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moconomy
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:MotorRacing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b13192-80c2-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Motorvision Classic
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moviedome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moviedome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedomefamily-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Muxx.tv (1080p) [Not 24/7]
+https://5856e1a25f71a.streamlock.net/easycast7-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Mystery Krimi
+https://d1gkt8v6hadmy7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MysteryKrimi-DE-prod/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MyTVplus (Dresden) (576p)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:München TV
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Nahe TV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Nanoki
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/09a1e54b-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Event 1 (720p)
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Event 2 (720p)
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Fernsehen (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Fernsehen (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Hamburg (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR International (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Weltweiter (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Netzkino
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NRWISION (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:nrwision Dortmund
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oberlausitz TV (1080p)
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oberpfalz TV Amberg
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:oeins Oldenburg
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Dessau (1080p)
+http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Dessau (1080p)
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Fulda
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Magdeburg (1080p)
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Merseburg (1080p)
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Kaiserslautern (720p) [Not 24/7]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Ludwigshafen (720p) [Not 24/7]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Mainz
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg-Querfurt (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK TV Südwestpfalz
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:One Terra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oscar am Freitag
+https://58de7a369a9c4.streamlock.net/oskar/_definst_/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Parlamentsfernsehen 1 (1080p)
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DE:Parlamentsfernsehen 2 (1080p)
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:PBS America
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:People Are Awesome
+https://20f120ffdbfd4b5e928df7c47a2862a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_PeopleAreAwesome/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Punkteins (Oberlausitz) (1080p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum Fernsehen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Punktum Südharz (1080p)
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qello Concerts by Stingray
+https://9af4a7b2b48b452494d36d45e6cffab9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayQelloConcerts/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio 21 Hannover
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio 21 TV (720p)
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Rakuten Stories
+https://e9937d5e420843fd89b67166d91331f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenSpotlight/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Ran1 Dessau-Roßlau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW
+http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Reuters
+https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH Harz (1080p)
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RheinMain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Rocket Beans TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d9b8d119-818d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rockland TV (720p)
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rockland TV - Mainz (720p)
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RON TV  (18:00 - 18:30)
+https://ron-i.akamaihd.net/hls/live/523496/ron/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL Gold (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL Klub (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL West (18:00 - 18:30)
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL+ (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RWE Erfurt
+https://stream.keyweb.org:8085/hls/rwetv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Saarland Fernsehen 2 (720p)
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-de/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sonus FM Alemania (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:SPIEGEL.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:sportdigital
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:spot on news
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bee5e646-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:SR Fernsehen (720p)
+http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Stingray Karaoke
+https://f72059bf9e3c46f6bea80af68e489193.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayKaraoke/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Studio 47 (576p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:SuperToons TV
+https://050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sylt1 (404p)
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Südthüringer Regionalfernsehen
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Südtirol TV (720p)
+https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Teletubbies
+https://39abeaa9edff457a8d0fda45c0f64e29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tempora
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tennis Channel Deutschland
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-int-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2a08fac9-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:The Pet Collective
+https://7e317da828ea423886a65e2693b23248.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ThePetCollective/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tierwelt
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5a7fe3dd-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Travelxp
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Bayern Live
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle (720p)
+http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV HALLE HD (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV38 Südost-Niedersachen
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TVA (1080p)
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TVO (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Unserding (544p)
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Unterhaltung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/728a293e-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Vevo Pop
+https://eu.linear.zype.com/7a727d8b-13f8-458f-b37e-c6fe35f39072/612c2923-5cb6-4291-8349-3dfbf27320f1-samsung-tv/live.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Vevo Schlager Pop
+https://eu.linear.zype.com/94b11c4d-b7ec-43fb-b1d4-53de5540df7b/a1c67f60-e917-41d5-86ab-dd1f4e252002-samsung-tv/live.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Waidwerk Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Watch4 Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:WDR Koeln (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:WDR Koeln (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Wilder Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Wissen 360°
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ca7b4f32-7b7d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:World Poker Tour
+https://e22c2098b9ac42adbbf965b46f869046.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_WorldPokerTour/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:XITE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Xplore Reisen
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Yogamour
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/aa5dae03-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Deluxe Lounge HD (720p) [Not 24/7]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Deluxe Music HD
+http://194.76.186.77:8090/play/a00c
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Disney Channel HD
+http://194.76.186.77:8090/play/a009
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",DMAX HD
+http://194.76.186.77:8090/play/a011
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Doctor Who Classic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d323e7b876760007ec9790/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Dora TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e43c344b54fe800093552f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",einfach magisch!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Eurosport 1 HD
+http://194.76.186.77:8090/play/a00m
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Focus TV Reportage
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f3bd0e63f793300071574cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Fuel TV (1080p)
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Glory Kickboxing
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Handystar TV HD
+http://194.76.186.77:8090/play/a00h
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",HSE24 EXTRA HD
+http://194.76.186.77:8090/play/a00a
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Ice Pilots
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",IGN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Insight TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f06bc60e236570007793f31/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Inspector Gadget
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Inspector Gadget
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",InTrouble
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1005f9d5d3cf00074c0395/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",InWonder
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1004e0a5714d000745650d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Just for Laughs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db2e7a62df960007a9b6b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Juwelo HD
+http://194.76.186.77:8090/play/a012
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Kabel Eins Doku HD
+http://194.76.186.77:8090/play/a00u
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",kabel eins HD
+http://194.76.186.77:8090/play/a00r
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",KiKA HD
+http://194.76.186.77:8090/play/a03y
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Loupe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054a72707c4580007979b82/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Loupe
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054a72707c4580007979b82/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MinecrafTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9bca67ef2767e1846e5a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Movies
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Movies CH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MST3K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4f56242d4ec87bdcbbb333/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MST3K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4f56242d4ec87bdcbbb333/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Catfish
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Catfish TV Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Cribs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Dating (OV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea813c04958cd00078e9caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",MTV HD
+http://194.76.186.77:8090/play/a00i
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV pluto.tv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Ridiculousness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Serie
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609536871db47700075a04bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Teen
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea812e0ba6c1f00079d3b7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Teen (OV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea812e0ba6c1f00079d3b7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV The Hills
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV The Hills (OV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea8147c6e3dd70007deab3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV The Shores
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV True Life
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609535365c2b8f000719d2ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",MTV Unplugged
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",N24 Doku
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",N24 Doku
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",nick Emma einfach magisch!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Nick Jr. Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",nick Jr. Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",nick Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Nick Rewind
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",NITRO HD
+http://194.76.186.77:8090/play/a01x
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ntv HD
+http://194.76.186.77:8090/play/a01a
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ONE HD
+http://194.76.186.77:8090/play/a042
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Paranormal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98487036af340008da1e37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",pearl.tv HD Shop
+http://194.76.186.77:8090/play/a013
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb95c119dc712000741fa35/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Animals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608181d420fc8500075f612a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Cats 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Chefkoch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Comedy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1efd0dbbe3ba000908b639/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Documentaries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Dogs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8dc1d8da13e15d9fce6911/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Explore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Fight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Fitness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Food
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV History
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Home
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Indies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce40e59246a395e9758923e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Inside
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Kultfilme
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dde47b63585b500099f74ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Live in Concert
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/603d01a55123740007f8375a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Live in Concert
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603d01a55123740007f8375a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Lives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db04b360fa2560009deb3de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Movies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Paranormal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98487036af340008da1e37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Retro Toons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Serie
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Sitcoms
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Space
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61409f8d6feb30000766b675/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152ee71bf99590007893a11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Surf
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Thrillers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf90ba3e0009d99082/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Pluto TV Yoga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Pro7 MAXX HD
+http://194.76.186.77:8090/play/a00t
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ProSieben HD
+http://194.76.186.77:8090/play/a00q
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",QVC STYLE HD
+http://194.76.186.77:8090/play/a00k
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",QVC ZWEI HD
+http://194.76.186.77:8090/play/a00d
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Rifftrax
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4f5bf8423e067bd6df90ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Rifftrax
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4f5bf8423e067bd6df90ca/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",RTL HD
+http://194.76.186.77:8090/play/a018
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",RTLZWEI HD
+http://194.76.186.77:8090/play/a01b
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Sam & Cat
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Sanctuary
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7de99bc5200300072e971a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SAT.1 Gold HD
+http://194.76.186.77:8090/play/a00l
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SAT.1 HD
+http://194.76.186.77:8090/play/a00p
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Simsalabim Sabrina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbc327d0451770009ed7577/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SIXX HD
+http://194.76.186.77:8090/play/a00s
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Slow TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Slow TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",sonnenklar.TV HD
+http://194.76.186.77:8090/play/a00z
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",SpongeBob Schwammkopf
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",SpongeBob Schwammkopf nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SPORT1 HD
+http://194.76.186.77:8090/play/a00e
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SR Fernsehen
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SR Fernsehen HD
+http://194.76.186.77:8090/play/a044
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Stingray Karaoke (1080p)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Strongman
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SUPER RTL HD
+http://194.76.186.77:8090/play/a01w
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SWR BW HD
+http://194.76.186.77:8090/play/a00x
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",SWR RP HD
+http://194.76.186.77:8090/play/a00y
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",tagesschau24 HD
+http://194.76.186.77:8090/play/a041
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Takeshi's Castle
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Takeshi's Castle
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Teen Nick
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Teen nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",TELE 5 HD
+http://194.76.186.77:8090/play/a010
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",Tesas TV
+https://jola.live:16200/tesastv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",The Asylum Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",The Story of Beatclub
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",TLC HD
+http://194.76.186.77:8090/play/a00f
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Totally Turtles
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Totally Turtles (OV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea816a44457070007ffabc7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Totally Turtles nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Unbeaten Esports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Victorious
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Victorious
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",VOX HD
+http://194.76.186.77:8090/play/a019
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",WELT Live Stream
+https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Wipeout
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb963c98ec06d00077d63cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Wipeout (OV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb963c98ec06d00077d63cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ZDF HD
+http://194.76.186.77:8090/play/a015
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",zdf_neo HD
+http://194.76.186.77:8090/play/a016
+#EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ZDFinfo HD
+http://194.76.186.77:8090/play/a03z
