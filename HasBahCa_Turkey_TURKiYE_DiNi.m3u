@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Camia TV
+https://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Diyanet TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mkYeDpwLkTAGy_0.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Diyar TV
+http://yerelmedya.tv:1935/diyartv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",FM TV
+https://livesx.canlitv.center/fmtv.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Gonca TV
+https://broadcasttr.com:446/tuncerciftci/bant1/chunklist_w66239823.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Kudüs TV
+https://yayin30.haber100.com/live/kudustv/chunklist_w1507895771.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Meltem TV
+https://livesx.canlitv.center/meltemtv.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Rehber TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:-1 group-title="*TÜRK_DİNİ",Vav TV
+https://ankara.tvizlehd.com/live/vavtv.m3u8

@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="*TÜRK_SPOR",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:-1 group-title="*TÜRK_SPOR",Aspor HD
-http://31.24.12.113:8080/play/b01j
 #EXTINF:-1 group-title="*TÜRK_SPOR",beIN Sports Haber
 https://ankara.tvizlehd.com/live/beinsporthaber.m3u8
-#EXTINF:-1 group-title="*TÜRK_SPOR",Bein Sports Haber HD
-http://31.24.12.113:8080/play/b09e
 #EXTINF:-1 group-title="*TÜRK_SPOR",Fenerbahçe TV (FBTV) (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 #EXTINF:-1 group-title="*TÜRK_SPOR",GALATASARAY TV
@@ -17,20 +13,12 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_SPOR",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-#EXTINF:-1 group-title="*TÜRK_SPOR",Sports TV
-http://31.24.12.113:8080/play/b02z
 #EXTINF:-1 group-title="*TÜRK_SPOR",Tivibu Spor
 https://ankara.tvizlehd.com/live/tivibuspor.m3u8
-#EXTINF:-1 group-title="*TÜRK_SPOR",Tivibuspor
-http://31.24.12.113:8080/play/b022
 #EXTINF:-1 group-title="*TÜRK_SPOR",TRT 3-SPOR
 http://195.155.98.170:5858/play/a09m
-#EXTINF:-1 group-title="*TÜRK_SPOR",TRT Spor 2 HD
-http://31.24.12.113:8080/play/b08t
 #EXTINF:-1 group-title="*TÜRK_SPOR",TRT SPOR HD
 http://195.155.98.170:5858/play/a09e
-#EXTINF:-1 group-title="*TÜRK_SPOR",TRT Spor HD
-http://31.24.12.113:8080/play/b04b
 #EXTINF:-1 group-title="*TÜRK_SPOR",TRT SPOR YILDIZ
 http://195.155.98.170:5858/play/a09u
 #EXTINF:-1 group-title="*TÜRK_SPOR",YABAN TV

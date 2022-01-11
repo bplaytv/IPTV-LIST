@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Ada TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Ada TV
 http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Ada TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",AL ZAHRA TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Altyn Asyr
@@ -29,8 +29,6 @@ http://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Azon TV (1080p) [Not 24/7]
 http://tv2.azon.uz/high/stream.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",AzTV
-http://31.24.12.113:8080/play/b05a
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BAKU TV
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Baku TV
@@ -42,17 +40,13 @@ http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 1 HD
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 2
-http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 2
 http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 2
-http://31.24.12.113:8080/play/b068
+http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 2 (Turkish)
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT 3
 https://ankara.tvizlehd.com/live/brt3.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",BRT HD
-http://31.24.12.113:8080/play/b05z
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",EL TV (432p)
@@ -65,28 +59,18 @@ http://media.finest.tv/hls/live.m3u8
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ictimai TV
-http://31.24.12.113:8080/play/b05c
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Idman TV
-http://31.24.12.113:8080/play/b05d
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",INTER AZ
 http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Kanal Sim
 http://kuzeykibris.tv/m3u8/tv_sim.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Kanal T FHD
 http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",KRT TV
-http://31.24.12.113:8080/play/b00m
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Kuzey Kıbrıs TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Kıbrıs TV
 http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Mayıs TV
 http://167.114.116.217:1935/live/mayistv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Medeniyet
-http://31.24.12.113:8080/play/b05e
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Mekke TV
-http://31.24.12.113:8080/play/b005
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Mədəniyyət TV (576p) [Not 24/7]
 http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ON4
@@ -115,8 +99,6 @@ https://live.al-zahratv.com/live/playlist2/index.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Turkmen Owazy
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Turkmeneli
-http://31.24.12.113:8080/play/b01l
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Turkmenistan TV

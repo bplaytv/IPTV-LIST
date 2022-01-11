@@ -31,10 +31,10 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",HABER 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
-#EXTINF:-1 group-title="*TÜRK_HABER",HABER GLOBAL
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",Haber Global
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",HABER TÜRK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",HABER TÜRK (yedek)
@@ -48,9 +48,9 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",KRT TV
 https://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",NTV (yedek)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",TASC TV
@@ -63,10 +63,10 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_HABER",TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="*TÜRK_HABER",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",TGRT HABER (yedek)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_HABER",TR: TRT HABER HD

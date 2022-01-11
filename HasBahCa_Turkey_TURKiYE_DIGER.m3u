@@ -56,9 +56,9 @@ http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
 #EXTINF:-1 group-title="*TÜRK_DIGER",TV DEN
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",tvO
@@ -67,22 +67,6 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",Uzay Haber
 https://livesx.canlitv.center/uzayhaber2.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Avrupa Yakası
-https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w1855313850.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Bizimkiler
-https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w922421904.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Kemal Sunal
-https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1839200918.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Recep İvedik
-https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w1540882173.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Türk Sineması
-https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w857099784.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Yeşilçam Komedi
-https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1220276431.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Yeşilçam Nostalji
-https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1875254040.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Vizyon Şener Şen
-https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1898736178.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Premium
 https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Sinema
