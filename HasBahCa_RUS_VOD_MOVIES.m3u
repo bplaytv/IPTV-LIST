@@ -423,10 +423,10 @@ https://vs22.vcdn.biz/749e8bdbc0cf399d92a13f493e7386b0_megogo/vod/hls/b/450_900_
 https://vs59.vcdn.biz/05b6aad25effb3644e3636d4247dec8b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11795171/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/2/type.amlst/chunklist-sid414684524-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Ведьмы
 http://212.113.38.100/hls/3b9dd2ae2d14851b4841cfe6651b3a29//fhd/The.Witches.2020.RU.ENG.264.WEB.DL.1080.MediaBit.m3u8
-#EXTINF:-1 group-title="RUSVOD_2 Comedy",Ведьмы из Сугаррамурди (2013)
-https://vs58.vcdn.biz/073010fdc7cf1b9854a0a206572fbabc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/3150121/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1612029500-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Ведьмы из Сугаррамурди (2013)
 https://vs58.vcdn.biz/073010fdc7cf1b9854a0a206572fbabc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/3150121/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1539494160-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_2 Comedy",Ведьмы из Сугаррамурди (2013)
+https://vs58.vcdn.biz/073010fdc7cf1b9854a0a206572fbabc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/3150121/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1612029500-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Великая красота (2013)
 https://vs40.vcdn.biz/4b5f0cf6bcd29f265b988161f3a706d9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35209761/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/6/type.amlst/chunklist-sid1793951153-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Великий мастер (2013)
@@ -1056,9 +1056,9 @@ https://vs13.vcdn.biz/11aae17e5a5427faa6117f37ef7afc46_megogo/vod/hls/b/450_900_
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Игра по-крупному (2008)
 https://vs52.vcdn.biz/bcb647a9d36cc1e6627208ca84bf4801_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/105331/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1405835364-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Игра Эндера (2013)
-https://vs55.vcdn.biz/9ad76293738c231f7a939fc33ac14d7f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15626291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid995756371-b2000000.m3u8
-#EXTINF:-1 group-title="RUSVOD_1 MIX",Игра Эндера (2013)
 https://vs19.vcdn.biz/9ad76293738c231f7a939fc33ac14d7f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15626291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1691095322-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_1 MIX",Игра Эндера (2013)
+https://vs55.vcdn.biz/9ad76293738c231f7a939fc33ac14d7f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15626291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid995756371-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_1 MIX",Игры киллеров (2011)
 https://vs53.vcdn.biz/596a10e004dfa51b2e18d7e908bbf45a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13196361/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1319389249-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Идеальные незнакомцы (2016)
@@ -1411,8 +1411,6 @@ https://vs40.vcdn.biz/4acae9ec2b29c14bfd941e6218e1277c_megogo/vod/hls/b/450_900_
 https://vs46.vcdn.biz/54004eb71f2310ad4fa45dff3533835f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38097761/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/7/type.amlst/chunklist-sid507393376-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Любовь и кухня (2011)
 https://vs21.vcdn.biz/40a97513d3a3e63246bede5f060c13cd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/104621/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid741844693-b2000000.m3u8
-#EXTINF:-1 group-title="RUSVOD_2 Comedy",Любовь и секс на Ибице (2013)
-https://vs13.vcdn.biz/a2cedd6e27ccf5d138617bfc072a8e84_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34649441/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid46080493-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Любовь или секс (2013)
 https://vs36.vcdn.biz/0a872ca7e5a031a545b51338c8b41d0f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33383041/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/1/type.amlst/chunklist-sid1378540311-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",Любовь как спорт (2015)
@@ -2815,8 +2813,6 @@ http://212.113.38.100/hls/fac5ca021e1a5eefdc65326f4e0c1f73//fhd/Honest.Thief.202
 http://212.113.38.100/hls/0ae29e85c7c4d833d2b6d19e8b8b9406//fhd/Cestnyi.kandidat.2020.x264.WEB-DL.1080MediaBit.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",Чиполлино
 https://mults.info/mp4/chipollino.mp4
-#EXTINF:-1 group-title="RUSVOD_1 MIX",Чистильщик (2007)
-https://vs52.vcdn.biz/19e3fae4513507aba40f51de474ba890_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/93641/u_uid/0/u_vod/3/u_device/cms_html5/a/13/type.amlst/chunklist-sid343748510-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_2 Comedy",что будет (2009)
 https://vs49.vcdn.biz/f42821ec49f9de24c797373e5ecff800_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11922111/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid311452734-b2000000.m3u8
 #EXTINF:-1 group-title="RUSVOD_3 cartoons",что в кузнице не было гвоздя 1990г.
