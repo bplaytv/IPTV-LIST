@@ -1,0 +1,397 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",103.1 FM
+http://www.ch2ofm.ca:85/broadwave.mp3
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",181.fm  80's Hairband
+http://relay.181.fm:8128/
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",24/7 Canal de Noticias (720p)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",24/7 Canal de Noticias (720p)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",5RTv (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",AgrotendenciaTV (480p)
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",AMEN RADIO
+http://stream2.emisorasvirtuales.com:8144/;
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",América TV (360p)
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Argentinísima Satelital (576p)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=1
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ayvtv TELEVISION__Ayvnewlogo1
+https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",BACKUSTV
+http://stream.backustv.ru/content/39837/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",BACKUSTV Страшное
+http://stream.backustv.ru/content/39864/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",BELLAVISION HD
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 10
+https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w507702324_b1128000.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 11 La Rioja (360p)
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 12 Puerto Madryn (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 13 LA RIOJA
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 2 Jujuy (720p) [Not 24/7]
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 2 SANAGASTA
+https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 3 Rosario (576p) [Geo-blocked]
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 32 SPTV SAN PEDRO
+https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 4 Jujuy (720p)
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 4 TELEAIRE
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 5
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 5 RADIO 89.3 FM
+http://163.172.198.16:8076/;
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 54 LATINO EN DIRECTO
+http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1385824283_b868352.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w449411568.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w449411568.m3u8?_=1
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal 9 (Comodoro Rivadavia)
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 9 RIO CUARTO
+http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal Diocesano
+https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL ENCUENTRO  22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal Europa
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL HM
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913044177.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Canal Provincial (San Miguel) (360p)
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL.9 MULTIVISION
+https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL.9 MULTIVISION
+https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL.9 MULTIVISION (720p) [Not 24/7]
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",canal3 los Heros paralelo 46tv
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Catacama TV (1080p)
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CatholicTV Network Official
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CHIQUILINES
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Cinco TV (480p) [Not 24/7]
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINE ACCIÃ“N
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINE ESTELAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINE REAL
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/384x216_589600/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINE ROMANCE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINEMA+
+https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CINEMAX HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CL3 Cablevisión
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Claro Sports (480p)
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CN3 Pinamar (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CONTROL MUSIC 88.2 FM
+http://node-07.zeno.fm/41p4wfy92mruv?rj-ttl=5&rj-tok=AAABb_OjdSoAhnyPPAJwfq9-Ig
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Crackle  Movies & TV
+https://crackle-xumo.amagi.tv/playlistX1080p.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Crossing TV (Crossing Contenidos) (720p)
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CubaVision Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Culture Mixx Radio JAMAYCA
+http://edge.mixlr.com/channel/euckm
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CW THE
+https://cdn1-4p.teleuptv.net/db0ffe8b-8b0d-402f-9224-4398038c5c60/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",DANCE
+http://k2.usastreams.com/yeah1075
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",DRAMA+ PLUTO.TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3a2ed1cd-e3a3-4fa3-bdbc-94e7363ca0cf&deviceId=5ddbf866b1862a0009a0648e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",EL PALOMAR TV HD
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ElOnce (1080p) [Not 24/7]
+https://elonceovh.elonce.com/hls/live.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",EWTN CANAL CATÓLICO
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",EWTN el Canal Católico (1080p)
+https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",EXA 102.7 FM
+http://radios-cr.cdn.nedmedia.io/radios/exa.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Fenix TV
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",FLOW RADIO.FM
+http://radiohd.streaminghd.co:7014/live
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",FM SUPER CLASSIC
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",GALAXY TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",GUAYMATE HD
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Gulli GIRL FULL.HD
+http://194.190.78.91:8080/Gulli_OT/video.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",HCT HD
+https://sc.id-tv.kz/NSTV_34_35.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",HEi RADIO 91.9.FM
+http://copaco.desdeparaguay.net/movhei/movhei.stream/chunklist_w1270124057.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",HispanTV (480p)
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Imagen TV Canal 5 Rioja
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Informacion Periodística (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LA MEJOR CR 99.1 FM
+http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",La Voz de Tucuman (480p)
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LATINA
+https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LOCAL NOW MOVIE 90
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LOCAL NOW PG
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",MAXIMA
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Medios Rioja (864p) [Not 24/7]
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",MICROVISIÓN
+https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",MIRADOR  22.3
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",MULTIVISION SALTA HD
+https://panel.dattalive.com:443/8250/8250/chunklist_w1060032190.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Multivisión Federal (720p) [Not 24/7]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",NET CA HD
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Net TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Net TV (720p)
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",NOVELAS THRILLER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",OMEGA 105.1 FM
+http://rtvhd.net:9932/;*.mp3
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ON El Zol 106.7 (WXDJ-FM)
+https://prod-54-86-154-111.wostreaming.net/sbsystems-wxdjfmaac-hlsc1.m3u8/?z=ef222bdc910f4616afe384dba87cf717&p=1
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",OYE 89.7 FM MEX
+http://18493.live.streamtheworld.com/XEOYEFMAAC.aac
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",panama
+http://rosetta.shoutca.st:8931/stream/1/
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",PARAMOUNT COMEDY
+http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",PLEX.TV
+https://www.plex.tv/wp-content/uploads/2021/03/AMC_VideoBanner_V5.mp4
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Power TV (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Q TEJA 90.7 FM
+http://162.144.149.103:9302/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODgyMjc2NCwiaXNzIjoidGlzcnYifQ.W38YBxG3H_3jIXd4E0x3WWA_eT4cMnQfDsSL1MSnB7I
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Quatro TV (540p) [Not 24/7]
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO ALLO STATO PURO M20 FITALIA
+https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO DISNEY
+http://ic.streann.com:8000/disneycostarica
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio Extrema
+https://embed.unored.tv/stream/index.php?s=unoredradio.com&p=9948&m=;stream
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO FIDES
+http://68.235.56.131:8023/;*.mp3
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO MANAGUA
+http://radios-cr.cdn.nedmedia.io/radios/managua.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio María 100.7 FM
+http://dreamsiteradiocp2.com:8044/;stream/1
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio PONdENDS JAM
+http://198.178.123.20:7000/stream/1/
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO SINAI 103.9 FM
+http://ns520300.ip-198-27-68.net:8785/stream/1/
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio Tiempo Medellin
+http://i50.letio.com/9100.aac
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Radio TV Neuquen (720p) [Not 24/7]
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RADIO UGA.TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RAKUTEN.TV CINEMA
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Restaurando Vidas Internacional (720p)
+http://v4.tustreaming.cl/restaurandovidastv/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RETROPLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RT en Español (1080p) [Not 24/7]
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",RUN:TIME LATINO
+https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Rádio MegaSom
+http://centova17.ciclanohost.com.br:8341/;stream.mp3
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Santa María TV (360p) [Not 24/7]
+http://www.trimi.com.ar/santa_maria/streaming/mystream.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",SCI FI ESPAÑOL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TELE DIEZ
+https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Teleclásicos (320p)
+https://tvdatta.com:3484/stream/play.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Telefe Rosario (720p)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Telenord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Telesol (TLS) (360p) [Not 24/7]
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",teleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Telpin TV (1080p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Telpin TV Canal 2 HD (720p)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TERROR 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TERROR 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Tevex (720p)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",THT HD
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",THT HD
+https://edge1.iptv.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Tierra Mía TV (480p)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TOP CINE HD
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/384x216_589600/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TOP LATINO RADIO PERU
+http://online.radiodifusion.net:8028/stream/1/
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TU CINE HD
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV COSTA
+http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV COSTA
+http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV Maná Argentina (576p) [Not 24/7]
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV MAS
+https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w1374383399.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV MAS
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV ONE
+https://www.digitalsky.com.kh/uploads/videos/OneTV-Sabay_19_05_2018_2.mp4
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV PLATA
+https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TV SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVS MARACAY
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VIP COMIDY HD
+http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VISION.TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w58684704.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VISION.TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w58684704.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VOiCE OVER radio tv
+https://voiceovercr-zikoxweb.radioca.st/;
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",VPItv (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",WAO 92.3 FM
+http://streamer.teknoweb.co/s98074e491/listen
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",X24 TUCUMAN
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",XTREMO RADIO CR
+http://166.88.21.98:9948/;
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ZETA 95.1 FM CR
+https://radios-cr.cdn.nedmedia.io/radios/zfm.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Argentina_Arjantin",ZP.TV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8

@@ -5,8 +5,6 @@ http://51.210.199.43/hls/stream.m3u8
 http://45.94.31.190:7002/play/a0bl
 #EXTINF:-1 group-title="Arabic_ARAPCA",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",3eesh Al Aan TV (720p)
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",4 BILLBOARD
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",4 KURD
@@ -43,10 +41,6 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Aloula (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Drama (1080p)
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Drama TV
-http://31.24.12.113:8080/play/b08p
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Sports 2
@@ -57,8 +51,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi TV
-http://31.24.12.113:8080/play/b00a
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi TV (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Abu Dhabi TV HD
@@ -89,6 +81,12 @@ https://sdm.telewebion.com/live/aftab/playlist.m3u8
 http://45.94.31.190:7002/play/a0bg
 #EXTINF:-1 group-title="Arabic_ARAPCA",Aghapy TV (1080p)
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Ahlulbayt TV (404p) [Not 24/7]
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Ajman (480p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
 #EXTINF:-1 group-title="Arabic_ARAPCA",AJMAN HD
 http://45.94.31.190:7003/play/a0ba
 #EXTINF:-1 group-title="Arabic_ARAPCA",Ajyal (720p)
@@ -97,6 +95,8 @@ http://htvmada.mada.ps:8888/ajyal/index.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Ajyal TV (720p) [Not 24/7]
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Aan (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
 #EXTINF:-1 group-title="Arabic_ARAPCA",AL AHAD HD
 http://45.94.31.190:7002/play/a0aw
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Alam (576p) [Not 24/7]
@@ -113,8 +113,10 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 http://45.94.31.190:7001/play/a0ab
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya TV
-http://31.24.12.113:8080/play/b013
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Araby 2 HD
 http://45.94.31.190:7003/play/a0bc
 #EXTINF:-1 group-title="Arabic_ARAPCA",AL ASRAR TV
@@ -123,6 +125,8 @@ http://45.94.31.190:7002/play/a0bf
 http://45.94.31.190:7002/play/a0av
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Basira
 http://45.94.31.190:7002/play/a0bi
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Dafrah TV (1080p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Emarat TV (1080p)
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Emarat TV HD
@@ -135,6 +139,10 @@ http://45.94.31.190:7003/play/a0cb
 http://45.94.31.190:7002/play/a0ao
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath HD
 http://45.94.31.190:7004/play/a0bn
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hayat
 http://45.94.31.190:7004/play/a0c8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Al Hayat TV (720p)
@@ -271,8 +279,6 @@ http://45.94.31.190:7002/play/a0cq
 http://45.94.31.190:7003/play/a0c4
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Albahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u83116400149
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALBORZ (576p)
 https://sdm.telewebion.com/live/alborz/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alerth Alnabawi
@@ -349,8 +355,6 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALSALAM
 http://45.94.31.190:7002/play/a0a7
-#EXTINF:-1 group-title="Arabic_ARAPCA",Alsharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u886757236
 #EXTINF:-1 group-title="Arabic_ARAPCA",ALWAQIE TV HD
 http://45.94.31.190:7002/play/a09r
 #EXTINF:-1 group-title="Arabic_ARAPCA",Alwasat TV (1080p)
@@ -371,8 +375,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.
 http://45.94.31.190:7001/play/a0ad
 #EXTINF:-1 group-title="Arabic_ARAPCA",Aryen TV
 http://45.94.31.190:7004/play/a0bh
-#EXTINF:-1 group-title="Arabic_ARAPCA",Asharq (1080p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ASHARQ NEWS CHANNEL
 http://45.94.31.190:7003/play/a0c3
 #EXTINF:-1 group-title="Arabic_ARAPCA",Asharq News Channel HD
@@ -433,6 +435,10 @@ http://45.94.31.190:7002/play/a0cr
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 group-title="Arabic_ARAPCA",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 group-title="Arabic_ARAPCA",Bee Movies (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:-1 group-title="Arabic_ARAPCA",Bee Theater (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
 #EXTINF:-1 group-title="Arabic_ARAPCA",BEIRUT AFLAM
 http://45.94.31.190:7002/play/a0cs
 #EXTINF:-1 group-title="Arabic_ARAPCA",BEIRUT ALYOOM
@@ -498,9 +504,9 @@ http://45.94.31.190:7003/play/a0b8
 #EXTINF:-1 group-title="Arabic_ARAPCA",COOKIES KIDS
 http://45.94.31.190:7002/play/a0cz
 #EXTINF:-1 group-title="Arabic_ARAPCA",Coptic TV (720p)
-https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Coptic TV (720p)
 https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Coptic TV (720p)
+https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",CTV
 http://45.94.31.190:7002/play/a0bq
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dakhla
@@ -514,9 +520,9 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dijlah (576p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dijlah TV
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Dijlah TV
 http://45.94.31.190:7002/play/a0as
+#EXTINF:-1 group-title="Arabic_ARAPCA",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dohat Al-Quraan
 http://45.94.31.190:7002/play/a09f
 #EXTINF:-1 group-title="Arabic_ARAPCA",DOLLY MOSALSALAT
@@ -550,9 +556,9 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 #EXTINF:-1 group-title="Arabic_ARAPCA",DUBAI ONE (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai One (1080p)
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Dubai One (1080p)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Dubai One (English) (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",DUBAI Racing (1080p)
@@ -697,10 +703,6 @@ http://51.210.199.12/hls/stream.m3u8
 http://51.210.199.7/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",iFILM (720p)
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",iFILM Arabic (720p)
-https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",iFILM English [Geo-blocked]
-https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",iFILM Persian 2 [Not 24/7]
 https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ILAM (576p)
@@ -753,8 +755,6 @@ https://sdm.telewebion.com/live/namayesh/namayesh_dvr-480p/index.m3u8?uid=0
 https://sdm.telewebion.com/live/nasim/nasim_dvr-480p/index.m3u8?uid=0
 #EXTINF:-1 group-title="Arabic_ARAPCA",IRIB Pooya (480)
 https://sdm.telewebion.com/live/pooya/pooya_dvr-480p/index.m3u8?uid=0
-#EXTINF:-1 group-title="Arabic_ARAPCA",IRIB Tamasha (480)
-https://sdm.telewebion.com/live/hdtest/hdtest_dvr-480p/index.m3u8?uid=0
 #EXTINF:-1 group-title="Arabic_ARAPCA",IRIB TV 1 (480)
 https://sdm.telewebion.com/live/tv1/tv1_dvr-480p/index.m3u8?uid=0
 #EXTINF:-1 group-title="Arabic_ARAPCA",IRIB TV 2 (576)
@@ -809,6 +809,8 @@ https://sdm.telewebion.com/live/atrak/playlist.m3u8
 https://sdm.telewebion.com/live/khalijefars/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",KHOOZESTAN (576p)
 https://sdm.telewebion.com/live/khoozestan/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Khyber Middle East TV (720p) [Not 24/7]
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",KISH (576p)
 https://sdm.telewebion.com/live/kish/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Koogi TV (1080p)
@@ -841,10 +843,10 @@ http://45.94.31.190:7002/play/a09n
 http://45.94.31.190:7002/play/a09l
 #EXTINF:-1 group-title="Arabic_ARAPCA",Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",KURDISTAN TV
 http://45.94.31.190:7004/play/a0b9
+#EXTINF:-1 group-title="Arabic_ARAPCA",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",KurdSat (720p)
@@ -879,14 +881,10 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 http://45.94.31.190:7002/play/a0bw
 #EXTINF:-1 group-title="Arabic_ARAPCA",LIBYA PANORAMA SD
 http://45.94.31.190:7004/play/a0cf
-#EXTINF:-1 group-title="Arabic_ARAPCA",Libya Tantakheb
-http://45.94.31.190:7002/play/a09w
 #EXTINF:-1 group-title="Arabic_ARAPCA",Libya WTV SD
 http://45.94.31.190:7002/play/a0c2
 #EXTINF:-1 group-title="Arabic_ARAPCA",LIBYAS CHANNEL
 http://45.94.31.190:7002/play/a0a8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Libyas Channel
-http://31.24.12.113:8080/play/b001
 #EXTINF:-1 group-title="Arabic_ARAPCA",Loveworld MENA
 http://45.94.31.190:7002/play/a0bu
 #EXTINF:-1 group-title="Arabic_ARAPCA",LTV
@@ -982,9 +980,9 @@ http://41.224.63.108:7788/play/a02g
 #EXTINF:-1 group-title="Arabic_ARAPCA",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Mohabat TV (540p)
-https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Mohabat TV (540p)
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Mohabat TV (540p)
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",MOSTANAD (720p)
 https://sdm.telewebion.com/live/mostanad/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",MTA3
@@ -1143,8 +1141,6 @@ http://51.210.199.20/hls/stream.m3u8
 http://45.94.31.190:7002/play/a0dg
 #EXTINF:-1 group-title="Arabic_ARAPCA",PLAY TODAY
 http://45.94.31.190:7002/play/a0d4
-#EXTINF:-1 group-title="Arabic_ARAPCA",PMC (1080p)
-https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",PMC (720)
 http://51.15.139.108/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",POUYA (720p)
@@ -1267,10 +1263,10 @@ https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
 http://45.94.31.190:7004/play/a0bp
 #EXTINF:-1 group-title="Arabic_ARAPCA",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_720p_chunks.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",RUDAW TV
 http://45.94.31.190:7002/play/a0au
+#EXTINF:-1 group-title="Arabic_ARAPCA",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",SABALAN (576p)
 https://sdm.telewebion.com/live/sabalan/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",SAHAND (576p)
@@ -1311,6 +1307,8 @@ https://sdm.telewebion.com/live/sepehr/playlist.m3u8
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah 2 (1080p)
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah Radio Quran (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Sharjah TV (1080p)
@@ -1415,6 +1413,8 @@ http://45.94.31.190:7002/play/a0aq
 http://51.210.227.134/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",TOP MOVIES
 http://45.94.31.190:7002/play/a0a1
+#EXTINF:-1 group-title="Arabic_ARAPCA",Towheed TV (720p) [Not 24/7]
+http://51.210.199.1/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",TRT Arabi
 http://45.94.31.190:7004/play/a0cj
 #EXTINF:-1 group-title="Arabic_ARAPCA",TRT Arabi HD
@@ -1439,8 +1439,6 @@ https://sdm.telewebion.com/live/tv2/playlist.m3u8
 https://sdm.telewebion.com/live/tv4/playlist.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",TV5 (576p)
 https://sdm.telewebion.com/live/tehran/playlist.m3u8
-#EXTINF:-1 group-title="Arabic_ARAPCA",TVISLAAMAA
-http://45.94.31.190:7004/play/a0c9
 #EXTINF:-1 group-title="Arabic_ARAPCA",UTV Iraq
 http://45.94.31.190:7002/play/a09a
 #EXTINF:-1 group-title="Arabic_ARAPCA",UTV Iraq HD
@@ -1515,8 +1513,12 @@ http://45.94.31.190:7004/play/a0ba
 http://45.94.31.190:7002/play/a09q
 #EXTINF:-1 group-title="Arabic_ARAPCA",ZEE AFLAM
 http://45.94.31.190:7003/play/a0c5
+#EXTINF:-1 group-title="Arabic_ARAPCA",Zee Aflam (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",ZEE ALWAN
 http://45.94.31.190:7003/play/a0c6
+#EXTINF:-1 group-title="Arabic_ARAPCA",Zee Alwan (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Zee Zaman
 http://45.94.31.190:7002/play/a0bx
 #EXTINF:-1 group-title="Arabic_ARAPCA",ZILZAL CLASSIC

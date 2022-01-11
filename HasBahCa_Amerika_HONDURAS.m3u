@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_HONDURAS",Alsacias TV (ATV | Canal 28) (1080p)
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Aviva TV (1080p)
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",AZA TV (720p)
+https://stmv1.zcastbr.com/azatvhd/azatvhd/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Campus TV (360p) [Not 24/7]
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Canal 6 (720p)
+https://ott.streann.com/loadbalancer/services/public/channels/5ba026492cdc1a7124d02fb7/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Canal SiTV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w917441862.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Canal Uno de Chuloteca (720p) [Not 24/7]
+https://tvdatta.com:3392/live/portaldelsurhnlive.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Catavisión (332p) [Not 24/7]
+https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Cholusat Sur 36 (214p) [Not 24/7]
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Ebenezer TV (360p)
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w156791259_b850000_slen.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Globo TV (720p) [Not 24/7]
+https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",JBN (480p)
+https://emisoras.hn:8081/jbn/index.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Kerusso TV (720p)
+https://emisoras.hn:8081/kerussotv/index.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",LTV (720p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",MetroTV (720p)
+https://emisoras.hn:8081/metrotv/index.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Roatán Hable Claro (RHC) (720p)
+https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Sercano TV (720p)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",SITV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w25056969.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",TeleProgreso (720p)
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",Television Comayagua Canal 40 (480p)
+http://st2.worldkast.com/8058/8058/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",TV Copán (720p)
+https://emisoras.hn:8081/tvcopan/index.m3u8
+#EXTINF:-1 group-title="Amerika_HONDURAS",UNAH UTV (360p) [Not 24/7]
+https://live-utv.unah.edu.hn/web/salida.m3u8

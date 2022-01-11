@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="AFRICA_AFRIKA",2stv
+http://51.210.1.13:18000/tfm/hls/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Africa TV1 (720p) [Not 24/7]
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",AYV
+https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Bayon TV (360p) [Not 24/7]
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Congo planet
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Congo Planet Television (1080p)
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Emergence tv
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",ESPACE TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",FASO TV
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Fresh News (720p)
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Fresh News TV (720p)
+http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",GBS TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Ivoire Channel tv
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",K24 (480p) [Not 24/7]
+https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",kc2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",L'intelligent tv
+https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",My TV Channel (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",NCI
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",PLAY TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",PNN (360p) [Not 24/7]
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",RASD TV Sáhara
+https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Resurrection TV (384p)
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",RTG
+http://51.210.1.13:18000/rtg/hls/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",RTI1
+https://enovativecdn.com/rticdn/smil:rti1.smil/.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",RTS1
+http://51.210.1.13:18000/rts1/hls/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",Sen TV
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",TELE TCHAD
+https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",TVC
+https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",UTV (240p) [Not 24/7]
+https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8
+#EXTINF:-1 group-title="AFRICA_AFRIKA",VISION 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8

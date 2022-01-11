@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_BOLIVIA",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w1507762007.m3u8
+#EXTINF:-1 group-title="Amerika_BOLIVIA",Red Advenir (480p)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_BOLIVIA",Red Advenir (Bolivia)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist_w1291195276.m3u8

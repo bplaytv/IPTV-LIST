@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1 group-title="01Music_MUZIK",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Activa TV (ES)
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",ADRIA Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",ALB MUSIC (AL)
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Alegria TV (ES)
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Bajo Cero TV (BR)
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Balkanika TV
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1 group-title="01Music_MUZIK",Bridge TV (480p)
+http://ott-cdn.ucom.am/s34/index.m3u8$OPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="01Music_MUZIK",Canal 38 HD (BR)
+https://rtmp.info/canal38/envivo/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",CAPITAL TIBU MUSICAL
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="01Music_MUZIK",Channel 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",City TV (BG)
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Company TV (720p)
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Conecta TV HD (BR)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing
+https://www.djing.com/tv/28049-04.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing Animation
+https://www.djing.com/tv/27717-05.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing Classic HD
+https://www.djing.com/tv/i-28730-04.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing DJS HD
+https://www.djing.com/tv/k-27838-05.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing Karaoke
+https://www.djing.com/tv/k-28713-05.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",DJing Wild HD
+http://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Ecnulo
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",FOLX Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",FOLX Slovenija (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-5/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Karibena HD (BR)
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Kuriakos Music (1080p)
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",La Mega Mundial (ES)
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",M1
+http://live.m2.tv/hls2/720/stream.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",M1 (1080p)
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:-1 group-title="01Music_MUZIK",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV Germany (DE) (Free from akamaihd.net!)
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Music Top
+http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik AMVA 2020 (RS)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik Cafe&Club Serbia (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik HipHop Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik Jeka Serbia (720p)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik Mediteraneo Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik OKK Serbia (720p)
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik Rock&Roll Serbia (720p)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik TV Serbia (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Muzzik Worldwide Serbia (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Ocko TV (CZ)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",ONE
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="01Music_MUZIK",ONE MUZ
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",ONE1 Slovenija (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Oxigeno TV (BR)
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Pluto TV Live Music Replay
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 group-title="01Music_MUZIK",Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?e74
+#EXTINF:-1 group-title="01Music_MUZIK",Radio Kiss Kiss TV (720p)
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Radio PROS (720p)
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Radiou TV (US)
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",RETRO MUSIC
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Retro Music Television
+http://bit.ly/2m3sY3Y
+#EXTINF:-1 group-title="01Music_MUZIK",Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",RetroMusicTV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Rotana Radio Jordan (220p)
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Sonus FM TV (US)
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Spirit TV (US)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Karaoke (1080p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Karaoke HD
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Pop Adult (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Qello TV HD
+https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Rock Alternative (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Today's Latin Pop (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Stingray Urban Beats (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Street Music 4U (720p)
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Techno Dance
+http://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Techno Dance(World Vision)
+http://cdnhls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Techno Warehouse (US) (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",TeleMusica HD (BR)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",The Retro Channel HD (BR)
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Top Music
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",VEVO Hip Hop (US) (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",VEVO Latino (US) (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Video Tour Channel HD (US)
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",ZWEI2 Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Муз-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2..
+#EXTINF:-1 group-title="01Music_MUZIK",Муз-ТВ (480p)
+http://ott-cdn.ucom.am/s28/index.m3u8$OPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="01Music_MUZIK",Новое радио (1080p)
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="01Music_MUZIK",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="01Music_MUZIK",ТНТ MUSIC HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Шансон ТВ (480p)
+http://ott-cdn.ucom.am/s43/index.m3u8$OPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="01Music_MUZIK",Шансон ТВ (512p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Шансон ТВ (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8

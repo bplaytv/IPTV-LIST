@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",*E! Entertainment
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",24h NOTICIAS TVE
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",A +
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",A&E HD
+http://web24.live:8080/testline/testline/38038
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",ADN 40 (480p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",ADN 40 II
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",APRENDE EN CASA
+http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",AXN FUL-HD
+http://web24.live:8080/testline/testline/38042
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",AZTECA 7 OPC 2
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Azteca Uno (XHJK-TDT) [Not 24/7]
+http://190.122.96.187:8888/http/002
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",bloody
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 10 CANCÚN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 14
+https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Canal 28 (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 28 NL
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Canal 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 BAJÍO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 BAJÍO
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 GUADALAJARA
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 JUAREZ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 LAGUNA
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 MONTERREY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 PLUS II
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 PUEBLA
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 SALTILLO
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 7 SLP
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL CATORCE
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANALSUR ANDALUCÍA
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Capital 21 (720p) [Not 24/7]
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CINE CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CINECANAL FULL.HD
+http://web24.live:8080/testline/testline/38096
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CORTV
+https://stream.oursnetworktv.com:443/latin/encoder29/chunklist_w1344510036.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CorTV (800p)
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",DIRECTV CINEMA HD LATINO
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",DW ALEMANIA EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",EL FINANCIERO BLOOMBERG II
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",EL TRECE TV
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FORO TV II
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FRANCE24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FX HD
+http://etvhome.com:25461/Arturo/Arturo1/13344
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",GOURMET
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",HBO FULL.HD
+http://etvhome.com:25461/Arturo/Arturo1/20158
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",IMRyT 15.1
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",JALISCO TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Jalisco TV (720p) [Geo-blocked]
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",LOS SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MARIAVISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",María Visión Mexico (1080p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MI MASCOTA PLUTO
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=&already_redirected=true
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MICROVISIÓN
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MILENIO NOTICIAS
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MOMENTOS GALICIA
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MULTIMEDIOS CDMX HD OPC. 2
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MULTIMEDIOS CIUDAD JUÁREZ HD
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Multimedios Laguna (720p)
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Multimedios Monterrey (720p)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MULTIMEDIOS PUEBLA HD
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MULTIMEDIOS SALTILLO HD
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MVM Noticias (Oaxaca)
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MVM Noticias (Oaxaca) (400p) [Not 24/7]
+https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",MVS TV
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",NUESTRO CINE
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Once Mexico (720p)
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",POP TV
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Quinta TV
+https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",RECUERDOS RETRO RADIO TV
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Reel Truth Crime - Crime
+https://endemol-reeltruthcrime-1-us.roku.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",SET Televisión Canal 26.1 (720p) [Not 24/7]
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",SONY COMPLET
+https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",STAR CHANNEL.HD
+http://tecnotv.club/8di/smartv2.php?c=3075
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TeleFormula
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELEMUNDO
+http://71.187.29.220:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELEMUNDO NOVELAS
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELERITMO
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Teleritmo (Monterrey) (480p)
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Tlaxcala Televisión (360p) [Not 24/7]
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TV GALICIA AMERICA
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TVMÁS (XHGV-TDT)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TVP obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w888631267_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UDG44 TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x3m1xfy?autoplay=1
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNIMAS
+http://71.187.29.220:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNIVISION
+http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Uno TV (720p) [Not 24/7]
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8

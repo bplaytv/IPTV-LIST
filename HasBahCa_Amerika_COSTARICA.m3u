@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_COSTARICA",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Anexión TV (720p) [Not 24/7]
+http://rtmp.info:8081/anexiontv/envivo/index.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Canal 11 (160p) [Not 24/7]
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Canal 13 Sinart
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+#EXTINF:-1 group-title="Amerika_COSTARICA",CANAL 14 SAN CARLOS
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Canal 14 San Carlos (720p)
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",CANAL 38
+https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Canal 8 (720p)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",CANAL 8 (720p)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 group-title="Amerika_COSTARICA",Canal 88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",CANAL 88 STEREO COSTA RICA
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",EXTRA TV 42 (720p)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
+#EXTINF:-1 group-title="Amerika_COSTARICA",Extrema TV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Extrema TV (720p)
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",GUATUSO CELESTE CHANNEL
+https://inliveserver.com:1936/15004/15004/chunklist_w1597138230.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Humor 24-7 (480p)
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",IPTV LATINA CR CHANNEL
+http://oklivetv.com/xplay/error/offline.mp4
+#EXTINF:-1 group-title="Amerika_COSTARICA",Multimedios Costa Rica (720p)
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",multizonastv HD
+https://stmv1.srvif.com/multizonastv/multizonastv/chunklist_w214940560.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",NicoyaTV (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",NORTE INFORMATIVO HD
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",STV CANAL 5 SANVITO TELEVISION HD
+http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",STV El Camal Familiar (720p) [Not 24/7]
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",STV EL CAMAL FAMILIAR HD
+http://tiquiciatv.com:1935/stv/web/chunklist_w915494086.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TELE CLASICOS
+https://tvdatta.com:3484/hybrid/play.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TELE UNO HD
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TeleSUR Costa Rica (720p) [Not 24/7]
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",Teletica 7 (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 group-title="Amerika_COSTARICA",TeleUno TV (720p)
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TICAVISION CANAL 54
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TICAVISION HD
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1522485524.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TV SUR CANAL 14
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1021985413.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TV Sur Canal 14 (720p)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",TV Sur Canal 9 (480p) [Not 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_COSTARICA",VM Latino EL CANAL DE LA MUSICA
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8

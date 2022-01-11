@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika_HAITI",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Kajou TV (480p)
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",NETALKOLE TV (720p) [Not 24/7]
+https://watch.haitilive.net/stream/netalkole/public/tv/index.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Radio Tele Planet Compas (720p) [Not 24/7]
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Radio Télé 4VEH (720p)
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Radio Télévision Caraïbes (RTVC) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81lgjh
+#EXTINF:-1 group-title="Amerika_HAITI",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_HAITI",Télé Conscience Haïtienne (TCH) (720p) [Not 24/7]
+http://tvlakay.haitilive.net/website/tchhaiti/player/mono.m3u8
