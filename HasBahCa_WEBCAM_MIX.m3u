@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,Africam 1
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1,Africam 2
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:-1,Africam 3
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:-1,Africam 4
+https://outbound-production.explore.org/stream-production-49/.m3u8
+#EXTINF:-1,Aktau - Caspian Coast (KZ)
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1,Argentina (AR)
+http://200.50.248.57:8080/Camara1/index.m3u8
+#EXTINF:-1,Austria (AT)
+https://cdn.livespotting.com/vpu/y6tzfe2i/j76qemhq.m3u8
+#EXTINF:-1,Barra (PT)
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1,Berdyansk Hall (UA)
+https://stream.bmr.gov.ua/hls/511.m3u8
+#EXTINF:-1,Bishkek - Kyrgyzstan (KG)
+http://iptv.saima.kg/hls-cam/berengold.m3u8
+#EXTINF:-1,CZ Kamera Camping Rožnov
+http://31.47.96.14:80/hls/camp.m3u8
+#EXTINF:-1,CZ Kamera Dolní Bečva
+http://31.47.96.14:80/hls/DBecva.m3u8
+#EXTINF:-1,CZ Kamera Horní Bečva - Rališka
+http://31.47.96.14:80/hls/raliska.m3u8
+#EXTINF:-1,CZ Kamera Horní Bečva - Rališka_Horní stanice
+http://31.47.96.14:80/hls/raliska2.m3u8
+#EXTINF:-1,CZ Kamera Hutisko-Solanec
+http://31.47.96.14:80/hls/hutisko.m3u8
+#EXTINF:-1,CZ Kamera Hutisko-Solanec_Kostel
+http://31.47.96.14:80/hls/kostelhutisko_hd.m3u8
+#EXTINF:-1,CZ Kamera na Radhošti - Kaple
+http://31.47.96.14:80/hls/radhostkaple.m3u8
+#EXTINF:-1,CZ Kamera na Radhošti - východ
+http://31.47.96.14:80/hls/radhostvychod.m3u8
+#EXTINF:-1,CZ Kamera Pustevny - rozcestí
+http://31.47.96.14:80/hls/pustevny.m3u8
+#EXTINF:-1,CZ Kamera Valašská Bystřice - Búřov
+http://31.47.96.14:80/hls/burov.m3u8
+#EXTINF:-1,CZ Kamera Vidče
+http://31.47.96.14:80/hls/vidce.m3u8
+#EXTINF:-1,CZ Kamera Zašová
+http://31.47.96.14:80/hls/zasova.m3u8
+#EXTINF:-1,CZ Kamera Zubří
+http://31.47.96.14:80/hls/zubri.m3u8
+#EXTINF:-1,Czech Heaven (CZ)
+https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
+#EXTINF:-1,Downtown Wilmington (US)
+http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
+#EXTINF:-1,Düsseldorf (DE)
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
+#EXTINF:-1,EXYUG-Zrenjanin
+http://109.94.224.254/video1.mjpg
+#EXTINF:-1,Green Parrot Bar (US)
+http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1,Hamburg (DE)
+https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
+#EXTINF:-1,Hotel Bania (PL)
+http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#EXTINF:-1,Ilfracombe (UK)
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1,Jelsa - Croatia (HR)
+https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
+#EXTINF:-1,Juist (DE)
+https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
+#EXTINF:-1,Kolobrzeg (PL)
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1,Krakow (PL)
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1,Moscow 1 (RU)
+http://57820f09e94a7.streamlock.net/live/Metropolia2.stream/playlist.m3u8
+#EXTINF:-1,Moscow 2 (RU)
+http://77.108.82.59:8080/R2/index.m3u8
+#EXTINF:-1,Murino (RU)
+http://91.202.44.216:8080/cam1/index.m3u8
+#EXTINF:-1,Murino - Server room (RU)
+http://91.202.44.216:8080/cam22/index.m3u8
+#EXTINF:-1,Norway Live (NO)
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1,Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1,Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1,Romania Church (RO)
+http://media.ercis.ro:9999/cmareis/playlist.m3u8
+#EXTINF:-1,Sochi (RU)
+http://sochi.camera:8080/cam_185/index.m3u8?token=null
+#EXTINF:-1,Switzerland (CH)
+https://cdn.livespotting.com/vpu/jsxhx3vx/9chmjag2.m3u8
+#EXTINF:-1,TR Gaziantep
+http://212.175.206.58:80/mjpg/video.mjpg
+#EXTINF:-1,Valasske Mezirici (CZ)
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
