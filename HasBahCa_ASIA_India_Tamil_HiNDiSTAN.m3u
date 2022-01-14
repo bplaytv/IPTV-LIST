@@ -1,0 +1,1303 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",7Star TV
+http://51.79.158.179:1935/live/7star/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",9X Jalwa (576p)
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",9X Jhakaas (576p)
+http://14.199.164.20:4001/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",9XM
+http://d2q8p4pe5spbak.cloudfront.net:80/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",A NEWSJATT TV- Bhangra Flava (720p)
+http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",A Sports HD
+http://42.200.67.163:8090/play/a0qd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Aaj Tak Hd
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Aalami Sahara
+http://42.200.67.163:8090/play/a0nz
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",ABC Australia Asia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Abinaya HD
+http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP ANANDA
+http://42.200.67.163:8090/play/a0lx
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP ASMITA
+http://42.200.67.163:8090/play/a0lz
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP Asmita (324p)
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Abp Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master_764.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP Hindi (324p)
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP MAJHA
+http://42.200.67.163:8090/play/a0ly
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP NEWS
+http://42.200.67.163:8090/play/a0lw
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ABP News (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Abp Sanjha
+https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/master_764.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ahlebait TV
+http://42.200.67.163:8090/play/a0e5
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Ajwa TV
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Al Jazeera Arabic
+http://42.200.67.163:8090/play/a0ih
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Al Jazeera English
+http://42.200.67.163:8090/play/a0ig
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Al Jazeera English HD
+http://42.200.67.163:8090/play/a0n4
+#EXTINF:-1 group-title="ASIA_MIX+MNC",AlFajer MOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",AM TV
+http://media.7starcloud.com:1935/amtv/livetv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Amar Ujala (360p) [Not 24/7]
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Animal Planet Southeast Asia
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Animax Asia
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Anjan (720p) [Not 24/7]
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Anu TV
+http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",AR NEWS
+http://42.200.67.163:8090/play/a0i2
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Arirang World
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Artist Aloud (1080p)
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ARYDigitalAsia HD
+http://42.200.67.163:8090/play/a0qc
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ARYMusik
+http://42.200.67.163:8090/play/a0oa
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ARYNewsAsia
+http://42.200.67.163:8090/play/a0od
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ARYQTV
+http://42.200.67.163:8090/play/a0o9
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ARYZindagi
+http://42.200.67.163:8090/play/a0o4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Asianet Middle East (576p)
+http://14.199.164.20:4001/play/a0k6/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Asianet News (404p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Asianet News (576p)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Asianet News Bangla (360p)
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Asianet News Kannada (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Asianet News Tamil (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Assam Talks (240p)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Astro Awani SD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Atrangi Re (2021)
+http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)%20HDRip/Galatta%20Kalyanam%20(Atrangi%20Re)%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Aus Tamil (720p) [Not 24/7]
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ASIA_MIX+MNC",AXN East Asia
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ayush TV (720p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Azaad TV
+https://dai.google.com/linear/hls/event/5clRCSONRBaZAGeRHHHm_g/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Bhojpuri (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Hitz
+http://42.200.67.163:8090/play/a0pu
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Hitz (720p)
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U movies (576p)
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Music (576p)
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Plus
+http://42.200.67.163:8090/play/a0pv
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U Plus (720p)
+http://14.199.164.20:4001/play/a0wi/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U_MOVIES_INDIA
+http://42.200.67.163:8090/play/a0nb
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",B4U_MUSIC_INDIA
+http://42.200.67.163:8090/play/a0nc
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Baby TV Asia
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Bali TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Bandung TV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Barkat TV
+http://42.200.67.163:8090/play/a0q2
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Batukamma TV
+http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",BBC Earth Asia
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",BBC World News Asia Pacific
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",BCN
+http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",BeIn Sports 1 Indonesia
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",BeIn Sports 2 Indonesia
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Berita Satu News
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Berita Satu News
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Berita Satu News
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Berita Satu News English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Berita Satu News World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Besmart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Bloomberg TV Asia
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",BnB
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Boomerang South East Asia
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Box Cinema (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Cars and stars
+https://m-c010-j2apps.s.llnwi.net/hls/8027.CarsAndStars.in.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Cartoon Network Asia
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CBeebies Asia
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Celestial Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CGTN Documentary
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CH_8 (720p)
+https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CHANNEL S HD
+http://42.200.67.163:8090/play/a0lh
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Channel Win
+https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Channel Win (360p) [Not 24/7]
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Cinema TV
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CinemaWorld
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Cinemax
+http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Cinemax Asia
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",City News TV
+http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CNBC Asia-Pacific
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CNN International Asia Pacific
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",CNN Philippines (720p) [Not 24/7]
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Colors HD
+http://208.86.19.21/605.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Colour Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Covai Tamil FM
+http://node-32.zeno.fm/kzd2e3tx24zuv
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Cowa TV
+http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Crime + Investigation Asia
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Da Ai TV Indonesia
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Da Ai TV Indonesia
+https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dabangg (576p)
+http://14.199.164.20:4001/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DD National (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Deepam TV
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Desi Beats HD (720p)
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Desi Channel (400p)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Desi Channel (400p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Desi Plus (720p)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dhamaal
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dhinchaak (576p)
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dhinchaak 2 (576p)
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dighvijay (240p) [Not 24/7]
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Discovery Channel Southeast Asia
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Disha TV (360p) [Not 24/7]
+http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dishum (576p)
+http://14.199.164.20:4001/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Dragon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DW Deutsch
+http://42.200.67.163:8090/play/a0n7
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",DW Deutsch
+https://m-c010-j2apps.s.llnwi.net/hls/8025.DWEnglishDeutsch.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DW English
+http://42.200.67.163:8090/play/a0n8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",DW English
+https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",DW English
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DW English HD
+http://42.200.67.163:8090/play/a0n1
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",DW09
+http://42.200.67.163:8090/play/a0n9
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",E24 (576p)
+http://14.199.164.20:4001/play/a0pc/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",EET TV (720p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Enemy (2021)
+http://c10.sendfilesda.xyz/files/1/Enemy%20(2021)%20HDRip.mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Enter 10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ET Now (576p)
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ETV Marathi
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",EuroNews English
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",EWTN
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Fastway News
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FAZAL TV
+http://42.200.67.163:8090/play/a0mq
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FAZAL TV
+http://42.200.67.163:8090/play/a0q5
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FILM BOX
+http://42.200.67.163:8090/play/a0q7
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FILMASIA
+http://42.200.67.163:8090/play/a0mg
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",FIRANGI
+http://42.200.67.163:8090/play/a0o2
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Flowers TV (576p)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Fox News Channel
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Fuel TV (India)
+https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Garv Gurbani
+https://m-c010-j2apps.s.llnwi.net/hls/7012.GarvGurbani.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Garv punjab
+https://m-c010-j2apps.s.llnwi.net/hls/7013.GarvPunjab.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Gawahi TV
+http://42.200.67.163:8090/play/a0q1
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Gayathri Mathram
+https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",GDNS Ludhiana (1080p) [Not 24/7]
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Gem TV Asia
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Global Punjab (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Goa 365 News
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Great Commission TV (GCTV) (360p) [Not 24/7]
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Green Chillies
+https://m-c09-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",GSTV
+https://cdnlive.livecast.io/388656798579293628302251.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",GSTV (720p) [Not 24/7]
+https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Hare Krsna
+https://m-c09-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",HBO Asia
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",HBO Family Asia
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",HBO Hits Asia
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",HBO Signature Asia
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",HGTV Asia
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",History Asia
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",HNN 24x7
+https://m-c010-j2apps.s.llnwi.net/hls/7076.HNN.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",House Full Movie
+http://42.200.67.163:8090/play/a0mv
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",HUM TV
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Hungama Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Hungama Pop Music
+https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Hungama TV
+https://swasti.nosmoking.cyou/rp/index.m3u8?id=18&token=bHE4dEdxUVQ2R3JsYUNzblFDOGlRNjNWR1EzWWlzVUlQWkZGZGZ2N2lRTmhPTUJLTkJrOWluSFBpNXpoZ2puRXlWZWpVVWQzTjQ5bDRFcDVqa1lkREI1ajhyT0NqekRZR0xOK3BJa01nT1IwbUVHRDFxV29jVVo0dmxjTlMrK3A3QlloN1E3MjRPRDZpQkQ0dEk2eXBEVXRKUXFHZ01DVlBHbDZtMHR5eithTHBlcFB3aUdoRmJCcGJ4S21Ta2F0ZjZYT0xrNHVzQy91bUpRRUxkd0YyRzZXUTRXWXoxS01jemV4R1RyUksyakEwd3YrWHN1KzdlMmlnODJ3OW9mR2dkZTN4M25ZS1d3algzZlZBdUZKU2xxcDlmcDdPWWsvc2JLaDlYbmh5KzJUUDZLOEFEY1QrTkJLR25qR3NKb3BnUm1HYzNHNUdaSjRUc2RiZFJwRmU1NUYydTNEbVNFYXpaanpBUGVOQTRuN1NFMDRrU2RTNnBzMzE1eXVZVXNCZTRTcDdiNitmWjN5ZmFnTmg0LzR1VWJmSkpTUXVhWDZmTXlxajhRQTk5NWkxcUF1Q2t4ZWQ0aTl2ekd5ZzEyMDNTQkFza1A2dENHVXBNcUdzK1hDVDAxOGQ3R1BsS0hueDhBUVF3THYrclE9.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",I Love (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",I News
+http://14.199.164.20:4001/play/a0is/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",IBC Isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",IIT Course
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thiity/ymcc12thiity/playlist/master.m3u8?e=2&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",iLove
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Imayam
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India News (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India Today
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India Today (720p)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India Today EN
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India TV (Opt-2)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",India TV News (480p)
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",iNews
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",iNews
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Inshort (India)
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Insight TV
+https://dai.google.com/linear/hls/event/lU3bZozERf2TZ7My9CfYsg/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Insight TV (India)
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Introuble (India)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Inwild (India)
+https://inwild-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Inwonder (India)
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ISAAC TV
+http://42.200.67.163:8090/play/a0if
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ISAAC TV
+http://42.200.67.163:8090/play/a0q0
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Jail (2021)
+http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Jail%20(2021)/Jail%20(2021)%20HDRip/Jail%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Jak TV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Jak TV
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jan TV
+https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Janam TV (240p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Janam TV (576p)
+http://14.199.164.20:4001/play/a0ja/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Janam TV (720p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Jango (2021)
+http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Jango%20(2021)/Jango%20(2021)%20HDRip/Jango%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Janta TV (1080p) [Not 24/7]
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jantantra TV
+https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jeyam Plus
+http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Jonack TV (360p) [Not 24/7]
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",K CINE
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kadak Hits (1080p)
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali Arabia (576p)
+https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali TV (576p)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kairali We (576p)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar Murasu
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalaignar Seithikal (576p) [Not 24/7]
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kalvi Cholai
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kanak News (720p)
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kannur One (720p) [Not 24/7]
+https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kerala Vision
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kerala Vision (576p)
+http://14.199.164.20:4001/play/a0ni/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Khabrain Abhi Tak (480p)
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Kids TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",KITE Victers (Kerala) (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Kodai FM
+http://node-30.zeno.fm/urvp16bqnd0uv
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Kompas TV
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Krishna Media
+http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Krishna TV
+http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Kurup (2021)
+http://c4.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Kurup%20(2021)/Kurup%20(2021)%20HDRip/Kurup%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_MIX+MNC",LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Lifestyle & Fashion
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Lifetime Asia
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Lok Sabha TV (576p) [Not 24/7]
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",M ASIA
+http://42.200.67.163:8090/play/a0q6
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",M Entertainment
+http://42.200.67.163:8090/play/a0i0
+#EXTINF:-1 group-title="ASIA_MIX+MNC",M Shop Signature
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",M Shop Super Sale!
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",M4 Malayalam Australia
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Magna Channel
+https://iptv.mwafa.net/vidio/7230/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MAHA Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Maha News
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Malabar News (576p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Mana Telugu TV
+http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mangalam (576p)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Marriage Video
+https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mass TV Canada
+https://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MAX CINEMA
+http://42.200.67.163:8090/play/a0hs
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mazhavil Manorama (576p)
+http://14.199.164.20:4001/play/a0kd/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mazhavil Manorama (720p) [Not 24/7]
+http://14.199.164.20:4001/play/a0pa/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mazhavil Manorama HD (1080p)
+http://14.199.164.20:4001/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Media One (576p)
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MEGA MOVIES
+http://42.200.67.163:8090/play/a0ml
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Mentari TV
+https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Metro TV
+http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Metro TV
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MH1 Prime (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Miao Mi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-b.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mirror Now (576p)
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mission Asia
+http://42.200.67.163:8090/play/a0q4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MK TV (576p)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC News
+https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC Sports 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MNC TV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MOVIE MAX
+http://42.200.67.163:8090/play/a0qb
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MOVIES BOX
+http://42.200.67.163:8090/play/a0q9
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MSN TV
+http://51.79.158.179:1935/msntv/live/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MTA 1
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mtunes Plus (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Music India (576p)
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Music Masti
+http://42.200.67.163:8090/play/a0hu
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Music Top
+http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w1210381560.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Musica
+https://iptv.mwafa.net/vidio/7619/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Muslim TV
+http://42.200.67.163:8090/play/a0e1
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",My TV
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Mystery Science
+https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Naaptol (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0n1/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Nagara TV (CA)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Namdhari (404p) [Not 24/7]
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NASA Media TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",National Geographic Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",NATIONAL GEOGRAPHIC HD
+http://103.153.39.36:8000/play/a00x
+#EXTINF:-1 group-title="ASIA_MIX+MNC",National Geographic Wild Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Nazrana (1080p)
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV India
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/2000.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Ndtv India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",NDTV Profit
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NDTV Profit (480p) [Not 24/7]
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Nee Cinema (1080p) [Not 24/7]
+https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NEET Course
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thneety/ymcc12thneety/playlist/master.m3u8?e=5&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+#EXTINF:-1 group-title="ASIA_MIX+MNC",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",NET
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Network 10 New
+https://m-c010-j2apps.s.llnwi.net/hls/7089.Network10News.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Chhattisgarh (360p)
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Gujarati (360p)
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Jharkhand (360p)
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Kannada (360p)
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Malayalam (360p)
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Punjab (360p)
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Rajasthan (360p)
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",News 18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",News 18 Tamil (360p)
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",News 18 TamilNadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Urdu (360p)
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 18 Uttarakhand (360p)
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",News 7 Tamil (576p)
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News Time Bangla
+http://idvd.multitvsolution.com/idvo/newstimebangla_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News24
+https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",News24 MP CG
+https://m-c09-j2apps.s.llnwi.net/hls/8056.News24MPCG.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Next TV Malabar (720p) [Not 24/7]
+https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",NHK World
+http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",NHK World Japan
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",NHK WORLD-JPN
+http://42.200.67.163:8090/play/a0n5
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Nick Jr Asia
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Nickelodeon South East Asia
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Notun Somoy
+http://42.200.67.163:8090/play/a0mx
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Nusantara TV
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",O Channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",O Shop
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",One TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Paigham Urdu HD
+http://42.200.67.163:8090/play/a0i6
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Peace TV Bangla
+http://199.223.252.162:8032/bangla_adaptive/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Peace TV Urdu (1080p)
+http://199.223.252.162:8032/urdu_adaptive/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",PINK TV
+http://42.200.67.163:8090/play/a0i8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Pitaara Tv
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",PMI TV
+http://42.200.67.163:8090/play/a0q3
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Polimer News (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Pon Manickavel (2021)
+http://c6.sendfilesda.xyz/files/1/Pon%20Manickavel%20(2021)HDRip.mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pop Pataka (1080p)
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Prakalya TV
+http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pramaya News7 (576p)
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pratidin Time (360p) [Not 24/7]
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pravasi (1080p) [Not 24/7]
+https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Prime News
+https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Prudent Media Goa News
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",PTC Chak De
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Ptc News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Ptc Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Ptc Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Public Movies (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Public TV (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pulari TV
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Pulari TV (720p)
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",PUTHIYA THALAIMURAI
+http://14.199.164.20:4001/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Quran TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Quran TV
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Rajawali TV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Rajawali TV
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Ram TV
+http://51.79.158.179:1935/harimedia/live5/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Rans Channel
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Rasi Telugu HD
+http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Real News Kerala (1080p)
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Real TV (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Reformed 21
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Reformed 21 TV
+https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Reporter TV (576p)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Republic Bharat
+https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Republic Bharat
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Republic TV
+https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Republic TV
+https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ROSHNI TV
+http://42.200.67.163:8090/play/a0i3
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",RT
+http://42.200.67.163:8090/play/a0ps
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Rudra Thandavam (2021)
+http://c4.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Rudra%20Thandavam%20(2021)/Rudra%20Thandavam%20(2021)%20HDRip/Rudra%20Thandavam%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Saam TV
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Sabhaapathy (2021)
+http://c8.sendfilesda.xyz/files/1/Sabhaapathy%20(2021)%20HDRip.mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sachin Music
+http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sachin Music
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara  BIH
+http://42.200.67.163:8090/play/a0ny
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara Filmi
+http://42.200.67.163:8090/play/a0o1
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara MP
+http://42.200.67.163:8090/play/a0o0
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara MUM
+http://42.200.67.163:8090/play/a0nw
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara NAT
+http://42.200.67.163:8090/play/a0nu
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara NCR
+http://42.200.67.163:8090/play/a0nv
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara ONE
+http://42.200.67.163:8090/play/a0nt
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sahara UP
+http://42.200.67.163:8090/play/a0nx
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Samachar Today
+https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Samaiyalkaari (2021)
+http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Samaiyalkaari%20(2021)/Samaiyalkaari%20(2021)%20HDRip/Samaiyalkaari%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sana Plus (720p)
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sana TV 2
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sangeet bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Santhora TV (DE)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Saranya TV
+http://blmtech.in:8086/hls/saranyatv/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Sathya News
+http://blmtech.in:8086/hls/satyanews/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",SEA Today
+https://iptv.mwafa.net/vidio/7687/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sharvesh 7star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shemaroo TV (576p)
+http://14.199.164.20:4001/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shine Star TV
+http://42.200.67.163:8090/play/a0q8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shraddha (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Shubhsandesh (576p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sirippoli 1
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Sivakumarin Sabadham (2021)
+http://c5.sendfilesda.xyz/files/Tamil%20Movies/Tamil%202021%20Movies/Sivakumarin%20Sabadham%20(2021)/Sivakumarin%20Sabadham%20(2021)%20HDRip/Sivakumarin%20Sabadham%20(2021)%20HDRip%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",SMNI (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SMS TV
+http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Soccer Channel Non Liga
+https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SONY TV HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Sri Sankara Tamil
+https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SS TV
+http://51.79.158.179:1935/live/sstv2/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Star Chinese Movies South East Asia
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Star Jalsha Movies HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",STAR MAA GOLD HD
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5586
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Star Maa Movies HD
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",STAR MAX
+http://42.200.67.163:8090/play/a0mo
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Star Sports 1 HD
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Studio One Plus (576p)
+http://14.199.164.20:4001/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Studio One Yuva (576p)
+http://14.199.164.20:4001/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",STV
+http://42.200.67.163:8090/play/a0hw
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",STV
+http://42.200.67.163:8090/play/a0qa
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",STV Telugu
+http://blmtech.in:8086/hls/stvtelugu/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",SUB NEWS
+http://42.200.67.163:8090/play/a0ib
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Sudarshan News
+https://m-c010-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Sun News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_fR9xWEOa7Q
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Surya Movies (406p)
+https://catchup.yuppcdn.net/amazonv2/20/preview/suryamovies/master/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Surya TV (540p)
+https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Suvarna News 24/7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",SVBC2
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Swar Shree
+https://m-c010-j2apps.s.llnwi.net/hls/7011.SwarShree.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Swaraj Express (576p) [Not 24/7]
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Swasthik TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Tamil TV
+http://5.39.221.140/tamil/live/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Tamil Vision Int'l (CA) (HD)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Tamil Vision International (720p)
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Tamilan TV
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Tastemade (India)
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Tehelka TV (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TeT HD
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Tez
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Thalli Pogathey (2021)
+https://archive.org/download/moonu-muppathi-moonu-and-thalli-pogathey-2021/Thalli%20Pogathey%20%282021%29.mkv
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Thanthi TV (720p)
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",The Q
+https://d2s20ffu9nq5k3.cloudfront.net/master_2128.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",The Q India
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Thirumalai TV
+http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Time Vision News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Times Now (Opt-2)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Times Now HD (480p)
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TLC Southeast Asia
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Trans 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Trans 7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Trans TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Trans TV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TRT World HD
+http://42.200.67.163:8090/play/a0n6
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TV 9 Nusantara
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TV Edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TV IQ
+https://m-c010-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TV Mu
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TV Tempo
+https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TV5Monde Asie
+https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",TV9 News (720p)
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",TV9 Telugu
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TVN Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TVN Premium Indonesia
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",TVRI Nasional
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",UBL HD (1080p) [Not 24/7]
+https://cdn.logicwebs.in/hls/ublhdkey.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",UChannel
+https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Vaanvavil (576p)
+http://14.199.164.20:4001/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Vedant TV
+https://m-c09-j2apps.s.llnwi.net/hls/8031.VedantTV.in_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Vihari TV
+http://blmtech.in:8086/hls/viharitv/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Warner TV Southeast Asia
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 group-title="ASIA_MIX+MNC",WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Wow Cinema One (576p)
+http://14.199.164.20:4001/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Writer (2021) PreDVD
+http://c9.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202021%20Movies/Writer%20(2021)/Writer%20(2021)%20HQ%20DVDScr/Writer%20(2021)%20HQ%20DVDScr%20Single%20Part%20(640x360).mp4
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",WWE Network
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Xing Kong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Xplore Channel (720p)
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",XPOSE News
+http://42.200.67.163:8090/play/a0ky
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Yupp Thirai (270p)
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee Action
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+#EXTINF:-1 group-title="ASIA_MIX+MNC",Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee Bioskop (360p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Zee Cinemalu
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ZEE MP CHHATTISGARH
+http://42.200.67.163:8090/play/a0ph
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee News
+http://42.200.67.163:8090/play/a0pe
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Zee News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ZEE PUNJAB HARYANA HIMACHAL
+http://42.200.67.163:8090/play/a0pf
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ZEE RAJASTHAN NEWS
+http://42.200.67.163:8090/play/a0nl
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Zee Telugu HD
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5593
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee TV
+http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee TV (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ZEE TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
+#EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Zee Tv Hd
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zing
+http://42.200.67.163:8090/play/a0pd
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p)
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
