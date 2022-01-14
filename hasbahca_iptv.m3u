@@ -2589,8 +2589,6 @@ http://45.4.0.46:8000/play/a056
 http://187.49.191.6:8080/play/a015/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",AMC HD
 http://201.182.242.135:12002/play/a09s/index.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",AMC HD
-http://41.224.0.27:4501/stream/channelid/1605308520?profile=pass
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",AMC IFC Film Picks
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",AMC IFC Film Picksᴴᴰ
@@ -2885,8 +2883,6 @@ http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1771
 http://187.49.191.6:8080/play/a01u/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Antena 3
 http://77.89.204.105:8001/play/a004/index.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",ANTENA 3 HD
-http://41.224.0.27:4501/stream/channelid/1052443947?profile=pass
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Antena 3ᴴᴰ
 http://91.126.141.13:1935/live/11/3500-def.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Antena Comedy
@@ -3543,6 +3539,8 @@ http://web24.live:8080/testline/testline/38042
 http://45.4.0.46:8000/play/a06f
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",AXN HD
 http://187.49.191.6:8080/play/a033/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",AXN HD
+http://181.198.67.10:8024/play/a08n/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AXN HD1
 http://45.148.147.13:8000/play/a009
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AXN HD1
@@ -3553,8 +3551,6 @@ http://37.17.12.119:8907/play/a009
 http://94.236.145.205:8000/play/a00d
 #EXTINF:-1 group-title="EU_BULGARSAT",AXN White Bulgaria
 http://78.83.191.18:8000/play/a065
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",AXN WHITE HD
-http://41.224.0.27:4503/stream/channelid/718857145?profile=pass
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="America_USA_PLEX",AXS TV NOW
@@ -5605,8 +5601,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 http://200.229.147.16:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CANAL 32 SPTV SAN PEDRO
 https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1 group-title="Amerika_COSTARICA",CANAL 38
@@ -6045,6 +6039,8 @@ http://45.4.0.46:8000/play/a05i
 http://201.182.242.135:12002/play/a09v/index.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",Cartoon Network HD
 http://185.157.161.141:22222/play/a01y
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Cartoon Network HD
+http://181.198.67.10:8024/play/a0ai/index.m3u8
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",CARTOON NETWORK HD1
 http://45.148.147.13:8006/play/a031
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",CARTOON NETWORK HD1
@@ -7805,6 +7801,8 @@ http://45.4.0.46:8000/play/comedycentralhd
 http://187.49.191.6:8080/play/a00p/index.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",Comedy Central HD
 http://185.157.161.141:22222/play/a00y
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Comedy Central HD
+http://181.198.67.10:8024/play/a09a/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",COMEDY CENTRAL HD1
 http://45.148.147.13:8000/play/a00t
 #EXTINF:-1 group-title="DE_Deutsch_German_ PLUTO",Comedy Central Made in Germany
@@ -7847,8 +7845,6 @@ https://c4fb99c179894a838dcece2937e908b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENG_Great Britain_TVPLUS",Comedy Twisted Mirror
 https://37fd1303e1b741bb990c3cfac5bbe36c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_ComedyTwistedMirror/playlist.m3u8?ads.wurl_channel=923&ads.wurl_name=ComedyTwistedMirror&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",COMEDYCENTRALHD
-http://41.224.0.27:4503/stream/channelid/1810130484?profile=pass
 #EXTINF:-1 group-title="America_USA_TEST",Comet
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1797
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",Comet (720p)
@@ -8001,8 +7997,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/
 https://stream.oursnetworktv.com:443/latin/encoder29/chunklist_w1344510036.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CorTV (800p)
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",COSMO HD
-http://41.224.0.27:4503/stream/channelid/1626399122?profile=pass
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",COSMOS
 http://190.108.93.62:8000/play/a00a
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",COSMOS FM 99.5
@@ -8023,8 +8017,6 @@ https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
 #EXTINF:-1 group-title="webcam_Portugal",Costa de Caparica - S. João
 https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Costa Noroeste TV (720p) [Not 24/7]
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 group-title="webcam_Portugal",Costa Nova
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",CostadelSol TV
@@ -8215,8 +8207,6 @@ http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TCTV2_AtopItci_2015_01_12_HD/hl
 http://ott.watch/stream/IFBYIR5OA7/156.m3u8
 #EXTINF:-1 group-title="RUS+UKRAINA",CTБ/ТВ Бердянськ
 https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",CUATRO HD
-http://41.224.0.27:4501/stream/channelid/573276852?profile=pass
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Cuatroᴴᴰ
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_Arjantin",CubaVision Internacional (480p) [Not 24/7]
@@ -8407,8 +8397,6 @@ http://93.48.34.164:8000/play/55645
 http://93.48.34.164:8000/play/687879
 #EXTINF:-1 group-title="EU_Italia_ITALYA",DAZN 4
 http://93.48.34.164:8000/play/57765
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",DAZN F1 HD
-http://41.224.0.27:4501/stream/channelid/21045182?profile=pass
 #EXTINF:-1 group-title="EU_Italia_ITALYA",DAZN SERIE A E B SPORT HD
 http://93.48.34.164:8000/play/0'98097
 #EXTINF:-1 group-title="EU_Italia_ITALYA",dazn1
@@ -9557,6 +9545,8 @@ http://45.148.147.13:8010/play/a00z
 http://45.148.147.13:8010/play/a010
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery H&H HD
 http://45.4.0.46:8000/play/a0al
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Discovery H&H HD
+http://181.198.67.10:8024/play/a09u/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery HD
 http://45.4.0.46:8000/play/a0e1
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Discovery HD
@@ -9639,6 +9629,8 @@ http://45.148.147.13:8010/play/a00j
 http://45.148.147.13:8010/play/a00k
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery Theater HD
 http://45.4.0.46:8000/play/a0am
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Discovery Theater HD
+http://181.198.67.10:8024/play/a09v/index.m3u8
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",DISCOVERY THEATER HD1
 http://45.148.147.13:8010/play/a00l
 #EXTINF:-1 group-title="Amerika_PARAGUAY",DISCOVERY TLC
@@ -10665,6 +10657,8 @@ http://radyohazar.canliyayinda.com:8286/;stream.mp3
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w587933168.m3u8
 #EXTINF:-1 group-title="Arabic_ARAPCA",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",ElCanaldelFutbol HD
+http://181.198.67.10:8024/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",eldo.TV (720p)
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",Eldoradio TV (Webradio)
@@ -11089,6 +11083,8 @@ http://45.148.147.13:8007/play/a07k
 http://45.148.147.13:8007/play/a07l
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN EXTRA HD
 http://45.4.0.46:8000/play/a05e
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",ESPN EXTRA HD
+http://181.198.67.10:8024/play/a0ag/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ESPN EXTRA SD
 http://45.148.147.13:8008/play/a02x
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ESPN FHD
@@ -12393,8 +12389,6 @@ https://89.106.234.4/FOX_HD_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 group-title="RUS+Kazakhstan",FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",FOX HD
-http://41.224.0.27:4501/stream/channelid/1846880126?profile=pass
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Fox Life
 http://109.200.130.124:7006/play/a00z
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",Fox Life
@@ -12407,8 +12401,6 @@ http://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",FOX Life HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",FOX LIFE HD
-http://41.224.0.27:4503/stream/channelid/719689884?profile=pass
 #EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Fox Movies Asia (Thai) (720p) [Not 24/7]
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",FOX MUSIC
@@ -12469,6 +12461,8 @@ http://201.35.250.178:8001/play/a00m
 http://45.4.0.46:8000/play/a0at
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",FOX SPORTS 2 HD
 http://45.148.147.13:8007/play/a075
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",FOX Sports 2 HD
+http://181.198.67.10:8024/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",FOX SPORTS 2 HD1
 http://45.148.147.13:8007/play/a076
 #EXTINF:-1 group-title="Amerika_PARAGUAY",Fox Sports 3
@@ -13255,6 +13249,8 @@ https://tinyurl.com/yc6zohx7
 http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",Golden HD
 http://201.182.242.135:12002/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Golden HD
+http://181.198.67.10:8024/play/a0at/index.m3u8
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",Golden TV (240p)
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ_TVPLUS",GoldStar TV
@@ -13283,6 +13279,8 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1830
 #EXTINF:-1 group-title="America_USA_TEST",GolTV (Spanish)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1831
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",GolTV HD
+http://181.198.67.10:8024/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_DİNİ",Gonca TV
 https://broadcasttr.com:446/tuncerciftci/bant1/chunklist_w66239823.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",Gonca TV
@@ -13893,6 +13891,8 @@ http://45.148.147.13:8009/play/a04l
 http://201.35.250.178:8001/play/a01o
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",HBO SIGNATURE HD
 http://45.148.147.13:8009/play/a04n
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",HBO Signature HD
+http://181.198.67.10:8024/play/a09n/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",HBO SIGNATURE SD
 http://45.148.147.13:8009/play/a04p
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",HBO XTREME
@@ -14117,6 +14117,8 @@ http://201.35.250.178:8001/play/a00g
 http://45.4.0.46:8000/play/a0e4
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",History 2 HD
 http://167.249.31.57:8000/play/a0e4
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",History 2 HD
+http://181.198.67.10:8024/play/a0bh/index.m3u8
 #EXTINF:-1 group-title="ASIA_MIX+MNC",History Asia
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 group-title="ASIA_Thai_TAYLAND",History Asia (Thai) (720p) [Not 24/7]
@@ -14133,6 +14135,8 @@ http://45.148.147.13:8010/play/a01c
 http://45.4.0.46:8000/play/a06b
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",HISTORY CHANNEL HD
 http://45.148.147.13:8010/play/a01e
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",History Channel HD
+http://181.198.67.10:8024/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",HISTORY CHANNEL HD1
 http://45.148.147.13:8010/play/a01f
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",HISTORY CHANNEL SD
@@ -14223,8 +14227,6 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
 #EXTINF:-1 group-title="FILMon TV",Hollywood Show Live | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4280&pprotocol=hls
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",HOLLYWOODHD
-http://41.224.0.27:4501/stream/channelid/2052461602?profile=pass
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Holvoet TV (Copiapó) (720p)
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Holvoet TV HD (Chille)
@@ -15189,8 +15191,6 @@ http://51.154.28.81:2052/play/a0ac
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="America_USA_United_States_Amerika1",Island Escape
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Islatel
-https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
 #EXTINF:-1 group-title="America_USA_United_States_Amerika2",ISN (1080p)
 https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",ISRA FM
@@ -16759,8 +16759,6 @@ https://inliveserver.com:1936/19020/19020/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/fiebre/fiebre/chunklist_w542644965.m3u8
 #EXTINF:-1 group-title="America_USA_TEST",La Sexta
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1844
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",LA SEXTA HD
-http://41.224.0.27:4501/stream/channelid/1259901371?profile=pass
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",La Sextaᴴᴰ
 http://91.126.141.13:1935/live/21/3500-def.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",LA SUPER DISCOTECA.TV
@@ -16893,6 +16891,8 @@ https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",lared
 https://marine2.miplay.cl/lared/mono.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Las Estrellas HD
+http://181.198.67.10:8024/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_PLUTO",Las Pistas de Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_*Latino PLUTOTV",LAS PISTAS DE BLUE
@@ -17153,8 +17153,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
 #EXTINF:-1 group-title="EU_Albania_Bosnia_Kosovo",Living TV
 http://185.226.88.3:1036/live/backup/backup/56.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Lleida Televisio (720p) [Not 24/7]
-https://cdn01.yowi.tv/lleida/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",LN Sports
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="EU_NL_BE",LN24
@@ -17479,34 +17477,6 @@ http://42.200.67.163:8090/play/a0i0
 https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #EXTINF:-1 group-title="ASIA_MIX+MNC",M Shop Super Sale!
 https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. ACCI©N HD
-http://41.224.0.27:4501/stream/channelid/1682544775?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. CLICOS HD
-http://41.224.0.27:4503/stream/channelid/2007311502?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. DRAMA HD
-http://41.224.0.27:4501/stream/channelid/1660285201?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. Fest
-http://41.224.0.27:4501/stream/channelid/1493933763?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. GOLF HD
-http://41.224.0.27:4503/stream/channelid/1250145894?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. LaLiga 2 HD
-http://41.224.0.27:4503/stream/channelid/1108768110?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. LaLiga 3 HD
-http://41.224.0.27:4503/stream/channelid/1236462269?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. LaLiga HD
-http://41.224.0.27:4501/stream/channelid/583816681?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M. SERIES HD
-http://41.224.0.27:4503/stream/channelid/1416209556?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M.DEPORTES1HD
-http://41.224.0.27:4501/stream/channelid/1564692154?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M.ESTRENOSHD
-http://41.224.0.27:4501/stream/channelid/1313607847?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M.LCAMPEON1
-http://41.224.0.27:4503/stream/channelid/1656775389?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M.LCAMPEON2
-http://41.224.0.27:4503/stream/channelid/2137270118?profile=pass
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",M.LCAMPEONES
-http://41.224.0.27:4503/stream/channelid/720025889?profile=pass
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",m.TV
 http://31.177.62.174:8003/play/s121
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",M.TV
@@ -18783,6 +18753,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="EU_BULGARSAT",MovieSTAR
 http://94.236.145.205:8000/play/a023
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Movistar Deportes HD
+http://181.198.67.10:8024/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",MoyaPlaneta
 https://89.106.234.4/MoyaPlaneta_34_35.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA RADIO",MOYSIKI LAMPSI 103.3
@@ -19677,6 +19649,8 @@ http://45.148.147.13:8010/play/a01t
 http://185.157.161.141:22222/play/a01h
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB 2",Nat Geo Wild HD
 http://109.200.130.124:7002/play/a019
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Nat Geo Wild HD
+http://181.198.67.10:8024/play/a09w/index.m3u8
 #EXTINF:-1 group-title="Amerika_*LatinoMIX2",NAT GEO WILD HD1
 http://45.148.147.13:8010/play/a01u
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NAT GEO WILD SD
@@ -21875,6 +21849,8 @@ http://45.4.0.46:8000/play/a05j
 http://187.49.191.6:8080/play/a008/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",Paramount HD
 http://201.182.242.135:12002/play/a09w/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Paramount HD
+http://181.198.67.10:8024/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="America_USA_TVPLUS",Paramount Movie Channel
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="America_USA_TEST",Paramount Network
@@ -21931,6 +21907,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.
 http://45.4.0.46:8000/play/pasioneshd
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",Pasiones HD
 http://187.49.191.6:8080/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Pasiones HD
+http://181.198.67.10:8024/play/a090/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",PASIONES USA
 http://200.229.147.16:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",Pasión TV (720p) [Not 24/7]
@@ -22273,6 +22251,8 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512&ads.wurl_name=PlayWorks&ads.us_privacy=1---&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=1&ads.consent=0
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",Playboy
 http://187.49.191.6:8080/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",Playboy HD
+http://181.198.67.10:8024/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Players TV
 https://playerstv-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Players TV
@@ -24917,10 +24897,6 @@ https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HJNpAsLWteW2_Q7vbySW&channelId=605a309dc5acdc002c7a20ac
 #EXTINF:-1 group-title="03INT_MIXTV",Popular TV Melilla
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Popular TV Melilla (720p)
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",Popular TV Murcia (720p) [Not 24/7]
-https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",POPÜLER FM
 http://37.59.205.232:9344/;stream.mp3
 #EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Porta dos Fundos
@@ -29895,6 +29871,10 @@ http://45.4.0.46:8000/play/a0bg
 http://187.49.191.6:8080/play/a00u/index.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",STAR Action HD
 http://167.249.31.57:8000/play/a0bg
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR ACTION HD
+http://181.198.67.10:8024/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR ACTION HD
+http://181.198.67.10:8024/play/a0bd/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",STAR ARTI FM
 http://yayin.morkarinca.com:8282
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",STAR ARTI FM
@@ -29907,6 +29887,8 @@ http://170.83.242.153:8000/play/a037
 http://45.181.122.17:8000/play/a02j
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",STAR CHANNEL HD
 http://200.229.147.16:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR CHANNEL HD
+http://181.198.67.10:8024/play/a09x/index.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",STAR CHANNEL.HD
 http://tecnotv.club/8di/smartv2.php?c=3075
 #EXTINF:-1 group-title="ASIA_MIX+MNC",Star Chinese Movies South East Asia
@@ -29923,6 +29905,8 @@ http://iptv.prosto.tv:7000/ch56/video.m3u8
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",STAR CLASSICS HD
 http://187.49.191.6:8080/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR COMEDY HD
+http://181.198.67.10:8024/play/a0be/index.m3u8
 #EXTINF:-1 group-title="EU_ROMANYA_MOLDOVA",Star Family
 http://77.89.204.105:8001/play/a01w/index.m3u8
 #EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB",STAR FAMILY
@@ -29955,6 +29939,8 @@ http://136.243.102.164:8044/stream
 http://45.4.0.46:8000/play/foxfamilyhd
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",STAR FUN HD
 http://187.49.191.6:8080/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR FUN HD
+http://181.198.67.10:8024/play/a08v/index.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
@@ -29971,6 +29957,8 @@ http://45.148.147.13:8002/play/a07p/index.m3u8
 http://45.148.147.13:8002/play/a07s/index.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",STAR HITS HD
 http://187.49.191.6:8080/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR HITS HD
+http://181.198.67.10:8024/play/a0bf/index.m3u8
 #EXTINF:-1 group-title="ASIA_INDIA_HINDISTAN TAMIL",Star Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR K.E.
@@ -30003,6 +29991,8 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 http://170.83.242.153:8000/play/a02m
 #EXTINF:-1 group-title="Amerika_*Latino MIX1",STAR SERIES HD
 http://187.49.191.6:8080/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Amerika_*LatinoMIX2",STAR SERIES HD
+http://181.198.67.10:8024/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="FILMon TV",Star Shop | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&pprotocol=hls
 #EXTINF:-1 group-title="ASIA_INDIA+TAMIL",Star Sports 1 HD
@@ -30945,8 +30935,6 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",TELECINCO HD
 http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",TELECINCO HD
-http://41.224.0.27:4501/stream/channelid/1399655332?profile=pass
 #EXTINF:-1 group-title="EU_Spain_ISPANYOL",Telecincoᴴᴰ
 http://91.126.141.13:1935/live/61/2500-def.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Telecine Action
@@ -33513,8 +33501,6 @@ https://sdm.telewebion.com/live/tv4/playlist.m3u8
 https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
 #EXTINF:-1 group-title="EU_Sweden",TV4 (720p)
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
-#EXTINF:-1 group-title="EU_Spain_ISPANYOL",TV4 La Vall
-https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 group-title="EU_Sweden",TV4 Svensk Politik (720p)
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 group-title="*TÜRK_YEREL",TV41
