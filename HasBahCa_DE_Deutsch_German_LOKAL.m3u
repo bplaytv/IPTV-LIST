@@ -1,0 +1,527 @@
+#EXTM3U
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Augsburg TV
+https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_w1954385360_b3628000.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",BLK TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",BR Fernsehen
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1920p_5128.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",BW Family
+https://cdn.icu.de/rtplive/bwf.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Das Erste
+https://mcdn.daserste.de/daserste/int/master_3328.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Anixe HD (720p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Augsburg TV
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV (720p)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV (720p)
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden TV Karlsruhe
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV (720p)
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV Hohenmölsen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BLK TV Hohenmölsen (1080p)
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Nord (720p)
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Nord (720p)
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus TV Magdeburg (1080p)
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Donau TV
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:DW (480p)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal (576p)
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal Schönebeck
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Elbekanal Schönebeck (576p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:eoTV HD (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Fernsehen Magdeburg
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Filstalwelle (576p)
+http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Filstalwelle Göppingen
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Franken Fernsehen (1080p)
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Franken Fernsehen Nürnberg
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Friesischer Rundfunk Friedeburg (350p) [Not 24/7]
+https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Haldensleben TV
+https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Hauptstadt TV (Potsdam)
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:health tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Insight HD (720p)
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Inwonder TV (720p)
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Isar TV (1080p)
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:K-TV (Fernsehen)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Kanal 12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Kultur MD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:KulturMD Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Lausitzwelle (Fernsehen) (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Light Channel (576p)
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1 Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MDF.1+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Muxx.tv (1080p) [Not 24/7]
+https://5856e1a25f71a.streamlock.net/easycast7-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:MyTVplus (Dresden) (576p)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:München TV
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Nahe TV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Event 1 (720p)
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Event 2 (720p)
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Fernsehen (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Fernsehen (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Hamburg (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR International (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NDR Weltweiter (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:NRWISION (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:nrwision Dortmund
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oberlausitz TV (1080p)
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oberpfalz TV Amberg
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:oeins Oldenburg
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Dessau (1080p)
+http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Dessau (1080p)
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Fulda
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Magdeburg (1080p)
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Merseburg (1080p)
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener Kanal Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Kaiserslautern (720p) [Not 24/7]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Ludwigshafen (720p) [Not 24/7]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Mainz
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg-Querfurt (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK TV Südwestpfalz
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Oscar am Freitag
+https://58de7a369a9c4.streamlock.net/oskar/_definst_/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Punkteins (Oberlausitz) (1080p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:PUNKTum Fernsehen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Punktum Südharz (1080p)
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio 21 Hannover
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio 21 TV (720p)
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Ran1 Dessau-Roßlau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW
+http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH Harz (1080p)
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFH TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RheinMain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rockland TV (720p)
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Rockland TV - Mainz (720p)
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RON TV  (18:00 - 18:30)
+https://ron-i.akamaihd.net/hls/live/523496/ron/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL Gold (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL Klub (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL West (18:00 - 18:30)
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RTL+ (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:RWE Erfurt
+https://stream.keyweb.org:8085/hls/rwetv.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Saarland Fernsehen 2 (720p)
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sonus FM Alemania (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:SR Fernsehen (720p)
+http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Studio 47 (576p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Sylt1 (404p)
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Südthüringer Regionalfernsehen
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Südtirol TV (720p)
+https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Bayern Live
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Halle (720p)
+http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV HALLE HD (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TV38 Südost-Niedersachen
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TVA (1080p)
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:TVO (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Unserding (544p)
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:WDR Koeln (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:WDR Koeln (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DE:World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",DW Deutsch +
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Elbe Kanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w587933168.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",EMS TV
+http://62.113.221.6/ev1tv-live/livestream/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",eotv
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist_w450545089.m3u8?ref=eotv.de
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",ERF 1
+https://bcovlive-a.akamaihd.net/b14b24d7b4b74470bfe9bdd2ffb63b03/eu-central-1/6194387526001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",erz TV
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w572635081.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-1080.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_1080p25.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_576_1p25.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Kinowelt TV
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Kulturmd
+http://62.113.210.250/medienasa-live/kulturmd_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",LTV
+https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Munchen TV
+https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w247607545_b3628000.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",My TV Plus
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Nahe TV
+https://s.ok54.de/nahetv/webstream/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Niederbayern TV Deggendorf - Straubing
+https://donautv.iptv-playoutcenter.de/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",noa4
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",noa4 Nachborn
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OFTV
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Dessau
+http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/okkl/webstream_720p/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Mainz
+https://s.ok54.de/oktvmainz/webstream/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Südwestpfalz
+https://s.ok54.de/okswp/test/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Weinstrasse
+https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Wernigerode
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Punktum
+http://62.113.210.250/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live.m3u8?DVR
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",RAN 1
+http://62.113.210.250/medienasa-live/ran1_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",RBW
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",RFH
+http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",RFO
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/chunklist_w1534883117_b3628000.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist_w1984098010.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Seenluft24
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",SYLT 1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/chunklist_w1479839388.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",TIDE
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/chunklist_w597335726_b5500000.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",TV Berlin
+https://live2.telvi.de/hls/tvberlin_hd720.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/chunklist_w732787111.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Visit-X TV
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_LOKAL",Welt der Wunder
+https://7a3035467ac8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.248654862284.channel.CXJjpBZsIOzL.m3u8

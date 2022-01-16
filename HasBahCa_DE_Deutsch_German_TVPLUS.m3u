@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:AbsintheTV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/52cb6c9d-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Actionfilme - Rakuten TV
+https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:art-tv-ch
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/195bc34d-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:auto motor und sport
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bachstiftung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC Food
+https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Beauty TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a9232731-6fb0-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bergblick Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Bloomberg TV+
+https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Charlie
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Clubbing TV
+https://d2yhuzhcjz5de4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-DE-prod/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:CNN
+https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Craction TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-palatin-cractiontv-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Drama Filme - Rakuten TV
+https://2937ba9c0c3e46babadc32c327b710b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenTVShows/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:DUST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/gunpowder-dust-int-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:EAT CLUB TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f7858cd7-7d4c-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Euronews Live
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:European League of Football TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-ottera-europeanfootballleague-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fabella
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FailArmy
+https://799e1e65b6954f11b65eba4ce0d6b8ae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FailArmy/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Family - Rakuten TV
+https://558441307ee2441fbd0f67ae40a04646.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenFamily/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fantasja
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Fashion TV
+https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FTF
+https://7fffe3f012a842fcaf3303e75eec1028.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FTFNextInternational/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:FUEL TV
+https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:GoldStar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Grjngo
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/11edf121-80c2-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:gTV
+https://d18pgv3x27ap9o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Ubisoft-german-Germany-prod/ubi_ug.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Hallo:Eltern
+https://9b76b74987e54141b85aa9b3226b9612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_HALLOELTERN/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Health TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8df8031c-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Heimatkino.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Hip Trips
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d48ace9-7cd7-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Horse & Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-hnc-free-samsung-germany/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insighttv-german-samsungtv-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:InWonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwonder-german-samsungtv-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Itsin TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6f93baef-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Just cooking
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Komödien - Rakuten TV
+https://d69cd6f2ab304e228ebea8afc7420983.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenComedyMovies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Minute Shorts
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/caabeb19-2887-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moconomy
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:MotorRacing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b13192-80c2-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Motorvision Classic
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moviedome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Moviedome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedomefamily-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Mystery Krimi
+https://d1gkt8v6hadmy7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MysteryKrimi-DE-prod/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Nanoki
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/09a1e54b-72bd-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Netzkino
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:One Terra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:PBS America
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:People Are Awesome
+https://20f120ffdbfd4b5e928df7c47a2862a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_PeopleAreAwesome/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qello Concerts by Stingray
+https://9af4a7b2b48b452494d36d45e6cffab9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayQelloConcerts/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Rakuten Stories
+https://e9937d5e420843fd89b67166d91331f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenSpotlight/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Reuters
+https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Rocket Beans TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d9b8d119-818d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-de/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:SPIEGEL.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:sportdigital
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:spot on news
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bee5e646-7cd5-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Stingray Karaoke
+https://f72059bf9e3c46f6bea80af68e489193.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayKaraoke/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:SuperToons TV
+https://050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Teletubbies
+https://39abeaa9edff457a8d0fda45c0f64e29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tempora
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tennis Channel Deutschland
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-int-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2a08fac9-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:The Pet Collective
+https://7e317da828ea423886a65e2693b23248.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ThePetCollective/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Tierwelt
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5a7fe3dd-7cd6-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Travelxp
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Unterhaltung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/728a293e-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Vevo Pop
+https://eu.linear.zype.com/7a727d8b-13f8-458f-b37e-c6fe35f39072/612c2923-5cb6-4291-8349-3dfbf27320f1-samsung-tv/live.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Vevo Schlager Pop
+https://eu.linear.zype.com/94b11c4d-b7ec-43fb-b1d4-53de5540df7b/a1c67f60-e917-41d5-86ab-dd1f4e252002-samsung-tv/live.m3u8?
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Waidwerk Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Watch4 Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Wilder Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Wissen 360°
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ca7b4f32-7b7d-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:World Poker Tour
+https://e22c2098b9ac42adbbf965b46f869046.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_WorldPokerTour/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:XITE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Xplore Reisen
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",DE:Yogamour
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/aa5dae03-818e-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Deluxe Lounge HD (720p) [Not 24/7]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Fuel TV (1080p)
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Stingray Karaoke (1080p)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
