@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Afghanistan",Ariana Afghan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Ariana TV (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Ariana TV US (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Ariana TV US (Delayed stream) (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",ATN News (360p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Barya TV (720p) [Not 24/7]
+http://51.210.199.56/hls/stream.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Hewad TV (576p) [Not 24/7]
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Kayhan TV HD
+http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Mihan TV
+http://iptv.mihantv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",MTC
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Pamir TV (1080p)
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",ParsiLand TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Radio Farda TV
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Solh TV (576p)
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Tapesh
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Thrill (480p) [Geo-blocked]
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Afghanistan",Watan-E-Maa TV
+http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8

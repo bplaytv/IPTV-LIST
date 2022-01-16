@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",ASTV News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Channel 5 (240p)
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Channel 7 (240p)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Channel 8 (720p) [Not 24/7]
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 1 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv01.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 1 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 10 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv10.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 10 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 11 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv11.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 11 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 12 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv12.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 12 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 13 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv13.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 13 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 14 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv14.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 14 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 15 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv15.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 15 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 2 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv02.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 2 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 3 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv03.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 3 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 4 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv04.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 4 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 5 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv05.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 6 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv06.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 6 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 7 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv07.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 7 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 8 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv08.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 8 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 9 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv09.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",DLTV 9 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Fox Movies Asia (Thai) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Fox Sports 3 Asia (Thai) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Fox Sports Thailand (720p) [Not 24/7]
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Golf Channel Thailand (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Golf Channel Thailand (720p) [Not 24/7]
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",H2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",History Asia (Thai) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",NBA TV (720p) [Not 24/7]
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",NBT Bangkok (1080p) [Not 24/7]
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Thai PBS (Opt-4)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Thai PBS 3 (1080p)
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Thairath TV 32 (720p)
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 1 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 2 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 4 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 5 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Premier Football HD 5 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport 5 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport 5 (480p Scaled) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport 7 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport 7 (480p Scaled) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 1 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 2 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 4 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Sport HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Tennis HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",True Tennis HD (720p) [Not 24/7]
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",TV Muslim (1080p) [Not 24/7]
+http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",Warner TV (720p) [Not 24/7]
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Thai_TAYLAND",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8

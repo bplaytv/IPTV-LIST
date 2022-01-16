@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",Berita RTM [MPEG-DASH]
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",Dewan Negara [MPEG-DASH]
+https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",Dewan Rakyat [MPEG-DASH]
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",Sukan RTM [MPEG-DASH]
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TV Okey [MPEG-DASH]
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TV1 [MPEG-DASH]
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TV2 [MPEG-DASH]
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TV6 [MPEG-DASH]
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TVRI
+http://nonton.wap.sh/id/018.m3u8
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1 group-title="ASIA_Khusus+MALAZIA",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"

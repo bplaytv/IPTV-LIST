@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Bangladesh",Bangla Vision (1080p) [Geo-blocked]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",BTV World (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Channel S (720p) [Not 24/7]
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Colosal TV (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",DBC News (1080p) [Geo-blocked]
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Independent TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Jamuna TV (720p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Peace TV Bangla (1080p)
+http://199.223.252.162:8032/bangla_adaptive/index.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",RTV (1080p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Bangladesh",Somoy News TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8

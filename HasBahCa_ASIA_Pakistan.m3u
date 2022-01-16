@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Pakistan",92 News (720p)
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",92 News (Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",92 NEWS HD PK
+http://221.120.204.4/92-NEWS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",Avt Khyber
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",HUM TV HD PK
+http://221.120.204.4/HUM-TV-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",Khyber News
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",Lahore News
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",ROMEDY NOW HD
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",STAR MOVIES HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",STAR PLUS HD
+http://221.120.204.4/star-plus-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",STAR WORLD HD
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",URDU 1 HD PK
+http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",ZEE TV HD
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ASIA_Pakistan",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

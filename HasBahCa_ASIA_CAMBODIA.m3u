@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_CAMBODIA",Bayon TV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",Fresh News TV (720p)
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",TV9 (360p)
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_CAMBODIA",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8

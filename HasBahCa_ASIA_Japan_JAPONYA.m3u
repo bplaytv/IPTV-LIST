@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",AT-X (480p) [Not 24/7]
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",GTN Typhome (English Subs) (720p) [Not 24/7]
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK General TV (540p) [Not 24/7]
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK World (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK华语视界 (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK教育
+http://203.162.235.41:16901
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Tokyo MX1
+https://movie.mcas.jp/switcher/mcas1_2/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",Weather News
+https://movie.mcas.jp/mcas/wn1_2/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",シネフィルWOWOW
+http://203.162.235.41:16916
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 group-title="ASIA_Japan_JAPONYA",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8

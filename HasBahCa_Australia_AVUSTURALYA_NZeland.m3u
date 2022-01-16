@@ -235,6 +235,8 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA_NZeland",Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Australia_AVUSTURALYA_NZeland",Snowy Mountains | Austrália
+http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 group-title="Australia_AVUSTURALYA_NZeland",Te Reo
 http://i.mjh.nz/nz/tv.20.m3u8
 #EXTINF:-1 group-title="Australia_AVUSTURALYA_NZeland",Te Reo

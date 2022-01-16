@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASIA_Laos",Air TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Brian TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Dao Lane Xang (360p)
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Dhammasapha TV (1080p)
+https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Good Idea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Hmong Star TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",HmongUSA TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Houng Fa (720p)
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",ISTV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Khomsanh TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Lao Champa TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Lao Champa TV 3 (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Lao Heritage Foundation TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Lao Net TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Lao SV TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Laos Planet TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Look Thoong TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",LS TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",NAT TV (1080p)
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Ning TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Oh Muang Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Oy Lao TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",PNTV (720p)
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Tea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Uniquely Thai (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Vajtswv Txojlus (720p)
+https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Vanphenh TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ASIA_Laos",Vati Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
