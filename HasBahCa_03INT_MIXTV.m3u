@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="03INT_MIXTV",1 TV | Armênia
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
 #EXTINF:-1 group-title="03INT_MIXTV",3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",3/24 | Espanha
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",3ABN
@@ -21,6 +27,8 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",A2i Naja (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",ABC News | Albânia
+https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Absolute Reality HD
@@ -41,6 +49,10 @@ https://rakuten-africanews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",AfricaNews (Norway)
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",AfricaNews em francês e inglês
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",AfricaNews em inglês
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",AFYON TÜRK TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",AKC Tv
@@ -51,6 +63,8 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Al Jazeera
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#EXTINF:-1 group-title="03INT_MIXTV",Al Jazeera | Inglês
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",AL KARMA TV
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Al Khalij TV
@@ -65,6 +79,10 @@ http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Alma TV Food | Itália
+https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Alma TV Travel | Itália
+https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Alyaman Shabab (1080p) [Not 24/7]
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Amazing Discoveries TV
@@ -131,6 +149,10 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Bachstiftung | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Bachstiftung | Suiça
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b169516d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",BBC World News (576p)
@@ -143,6 +165,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",BeeTV | EN
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Bel Ros | Belarus
+https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Beteve
@@ -157,6 +181,8 @@ https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Big Life TV
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Biz TV
 https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Black News Channel
@@ -211,6 +237,8 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Bloomberg US Desktop
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Bloomberg | Reino Unido
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",BNC 24/7
@@ -233,20 +261,24 @@ https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Buzzr | Source 2
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",BX1 | Bélgica - 1
+https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Cabina RPC Radio (480p)
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Cabina Telemetro Radio (480p)
 https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Caillou | Espanha
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Caltex Music | Irã
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Camera Smile TV
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Canal 10 (720p)
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",Canal 12 Puerto Madryn
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CANAL 2 de Jujuy
 http://content.uplynk.com/c4b60809663a4f3b8f82a210e91ed428.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Canal 26
@@ -297,10 +329,14 @@ https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de03
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTINF:-1 group-title="03INT_MIXTV",CGTN em Inglês | China
+https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Chamber TV (1080p)
 https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Channel 20 | Israel
+https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Channel News Asia
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 #EXTINF:-1 group-title="03INT_MIXTV",Charge!
@@ -331,12 +367,18 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CINE LIFE HD
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Cine Real - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60240f57676235002df19f47
+#EXTINF:-1 group-title="03INT_MIXTV",Cine Sureño - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6018913fa15130002b284197
 #EXTINF:-1 group-title="03INT_MIXTV",Cinedigm | CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
 #EXTINF:-1 group-title="03INT_MIXTV",Cinedigm | CONtv Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?webstream
 #EXTINF:-1 group-title="03INT_MIXTV",Cinedigm | Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?webstream
+#EXTINF:-1 group-title="03INT_MIXTV",Cinehouse | Plex
+https://3e14f4fda10247bc907cf85bbf6f6d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cinehouse/playlist.m3u8?ads.wurl_channel=492&ads.wurl_name=Cinehouse&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d104d162b9002d05a60a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="03INT_MIXTV",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CinePride
@@ -389,6 +431,8 @@ https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Coronavirus.gov
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Coronavírus
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Country Boy Kid Vids
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Court TV
@@ -399,6 +443,10 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Crackle
 https://crackle-plex.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Crackle TV
+https://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Crete | Grécia
+http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1733220557.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",CTN
@@ -423,10 +471,34 @@ https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
 https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Degrassi the next generation (Canada)
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Espanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | França
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Itália
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Suíça
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Deluxe Lounge HD | Áustria
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Demand Africa
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Demand Africa (Mexico)
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deutsche Welle - DW em espanhol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deutsche Welle - DW em inglês
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deutsche Welle - DW em árabe
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deutsche Welle - DW | Alemanha
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Deutsche Welle - DW+ | Alemanha
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Digital 15
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
 #EXTINF:-1 group-title="03INT_MIXTV",DM TV
@@ -437,10 +509,20 @@ https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Docurama
 https://docurama-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Docurama | EUA
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Don't Tell The Bride | Reino Unido
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Donna TV - Samsung | Itália
+https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Donna TV | Itália
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Dove Channel
 https://dovenow-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Dove Now
 https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Drone Channel | Distro TV
+https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Duck TV
 https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Duck Tv (Denmark)
@@ -451,6 +533,8 @@ https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
 https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Duck TV (Spain)
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Duck TV | Espanha
+https://f4af60daf0aa422bb11765ff62a4a92e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_DuckTV/playlist.m3u8?ads.wurl_channel=572&ads.wurl_name=DuckTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Dungeon
 https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",DW
@@ -461,8 +545,12 @@ http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Edge Sport - Plex
+https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5eea71d45252710041e0ccb9
 #EXTINF:-1 group-title="03INT_MIXTV",El Conflecto!
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",El Gourmet
+https://b96858af07884905b4d8a468cbc4c4dc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ElGourmet/playlist.m3u8?ads.wurl_channel=849&ads.wurl_name=ElGourmet&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=608a2c722957c9002c6a6175&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="03INT_MIXTV",El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",El Sembrador TV Europa
@@ -487,8 +575,12 @@ https://tfd-distro.amagi.tv/index.m3u8
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Epic Drama HD
 http://hls.trinity-tv.net/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinyejxxqxqvu8jjdfb6k5d52zrab7ikvyjxm33csefu98ip97gb5apma2pe4m2enm2hka.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Epic M+
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Epic Misses & Mayhem
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",ERT World | Grécia
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",ES NE TV
 https://zypelive-lh.akamaihd.net/i/default_1@745572/index_288_av-p.m3u8?F38b1dF4=5e23d03f828a5300018c8e45&6pLKMQ3y=Sqi3Ng90&video_id=5d0000b80c4ebb590e80e184&sd=10&dw=10800&rebase=on
 #EXTINF:-1 group-title="03INT_MIXTV",ESNE TV HD
@@ -501,6 +593,8 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Estrella TV | México
+https://estrellatv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60089d98f682a3002c34829f
 #EXTINF:-1 group-title="03INT_MIXTV",Estv
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",ET Live
@@ -539,6 +633,12 @@ https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
 https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Euronews | Alemanha - Samsung
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Euronews | Espanha - Plex
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="03INT_MIXTV",Euronews | Espanha - Samsung
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",EWTN CANADA
@@ -603,6 +703,8 @@ https://fidotv-roku.amagi.tv/playlist.m3u8
 https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Fireside
 https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Flash
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6018913ea15130002b284191
 #EXTINF:-1 group-title="03INT_MIXTV",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Folk TV
@@ -623,6 +725,10 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",France 24 Español (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",France 24 SD
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",France 24 SD em inglês
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Francophonie
@@ -653,6 +759,12 @@ http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Fuel TV (Sweden)
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Fuel TV | Alemanha
+https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8?ads.wurl_channel=585&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Fuel TV | Espanha
+https://ca770451d44445029c7d89918c921ba4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FuelTV/playlist.m3u8?ads.wurl_channel=587&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Fuel TV | Índia
+https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8?ads.wurl_channel=708&ads.wurl_name=FuelTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Fun Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",G TV
@@ -675,6 +787,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",GoldStar TV | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",GoUSA TV
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="03INT_MIXTV",Grand Lille TV
 http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Grand Lille TV HD
@@ -713,10 +829,14 @@ https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8?Faith
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",History
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",History Lab | Itália
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w442798614.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Hope Channel Norge (540p)
 http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Horse Shopping Channel
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",HQM Rock - só PC
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f1-v1-a1.m3u8?pprotocol=hls
 #EXTINF:-1 group-title="03INT_MIXTV",HSN
 https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",IBN TV (360p)
@@ -725,6 +845,12 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/158.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",IFC Film Picks
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",iFilm em farsi | Irã
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",iFilm em inglês | Irã
+https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",iFilm em árabe | Irã
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",IGN
 https://ign-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",IGN TV
@@ -769,6 +895,10 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1000k.m3u8
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Iqraa Europe
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Iran International | Irã
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Italian Fishing TV | Itália
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Jakarta Globe News Channel
 https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Jamaica Online TV (1080p)
@@ -781,6 +911,10 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Johnny Carson TV
 https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",JoJ Family | Eslováquia
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",JoJ Plus | Eslováquia
+http://nn.geo.joj.sk/hls/jojplus-540.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Journy
 http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Journy
@@ -799,6 +933,8 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",KBS World | Coreia do Sul
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",KCRT-TV
 http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Key TV
@@ -813,6 +949,8 @@ https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Kids Click TV (Geo-USA)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 group-title="03INT_MIXTV",Kitchen Stories | Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7198fd46-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Kompas TV
@@ -823,8 +961,6 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-b.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",La Tele Tuya (TLT) (480p) [Geo-blocked]
-https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Latido
@@ -893,12 +1029,16 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Midnight Pulp (GEO)
 https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Minerva Pictures | Itália
+https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Miracle Channel (576p)
 https://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Monaco Info (720p) [Not 24/7]
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Monarda Arts | Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6951065f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Moonbug Kids not geo via roku
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Motorcyclist
@@ -941,8 +1081,12 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",MyTime Movie Network (Mexico)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",MyTime Movie Network | França
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",n-tv Event
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Nature TV
+https://stmv1.srvif.com/nattv/nattv/chunklist_w267529618.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Naturescape (Australia)
 https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",NAU-TV - Northern Arizona University
@@ -957,6 +1101,8 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",NBS TV (360p) [Not 24/7]
 https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",NEA TV | Grécia
+https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",New K-ID
@@ -1001,22 +1147,32 @@ https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/in
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Noor TV | Reino Unido
+https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",nosey | Divorce Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",nosey | Judge Karen's Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Noti Uno Puerto Rico (404p) [Not 24/7]
 https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/chunklist_w782728706.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Notélé | Bélgica
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Now - News of the world
+https://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",NTA International (576p)
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",OAN Encore
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",OAN Plus
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_180p30.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",OnDemand China
+https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="03INT_MIXTV",One America News
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",One America News Network
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",One Terra | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_b894100_sleng.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Outside TV
@@ -1035,6 +1191,8 @@ http://myott.top/stream/DIPK8H19CP8/196.m3u8
 https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Payame Afghan
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",PBS Digital Studios | EUA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="03INT_MIXTV",People TV
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",People TV
@@ -1045,6 +1203,10 @@ https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Pinkfong Baby Shark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Planeta Junior | Espanha
+https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8?ads.wurl_channel=594&ads.wurl_name=PlanetaKidz&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="03INT_MIXTV",Planeta Junior | Itália
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Play Works
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512&ads.wurl_name=PlayWorks&ads.us_privacy=1---&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=1&ads.consent=0
 #EXTINF:-1 group-title="03INT_MIXTV",Players TV
@@ -1059,12 +1221,12 @@ http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8
 https://pocketwatch-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",Popular TV Melilla
-http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
+#EXTINF:-1 group-title="03INT_MIXTV",Press TV em francês | Irã
+https://live1.presstv.ir/live/presstvfr/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Preview Channel
 https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Punkteins
@@ -1077,20 +1239,34 @@ https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Qello Concerts by Stingray | Alemanha
+https://9af4a7b2b48b452494d36d45e6cffab9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayQelloConcerts/playlist.m3u8?ads.wurl_channel=453&ads.wurl_name=StingrayQelloConcerts&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Qello Stingray
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",QS24 | Suiça - em alemão
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Quahz TV
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",QVC
 https://qvc.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",Radio Javan
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",QwestTV Classical
+https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60aeb06487f9b1002ce1231b
+#EXTINF:-1 group-title="03INT_MIXTV",QwestTV Jazz & Beyond
+https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a75
+#EXTINF:-1 group-title="03INT_MIXTV",QwestTV Mix
+https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a77
 #EXTINF:-1 group-title="03INT_MIXTV",RADIO LA SALADA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0002
 #EXTINF:-1 group-title="03INT_MIXTV",Radio M-1 (LIT) WEB
 http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Radio WLNG
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Rakuten Documentaries | Portugal
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Rakuten Família | Portugal
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",RBC - РБК | Rússia
+https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Real America's Voice
 https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Real Families
@@ -1115,12 +1291,20 @@ http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
 https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Renome
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Republic Bharat | Índia
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0
+#EXTINF:-1 group-title="03INT_MIXTV",Republic TV | Índia
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0
 #EXTINF:-1 group-title="03INT_MIXTV",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",RetroCrush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Reuters Now
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Reuters Now
+https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Reuters TV
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea71d65252710041e0ccbc&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="03INT_MIXTV",Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Revelation TV
@@ -1197,18 +1381,24 @@ http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",RTVi 14
 http://rr2.1ott.net/~109f4bfdc9d6686f40d0f1d46bd8f01b00d/124
+#EXTINF:-1 group-title="03INT_MIXTV",RunTime
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5f47b0b87cb6a400422f9146
 #EXTINF:-1 group-title="03INT_MIXTV",Runtime (Mexico)
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Runtime (Spain)
 https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Runtime Español
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Runtime Español
+https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5f5132e362fe160040f26c15
 #EXTINF:-1 group-title="03INT_MIXTV",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Rupavahini (480p) [Not 24/7]
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Rádio Clube TV | Portugal
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",SADA TV
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Salt TV (576p)
@@ -1247,6 +1437,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",So Real
 https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",So Yummy!
+https://firstmedia-soyummy-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6041643175c115002dc5125d
 #EXTINF:-1 group-title="03INT_MIXTV",So... Real
 https://soreal-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Sofy TV (Italy)
@@ -1275,6 +1467,8 @@ https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/
 https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Stingray Karaoke (Sweden)
 https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Stingray Karaoke | Alemanha
+https://f72059bf9e3c46f6bea80af68e489193.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=457&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="03INT_MIXTV",Stingray Karoke (Netherland)
 https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Stingray Naturescape
@@ -1295,8 +1489,6 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b40
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Taste It
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",Tastemade
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Tastemade
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TasteMade (Mexico)
@@ -1321,6 +1513,8 @@ https://tdameritrade-distro.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8?tc=1&rn=1456123471&cid=f9aafa1f132e40af9b9e7238bc18d128&exp=1627391092&ct=c&sig=d07d2e8b152f04591061e77b3273fb0a6d82659b508349ba96f72d1a902695e9
 #EXTINF:-1 group-title="03INT_MIXTV",TELE SISTEMA CANAL 9
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",TeleBärn | Suiça - em alemão
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TELEMAX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 #EXTINF:-1 group-title="03INT_MIXTV",Telemicro 5
@@ -1331,10 +1525,14 @@ http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+#EXTINF:-1 group-title="03INT_MIXTV",Teleromagna | Itália
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Telestar 1
 http://193.34.109.10:8090
 #EXTINF:-1 group-title="03INT_MIXTV",Televen (404p) [Not 24/7]
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Televisa Telenovelas | Itália
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Telpin HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",teltOwkanal
@@ -1367,8 +1565,6 @@ https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/61839
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",The Pet Collective
 https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="03INT_MIXTV",THGL
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Thrill
 http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Tide TV
@@ -1385,6 +1581,8 @@ https://lds-timeline-plex.amagi.tv/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TMZ
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=608b7094a09205002da4f291
 #EXTINF:-1 group-title="03INT_MIXTV",Top Stories by Newsy
 http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Top Stories by Newsy
@@ -1393,8 +1591,12 @@ https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Toy Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",TR24 | Itália
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Trace Urban (Australia)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Travel & Food TV | Airy TV
+https://playout4multirtmp.tulix.tv/live19/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Trece Paraguay (720p) [Not 24/7]
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Trinity & Beyond
@@ -1409,12 +1611,18 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033783.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",True vision movies 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033786.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",TSC | Canadá
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="03INT_MIXTV",Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=608b7095a09205002da4f293
 #EXTINF:-1 group-title="03INT_MIXTV",Tubi | CBC News Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Tubi | Estrella News | SP
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Tubi | People TV
 https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",TV A Folha | Palmas - Paraná
+https://video02.kshost.com.br/elton3601/elton3601/chunklist.m3u8?t=1641578689
 #EXTINF:-1 group-title="03INT_MIXTV",TV CLASSICS
 https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TV Familia (720p)
@@ -1445,6 +1653,8 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TV7 Colmar
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",TVE 24h | Espanha
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_720.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TVG América
@@ -1465,6 +1675,8 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TvOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 group-title="03INT_MIXTV",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",TVRI Nasional
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #EXTINF:-1 group-title="03INT_MIXTV",TVRI World
@@ -1507,6 +1719,8 @@ http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wt
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Viva Nicaragua Canal 13 (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
+#EXTINF:-1 group-title="03INT_MIXTV",ViàOccitanie | França
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",VOD Anytime Fireplace
 https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",VOD FAMILY Jack Frost
@@ -1517,6 +1731,10 @@ https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stre
 https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",VoxAfrica em francês
+https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",VoxAfrica em inglês
+https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",VSiN | Webstream
 https://stream.rcncdn.com/live/vsinproxy.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",VTV (720p)
@@ -1533,6 +1751,8 @@ https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",WEWS 5 ABC Cleveland News
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="03INT_MIXTV",Wilder Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="03INT_MIXTV",WJLA
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 group-title="03INT_MIXTV",WMUR New Hampshire

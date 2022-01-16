@@ -13,8 +13,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",ADRIA Music (SI) (Not until Kodi 19!)
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-#EXTINF:-1 group-title="01Music_MUZIK",ALB MUSIC (AL)
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Alegria TV (ES)
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Bajo Cero TV (BR)
@@ -85,8 +83,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",FOLX Slovenija (Not until Kodi 19!)
 https://serve-first.folxplay.tv/folx/ch-5/master.m3u8
-#EXTINF:-1 group-title="01Music_MUZIK",Hits 360 HD
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",Four Ladies-Move
+http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
 #EXTINF:-1 group-title="01Music_MUZIK",Karibena HD (BR)
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Kuriakos Music (1080p)
@@ -105,8 +103,18 @@ http://live.m2.tv/hls3/stream.m3u8
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 group-title="01Music_MUZIK",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",MTV Germany (DE) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="01Music_MUZIK",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Music Top
 http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Music Top
@@ -179,8 +187,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b7500
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",RU TV HD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 group-title="01Music_MUZIK",Sonus FM TV (US)
-https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Spirit TV (US)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="01Music_MUZIK",Stingray Alternative HD

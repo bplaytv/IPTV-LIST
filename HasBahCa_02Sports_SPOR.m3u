@@ -11,6 +11,12 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 group-title="02Sports_SPOR",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8
+#EXTINF:-1 group-title="02Sports_SPOR",Al Kass Sports 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="02Sports_SPOR",Al Kass Sports 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 group-title="02Sports_SPOR",Alkass four HD
 http://41.224.63.108:7788/play/a02b
 #EXTINF:-1 group-title="02Sports_SPOR",Alkass one HD
@@ -103,8 +109,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Edge Sport
 https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",Edge Sport
-https://edgesports-stirr.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",EdgeSport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",ELEVEN SPORTS CHANNEL (JOGO 1)
@@ -139,8 +143,6 @@ https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",K Sport 2
 http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",KÊNH LALIGA
-http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",LN Sports
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Look Sport
@@ -227,10 +229,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/playlist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",SKynet Sport6
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/playlist.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",Sony ten 2
-http://208.86.19.21:80/712.stream/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",Sony Ten 3
-http://208.86.19.21:80/714.stream/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",SPO TV 1
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",SPO TV 2
@@ -241,8 +239,6 @@ http://iptv.prosto.tv:7000/ch113/video.m3u8
 http://iptv.prosto.tv:7000/ch115/video.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Sport 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8?telegramm..
-#EXTINF:-1 group-title="02Sports_SPOR",Sport 24 HD
-https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",SPORT TV 1 PT
 http://93.152.174.144:4000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",SPORT TV 1 PT
@@ -255,28 +251,18 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",ST-TV | SKI TV (1080p)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",TEN1
-http://208.86.19.21/726.stream/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",TNT Sports 2 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 2 HD
 http://45.148.147.13:8001/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 2 HD ALT
 http://45.148.147.13:8001/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 3 HD
 http://45.148.147.13:8001/play/a0dm/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 3 HD ALT
 http://45.148.147.13:8001/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",TNT Sports 4 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 4 HD
 http://45.148.147.13:8001/play/a0do/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 4 SD
 http://45.148.147.13:8001/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",TNT Sports 5 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",TNT SPORTS 5 HD
 http://45.148.147.13:8001/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",Trace Sport Stars (Australia)
@@ -333,8 +319,6 @@ http://168.205.87.198:8555/live/aleixo/123456/51.ts
 http://154.62.74.29:1935/live/gol/chunklist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇪🇸️ Movistar La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",🇪🇸️ Movistar La Liga
-https://bit.ly/3kushxS?inspiration.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇪🇸️ Real Madrid
 http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇪🇸️ tdp
@@ -345,10 +329,6 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mp
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇬🇧️ Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
-#EXTINF:-1 group-title="02Sports_SPOR",🇬🇧️ BT Sport Espn
-https://bit.ly/3joBXuL?inspiration.m3u8
-#EXTINF:-1 group-title="02Sports_SPOR",🇬🇧️ Premier Sports 1
-https://bit.ly/3Dsw2g8?inspiration.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇬🇪️ Silk Sport 1 [only simpletv]
 https://aquagm.qarva.info:8074/CHANNEL527/BITRATE2/playlist.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
 #EXTINF:-1 group-title="02Sports_SPOR",🇬🇪️ Silk Sport 2 [only simpletv]
@@ -377,8 +357,6 @@ https://95-213-224-186.livesports24.online/belarusss5.m3u8
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇺🇦️ Setanta Sports
 http://95.67.12.179:9001
-#EXTINF:-1 group-title="02Sports_SPOR",🇺🇦️ Setanta Sports
-https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇺🇸 Golf Channel
 http://58.65.171.202:8000/play/15907/index.m3u8
 #EXTINF:-1 group-title="02Sports_SPOR",🇺🇸 Hard Knock Fighting
