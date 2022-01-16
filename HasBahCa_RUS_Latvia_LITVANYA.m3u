@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",KOK Fights (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",Latvijas Radio 1 (Webradio)
+http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",Latvijas Radio 1 106.1 FM Latgale (360p)
+https://5a44e5b800a41.streamlock.net/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",Latvijas Radio 3 Klasika
+http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",LRT Lituanica (720p)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",Power Hit Radio (720p)
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Latvia_LITVANYA",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8

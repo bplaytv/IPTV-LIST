@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1 group-title="RUS+Kazakhstan",Habar
+http://85.92.120.101:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Evrazia
+http://85.92.120.101:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",El-Arna
+http://85.92.120.101:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Qazaqstan
+http://85.92.120.101:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Saryarqa
+http://85.92.120.101:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",KTK
+http://85.92.120.101:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",НТК
+http://85.92.120.101:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",31 канал
+http://85.92.120.101:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Stingray CMusic
+http://85.92.120.101:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",СТВ
+http://85.92.120.101:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Астана ТВ
+http://85.92.120.101:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Алматы
+http://85.92.120.101:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",7 канал
+http://85.92.120.101:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TamashaTV
+http://85.92.120.101:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Той Думан
+http://85.92.120.101:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Kazakh TV
+http://85.92.120.101:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Новое ТВ
+http://85.92.120.101:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Первый Карагандинский
+http://85.92.120.101:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Караганда
+http://85.92.120.101:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Первый Канал HD (+4)
+http://85.92.120.101:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Россия 1
+http://85.92.120.101:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",НТВ
+http://85.92.120.101:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТНТ
+http://85.92.120.101:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",СТС
+http://85.92.120.101:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",РЕН
+http://85.92.120.101:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТВЦ
+http://85.92.120.101:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Пятый канал
+http://85.92.120.101:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Звезда
+http://85.92.120.101:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Домашний
+http://85.92.120.101:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",8 канал
+http://85.92.120.101:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТНВ
+http://85.92.120.101:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мама
+http://85.92.120.101:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TV21
+http://85.92.120.101:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",НСТ
+http://85.92.120.101:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Остросюжетное HD
+http://85.92.120.101:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Кинокомедия
+http://85.92.120.101:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Кино ТВ
+http://85.92.120.101:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Zee TV
+http://85.92.120.101:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Индийское кино
+http://85.92.120.101:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Победа
+http://85.92.120.101:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Перец
+http://85.92.120.101:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Любимое кино
+http://85.92.120.101:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Filmbox
+http://85.92.120.101:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TV1000 Action
+http://85.92.120.101:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TV1000
+http://85.92.120.101:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",VIP_PREMIERE_HD
+http://85.92.120.101:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",VIP Megahit HD
+http://85.92.120.101:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",VIP Comedy HD
+http://85.92.120.101:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Киносемья
+http://85.92.120.101:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Кинохит
+http://85.92.120.101:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Киносвидание
+http://85.92.120.101:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Киномикс
+http://85.92.120.101:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мужское кино
+http://85.92.120.101:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Кинопремьера HD
+http://85.92.120.101:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Наше новое кино
+http://85.92.120.101:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Родное кино
+http://85.92.120.101:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дом кино
+http://85.92.120.101:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Sony HD
+http://85.92.120.101:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Sony SCI-FI
+http://85.92.120.101:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дом Кино Премиум
+http://85.92.120.101:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",FightBox
+http://85.92.120.101:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",FilmBox_ArtHouse
+http://85.92.120.101:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Fast&Fun_Box
+http://85.92.120.101:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Русский_роман
+http://85.92.120.101:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Русский_бестселлер
+http://85.92.120.101:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Русский_детектив
+http://85.92.120.101:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Fox
+http://85.92.120.101:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Hollywood
+http://85.92.120.101:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Киносерия
+http://85.92.120.101:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТВ 3
+http://85.92.120.101:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",CTC_Love
+http://85.92.120.101:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мир Сериала
+http://85.92.120.101:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Balapan
+http://85.92.120.101:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Карусель
+http://85.92.120.101:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Детский мир
+http://85.92.120.101:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Disney Channel
+http://85.92.120.101:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Nickelodeon
+http://85.92.120.101:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Cartoon Network
+http://85.92.120.101:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мульт
+http://85.92.120.101:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Уникум
+http://85.92.120.101:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Jim Jam
+http://85.92.120.101:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TiJi
+http://85.92.120.101:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Hit TV
+http://85.92.120.101:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Muzlife
+http://85.92.120.101:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Gakku TV
+http://85.92.120.101:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Шансон ТВ
+http://85.92.120.101:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Муз ТВ
+http://85.92.120.101:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",RuTV
+http://85.92.120.101:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Наше ТВ
+http://85.92.120.101:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",THT Music
+http://85.92.120.101:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",MTV Hits
+http://85.92.120.101:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",BridgeTV
+http://85.92.120.101:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Bridge TV Hits
+http://85.92.120.101:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Europa Plus TV
+http://85.92.120.101:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Bridge TV Русский хит
+http://85.92.120.101:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",VH1 Classic
+http://85.92.120.101:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Qazsport
+http://85.92.120.101:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",МАТЧ!
+http://85.92.120.101:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",МАТЧ! Страна
+http://85.92.120.101:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Арена
+http://85.92.120.101:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Игра HD
+http://85.92.120.101:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Премьер
+http://85.92.120.101:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Футбол1
+http://85.92.120.101:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Футбол2
+http://85.92.120.101:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Футбол3
+http://85.92.120.101:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КХЛ ТВ
+http://85.92.120.101:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КХЛ HD
+http://85.92.120.101:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Матч! Боец
+http://85.92.120.101:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Бокс ТВ
+http://85.92.120.101:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Eurosport
+http://85.92.120.101:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Eurosport2
+http://85.92.120.101:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Extreme Sport
+http://85.92.120.101:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Viasat Sport
+http://85.92.120.101:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Россия К
+http://85.92.120.101:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Театр
+http://85.92.120.101:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Наука 2.0
+http://85.92.120.101:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Galaxy
+http://85.92.120.101:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Моя Планета
+http://85.92.120.101:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Бобер
+http://85.92.120.101:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",RTG
+http://85.92.120.101:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Discovery Channel
+http://85.92.120.101:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",DTX
+http://85.92.120.101:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Discovery_Science
+http://85.92.120.101:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ID_Investigation_Discovery
+http://85.92.120.101:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",National_Geographic_HD
+http://85.92.120.101:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Animal_Planet_HD
+http://85.92.120.101:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Viasat_Explorer
+http://85.92.120.101:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Viasat_History
+http://85.92.120.101:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Viasat_Nature
+http://85.92.120.101:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Da_Vinci_Learning
+http://85.92.120.101:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мужской
+http://85.92.120.101:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Авто 24
+http://85.92.120.101:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Глазами туриста
+http://85.92.120.101:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Футбол
+http://85.92.120.101:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Музыка Первого
+http://85.92.120.101:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Поехали
+http://85.92.120.101:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Спас
+http://85.92.120.101:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Тномер
+http://85.92.120.101:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Загородная жизнь
+http://85.92.120.101:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Диалоги о рыбалке
+http://85.92.120.101:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Открытый мир
+http://85.92.120.101:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Живая Природа
+http://85.92.120.101:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Жара
+http://85.92.120.101:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Домашний магазин
+http://85.92.120.101:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",2x2
+http://85.92.120.101:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",THT 4
+http://85.92.120.101:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Perec
+http://85.92.120.101:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Пятница
+http://85.92.120.101:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мир Сериала
+http://85.92.120.101:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",DocuBox
+http://85.92.120.101:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТДК
+http://85.92.120.101:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Ю
+http://85.92.120.101:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Хабар 24
+http://85.92.120.101:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Россия 24
+http://85.92.120.101:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мир 24
+http://85.92.120.101:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",РБК
+http://85.92.120.101:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Euronews
+http://85.92.120.101:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Асыл Арна
+http://85.92.120.101:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Spas
+http://85.92.120.101:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Союз
+http://85.92.120.101:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Turkmen Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Atameken Business (720p)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",RU TV HD
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",UA Херсон
+http://webcams.ks.ua/hls/skifija.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",El Arna
+https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.elarna
+#EXTINF:-1 group-title="RUS+Kazakhstan",Khabar 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.24kz
+#EXTINF:-1 group-title="RUS+Kazakhstan",Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.almatytv
+#EXTINF:-1 group-title="RUS+Kazakhstan",Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",1 HD
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",7 канал (576p) [Not 24/7]
+https://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",A2 (576p) [Not 24/7]
+https://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Amedia Hit (1080p) [Not 24/7]
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Astana TV
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Atameken Business TV
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Бобер (720p) [Not 24/7]
+https://sc.id-tv.kz/bober.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd
+#EXTINF:-1 group-title="RUS+Kazakhstan",Bollywood HD [Not 24/7]
+https://sc.id-tv.kz/bollywood_hd.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Cinema [Not 24/7]
+https://sc.id-tv.kz/Cinema.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Dombyra TV (576p) [Not 24/7]
+https://sc.id-tv.kz/Dombyra.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дом Кино Премиум [Not 24/7]
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дом кино премиум HD
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дорама [Not 24/7]
+https://sc.id-tv.kz/dorama_hd.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Пятница! Int.
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Gakku (576p) [Not 24/7]
+https://sc.id-tv.kz/Gakku.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Gakku TV
+https://sc.id-tv.kz/Gakku_36_37.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Халык Арна
+https://sc.id-tv.kz/HalykArna.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",HDL [Not 24/7]
+https://sc.id-tv.kz/hdl.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Hit TV (576p) [Not 24/7]
+https://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Hit TV (KZ)
+https://sc.id-tv.kz/HitTV_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",HIT TV
+https://sc.id-tv.kz/HitTV_36_37.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Хабар 24
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Хабар 24 (576p) [Offline]
+https://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КМА (1080p) [Not 24/7]
+https://sc.id-tv.kz/KMA.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КМА
+https://sc.id-tv.kz/KMA_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КТК
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Mezzo Live HD
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мir +3 (576p) [Not 24/7]
+https://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мир 24 (576p) [Not 24/7]
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",О! (576p) [Not 24/7]
+https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",t.me/tvlab O!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Победа (576p) [Offline]
+https://sc.id-tv.kz/Pobeda.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",РЕН ТВ International (576p) [Offline]
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Рен ТВ Int.
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",СТС [Not 24/7]
+https://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",СТВ Казахстан
+https://sc.id-tv.kz/STV.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТДК (576p) [Offline]
+https://sc.id-tv.kz/TDK-42.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",ТНТ4 [Offline]
+https://sc.id-tv.kz/tnt4.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Той Думан (576p) [Offline]
+https://sc.id-tv.kz/ToiDuman.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Туран ТВ (576p) [Offline]
+https://sc.id-tv.kz/TuranTV.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",7 Канал
+https://sc.id-tv.kz:443/7_kanal.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Gakku
+https://sc.id-tv.kz:443/Gakku.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",КТК
+https://sc.id-tv.kz:443/KTK.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Aqto'be
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Mangystaý
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Ontústik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",HTK
+https://video-cdn-1.ntk.kz/live/ntk-live-loop/chunklist_w317681302.m3u8
+#EXTINF:-1 group-title="RUS+Kazakhstan",KTK
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w158742102_b3064000_slrus.m3u8

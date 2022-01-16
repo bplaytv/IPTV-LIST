@@ -1,0 +1,973 @@
+#EXTM3U
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",4seven
+http://51.154.28.81:2052/play/a05p
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5 USA
+http://45.153.35.221:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5 USA
+http://51.154.28.81:2052/play/a056
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",53395
+http://51.154.28.81:2052/play/a06c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5SELECT
+http://45.153.35.221:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5SELECT
+http://51.154.28.81:2052/play/a059
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5STAR
+http://45.153.35.221:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5STAR
+http://51.154.28.81:2052/play/a058
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5STAR+1
+http://45.153.35.221:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5STAR+1
+http://51.154.28.81:2052/play/a05a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5USA+1
+http://45.153.35.221:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",5USA+1
+http://51.154.28.81:2052/play/a057
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",92 News
+http://51.154.28.81:2052/play/a06x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Aastha
+http://51.154.28.81:2052/play/a0aj
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Absolute
+http://51.154.28.81:2052/play/a08g
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Absolute 80s
+http://51.154.28.81:2052/play/a08h
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Absolute 90s
+http://51.154.28.81:2052/play/a08i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ACCDN | EUA
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f8ee3727c75fa002d9e47c1&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",AFV Family | EUA
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ahlebait TV
+http://51.154.28.81:2052/play/a06q
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ahlulbayt TV
+http://51.154.28.81:2052/play/a05h
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Akaal TV (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Akaal TV (480p)
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Al Jazeera HD
+http://51.154.28.81:2052/play/a089
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Anand TV (720p)
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Arirang TV HD
+http://51.154.28.81:2052/play/a05s
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Arise News
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Arise News (576p)
+https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ATN
+http://51.154.28.81:2052/play/a06o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ATN Bangla UK (576p) [Geo-blocked]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",AWE Plus | EUA
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Babenation
+http://51.154.28.81:2052/play/a084
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 1 Northern Ireland (UK)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 1 Wales (UK)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 2 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 4 🇬🇧
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 4 🇬🇧 2
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC 6 Music
+http://51.154.28.81:2052/play/a03t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC ALBA
+http://51.154.28.81:2052/play/a046
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC ALBA
+http://51.154.28.81:2052/play/a047
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Asian
+http://51.154.28.81:2052/play/a04d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Four
+http://45.153.35.221:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Four
+http://45.153.35.221:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC NEWS HD
+http://51.154.28.81:2052/play/a0ao
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One CI
+http://45.153.35.221:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One E Mid
+http://51.154.28.81:2052/play/a03k
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One East E
+http://51.154.28.81:2052/play/a03l
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One East W
+http://45.153.35.221:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One HD
+http://45.153.35.221:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One HD
+http://45.153.35.221:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Lon
+http://45.153.35.221:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Lon
+http://45.153.35.221:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One N West
+http://51.154.28.81:2052/play/a048
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One NE&C
+http://51.154.28.81:2052/play/a04i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One NI HD
+http://45.153.35.221:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One NI HD
+http://45.153.35.221:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One S East
+http://51.154.28.81:2052/play/a04e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Scot
+http://51.154.28.81:2052/play/a045
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One ScotHD
+http://51.154.28.81:2052/play/a0am
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One W Mid
+http://51.154.28.81:2052/play/a03i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Wal HD
+http://51.154.28.81:2052/play/a0an
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Wales
+http://51.154.28.81:2052/play/a03n
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One West
+http://45.153.35.221:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Yk&Li
+http://51.154.28.81:2052/play/a03j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One Yorks
+http://51.154.28.81:2052/play/a04a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC One | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Parliament
+http://51.154.28.81:2052/play/a03m
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Cymru
+http://51.154.28.81:2052/play/a03z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Cymru 2
+http://51.154.28.81:2052/play/a04c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Foyle
+http://51.154.28.81:2052/play/a041
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R n Gael
+http://51.154.28.81:2052/play/a03x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Scot.
+http://51.154.28.81:2052/play/a03w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Ulster
+http://51.154.28.81:2052/play/a040
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R Wales
+http://51.154.28.81:2052/play/a03y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R1
+http://51.154.28.81:2052/play/a049
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R1X
+http://51.154.28.81:2052/play/a04g
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R2
+http://51.154.28.81:2052/play/a04b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R3
+http://51.154.28.81:2052/play/a03q
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R4 Ex
+http://51.154.28.81:2052/play/a03u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R4 FM
+http://51.154.28.81:2052/play/a03r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R4 LW
+http://51.154.28.81:2052/play/a03s
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R5L
+http://51.154.28.81:2052/play/a042
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC R5SX
+http://51.154.28.81:2052/play/a04f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC RB 1
+http://45.153.35.221:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC RLondon
+http://51.154.28.81:2052/play/a04h
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Scotland
+http://51.154.28.81:2052/play/a044
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two
+http://45.153.35.221:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two
+http://45.153.35.221:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two HD
+http://45.153.35.221:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two HD
+http://45.153.35.221:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two Wal HD
+http://45.153.35.221:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC Two Wales
+http://51.154.28.81:2052/play/a03o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC UHD Trial 1 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC WS
+http://51.154.28.81:2052/play/a03v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BBCScotlandHD
+http://51.154.28.81:2052/play/a0ap
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BFBS Radio
+http://51.154.28.81:2052/play/a08a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BLAZE
+http://51.154.28.81:2052/play/a05l
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Bloody Disgusting | EUA
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Bloomberg+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Box Hits
+http://51.154.28.81:2052/play/a05v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Brit Asia Live (US Eastern)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Brit Asia Live (US Pacific)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Brit Asia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",British Muslim
+http://51.154.28.81:2052/play/a0ag
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",British Muslim TV (576p)
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BT Sport 1 (576p) [Not 24/7]
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",BT Sport 2 (1080p) [Not 24/7]
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",c4 l
+http://51.154.28.81:2052/play/a035
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Capital
+http://51.154.28.81:2052/play/a077
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Capital XTRA
+http://51.154.28.81:2052/play/a075
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Drama
+http://51.154.28.81:2052/play/a09v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Drama Ireland
+http://51.154.28.81:2052/play/a09z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Justice
+http://51.154.28.81:2052/play/a0a0
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Justice Ireland
+http://51.154.28.81:2052/play/a09w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS News | EUA
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Reality
+http://51.154.28.81:2052/play/a0a3
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Reality
+http://51.154.28.81:2052/play/a0a4
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CBS Reality+1
+http://51.154.28.81:2052/play/a0a5
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Challenge
+http://51.154.28.81:2052/play/a08q
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4
+http://51.154.28.81:2052/play/a050
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4
+http://51.154.28.81:2052/play/a051
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4
+http://45.153.35.221:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 HD
+http://51.154.28.81:2052/play/a05o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 London
+http://51.154.28.81:2052/play/a02u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 Midlands
+http://51.154.28.81:2052/play/a02w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 North
+http://51.154.28.81:2052/play/a02x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 Scotland
+http://51.154.28.81:2052/play/a02y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4 South & East
+http://51.154.28.81:2052/play/a02v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1
+http://51.154.28.81:2052/play/a033
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1
+http://45.153.35.221:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1
+http://45.153.35.221:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1
+http://45.153.35.221:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1
+http://45.153.35.221:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1 London
+http://51.154.28.81:2052/play/a04w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1 North
+http://51.154.28.81:2052/play/a04y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1 Scotland
+http://51.154.28.81:2052/play/a04z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 4+1 South & East
+http://51.154.28.81:2052/play/a04x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 44
+http://51.154.28.81:2052/play/a070
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5
+http://45.153.35.221:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5
+http://51.154.28.81:2052/play/a055
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5 HD
+http://45.153.35.221:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5 HD
+http://51.154.28.81:2052/play/a05c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5+1
+http://45.153.35.221:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel 5+1
+http://51.154.28.81:2052/play/a05b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel S (576p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel S (US Eastern)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channel S (US Pacific)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Channels 24
+http://51.154.28.81:2052/play/a07v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Charge! | EUA
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Classic FM
+http://51.154.28.81:2052/play/a07a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Classic Rock
+http://51.154.28.81:2052/play/a08j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Clix TV | EUA
+https://376400ec2f4540d68ec7fedf3cd8d150.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ClixTV/playlist.m3u8?ads.wurl_channel=879&ads.wurl_name=ClixTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=6111b06a8f945c002c45dd12&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Clubbing TV (720p)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Clubland TV
+http://51.154.28.81:2052/play/a07j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CNN
+http://51.154.28.81:2052/play/a05g
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CNN HD
+http://51.154.28.81:2052/play/a08o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",CNN Int. (UK)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Combat Go | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Combat Go | silgitsin TV EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Craft Store TV (720p)
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Create&CraftHD
+http://51.154.28.81:2052/play/a08l
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dark Matter TV (720p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave
+http://45.153.35.221:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave
+http://45.153.35.221:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave
+http://51.154.28.81:2052/play/a08y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave
+http://51.154.28.81:2052/play/a093
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave ja vu
+http://45.153.35.221:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dave ja vu
+http://51.154.28.81:2052/play/a095
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Deen TV
+http://51.154.28.81:2052/play/a07z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Deen TV (576p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",DMAX
+http://51.154.28.81:2052/play/a09b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",DMAX+1
+http://51.154.28.81:2052/play/a097
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama
+http://45.153.35.221:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama
+http://45.153.35.221:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama
+http://51.154.28.81:2052/play/a08z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama
+http://51.154.28.81:2052/play/a092
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama+1
+http://45.153.35.221:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Drama+1
+http://51.154.28.81:2052/play/a094
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Dunamis TV
+http://51.154.28.81:2052/play/a0bh
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4
+http://51.154.28.81:2052/play/a04v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4 HD
+http://51.154.28.81:2052/play/a0bp
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4 UK
+http://51.154.28.81:2052/play/a032
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4+1
+http://51.154.28.81:2052/play/a034
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4+1
+http://51.154.28.81:2052/play/a04u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",E4+1
+http://45.153.35.221:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eden+1
+http://51.154.28.81:2052/play/a090
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Electric Now | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f170d61b898490041b49360
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eleven Sports (720p)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eman Channel
+http://51.154.28.81:2052/play/a087
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Estrella News | EUA
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ESTV | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=461&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=603da0d5d4e466002cdda4d1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=603da0d5d4e466002cdda4d1
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ETV1
+http://45.153.35.221:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ETV2
+http://51.154.28.81:2052/play/a043
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ETV5
+http://51.154.28.81:2052/play/a03p
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Euronews
+http://51.154.28.81:2052/play/a0af
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eurosport 1 HD
+http://51.154.28.81:2052/play/a0bn
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Eurosport 2 HD
+http://51.154.28.81:2052/play/a0bq
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",EWTN Catholic
+http://51.154.28.81:2052/play/a0bj
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Fashion TV
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Fight Network | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Film4
+http://51.154.28.81:2052/play/a02z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Film4
+http://51.154.28.81:2052/play/a054
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Film4+1
+http://51.154.28.81:2052/play/a053
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Film4+1
+http://45.153.35.221:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Food Network
+http://51.154.28.81:2052/play/a099
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Food Network Ireland
+http://51.154.28.81:2052/play/a098
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Food Netwrk+1
+http://51.154.28.81:2052/play/a09a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Foodxp
+http://51.154.28.81:2052/play/a081
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Forces TV
+http://51.154.28.81:2052/play/a08r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Freebie TV | EUA
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=604bf68f499957002d574f45&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",FreeSports HD
+http://51.154.28.81:2052/play/a06i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",FTF For the fans (720p)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Fuel TV do Plex | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=571&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=604bf68f499957002d574f47&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=604bf68f499957002d574f47
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Game Show Central do Plex | EUA
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea605574085f0040ddc782&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Garshom TV (360p) [Not 24/7]
+http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GB News HD
+http://45.153.35.221:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Gemporia (Opt-2)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Glewed TV
+https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495&ads.wurl_name=GlewedTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605474085f0040ddc76d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",God TV UK (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Gold
+http://51.154.28.81:2052/play/a078
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Good News TV
+http://51.154.28.81:2052/play/a07e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT! action
+http://45.153.35.221:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT! movies
+http://45.153.35.221:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT! movies+1
+http://45.153.35.221:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT! tv
+http://45.153.35.221:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT! tv+1
+http://45.153.35.221:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Great! Xmas
+http://45.153.35.221:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Great! Xmas+1
+http://45.153.35.221:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GREAT!action+1
+http://45.153.35.221:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",GustoTV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Heart
+http://51.154.28.81:2052/play/a08c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Heart 80s
+http://51.154.28.81:2052/play/a08d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Heart 90s
+http://51.154.28.81:2052/play/a07u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Heart Dance
+http://51.154.28.81:2052/play/a07o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",HGTV
+http://51.154.28.81:2052/play/a06d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",HGTV+1
+http://51.154.28.81:2052/play/a06f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hi-Impact TV
+http://51.154.28.81:2052/play/a06z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",High Street TV 2
+http://51.154.28.81:2052/play/a07d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",High Street TV 4
+http://51.154.28.81:2052/play/a07f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hillsong
+http://51.154.28.81:2052/play/a05k
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hits Radio
+http://51.154.28.81:2052/play/a07p
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Hochanda
+http://51.154.28.81:2052/play/a074
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",horror ch+1
+http://51.154.28.81:2052/play/a0a6
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",horror channel
+http://51.154.28.81:2052/play/a09x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ideal World HD
+http://51.154.28.81:2052/play/a08k
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Insight (720p)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Inspiration TV
+http://51.154.28.81:2052/play/a05m
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Inwild (720p)
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Inwonder (720p)
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",iON TV
+http://51.154.28.81:2052/play/a06y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",iON TV (576p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Iqra Bangla (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Iqra TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Iran Int'l HD
+http://51.154.28.81:2052/play/a08m
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Iran International (1080p)
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Committee Room 1) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Committee Room 2) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Committee Room 3) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Committee Room 4) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Dail Eireann) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Ireland Parliament (Seanad Eireann) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Islam Ch Urdu
+http://51.154.28.81:2052/play/a0ac
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Islam Channel (576p)
+https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV
+http://51.154.28.81:2052/play/a0b0
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV
+http://51.154.28.81:2052/play/a0b9
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv +1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv 2 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv 2+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv 3+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv 4 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv 4+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv Be | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV Border Scotland
+http://51.154.28.81:2052/play/a04j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV Central West +1
+http://51.154.28.81:2052/play/a04o
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV Meridian East
+http://51.154.28.81:2052/play/a04p
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",itv | Reino Unido - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?pprotocol=hls
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV+1
+http://51.154.28.81:2052/play/a04r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV+1
+http://51.154.28.81:2052/play/a0b7
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV+1
+http://51.154.28.81:2052/play/a0ba
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV2
+http://51.154.28.81:2052/play/a0b1
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV2+1
+http://51.154.28.81:2052/play/a04t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV3+1
+http://51.154.28.81:2052/play/a0bb
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITV4+1
+http://51.154.28.81:2052/play/a0b8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",ITVBe
+http://51.154.28.81:2052/play/a0b6
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Jazz FM
+http://51.154.28.81:2052/play/a07s
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Jewelery Maker (720p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",JewelleryMaker
+http://51.154.28.81:2052/play/a05f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Johnny Carson TV | EUA
+https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kanshi TV
+http://51.154.28.81:2052/play/a082
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kanshi TV (720p) [Not 24/7]
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kerrang (576p) [Geo-blocked]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kerrang!
+http://51.154.28.81:2052/play/a05x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Khushkhabri
+http://51.154.28.81:2052/play/a079
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",KICC TV
+http://51.154.28.81:2052/play/a06t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kid Gamer TV
+https://studio71-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",KISS
+http://51.154.28.81:2052/play/a05w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Kiss
+http://51.154.28.81:2052/play/a08e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",KMTV (576p)
+https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",La Muscle TV
+https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",LBC
+http://51.154.28.81:2052/play/a08b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",LBC News
+http://51.154.28.81:2052/play/a07m
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",LEGO Channel | EUA
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Love Nature | EUA
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",LoveWorld HD
+http://51.154.28.81:2052/play/a08n
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Loveworld TV (1080p) [Not 24/7]
+https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Magic
+http://51.154.28.81:2052/play/a05t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Magic
+http://51.154.28.81:2052/play/a08f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Magna Vision (1080p) [Not 24/7]
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Maverick Black Cinema do Plex | EUA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",More U - yoga e meditação | EUA
+https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=6112a9139894c8002c6cb87f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",More4
+http://51.154.28.81:2052/play/a031
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",More4
+http://51.154.28.81:2052/play/a052
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",More4
+http://45.153.35.221:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",More4+1
+http://51.154.28.81:2052/play/a030
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 1 English (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 1 Original (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 1 Urdu (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 2 Urdu (720p)
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",MTA Africa (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",mta-muslim tv
+http://51.154.28.81:2052/play/a0bf
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",n TV (US Eastern)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NDTV 24x7
+http://51.154.28.81:2052/play/a07l
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NHK World HD
+http://51.154.28.81:2052/play/a05q
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Noor TV
+http://51.154.28.81:2052/play/a07i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NOW 70s
+http://51.154.28.81:2052/play/a083
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NOW 80s
+http://51.154.28.81:2052/play/a05e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NOW 90s
+http://51.154.28.81:2052/play/a07k
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NTD
+http://51.154.28.81:2052/play/a07h
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",NTV
+http://51.154.28.81:2052/play/a0ad
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Panjab Radio
+http://51.154.28.81:2052/play/a085
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Paramount
+http://45.153.35.221:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Paramount
+http://51.154.28.81:2052/play/a05d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",PBS America
+http://51.154.28.81:2052/play/a0a2
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",PCNE Chinese
+http://51.154.28.81:2052/play/a0bd
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Pick
+http://51.154.28.81:2052/play/a08u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Pick+1
+http://51.154.28.81:2052/play/a08v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Pitaara
+http://51.154.28.81:2052/play/a080
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Planet Rock
+http://51.154.28.81:2052/play/a07b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Players TV (1080p)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",pocket.watch do Plex | EUA
+https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=PocketWatch&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f91c4ea96a391002df9a661&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP
+http://45.153.35.221:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP
+http://51.154.28.81:2052/play/a063
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP Max
+http://45.153.35.221:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP Max
+http://51.154.28.81:2052/play/a065
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP Max+1
+http://45.153.35.221:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP Max+1
+http://51.154.28.81:2052/play/a067
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP+1
+http://45.153.35.221:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",POP+1
+http://51.154.28.81:2052/play/a069
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",PTC PUNJABI
+http://51.154.28.81:2052/play/a0aa
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",PTV Global
+http://51.154.28.81:2052/play/a07x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Qello Concerts by Stingray
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QUEST
+http://51.154.28.81:2052/play/a09d
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QUEST HD
+http://51.154.28.81:2052/play/a06j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Quest Red
+http://51.154.28.81:2052/play/a09e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Quest Red+1
+http://51.154.28.81:2052/play/a09c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QUEST+1
+http://51.154.28.81:2052/play/a09f
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC
+http://51.154.28.81:2052/play/a06n
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC Beauty
+http://51.154.28.81:2052/play/a06m
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC Extra
+http://51.154.28.81:2052/play/a06k
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC Style
+http://51.154.28.81:2052/play/a06l
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",QVC UK (540p)
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Radio X
+http://51.154.28.81:2052/play/a076
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Real Stories (720p)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Really
+http://51.154.28.81:2052/play/a06e
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Really
+http://51.154.28.81:2052/play/a06g
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",RetroCrush | EUA
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Reuters TV (720p)
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",revelation
+http://51.154.28.81:2052/play/a0bi
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Revry News 2 | EUA
+https://revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",RT HD
+http://51.154.28.81:2052/play/a05r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",RT UK (1080p)
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Rugby Men's Sevens (288p)
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Rugby Women's Sevens (288p)
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Rugby World TV (720p)
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",S4C
+http://51.154.28.81:2052/play/a0a7
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",S4C HD
+http://51.154.28.81:2052/play/a06h
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Samaa
+http://51.154.28.81:2052/play/a0ab
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Samsung Wild Life | EUA
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sangat Television (720p)
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Scala Radio
+http://51.154.28.81:2052/play/a07t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sheffield Live 93.2 FM (Webradio)
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Showcase
+http://51.154.28.81:2052/play/a06w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sikh Channel
+http://51.154.28.81:2052/play/a05j
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sky Arts
+http://51.154.28.81:2052/play/a08t
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sky News
+http://51.154.28.81:2052/play/a08w
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sky News (720p) [Geo-blocked]
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",SkySp ArenaHD
+http://51.154.28.81:2052/play/a0bo
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",SkySp ArenaHD
+http://51.154.28.81:2052/play/a0br
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",SkySpMainEvHD
+http://51.154.28.81:2052/play/a0bm
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Smithsonian
+http://51.154.28.81:2052/play/a0a9
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Smooth
+http://51.154.28.81:2052/play/a07n
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",SNR
+http://51.154.28.81:2052/play/a08s
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sofy TV (720p)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sonlife UK
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Action
+http://51.154.28.81:2052/play/a05y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Action+1
+http://51.154.28.81:2052/play/a068
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Channel
+http://51.154.28.81:2052/play/a06a
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Channel+1
+http://51.154.28.81:2052/play/a06b
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Classic
+http://51.154.28.81:2052/play/a060
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Classic+1
+http://51.154.28.81:2052/play/a061
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Movies
+http://51.154.28.81:2052/play/a05z
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sony Movies+1
+http://51.154.28.81:2052/play/a066
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Spark Tv (720p)
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sporty Stuff TV (720p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",SportyStuff HD
+http://51.154.28.81:2052/play/a071
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Spotlight TV
+http://51.154.28.81:2052/play/a05i
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Stingray Karaoke (1080p)
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",STV East
+http://51.154.28.81:2052/play/a0b4
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",STV North
+http://51.154.28.81:2052/play/a0b2
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",STV Tayside
+http://51.154.28.81:2052/play/a0b5
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",STV West
+http://51.154.28.81:2052/play/a0b3
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Sukh Sagar
+http://51.154.28.81:2052/play/a086
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",talkSPORT
+http://51.154.28.81:2052/play/a088
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tankee | EUA
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/playlist.m3u8?ads.wurl_channel=503&ads.wurl_name=Tankee&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5efe1de5e0b3f5003f5d9f7f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tastemade (720p)
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TBN UK
+http://51.154.28.81:2052/play/a0bg
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Box
+http://51.154.28.81:2052/play/a05u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Box UK (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Carol Burnett Show | EUA
+https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Design Network do Plex | EUA
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=zhVJhkYiviQfYuzKS--y&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Monarch Channel (720p)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",The Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Time Line (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tiny Pop
+http://45.153.35.221:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tiny Pop
+http://51.154.28.81:2052/play/a062
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tiny Pop+1
+http://45.153.35.221:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Tiny Pop+1
+http://51.154.28.81:2052/play/a064
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TJC
+http://51.154.28.81:2052/play/a07c
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TJC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Together
+http://51.154.28.81:2052/play/a08p
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TokuSHOUTsu do Plex | EUA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60d4edd7b2fdec002c141129
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Trace Hits
+http://51.154.28.81:2052/play/a09y
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Trace Vault
+http://51.154.28.81:2052/play/a0a1
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TV One
+http://51.154.28.81:2052/play/a0ah
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",TWR
+http://51.154.28.81:2052/play/a07r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",US Weekly | EUA
+https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=USWeeklyTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60a9d105d162b9002d05a60e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",V2BEAT (720p) [Not 24/7]
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Virgin One HD
+http://51.154.28.81:2052/play/a0bt
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Virgin Radio
+http://51.154.28.81:2052/play/a07q
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Virgin Two HD
+http://51.154.28.81:2052/play/a0bs
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",W+1
+http://51.154.28.81:2052/play/a091
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",WFTV 9 | EUA
+https://d3qm7vzp07vxse.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/a58ec8fd-0a59-4547-95cf-104501e90fcd/1.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",William Hill BTV 1 (720p)
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",William Hill BTV 2 (720p)
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",WION HD
+http://51.154.28.81:2052/play/a0be
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Word Network
+http://51.154.28.81:2052/play/a06v
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",WRN Europe
+http://51.154.28.81:2052/play/a072
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Xpanded TV
+http://51.154.28.81:2052/play/a06u
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Xpanded TV2
+http://51.154.28.81:2052/play/a06r
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",YESTERDAY
+http://45.153.35.221:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",YESTERDAY
+http://51.154.28.81:2052/play/a08x
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",YESTERDAY+1
+http://45.153.35.221:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",YESTERDAY+1
+http://51.154.28.81:2052/play/a096
+#EXTINF:-1 group-title="ENG_Great Britain_England_Ingiltere",Zee TV
+http://51.154.28.81:2052/play/a0bc

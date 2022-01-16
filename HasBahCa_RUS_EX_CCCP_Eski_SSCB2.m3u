@@ -1,0 +1,2045 @@
+#EXTM3U
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",.Black
+http://78.58.133.179:28000/play/a061/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",.Sci-Fi
+http://78.58.133.179:28000/play/a062/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",01 ПЕРВЫЙ КАНАЛ
+http://185.252.249.83:8000/play/a01n
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",02 РОССИЯ-1
+http://185.252.249.83:8000/play/a01u
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",03 МАТЧ!
+http://185.252.249.83:8000/play/a01o
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",04 НТВ
+http://185.252.249.83:8000/play/a01p
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",05 ПЯТЫЙ КАНАЛ
+http://185.252.249.83:8000/play/a01q
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",06 РОССИЯ-К
+http://185.252.249.83:8000/play/a01r
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",07 РОССИЯ-24
+http://185.252.249.83:8000/play/a01v
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",08 КАРУСЕЛЬ
+http://185.252.249.83:8000/play/a01s
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",09 ОТР
+http://185.252.249.83:8000/play/a01w
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1 TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1 Захiдний Львів
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1 Незалежний
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1 Республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1+1 International
+http://109.200.130.124:7003/play/a005
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1+1 SD
+http://iptv.prosto.tv:7000/ch272/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",1+1 Спорт HD
+http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",10 ТВ Центр
+http://185.252.249.83:8000/play/a01t
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",11 РЕН ТВ
+http://185.252.249.83:8000/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",112 Україна
+http://iptv.prosto.tv:7000/ch154/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",12 канал
+http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",12 канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",12 канал HD
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",12 Спас
+http://185.252.249.83:8000/play/a015
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",13 СТС
+http://185.252.249.83:8000/play/a016
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",14 Домашний
+http://185.252.249.83:8000/play/a017
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",15 ТВ3
+http://185.252.249.83:8000/play/a018
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",16 Пятница
+http://185.252.249.83:8000/play/a019
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",17 Звезда
+http://185.252.249.83:8000/play/a01a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",18 МИР
+http://185.252.249.83:8000/play/a01b
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",19 ТНТ
+http://185.252.249.83:8000/play/a01c
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",2 TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",2+2 sd
+http://iptv.prosto.tv:7000/ch278/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",20 МУЗ ТВ
+http://185.252.249.83:8000/play/a01d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",2x2
+http://46.174.83.66/2x2/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",31 канал/Алва ТВ
+http://live-alvatv.cdnvideo.ru/alvatv-push/alvatv_720/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",33 Канал
+http://33tvv.ml/33chanel/live/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",34 канал
+http://iptv.prosto.tv:7000/ch181/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",36.6
+http://iptv.prosto.tv:7000/ch98/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",360
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",360 HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",360 Tune Box
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=169&token=y_sel
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",360 Tune Box
+http://iptv.prosto.tv:7000/ch141/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",360 Новости HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",365
+http://46.174.83.66/365/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",4 Канал
+http://iptv.prosto.tv:7000/ch182/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",41 канал (Воронеж)
+http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",4EVER
+http://iptv.prosto.tv:7000/ch132/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",5 канал
+http://iptv.prosto.tv:7000/ch20/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",5Kanal
+http://46.174.83.66/5Kanal/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",7 канал
+http://92.46.127.146:8080/7Channel/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",7D7 TV
+http://7d7tv.cdn-04.cosmonova.net.ua/hls/7d7tv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",7D7TV
+http://95.67.12.149:9083
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 канал
+http://80.94.225.126:8080/8kanalHD/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 Канал
+http://iptv.prosto.tv:7000/ch169/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 канал (Витебск)
+http://95.46.208.8:24433/art
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 канал (Витебск)
+http://95.46.208.8:24433/art?checkedby:iptvcat.com
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",8 канал Севастополь
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",88 Stereo
+http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",9 Волна
+http://cdn-01.bonus-tv.ru:8080/9volna/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",9 Волна (576p)
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",9 Волна (576p) [Offline]
+http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",9 канал (Израиль)
+http://74.102.118.117:8812/udp/127.0.0.1:5306
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",A1
+http://109.200.130.124:7006/play/a02j
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",A1
+http://dmitry-tv.ml/hls/CH_AMEDIAI.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",A2
+http://109.200.130.124:7006/play/a02k
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Aftonbladet TV
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Akudji
+http://hlss.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Akudji TV
+http://cdnhls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Akudji TV
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Akudji TV HD
+http://hls.goodgame.ru:80/hls/5346.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Almaty TV
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",AMEDIA HIT
+http://109.200.130.124:7006/play/a02l
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Amedia Hit
+http://dmitry-tv.ml/hls/CH_AMEDIAHIT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Amedia Premium
+http://109.200.130.124:7006/play/a02m
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Amedia Premium HD
+http://109.200.130.124:7002/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Animal Planet
+http://109.200.130.124:7006/play/a00v
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Animal Planet HD
+http://109.200.130.124:7001/play/a003
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Arirang TV
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Armenia 1 TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Armenia 1 TV
+http://iptv.prosto.tv:7000/ch214/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Atameken Business
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Atameken Business (1080p)
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ATR
+http://iptv.prosto.tv:7000/ch40/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",AVERS
+http://109.200.130.124:7003/play/a00l
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Baby TV
+http://193.106.29.244:80/baby_tv/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Baby TV
+http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",BBC World News
+http://109.200.130.124:7000/play/a00w
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",BBC World News
+http://84.22.33.214/bbc/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Belros
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Bollywood HD
+http://109.200.130.124:7002/play/a01a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Bollywood HD
+http://iptv.prosto.tv:7000/ch61/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Bolt
+http://iptv.prosto.tv:7000/ch53/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Boomerang
+http://109.200.130.124:7006/play/a01e
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Boomerang
+http://217.21.34.160:7003/boomerang
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Boomerang
+http://iptv.prosto.tv:7000/ch208/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Brasa Music HD
+http://live.salto.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",BRIDGE HD
+http://109.200.130.124:7001/play/a007
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Bridge TV
+http://178.163.37.161:4022/udp/234.0.0.180:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",BridgeTV
+http://46.174.83.66/BridgeTV/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Canal Macau (720p)
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Cartoon Network
+http://109.200.130.124:7006/play/a00w
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Cartoon Network
+http://78.58.133.179:28000/play/a155/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Cartoon Network
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CGTN
+http://109.200.130.124:7000/play/a00p
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CGTN Русский
+http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Cinema
+http://195.26.83.96:50001/1
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",City TV
+http://cdn1.live-tv.od.ua:8081/a1od/citytvod/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",City TV Одесса
+http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CNL
+http://iptv.prosto.tv:7000/ch149/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CNN International
+http://109.200.130.124:7000/play/a00v
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CTB HD
+http://iptv.prosto.tv:7000/ch4/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CTC
+http://46.174.83.66/CTC/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CTC Kids HD
+http://109.200.130.124:7002/play/a015
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CTC Love
+http://109.200.130.124:7007/play/a007
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",CTБ HD
+http://ott.watch/stream/IFBYIR5OA7/156.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Da Vinci
+http://iptv.prosto.tv:7000/ch78/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10|rebase=on
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DELUXE LOUNGE HD
+http://iptv.prosto.tv:7000/ch212/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DELUXE MUSIC HD
+http://iptv.prosto.tv:7000/ch210/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Disco Polo 90
+http://autopilot.catcast.tv/content/39686/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Discovery Channel
+http://109.200.130.124:7006/play/a00x
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Discovery Channel HD
+http://109.200.130.124:7004/play/a015
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Discovery Science
+http://109.200.130.124:7007/play/a00b
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Docubox
+http://178.212.236.3:8003/DocuBox/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DocuBox HD
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Domashniy
+http://46.174.83.66/Domashniy/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DW
+http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",DW
+http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ENGLISH CLUB TV
+http://iptv.prosto.tv:7000/ch42/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Enter-фільм
+http://iptv.prosto.tv:7000/ch54/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Espresso HD
+http://iptv.prosto.tv:7000/ch36/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ethno HD
+http://iptv.prosto.tv:7000/ch138/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",EUMUSIC
+http://iptv.prosto.tv:7000/ch134/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Eurochannel HD
+http://84.22.33.214/EuroChannel/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Euronews
+http://46.174.83.66/Euronews/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Euronews
+http://iptv.prosto.tv:7000/ch32/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Euronews RU
+http://109.200.130.124:7000/play/a00f
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",EUROSPORT 1 HD
+http://109.200.130.124:7002/play/a012
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Eurosport 2
+http://193.151.107.120:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",eurosport1_hd
+http://37.187.28.95:2022/eurosport1_hd/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Extreme Sports
+http://109.200.130.124:7000/play/a00a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FAN
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FAN HD
+http://176.115.152.6:1234
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FAN HD
+http://cdnhls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",fan hd
+http://cdnhls.goodgame.ru/hls/157239.m3u8?|User-agent=rostik_tv
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fashion One
+http://iptv.prosto.tv:7000/ch145/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fashion TV
+http://iptv.prosto.tv:7000/ch143/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fashion TV Tokyo
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FashionBox HD
+http://iptv.prosto.tv:7000/ch144/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fast & FunBox HD
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FightBox HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FilmBox
+http://iptv.prosto.tv:7000/ch64/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FilmBox Arthouse
+http://iptv.prosto.tv:7000/ch63/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fine Living HD
+http://193.151.107.120:8000/play/77/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",First Music
+http://rtmp.one.by:1300/
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FOX
+http://109.200.130.124:7000/play/a00g
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",FOX
+http://dmitry-tv.ml/hls/CH_FOX.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Fox Life
+http://109.200.130.124:7006/play/a00z
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",fox life HD
+http://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",futbol
+http://37.187.28.95:2022/futbol/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",futbol2
+http://37.187.28.95:2022/footbol2/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",G TV HD
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Gakku
+http://92.46.127.146:8080/gakku/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",GENUINE TV
+http://iptv.prosto.tv:7000/ch175/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Gulli Girl
+http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",HD Media
+http://89.187.189.107/192/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",HDFASHION and Lifestyle
+http://iptv.prosto.tv:7000/ch146/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",HDL
+http://109.200.130.124:7004/play/a013
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",History
+http://iptv.prosto.tv:7000/ch87/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",HIT (Орск)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Hit TV
+http://92.46.127.146:8080/HitTV-L3-TRANS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Hollywood
+http://109.200.130.124:7006/play/a02n
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Hollywood
+http://iptv.prosto.tv:7000/ch157/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",HTB HD
+http://109.200.130.124:7001/play/a002
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Hunt Channel (English)
+http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",iConcerts HD
+http://f833d119.ottolok.net/iptv/E6PY4U4DVNAFQY/9056/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ictv
+http://37.187.28.95:2022/ictv/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ICTV
+http://iptv.prosto.tv:7000/ch2/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ID Fashion TV HD
+http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",InRating
+http://iptv.prosto.tv:7000/ch80/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",INRATING TV HD
+http://95.67.12.155:9001
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",INRATING TV HD
+http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",INT: WOMEN
+http://live.redtraffic.net/woman.m3u8?auth=zarin:RJsKR:INT
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",inter
+http://37.187.28.95:2022/inter/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Investigation Discovery
+http://109.200.130.124:7006/play/a010
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ITV (Ровно)
+http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",JUKEBOX
+http://iptv.prosto.tv:7000/ch216/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Karusel
+http://46.174.83.66/Karusel/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kinder TV
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kino 1
+http://iptv.prosto.tv:7000/ch62/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Krasnaja Linija
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",KRATU (Херсон)
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kultura
+http://46.174.83.66/Kultura/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kvartal TV
+http://cam.kashira.ru/hls/cam1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Kэpэz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",LaLe
+http://iptv.prosto.tv:7000/ch77/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Maidan TV
+http://hls-iptv.tattelecom.ru:80/online_tv_Maydan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Maidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",matc_arena
+http://37.187.28.95:2022/matc_arena/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",matc_boec
+http://37.187.28.95:2022/matc_boec/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Matc_futbol_2_hd
+http://37.187.28.95:2022/Matc_futbol_2_hd/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Matc_futbol_3_hd
+http://37.187.28.95:2022/Matc_futbol_3_hd/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Matc_igra_hd
+http://37.187.28.95:2022/Matc_igra_hd/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",match
+http://37.187.28.95:2022/match/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",match_futbol1_HD
+http://37.187.28.95:2022/match_futbol1_HD/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",matchplaneta
+http://37.187.28.95:2022/matchplaneta/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Matchpremyer
+http://37.187.28.95:2022/Matchpremyer/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mcm top
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MESSINIA WEB TV
+http://176.9.123.140:1935/messinia/messinia/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Metal TV
+http://autopilot.catcast.me/content/33816/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mezzo
+http://109.200.130.124:7000/play/a00r
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mezzo
+http://iptv.prosto.tv:7000/ch139/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mezzo Live HD
+http://iptv.prosto.tv:7000/ch140/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Milady Television
+http://iptv.prosto.tv:7000/ch176/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mir
+http://46.174.83.66/Mir/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mir (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mir 24 (Opt-1)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mir HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MIXM
+http://89.179.247.144/mixm.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mooz Dance (720x576)
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mooz HITS (720x576)
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Mooz RO (720x576)
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MOSOBR TV Московский образовательный
+http://retc.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MOSOBR.TV
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MOSOBR.TV (720p)
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MostvideoTV
+http://iptv.prosto.tv:7000/ch119/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV
+http://109.200.130.124:7006/play/a012
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV 80s
+http://109.200.130.124:7006/play/a02q
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Dance
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Europe
+http://iptv.prosto.tv:7000/ch124/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV France
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Hit
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Hits
+http://193.106.29.244:80/mtv_hits/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV HITS FR
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Live HD
+http://109.200.130.124:7005/play/a00e
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Live HD
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Rock
+http://iptv.prosto.tv:7000/ch127/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Yo! 2
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV Yo! 3
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MTV90
+http://109.200.130.124:7006/play/a015
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Music Box Gold
+http://192.166.144.101:8008/play/a004/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Music HD
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUSIC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Music TOP HD
+http://200.115.193.177/live/msctphd-720/chunklist_w1936316961.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Music4U
+http://203.154.243.89:1213
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MuzTV
+http://46.174.83.66/MuzTV/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK CLUB HD
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK HD
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK HIP-HOP HD
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK JEKA HD
+http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK MEDITERANEO HD
+http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK OKK HD
+http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK ROCK HD
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",MUZZIK WORLD HD
+http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nastoyashcheye Vremya
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nat Geo Wild
+http://109.200.130.124:7000/play/a00h
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nat Geo Wild HD
+http://109.200.130.124:7002/play/a019
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",National Geographic
+http://109.200.130.124:7006/play/a016
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",National Geographic HD
+http://109.200.130.124:7002/play/a013
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",National Geographic HD
+http://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",National Geographic HD
+http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",News One
+http://iptv.prosto.tv:7000/ch155/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",nick jr
+http://176.197.188.55:81/udp/239.255.42.126:1234
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nick Jr
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nick Jr.
+http://109.200.130.124:7006/play/a017
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nickelodeon
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nickelodeon
+http://msk3.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nickelodeon HD
+http://109.200.130.124:7005/play/a00i
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nickelodeon HD
+http://iptv-telik.usite.pro/load/0-0-1-125-20
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Nicktoons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",NIKI Junior HD
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",NIKI Kids HD
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Noviy
+http://37.187.28.95:2022/Noviy/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",NTV
+http://46.174.83.66/NTV/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",O!
+http://109.200.130.124:7006/play/a011
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",O-TV
+http://iptv.prosto.tv:7000/ch133/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",OBOZ TV
+http://iptv.prosto.tv:7000/ch217/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Odessa Fashion HD
+http://cdnua01.hls.tv/hls/a8aed3dd8b264851fba8d2ed8a12af50/4213/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",OHT
+http://86.57.174.73:14002/ont
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ostrosygetnoe
+http://37.187.28.95:2022/ostrosygetnoe/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",OstWest
+http://iptv.prosto.tv:7000/ch31/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",OTR
+http://46.174.83.66/OTR/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Paramount Channel
+http://109.200.130.124:7000/play/a00m
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Paramount Channel
+http://iptv.prosto.tv:7000/ch203/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Paramount Comedy
+http://109.200.130.124:7000/play/a00j
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Paramount Comedy
+http://iptv.prosto.tv:7000/ch60/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Pavlovskii News HD
+http://hls.goodgame.ru/hls/71852.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Pavlovskii News HD(World Vision)
+http://cdnhls.goodgame.ru/hls/71852.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Perviy kanal
+http://46.174.83.66/1/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Planeta RTR
+https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",PRO100 TV
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Prosto GAME
+http://iptv.prosto.tv:7000/ch322/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Prosto.TV
+http://iptv.prosto.tv:7000/ch300/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Prosveshenie
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Publika TV HD
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Pytnica
+http://46.174.83.66/Pytnica/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Quiz TV
+http://iptv.prosto.tv:7000/ch102/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RADIO IBIZA TV
+http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RADIO ITALIA TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RADIO LOMBARDIA
+http://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Radost Moya
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RBC
+http://46.174.83.66/RBC/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RBC (Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RBC (Opt-2)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RBC (Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RCK TV
+http://iptv.prosto.tv:7000/ch211/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RecreatiON
+http://iptv.prosto.tv:7000/ch324/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RELAXON
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RenTV
+http://46.174.83.66/RenTV/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ROCK FM TV
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RTG HD
+http://109.200.130.124:7004/play/a018
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RTV San Marino Sport HD
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",RU_TV
+http://46.174.83.66/RU_TV/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Russia1
+http://46.174.83.66/Russia1/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Russia24
+http://46.174.83.66/Russia24/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",SC Tv
+http://hlss.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",SC TV FHD
+http://cdnhls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Series TV HD
+http://cdnhls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",SeriesTV
+http://hlss.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Setanta
+http://iptv.prosto.tv:7000/ch106/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Setanta Sports 2 HD
+http://37.17.12.119:8910/play/a005
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",setanta_eurasia_hd
+http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",SEVER
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",SGDF24.RU (Свердлов) (720p)
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Simon TV Харьков
+http://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Smash Music
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sony Channel
+http://iptv.prosto.tv:7000/ch204/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sony Sci-Fi
+http://109.200.130.124:7000/play/a00x
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sony Sci-Fi
+http://iptv.prosto.tv:7000/ch205/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sony Turbo
+http://109.200.130.124:7000/play/a00y
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sony Turbo
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Spas
+http://46.174.83.66/Spas/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Sport 1 HD
+http://iptv.prosto.tv:7000/ch107/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Star Cinema
+http://iptv.prosto.tv:7000/ch56/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Star Family
+http://iptv.prosto.tv:7000/ch57/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Stream CITY
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TB 1000 Русское кино
+http://109.200.130.124:7000/play/a005
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TDM Info. Macau (720p) [Not 24/7]
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TDM Macau (720p)
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TDM Macau Satelite (720p)
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Telenord 8 HD
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",THT HD
+http://109.200.130.124:7001/play/a008
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TIJI
+http://194.190.78.81:8080/TiJi_OT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Tiji
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Timeless Dizi Channel
+http://178.163.37.161:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TLC
+http://109.200.130.124:7006/play/a018
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TLC HD
+http://109.200.130.124:7002/play/a016
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TM TV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TMTV
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TNT
+http://46.174.83.66/TNT/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TNT4
+http://46.174.83.66/TNT4/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Top Secret
+http://178.163.37.161:4022/udp/234.0.0.185:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Top Shop TV
+http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TRAVEL GUIDE-TV
+http://iptv.prosto.tv:7000/ch202/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Travel TV International HD
+http://iptv.prosto.tv:7000/ch100/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Turkmen Спорт
+http://alpha.tv.online.tm/hls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Turkmen Спорт HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000
+http://109.200.130.124:7000/play/a003
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000
+http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000 Action
+http://109.200.130.124:7000/play/a004
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000 Action
+http://195.245.97.133:8800/play/TVAction_HLS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000 Action
+http://dmitry-tv.ml/hls/CH_TV1000ACTION.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000 Action
+http://iptv.prosto.tv:7000/ch47/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 1000 World Kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV Brics HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV BRICS HD (English)
+http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV XXI
+http://178.163.37.161:4022/udp/234.0.0.187:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 Action HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 HD
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 World Kino
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 Русское Кино HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV1000 русское кино hd
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV3
+http://46.174.83.66/TV3/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TV5
+http://hls.cdn.ua/tv5.zp.ua_live/_finst_:tv5/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TVCentr
+http://46.174.83.66/TVCentr/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",TVMChannel (576p) [Offline]
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Türkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ULTRA HD CINEMA
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8&offset=-147600
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV
+http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV (576p)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV (720p)
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV (hd)
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Univer TV HD
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",UR2 - Радио
+http://iptv.prosto.tv:7000/ch198/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",UR3 - Радио
+http://iptv.prosto.tv:7000/ch199/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH 1 Classic
+http://iptv.prosto.tv:7000/ch130/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH 1 European
+http://iptv.prosto.tv:7000/ch129/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH-1 HD
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH1 Classic
+http://109.200.130.124:7006/play/a019
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH1 European
+http://109.200.130.124:7006/play/a01a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VH1_Classic
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Explore
+http://109.200.130.124:7000/play/a006
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Explore HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Golf
+http://109.200.130.124:7000/play/a00k
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat History
+http://109.200.130.124:7000/play/a007
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat History
+http://iptv.prosto.tv:7000/ch86/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat History HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Nature
+http://109.200.130.124:7000/play/a008
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Nature HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Nature/History HD
+http://iptv.prosto.tv:7000/ch83/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Sport
+http://109.200.130.124:7000/play/a009
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Sport
+http://78.58.133.179:28000/play/a125/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Viasat Sport
+http://iptv.prosto.tv:7000/ch163/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ViP Comedy
+http://dmitry-tv.ml/hls/CH_ViPCOMEDY.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Comedy
+http://iptv.prosto.tv:7000/ch44/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Comedy HD
+http://iptv.prosto.tv:7000/ch44/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Comedy HD
+http://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Megahit
+http://iptv.prosto.tv:7000/ch43/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Megahit HD
+http://iptv.prosto.tv:7000/ch43/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Megahit HD
+http://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Premiere
+http://195.245.97.133:8800/play/tv1p_HLS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ViP Premiere
+http://dmitry-tv.ml/hls/CH_ViPPREMIERE.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Premiere
+http://iptv.prosto.tv:7000/ch45/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Premiere HD
+http://iptv.prosto.tv:7000/ch45/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Premiere HD
+http://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ViP Serial
+http://dmitry-tv.ml/hls/CH_ViPSERIAL.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Serial HD
+http://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Viasat Nature/History HD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIP Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIVA
+http://cdnhls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",VIVA Russia
+http://hls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",W Concert HD
+http://203.154.243.89:1212
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",WNESSTV HD
+http://iptv.prosto.tv:7000/ch213/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",XITE HD
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Zee TV
+http://194.213.23.7:3304
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ZOO Stream
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Zoom
+http://iptv.prosto.tv:7000/ch13/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Zoom / Orion
+http://iptv.prosto.tv:7000/ch167/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Zooпарк
+http://46.174.83.66/Zoopark/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Zvezda
+http://46.174.83.66/Zvezda/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",~ Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Авто 24
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Аист ТВ (Иркутск)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Академия
+http://cdn10.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АкваSTREAM
+http://iptv.prosto.tv:7000/ch310/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Алекс TV
+http://46.46.112.223/live/livestream3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Алекс TV (Запорожье)
+http://m.atv.zp.ua/live/livestream1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",анекдот тв
+http://5whgin1l.rostelekom.xyz/iptv/BC9FSTHBD7Z37X/5034/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Арис 24
+http://195.191.78.200:8112/hls/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Арктика 24 HD
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АРМЕНИЯ ТВ
+http://109.200.130.124:7000/play/a00i
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Архат ТВ (Украина)
+http://arhat.tv/public/540p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Архыз-24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Астрахань 24 (720p)
+http://83.234.104.142/astrakhan24hd/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Астрахань 24 HD
+http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8?417963905351a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ [HD]
+http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ-Ставрополь
+http://hls.atvmedia.ru/atv800.m3u8?983897548583a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ-Ставрополь
+http://hls.atvmedia.ru/atv800.m3u8?989354686808a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ-Ставрополь
+http://hls.atvmedia.ru/atv800.m3u8?989494459868a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",АТВ-Ставрополь
+http://hls.atvmedia.ru/atv800.m3u8?989839018244a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Атлант
+http://iptv.prosto.tv:7000/ch185/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Башкортостан 24
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Башкортостан 24
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Башкортостан 24 (1080p)
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БЕЛАРУСЬ 2
+http://86.57.174.73:14000/bel2
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4?checkedby:iptvcat.com
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Белгород 24 (720p)
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Белрос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БелСат
+http://iptv.prosto.tv:7000/ch171/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Бигуди
+http://iptv.prosto.tv:7000/ch16/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Блокбастер hd
+http://87.117.231.9/iptv/GQA7NHL25Z2CEH/9087/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Бобер
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/725/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БОБЁР
+http://109.200.130.124:7006/play/a02g
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БСТ (Уфа)
+http://bstvint.mediacdn.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",БСТ 24 (Братск)
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вести ФМ
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вестник Надыма +2 (720p)
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Волгоград 24
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Волжский Плюс
+http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Волжский Плюс HD
+http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Волжский+ (Волжский)
+http://flussonic.powernet.com.ru:8080/volplus/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Время Н (Нижний Новгород)
+http://a3569458168-rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Время: далекое и близкое
+http://109.200.130.124:7006/play/a01c
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ВТВ Плюс
+http://live.vtvplus.com.ua:4022/udp/225.0.0.4:44444
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ВТВ Плюс (Херсон) (576p)
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Відкритий
+http://iptv.prosto.tv:7000/ch220/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Вінтаж
+http://iptv.prosto.tv:7000/ch178/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ВІТА
+http://iptv.prosto.tv:7000/ch184/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Глас
+http://iptv.prosto.tv:7000/ch147/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ГУБЕРНИЯ-33
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дайвинг TV HD
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дача
+http://iptv.prosto.tv:7000/ch151/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дача HD
+http://iptv.prosto.tv:7000/ch92/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",День Победы
+http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ДЕНЬ ПОБЕДЫ
+http://gf5fg7h5fg7h878yuiii.ottclub.xyz/iptv/KZ84FFDTK5ETR2/5054/index.m3u
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Детский
+http://109.200.130.124:7007/play/a00d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Детский Мир
+http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дикая рыбалка HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ДимГрад 24 (Димитровоград)
+http://194.190.78.91:8080/dimgrad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дитинець
+http://iptv.prosto.tv:7000/ch218/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Доктор
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дом Кино
+http://109.200.130.124:7006/play/a01d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дом кино Премиум
+http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дом Кино Премиум HD
+http://109.200.130.124:7001/play/a006
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ДОМАШНИЕ ЖИВОТНЫЕ
+http://109.200.130.124:7000/play/a00d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Домашний
+http://109.200.130.124:7007/play/a01c
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Домашний
+http://78.58.133.179:28000/play/a209/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ДОМАШНИЙ HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Донбасс
+http://iptv.prosto.tv:7000/ch170/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Донеччина TV
+http://iptv.prosto.tv:7000/ch219/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Драйв
+http://46.174.83.66/Drive/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дядя Ваня
+http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Дядя Ваня(World Vision)
+http://cdnhls.goodgame.ru/hls/54105.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Евразия (Орск) (720p)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Евроновости
+http://live2.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Егорьевское телевидение
+http://hls-etv.cdnvideo.ru/hls/5c7e983cef3db53c215ae6e3/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЕкоСистема
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Енисей (1080p)
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Еспресо TV
+http://iptv.prosto.tv:7000/ch156/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Запад 24 (Калининград)
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Известия FHD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Известия ТВ
+http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Иллюзион+
+http://109.200.130.124:7006/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",История
+http://195.26.83.96:7024/play/70
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ИТ3
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://109.68.40.67/life/k1_3/index.m3u8?bw173532906.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://109.68.40.69/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://109.68.40.69/life/k1_3/index.m3u8?bw986236457872.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://109.68.40.69/life/k1_3/index.m3u8?bw986559345496.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1
+http://iptv.prosto.tv:7000/ch9/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К1 r
+http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",К2
+http://iptv.prosto.tv:7000/ch10/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Калейдоскоп
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Калейдоскоп ТВ
+http://1hdru-hls-otcnet.cdnvideo.ru/kaleidoskop/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Калейдоскоп ТВ
+http://1hdru-hls-otcnet.cdnvideo.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Калейдоскоп ТВ
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КАМІН
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Караван ТВ
+http://iptv.prosto.tv:7000/ch180/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Карусель
+http://109.200.130.124:7006/play/a01f
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Карусель
+http://msk3.peers.tv/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Карусель (+8)
+http://a3569455302-s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/playlist.m3u8?utcstart=1611552899.00&version=2
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Катастрофа ONLINE
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Квартал ТВ
+http://iptv.prosto.tv:7000/ch65/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КВН ТВ
+http://178.163.37.161:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КВН ТВ
+http://3049000c.kazaktelekom.com/iptv/QC6GFN2ANAQAK8/546/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КИНО 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Кино 24
+http://msk3.peers.tv/streaming/kino24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КИНО ТВ
+http://109.200.130.124:7007/play/a00f
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Кино1 VHS
+http://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КИНОПРЕМЬЕРА HD
+http://109.200.130.124:7004/play/a011
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",киносат
+http://37.17.12.119:8907/play/a007
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Кирилловка Коса Пересыпь
+http://live02.kirillovka.ks.ua/live/peresyp.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Кирилловка Лунапарк
+http://live02.kirillovka.ks.ua/live/lunapark.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Комедия
+http://109.200.130.124:7007/play/a00g
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Комедия (576p) [Not 24/7]
+http://188.40.68.167/russia/komediya/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный мир
+http://83.222.205.10:38080/konnyimir/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный Мир
+http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный Мир (576p) [Offline]
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Конный Мир [HQ]
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?ws_sport
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КОННЫЙ МИР HD
+http://109.200.130.124:7001/play/a004
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Королёв ТВ HD
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Красногорск ТВ (480p) [Not 24/7]
+http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КРТ
+http://iptv.prosto.tv:7000/ch177/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",КТК
+http://92.46.127.146:8080/KTK-L3-TRANS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Кус-Кус
+http://iptv.prosto.tv:7000/ch103/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛДПР ТВ (1080p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛДПР ТВ (480p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛДПР ТВ (720p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛДПР ТВ HD
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ - Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ - Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ - Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/720p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/480p.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Любимое Кино
+http://109.200.130.124:7007/play/a019
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Любимое ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_6.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Любимый HD/ТНТ4
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",М1
+http://iptv.prosto.tv:7000/ch122/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",М2
+http://iptv.prosto.tv:7000/ch123/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Малятко ТВ
+http://iptv.prosto.tv:7000/ch76/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мама
+http://109.200.130.124:7000/play/a00l
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мама
+http://hls.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Матур ТВ HD
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ ПРЕМЬЕР HD
+http://109.200.130.124:7005/play/a00d
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ СТрана HD
+http://109.200.130.124:7004/play/a017
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! HD
+http://109.200.130.124:7001/play/a005
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! АРЕНА HD
+http://109.200.130.124:7004/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! ИГРА HD
+http://109.200.130.124:7004/play/a012
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! ФУТБОЛ 1 HD
+http://109.200.130.124:7005/play/a00h
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! ФУТБОЛ 2 HD
+http://109.200.130.124:7005/play/a00b
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Матч! Футбол 3
+http://myott.top/stream/DIPK8H19CP8/185.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МАТЧ! ФУТБОЛ 3 HD
+http://109.200.130.124:7005/play/a00c
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мега
+http://iptv.prosto.tv:7000/ch11/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Миллет (720p)
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МиР
+http://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир +2 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир +4
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6034/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир 24 (576p) [Not 24/7]
+http://188.40.68.167/russia/mir24/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мир сериала
+http://109.200.130.124:7007/play/a01a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мордовия 24
+http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Морской
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Москва 24
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Московский Образовательный
+http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мособр TV
+http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мосфильм. Золотая Коллекция
+http://109.200.130.124:7007/play/a018
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Мосфильм. Золотая Коллекция
+http://78.58.133.179:28000/play/a027/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МОТВ HD
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моторспорт ТВ
+http://109.200.130.124:7000/play/a00z
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моя планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моя Планета
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Моя планета (576p)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МСТ Марганец
+http://iptv.prosto.tv:7000/ch196/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МТВ Волгоград
+http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МТВ Волгоград
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Муз союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",муз тв
+http://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МузСоюз (576p)
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Музыка Первого
+http://109.200.130.124:7006/play/a01g
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МультStream
+http://iptv.prosto.tv:7000/ch320/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",МЭТР (Йошкар-Ола)
+http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Навигатор ТВ
+http://iptv.prosto.tv:7000/ch200/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Надія
+http://iptv.prosto.tv:7000/ch148/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Настоящее время
+http://iptv.prosto.tv:7000/ch39/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наталі
+http://iptv.prosto.tv:7000/ch201/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наука
+http://iptv.prosto.tv:7000/ch90/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наука HD
+http://178.163.65.65:4022/udp/234.0.0.226:2000?zi
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НАШ
+http://iptv.prosto.tv:7000/ch27/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НАШЕ HD
+http://iptv.prosto.tv:7000/ch136/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НАШЕ Kids HD
+http://iptv.prosto.tv:7000/ch79/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше Music 4K
+http://iptv.prosto.tv:7000/ch142/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше Music HD
+http://iptv.prosto.tv:7000/ch135/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше любимое кино
+http://iptv.prosto.tv:7000/ch58/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe?checkedby:iptvcat.com
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НВК Саха (1080p)
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НЛО TV
+http://maikl.megogo.xyz/iptv/8K6QLPHQA9XWMN/6372/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НЛО ТБ
+http://iptv.prosto.tv:7000/ch14/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ННТВ HD
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новий канал
+http://iptv.prosto.tv:7000/ch6/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новорocсия ТВ HD
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новый мир
+http://persik.by/stream/6696/480248/10231.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новый Мир
+http://persik.by/stream/77/417334/10231.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Новый мир
+http://persik.by/stream/8682/252987/10231.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ностальгия
+http://74.102.118.117:8812/udp/127.0.0.1:5312
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НСТ
+http://109.200.130.124:7006/play/a00y
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТА
+http://nta-hls1.cosmonova.net.ua/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТА ТВ Львов HD
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ (+4)
+http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_NTV/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ +4
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6024/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ Мир
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ Мир
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТВ Мир
+http://92.46.127.146:8080/ntv/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b1628000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.ntm13
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ (hd)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ HD (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТМ HD 720
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.ntm13
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТН
+http://iptv.prosto.tv:7000/ch12/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТС (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",НТС HD (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Одесса - Аквабар
+http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Одесса - Бассейн
+http://cdn1.live-tv.od.ua:8081/nemo/cam-m1-720p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Оплот 2
+http://ott.cdn1.inmart.tv:8081/17/index.m3u8?token=0e632f12ecd3c77b324ede3456e20c2f
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Оружие
+http://myott.top/stream/DIPK8H19CP8/203.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Остросюжетное HD
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/904/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Остросюжетное hd
+http://87.117.231.9/iptv/GQA7NHL25Z2CEH/9044/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ОТВ
+http://91.193.128.233:1935/live/otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ОТР
+http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ОТС (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Оце
+http://iptv.prosto.tv:7000/ch18/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПOЕХАЛИ!
+http://109.200.130.124:7006/play/a02p
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Вегетарианский
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr-sub/chunks.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Волгоградский
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Городской HD (Одеса)
+http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Деловой
+http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Деловой Канал
+http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый захидный
+http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый канал
+http://109.200.130.124:7007/play/a002
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый канал
+http://109.200.130.124:7007/play/a014
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",первый канал (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_BURAT/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый канал (+9)
+http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_1TV/playlist.m3u8?utcstart=1611553156.00&version=2
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый канал HD
+http://109.200.130.124:7005/play/a00g
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",первый канал hd
+http://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый канал HD
+http://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый крымский
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПЕРВЫЙ МУЗЫКАЛЬНЫЙ 4К UHD
+http://136.243.42.146:1400
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый областной (Орел)
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый республиканский HD
+http://ott.inmart.tv:8081/18/index.m3u8?%7CUser-agent=smartlabs
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Ростовский
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Ростовский
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_720/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Ростовский HD
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_1080/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Тульский
+http://5.164.24.83/tula/1tv_low/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Автомобільний
+http://iptv.prosto.tv:7000/ch164/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Автомобільний HD
+http://iptv.prosto.tv:7000/ch121/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Діловий
+http://iptv.prosto.tv:7000/ch37/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Захiдний
+http://iptv.prosto.tv:7000/ch174/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Західний (Львів)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший канал Українського радіо
+http://iptv.prosto.tv:7000/ch197/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПЕРШИЙ КИЇВСЬКИЙ
+http://iptv.prosto.tv:7000/ch173/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Перший Міський (Одеса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПлюсПлюс
+http://iptv.prosto.tv:7000/ch66/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ
+http://iptv.prosto.tv:7000/ch33/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ HD
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Правда ТУТ ЛЬВІВ
+http://iptv.prosto.tv:7000/ch192/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Про жизнь/27 канал
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПРО-ФАКТ
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Просвещение (540p) [Offline]
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Прямий
+http://iptv.prosto.tv:7000/ch24/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Прямий HD
+http://prm-hls3.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Пятница!
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ПЯТЫЙ КАНАЛ
+http://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Піксель
+http://iptv.prosto.tv:7000/ch67/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рада
+http://iptv.prosto.tv:7000/ch21/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио 1 [RU]
+http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио Вести FM
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио Вести FM (720p) [RU]
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио Маяк (Веб-камера)
+http://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио Москва FM
+http://radio-live-mg.rtr-vesti.ru/live/givc9.smil/chunklist_b2600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",радио Хит ТВ (300p)
+http://lova.me/hls/hit.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ратник (1080p)
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",РБК
+http://online.video.rbc.ru/online/rbctv_224p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",РБК 576p
+http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",РЕН ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рен ТВ HD
+http://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ретро ТВ
+http://46.174.83.66/Retro/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рибалка
+http://iptv.prosto.tv:7000/ch88/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рифей-ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Родной канал
+http://n1.slavmir.tv:80/live/ngrp:Cinegy.stream_all/chunklist_b2756000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (Калуга) (202p) [Not 24/7]
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 (Краснодар)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 +2
+http://109.200.130.124:7007/play/a00h
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 HD
+http://109.200.130.124:7001/play/a00c
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24 (576p)
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия 24 (Нижний Новгород)
+http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия К
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия К
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия К (576p)
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Россия РТР (576p)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ростов-папа (1080p)
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",РТВ (Иваново)
+http://87.255.239.221:8081/LiveRtv/ABR/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Рудана
+http://iptv.prosto.tv:7000/ch195/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Русский Детектив
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Русский Иллюзион
+http://109.200.130.124:7006/play/a013
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Русский Иллюзион
+http://86.57.178.105:10823
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Салям ТВ
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Салям ТВ
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Салям ТВ (Уфа)
+http://bstvint.mediacdn.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Самара ГИС
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Самара ГИС (1080p) [Not 24/7]
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сарафан
+http://178.163.38.155:4022/udp/234.0.0.246:2000
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сарафан
+http://86.57.178.105:10822
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сарафан (576p) [Offline]
+http://195.26.83.96:7024/play/82
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сварожичи
+http://iptv.prosto.tv:7000/ch168/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Свое ТВ (Ставрополь)
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Свое ТВ HD (резерв)
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СГДФ 24 (Екатеринбург)
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Севастополь 24
+http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Север
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Север (Ненецкий автономный округ)
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Север ТВ
+http://83.222.205.22/sr1/sever/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Север ТВ (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Север ТВ HD
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Селенга ТВ
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сергиев Пасад 24
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvr24
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Славянский Мир ТВ
+http://n1.slavmir.tv:80/live/ngrp:Cinegy.stream_all/chunklist_b5256000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Смайлик
+http://iptv.prosto.tv:7000/ch215/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Советск-Тильзит ТВ
+http://109.239.208.82/tilsit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Советск-Тильзит ТВ
+http://109.239.208.82:80/tilsit/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Сонце
+http://iptv.prosto.tv:7000/ch17/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Спорт 1 Baltic
+http://iptv.prosto.tv:7000/ch114/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Спорт 2 Baltic
+http://iptv.prosto.tv:7000/ch116/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТB
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТВ (Беларусь)
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТВ Беларусь HD
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТРАНА FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Страшное hd
+http://87.117.231.9/iptv/GQA7NHL25Z2CEH/7247/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТС
+http://109.200.130.124:7007/play/a006
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТС HD
+http://195.245.97.133:8800/play/STS/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",стс HD
+http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",СТС LOVE
+http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Суббота!
+http://46.174.83.66/Subbota/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТPK 555 (Алушта)
+http://91.207.106.1:8888/live
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тамыр
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тамыр
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ Экстра
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ Экстра (720p)
+http://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ Экстра (720p)
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ-5
+http://iptv.prosto.tv:7000/ch183/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ-ИН (Магнитогорск)
+http://5.200.56.186/live/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВ3
+http://195.245.97.133:8800/play/TV3/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВК (Красноярск)
+http://air.tvk6.ru/tvk24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВК 24
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВК 24 (576p)
+http://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Твое ТВ HD
+http://cdn01.cittv.space:8080/tvoetv/index.m3u8?token=great
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВР 24 (С.Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВР 24 (С.Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТВЦ (Международный)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Телевсесвіт
+http://iptv.prosto.tv:7000/ch166/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Телеканал Да Винчи
+http://109.200.130.124:7000/play/a002
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Телеканал КХЛ HD
+http://109.200.130.124:7004/play/a016
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Телеканал новин 24
+http://iptv.prosto.tv:7000/ch25/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТЕЛЕКАФЕ
+http://109.200.130.124:7006/play/a01h
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тернополь 1
+http://ott2.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Терра
+http://iptv.prosto.tv:7000/ch101/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТЕТ
+http://iptv.prosto.tv:7000/ch7/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тивиком
+http://212.0.69.146/tvcom/studio/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТИС ТВ HD (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod720/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТК Київ
+http://iptv.prosto.tv:7000/ch26/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТКР (Рязань) (720p)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТКР Рязань
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТНВ Татарстан
+http://hls-iptv.tattelecom.ru:80/online_tv_TNV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТНВ-Планета
+http://109.200.130.124:7007/play/a009
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТНТ (Ленинск)
+http://83.166.243.97:8081/ltv1TNT/1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТнТ4
+http://109.239.128.126:8080/tnt4/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Той Думан
+http://92.46.127.146:8080/toiduman/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тольятти 24 (720p)
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Томск Река Томь
+http://cdn08.vtomske.ru/hls/stream2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Точка отрыва (TECT)
+http://109.200.130.124:7000/play/a00b
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТрансМІСІЯ
+http://iptv.prosto.tv:7000/ch311/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТрейлерON
+http://iptv.prosto.tv:7000/ch323/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Третий цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТРК Алекс
+http://iptv.prosto.tv:7000/ch194/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТРК Вінниччина
+http://iptv.prosto.tv:7000/ch193/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТРК Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ТРК Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru:80/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Трофей
+http://iptv.prosto.tv:7000/ch158/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Трофей HD
+http://iptv.prosto.tv:7000/ch89/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Тюменское Время
+http://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Украина 24
+http://iptv.prosto.tv:7000/ch179/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Україна HD
+http://iptv.prosto.tv:7000/ch3/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",УлПравда ТВ (Ульяновск)
+http://194.190.78.91:8080/pravdatv/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",УлПравда ТВ HD
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Уникум
+http://109.200.130.124:7007/play/a01b
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Уникум
+http://46.174.83.66/Unikum/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",УНІАН
+http://iptv.prosto.tv:7000/ch30/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Усадьба
+http://46.174.83.66/Usadba/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Усадьба
+http://94.230.240.17:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Усадьба-ТВ (TECT)
+http://109.200.130.124:7000/play/a00e
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ФАНТАСТИКА HD
+http://cdnhls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Фантастика HD
+http://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Фауна
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Феникс+ кино
+http://dmitry-tv.ml/hls/CH_FENIKSPLUSKINO.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ФЕНИКС+КИНО
+http://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Футбол 3
+http://iptv.prosto.tv:7000/ch105/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Херсон плюс
+http://iptv.rubintele.com:8552/play/a016
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Хит hd
+http://87.117.231.9/iptv/GQA7NHL25Z2CEH/9090/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Хузур ТВ HD
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Центральное телевидение
+http://4197b1f4.kazaktelekom.com/iptv/EVGNT7H7FAZ9DS/2064/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Чайковский ТВ
+http://178.170.233.3:8889/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Че
+http://109.200.130.124:7007/play/a00a
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЧЕ
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",че(+2)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Черноморская ТРК
+http://iptv.prosto.tv:7000/ch172/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Чернівецький Промінь HD
+http://cmr.gov.ua/live/ip1/mpegts/stream.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЧП Info
+http://iptv.prosto.tv:7000/ch29/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЧП Инфо
+http://109.68.40.67/life/magnolia_2/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЧП Инфо
+http://edge1.iptv.macc.com.ua/life/magnolia_2/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ЧП Инфо
+http://lb1.macc.com.ua/life/magnolia_3/index.m3u8?bw5566302326.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Шансон ТВ (576p) [Offline]
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",ШАЯН ТВ
+http://109.200.130.124:7007/play/a017
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эко-ТВ
+http://iptv.prosto.tv:7000/ch97/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эпоха
+http://iptv.prosto.tv:7000/ch150/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эпоха HD
+http://iptv.prosto.tv:7000/ch91/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эфир ТВ (Казань)
+http://hls-iptv.tattelecom.ru:80/online_tv_Efir/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Эхо ТВ
+http://live2-echotv.cdnvideo.ru/live/2600k/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ю
+http://46.174.83.66/U/mpegts
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ювелирочка ТВ (576p)
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Югра (576p)
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Югра ТВ
+http://live-ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Югра ТВ
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Югра ТВ
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Югра ТВ (Ханты-Мансийск) +2
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8?%7CUser-agent=mx
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Якутия 24 HD
+http://live5-saha.cdnvideo.ru/live/2004.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ялта ТВ
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ямал-Регион
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc/chunklist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Ямал-Регион HD
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",І
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Індиго
+http://iptv.prosto.tv:7000/ch15/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Інтер
+http://109.68.40.69/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Інтер
+http://109.68.40.69/img/inter_3/index.m3u8?bw986236457872.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Інтер
+http://109.68.40.69/img/inter_3/index.m3u8?bw986559345496.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",Інтер HD
+http://iptv.prosto.tv:7000/ch5/video.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",• black
+http://dmitry-tv.ml/hls/CH_BLACK.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",• red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 group-title="RUS+EX_CCCP_Eski_SSCB2",• sci-fi
+http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
