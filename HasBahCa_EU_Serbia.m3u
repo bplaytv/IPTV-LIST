@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Serbia",Adria Music Television
+https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 1
+http://185.193.240.245:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 2
+http://185.193.240.245:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 3
+http://185.193.240.245:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 4
+http://185.193.240.245:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 5
+http://185.193.240.245:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Adultchannel 7
+http://185.193.240.245:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Agro TV
+http://185.244.240.33:8000/play/a019
+#EXTINF:-1 group-title="EU_Serbia",Alsat
+http://185.244.240.33:8000/play/a029
+#EXTINF:-1 group-title="EU_Serbia",Amari
+http://185.193.240.245:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Amari TV
+http://185.193.240.245:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Animal Planet
+http://185.193.240.245:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Arena 1
+http://185.244.240.33:8000/play/a01f
+#EXTINF:-1 group-title="EU_Serbia",Arena 2
+http://185.244.240.33:8000/play/a01g
+#EXTINF:-1 group-title="EU_Serbia",Arena 3
+http://185.244.240.33:8000/play/a01h
+#EXTINF:-1 group-title="EU_Serbia",Arena 4
+http://185.244.240.33:8000/play/a01i
+#EXTINF:-1 group-title="EU_Serbia",Arena 5
+http://185.244.240.33:8000/play/a01j
+#EXTINF:-1 group-title="EU_Serbia",Arena Esport
+http://185.244.240.33:8000/play/a012
+#EXTINF:-1 group-title="EU_Serbia",Arena Fight
+http://185.244.240.33:8000/play/a018
+#EXTINF:-1 group-title="EU_Serbia",Arena Premium 1
+http://185.244.240.33:8000/play/a01q
+#EXTINF:-1 group-title="EU_Serbia",Arena Premium 2
+http://185.244.240.33:8000/play/a01r
+#EXTINF:-1 group-title="EU_Serbia",Arena Premium 3
+http://185.244.240.33:8000/play/a01s
+#EXTINF:-1 group-title="EU_Serbia",ART Vizija
+rtmp://92.60.237.39/live/test
+#EXTINF:-1 group-title="EU_Serbia",B 92
+http://185.193.240.245:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",b92
+http://185.24.35.229:8080/b92/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",B92
+http://185.244.240.33:8000/play/a02i
+#EXTINF:-1 group-title="EU_Serbia",Balkan Music TV
+http://185.244.240.33:8000/play/a01n
+#EXTINF:-1 group-title="EU_Serbia",Balkan Trip
+http://185.244.240.33:8000/play/a01a
+#EXTINF:-1 group-title="EU_Serbia",Belle Amie
+http://92.60.238.10:1935/live/belleamie/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Cine Star Action
+http://213.91.124.177:8080/1/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Cine Star Comedy
+http://185.193.240.245:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Cine Star Fantasy
+http://185.193.240.245:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Cine Star TV 1
+http://213.91.124.177:8080/2/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Cinemania
+http://185.193.240.245:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Cinemania HD TK
+http://185.244.240.33:8000/play/a00d
+#EXTINF:-1 group-title="EU_Serbia",Cinestar Fantasy GS
+http://185.244.240.33:8000/play/a006
+#EXTINF:-1 group-title="EU_Serbia",Discovery
+http://185.193.240.245:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Discovery HD TK
+http://185.244.240.33:8000/play/a00n
+#EXTINF:-1 group-title="EU_Serbia",DIVA TK
+http://185.244.240.33:8000/play/a001
+#EXTINF:-1 group-title="EU_Serbia",Djak TV
+https://srv1.adriatelekom.com/DjakTV/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Doma TV EnC HD
+http://185.244.240.33:8000/play/a015
+#EXTINF:-1 group-title="EU_Serbia",EG Melody
+http://185.193.240.245:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
+#EXTINF:-1 group-title="EU_Serbia",EXYU Melody
+http://185.193.240.245:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Fight Channel EnC HD
+http://185.244.240.33:8000/play/a00z
+#EXTINF:-1 group-title="EU_Serbia",Folk Melody
+http://185.193.240.245:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Grand TK
+http://185.244.240.33:8000/play/a00p
+#EXTINF:-1 group-title="EU_Serbia",HAPPY
+http://185.244.240.33:8000/play/a02j
+#EXTINF:-1 group-title="EU_Serbia",Happy Reality 1
+http://185.244.240.33:8000/play/a00c
+#EXTINF:-1 group-title="EU_Serbia",Happy Reality 1
+http://185.193.240.245:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Happy Reality 2
+http://185.193.240.245:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Happy TV
+http://185.24.35.229:8080/happy/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Happy TV
+http://185.193.240.245:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Hits Melody
+http://185.193.240.245:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",HRT 1
+http://185.244.240.33:8000/play/a01o
+#EXTINF:-1 group-title="EU_Serbia",KANAL 5 HD
+http://185.244.240.33:8000/play/a008
+#EXTINF:-1 group-title="EU_Serbia",KANAL 5 HD RAW A1
+http://185.244.240.33:8000/play/a02e
+#EXTINF:-1 group-title="EU_Serbia",Kanal M Paracin
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 group-title="EU_Serbia",KCN_1
+http://185.244.240.33:8000/play/a02x
+#EXTINF:-1 group-title="EU_Serbia",Kopernikus 1
+http://185.193.240.245:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Kopernikus 2
+http://185.193.240.245:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Kopernikus 3
+http://185.193.240.245:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",LOV i RIBOLOV TK
+http://185.244.240.33:8000/play/a00e
+#EXTINF:-1 group-title="EU_Serbia",MRT 3 HD
+http://185.244.240.33:8000/play/a02h
+#EXTINF:-1 group-title="EU_Serbia",MRT1 HD A1
+http://185.244.240.33:8000/play/a024
+#EXTINF:-1 group-title="EU_Serbia",MRT5
+http://185.244.240.33:8000/play/a022
+#EXTINF:-1 group-title="EU_Serbia",N1 TK
+http://185.244.240.33:8000/play/a00q
+#EXTINF:-1 group-title="EU_Serbia",Nova S TK
+http://185.244.240.33:8000/play/a01m
+#EXTINF:-1 group-title="EU_Serbia",Nova Sport GS
+http://185.244.240.33:8000/play/a01e
+#EXTINF:-1 group-title="EU_Serbia",Pannon TV
+https://stream.unrealhosting.hu/hls/pannonrtv/live.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Pikaboo ТК
+http://185.244.240.33:8000/play/a009
+#EXTINF:-1 group-title="EU_Serbia",Pink
+http://185.24.35.229:8080/pink/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Pink Action
+http://185.244.240.33:8000/play/a01v
+#EXTINF:-1 group-title="EU_Serbia",Pink Comedy
+http://185.244.240.33:8000/play/a01u
+#EXTINF:-1 group-title="EU_Serbia",Pink Erotic 1
+http://185.244.240.33:8000/play/a00u
+#EXTINF:-1 group-title="EU_Serbia",Pink Erotic 2
+http://185.244.240.33:8000/play/a00v
+#EXTINF:-1 group-title="EU_Serbia",Pink Erotic 3
+http://185.244.240.33:8000/play/a00w
+#EXTINF:-1 group-title="EU_Serbia",Pink Erotic 4
+http://185.244.240.33:8000/play/a00x
+#EXTINF:-1 group-title="EU_Serbia",Pink Erotic 5
+http://185.244.240.33:8000/play/a00y
+#EXTINF:-1 group-title="EU_Serbia",Pink Movies
+http://185.244.240.33:8000/play/a01w
+#EXTINF:-1 group-title="EU_Serbia",Pink Premium
+http://213.91.124.177:8080/3/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Pink Sci-Fi & Fantasy
+http://213.91.124.177:8080/5/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Pink Serije
+http://185.244.240.33:8000/play/a02y
+#EXTINF:-1 group-title="EU_Serbia",Pink Show
+http://185.244.240.33:8000/play/a02z
+#EXTINF:-1 group-title="EU_Serbia",Pop Melody
+http://185.193.240.245:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Pruga TV Lajkovac
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva
+http://185.24.35.229:8080/prva/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",PRVA
+http://185.244.240.33:8000/play/a00a
+#EXTINF:-1 group-title="EU_Serbia",Prva Files
+http://185.244.240.33:8000/play/a02n
+#EXTINF:-1 group-title="EU_Serbia",Prva Files
+http://185.193.240.245:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva Kick
+http://185.244.240.33:8000/play/a02o
+#EXTINF:-1 group-title="EU_Serbia",Prva Kick
+http://185.193.240.245:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva Life
+http://185.244.240.33:8000/play/a02m
+#EXTINF:-1 group-title="EU_Serbia",Prva Life
+http://185.193.240.245:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva Max
+http://185.244.240.33:8000/play/a02k
+#EXTINF:-1 group-title="EU_Serbia",Prva Max
+http://185.193.240.245:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva Plus
+http://185.24.35.229:8080/prvaplus/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Prva Plus
+http://185.244.240.33:8000/play/a02l
+#EXTINF:-1 group-title="EU_Serbia",Prva Plus HD
+http://185.193.240.245:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva TV HD
+http://185.193.240.245:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Prva World
+http://185.24.35.229:8080/prvaworld/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",Prva World
+http://185.244.240.33:8000/play/a00t
+#EXTINF:-1 group-title="EU_Serbia",Prva World
+http://185.193.240.245:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",RadioTV S
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w1590879283.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Red TV
+http://185.24.35.229:8080/redtv/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",RTL
+http://185.244.240.33:8000/play/a02a
+#EXTINF:-1 group-title="EU_Serbia",RTL 2
+http://185.244.240.33:8000/play/a02c
+#EXTINF:-1 group-title="EU_Serbia",RTL hrvatski a1
+http://185.244.240.33:8000/play/a013
+#EXTINF:-1 group-title="EU_Serbia",RTS 1
+http://185.24.35.229:8080/rts/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_Serbia",RTV City Ub (576p)
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 group-title="EU_Serbia",RTV Novi Pazar (576p)
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Sandzak TV
+http://46.240.128.178:4444/STVHD
+#EXTINF:-1 group-title="EU_Serbia",Sehara Online
+http://ip2.xxlservices.com:8081/seharatv/live/chunks.m3u8
+#EXTINF:-1 group-title="EU_Serbia",SITEL HD
+http://185.244.240.33:8000/play/a004
+#EXTINF:-1 group-title="EU_Serbia",SITEL HD RAW A1
+http://185.244.240.33:8000/play/a02f
+#EXTINF:-1 group-title="EU_Serbia",SOS Kanal plus
+https://5bc45691ca49f.streamlock.net/soskanalplus/soskanalplus.stream/chunklist_w1944273948.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Sport Klub 4
+http://185.244.240.33:8000/play/a011
+#EXTINF:-1 group-title="EU_Serbia",Sport Klub 5
+http://185.244.240.33:8000/play/a02g
+#EXTINF:-1 group-title="EU_Serbia",Sport Klub HD TK
+http://185.244.240.33:8000/play/a01k
+#EXTINF:-1 group-title="EU_Serbia",SUPER RTL
+http://185.244.240.33:8000/play/a02d
+#EXTINF:-1 group-title="EU_Serbia",TLC
+http://185.193.240.245:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",Toxic Folk
+http://185.244.240.33:8000/play/a01c
+#EXTINF:-1 group-title="EU_Serbia",Toxic Rap
+http://185.244.240.33:8000/play/a01d
+#EXTINF:-1 group-title="EU_Serbia",Toxic tv
+http://185.244.240.33:8000/play/a01b
+#EXTINF:-1 group-title="EU_Serbia",TSD
+https://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1 group-title="EU_Serbia",TV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 group-title="EU_Serbia",TV Duga+
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w407662181.m3u8
+#EXTINF:-1 group-title="EU_Serbia",TV Hram
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EU_Serbia",TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1209443471.m3u8
+#EXTINF:-1 group-title="EU_Serbia",TV+
+http://185.244.240.33:8000/play/a023
+#EXTINF:-1 group-title="EU_Serbia",Una TV SRB
+https://cdn3.wowza.com/1/WUQvMllpTW13MWhp/a0JGdUdC/hls/5r7t50t1/2728/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Serbia",VOX
+http://185.244.240.33:8000/play/a02b

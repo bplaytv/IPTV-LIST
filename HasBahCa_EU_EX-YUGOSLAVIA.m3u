@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Arena Sport 1
+http://178.217.15.36/ArenaSport1/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Aurora TV
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Banovina hr
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Banovina TV
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Banovina TV (HR)
+https://5b57bb229a2e6.streamlock.net/live/televizija/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Cro TV
+http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/chunks.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Diadora TV
+https://diadoratv.stream:4443/web/diadora/chunklist_w711585280.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Film select
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",GM Plus
+http://178.217.15.36/fineliving/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",IDJ Videos TV BiH
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",ISAI TV RO
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Jefemija TV
+rtmp://212.200.108.253/live/jefimija
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Kurir TV (720p)
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Kurir TV (RS)
+http://51.15.154.138/providus/live2805_hq/index.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Muzzik GenZ RS
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Muzzik Replay RS
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",N1 (HR)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",N1 Hrvastska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",N1 HRVATSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",N1 RS (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Nisville TV RS
+http://92.60.237.32:1935/live/nisville/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",One
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Osjecka TV
+http://api.new.livestream.com/accounts/27681961/events/8347875/live.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",OTV (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Red TV (720p)
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Red TV (RS)
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RETROV Q1
+http://89.185.253.55/retrotv/retrotvHQ1/chunklist_w1080884742.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RTV 2 (576p)
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RTV Herceg-Bosne (BiH)
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",RTV Novi Pazar (RS)
+http://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Sandzak TV (RS)
+https://vod1.laki.eu/sandzak/video.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Sky Folk MK
+http://www.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Super TV Media (BiH)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Televizija 5 (BiH)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Toon Kids
+http://103.194.169.171:8282/ex-yu_Orlando_Kids/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Trend TV (HR)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TV Duga Plus (RS)
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TV Hram (RS)
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TV Pi Canal Pirot (576p) [Not 24/7]
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TV S1 RS
+https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TVCG 1 (720p)
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TVCG 2 (720p)
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",TVCG Sat (720p)
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Una TV HR
+https://cdn3.wowza.com/1/T2ZSalN3SGk2dk5B/M0hZYVlw/hls/wbwjwjz7/2728/chunklist.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",VOIC OF AMERICA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="EU_EX-YUGOSLAVIA",Zapad TV
+https://stream.zapad.tv:3622/live/tvzapadlive.m3u8
