@@ -1,199 +1,209 @@
 #EXTM3U
-#EXTINF:-1 group-title="*TÜRK_GENEL",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
-https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",A Para
-https://ankara.tvizlehd.com/live/apara.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",A VUSLAT TV
-http://195.155.98.170:5858/play/a0b4
-#EXTINF:-1 group-title="*TÜRK_GENEL",AA Live (720p)
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Agro TV Türkiye
-https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",AKSU TV
-http://195.155.98.170:5858/play/a0ah
-#EXTINF:-1 group-title="*TÜRK_GENEL",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",atv
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",ATV (yedek)
-http://93.157.62.180/ATVTurk/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",ATV (yedek)
-http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",BEYAZ TV
-http://iptvmasterlink.dyndns.org:8080/Entry/beyaztvhd_yeni/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Beyaz TV
-https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Bizim Ev TV
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Bloomberg HT
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",blutv Nostalji
-https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master_31.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",CIFTCI TV
-http://195.155.98.170:5858/play/a0ak
-#EXTINF:-1 group-title="*TÜRK_GENEL",Dizi TDC
-http://93.157.62.180/TDC/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX
-http://195.155.98.170:5858/play/a09y
-#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX HD
-http://195.155.98.170:5858/play/a0a4
-#EXTINF:-1 group-title="*TÜRK_GENEL",Ekotürk
-https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Flash TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Fox TV
-http://93.157.62.180/FoxTurk/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",INTER AZ
-http://195.155.98.170:5858/play/a0ag
-#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D
-http://93.157.62.180/KanalD/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL D (yedek)
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D Drama
-http://93.157.62.180/KanalDDrama/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D HD
-https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Köy TV
-https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",MERCAN TV
-http://195.155.98.170:5858/play/a0am
+#EXTINF:-1 group-title="*TÜRK_GENEL",beIN Sports Haber
+https://livesx.canlitv.center/beinsportshaber.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TV8
+https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann24/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 2
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT COCUK HD
+http://195.155.98.170:5858/play/a09b
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT1 HD
+http://195.155.98.170:5858/play/a09c
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT HABER HD
+http://195.155.98.170:5858/play/a09d
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT BELGESEL HD
+http://195.155.98.170:5858/play/a09f
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURK HD
+http://195.155.98.170:5858/play/a09g
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1
+http://195.155.98.170:5858/play/a09j
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT HABER
+http://195.155.98.170:5858/play/a09k
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURK
+http://195.155.98.170:5858/play/a09l
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT COCUK
+http://195.155.98.170:5858/play/a09n
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT BELGESEL
+http://195.155.98.170:5858/play/a09o
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT2 HD
+http://195.155.98.170:5858/play/a09p
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT Memleketim FM
+http://195.155.98.170:5858/play/a09s
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURKU
+http://195.155.98.170:5858/play/a09t
+#EXTINF:-1 group-title="*TÜRK_GENEL",STAR TV
+http://195.155.98.170:5858/play/a09w
 #EXTINF:-1 group-title="*TÜRK_GENEL",NTV
 http://195.155.98.170:5858/play/a09x
+#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX
+http://195.155.98.170:5858/play/a09y
+#EXTINF:-1 group-title="*TÜRK_GENEL",STAR TV HD
+http://195.155.98.170:5858/play/a09z
 #EXTINF:-1 group-title="*TÜRK_GENEL",NTV HD
 http://195.155.98.170:5858/play/a0a0
 #EXTINF:-1 group-title="*TÜRK_GENEL",NTV RADYO
 http://195.155.98.170:5858/play/a0a1
-#EXTINF:-1 group-title="*TÜRK_GENEL",SAT7TURK
-http://195.155.98.170:5858/play/a0b2
-#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW (yedek)
-http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW MAX
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Show TV
-http://93.157.62.180/ShowTV/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",STAR
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",STAR (yedek)
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",STAR (yedek)
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",STAR TV
-http://195.155.98.170:5858/play/a09w
-#EXTINF:-1 group-title="*TÜRK_GENEL",Star TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",STAR TV HD
-http://195.155.98.170:5858/play/a09z
-#EXTINF:-1 group-title="*TÜRK_GENEL",SUN RTV
-http://195.155.98.170:5858/play/a0a9
-#EXTINF:-1 group-title="*TÜRK_GENEL",Tarım TV
-https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Tivi6
-http://195.155.98.170:5858/play/a0ad
-#EXTINF:-1 group-title="*TÜRK_GENEL",tivi6
-http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TLC
-http://195.155.98.170:5858/play/a0a6
-#EXTINF:-1 group-title="*TÜRK_GENEL",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX HD
+http://195.155.98.170:5858/play/a0a4
 #EXTINF:-1 group-title="*TÜRK_GENEL",TLC HD
 http://195.155.98.170:5858/play/a0a5
+#EXTINF:-1 group-title="*TÜRK_GENEL",TLC
+http://195.155.98.170:5858/play/a0a6
+#EXTINF:-1 group-title="*TÜRK_GENEL",SUN RTV
+http://195.155.98.170:5858/play/a0a9
+#EXTINF:-1 group-title="*TÜRK_GENEL",Tivi6
+http://195.155.98.170:5858/play/a0ad
+#EXTINF:-1 group-title="*TÜRK_GENEL",INTER AZ
+http://195.155.98.170:5858/play/a0ag
+#EXTINF:-1 group-title="*TÜRK_GENEL",AKSU TV
+http://195.155.98.170:5858/play/a0ah
+#EXTINF:-1 group-title="*TÜRK_GENEL",CIFTCI TV
+http://195.155.98.170:5858/play/a0ak
+#EXTINF:-1 group-title="*TÜRK_GENEL",MERCAN TV
+http://195.155.98.170:5858/play/a0am
 #EXTINF:-1 group-title="*TÜRK_GENEL",TON TV
 http://195.155.98.170:5858/play/a0b1
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR: FLASH TV HD
-https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR: TEVE2 HD
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=1250&live=true&app=com.tv2
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR: TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:AA Live
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:Akit TV (720p)
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:AKİT TV [HD]
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:Finans Turk TV (360p)
-http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:HUNAT TV
-https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",SAT7TURK
+http://195.155.98.170:5858/play/a0b2
+#EXTINF:-1 group-title="*TÜRK_GENEL",A VUSLAT TV
+http://195.155.98.170:5858/play/a0b4
+#EXTINF:-1 group-title="*TÜRK_GENEL",ATV (yedek)
+http://93.157.62.180/ATVTurk/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Fox TV
+http://93.157.62.180/FoxTurk/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D
+http://93.157.62.180/KanalD/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D Drama
+http://93.157.62.180/KanalDDrama/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Show TV
+http://93.157.62.180/ShowTV/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Dizi TDC
+http://93.157.62.180/TDC/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",BEYAZ TV
+http://iptvmasterlink.dyndns.org:8080/Entry/beyaztvhd_yeni/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW MAX
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:LALEGÜL TV
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:NASA TV [HD]
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:Finans Turk TV (360p)
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:ON Medya Haber
 http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",ATV (yedek)
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL D (yedek)
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW (yedek)
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",STAR (yedek)
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1 (yedek)
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",AA Live (720p)
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TRT Belgesel
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:ON4 TV
 http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:On4 TV (1080p)
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TGRT Belgesel
-https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TRT Belgesel
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TRT Belgesel (720p)
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",tivi6
+http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Kanal D HD
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Köy TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:Akit TV (720p)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:AKİT TV [HD]
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",A Para
+https://ankara.tvizlehd.com/live/apara.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1 (yedek)
+https://blutv-test-live.ercdn.net/test/trt1.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1
+https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Çiftçi TV
+https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",blutv Nostalji
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master_31.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",STAR
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",KANAL 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Bizim Ev TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Ekotürk
+https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Flash TV
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR: TEVE2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=1250&live=true&app=com.tv2
+#EXTINF:-1 group-title="*TÜRK_GENEL",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",atv
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:TV4 HD Türkiye
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR: TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TRT Belgesel (720p)
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",360 TV
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",BEYAZ TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",SHOW
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",STAR (yedek)
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:TGRT Belgesel
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:TVNet
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_GENEL",TR:Uçankuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1
-http://195.155.98.170:5858/play/a09j
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1
-https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1 (yedek)
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 1 (yedek)
-https://blutv-test-live.ercdn.net/test/trt1.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT 2
-http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT BELGESEL
-http://195.155.98.170:5858/play/a09o
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT BELGESEL HD
-http://195.155.98.170:5858/play/a09f
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT COCUK
-http://195.155.98.170:5858/play/a09n
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT COCUK HD
-http://195.155.98.170:5858/play/a09b
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT HABER
-http://195.155.98.170:5858/play/a09k
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT HABER HD
-http://195.155.98.170:5858/play/a09d
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT Memleketim FM
-http://195.155.98.170:5858/play/a09s
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURK
-http://195.155.98.170:5858/play/a09l
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURK HD
-http://195.155.98.170:5858/play/a09g
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT TURKU
-http://195.155.98.170:5858/play/a09t
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT1 HD
-http://195.155.98.170:5858/play/a09c
-#EXTINF:-1 group-title="*TÜRK_GENEL",TRT2 HD
-http://195.155.98.170:5858/play/a09p
-#EXTINF:-1 group-title="*TÜRK_GENEL",TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="*TÜRK_GENEL",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",TV8.5
-https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_GENEL",Çiftçi TV
-https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Tarım TV
+https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR:HUNAT TV
+https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",TR: FLASH TV HD
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 group-title="*TÜRK_GENEL",Agro TV Türkiye
+https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8

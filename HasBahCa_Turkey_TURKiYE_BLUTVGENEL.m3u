@@ -1,24 +1,58 @@
 #EXTM3U
-#EXTINF:-1 group-title="*TÜRK_BLUTV",24 TV
-https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",EBA TV İlkokul
+https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",EBA TV Lise
+https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",EBA TV Ortaokul
+https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",Euro Star
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",KRT TV
+https://mn-nl.mncdn.com/blutv_krt/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",Number One
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",Tay TV
+https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",teve2
+https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TRT Spor Yıldız
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TV8 Int
+https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",360 TV
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",BLUTV Aksiyon
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",blutv Aksiyon
+https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TRT ARAPÇA
+https://mn-nl.mncdn.com/blutv_arapca2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",BEYAZ TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",BLOOMBERG HT
 https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",BLUTV Aksiyon
-https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",BLUTV Komedi
-https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",CNN TÜRK
 https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",D MAX
-https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",KIDS TURK
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",blutv Kids
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",D MAX
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",DREAM TÜRK
 https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",EKO TÜRK
@@ -27,34 +61,56 @@ https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABER GLOBAL HD
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",HABER TÜRK
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABERTURK HD
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",24 TV
+https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: KANAL 7
+https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",KIDS TURK
-https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",BLUTV Komedi
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",blutv Komedi
+https://mn-nl.mncdn.com/blutv_komedi/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",MILYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",NTV
-https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",NUMBER ONE
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",NUMBER ONE TÜRK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",NTV
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: NTV HD
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",ÖZEL YAPIM
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",blutv Özel Yapım
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live_720p2000000/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",POWER TV
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",POWER TÜRK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK TV HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",SHOW
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",STAR TV
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: STAR TV
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TAY TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TELE 1
@@ -65,28 +121,8 @@ https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TLC TR
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: BEYAZ TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: CNN TURK HD
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABER GLOBAL HD
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: HABERTURK HD
-https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: KANAL 7
-https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: NTV HD
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR: STAR TV
-https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK HD
-https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TR:POWER TURK TV HD
-https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TRT 1
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TRT ARAPÇA
-https://mn-nl.mncdn.com/blutv_arapca2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TRT BELGESEL
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TRT COCUK
@@ -103,15 +139,13 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TV 100
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",TV 8.5
-https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",TV4
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",TV 8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",UCAN KUS
 https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_BLUTV",ÖZEL YAPIM
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
 #EXTINF:-1 group-title="*TÜRK_BLUTV",ÜLKE
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_BLUTV",ULUSAL KANAL
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8

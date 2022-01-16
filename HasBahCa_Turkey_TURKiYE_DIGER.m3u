@@ -1,81 +1,203 @@
 #EXTM3U
-#EXTINF:-1 group-title="*TÜRK_DIGER",Albayrak Ajans
-https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",ARTI TV (1080p)
-http://176.10.117.18:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Bilsen Bizim TV
-http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Business Channel Türk
-https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",CEM TV
-http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Düğün TV
-https://5864df9ceac85.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist_w1932197580.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Fındık TV
-https://tv170.ozelip.com:1936/findiktv/findiktv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Guek
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
-#EXTINF:-1 group-title="*TÜRK_DIGER",Hayran TV
-http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Kardeş TV
-http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Maximum TV
-http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Medya 24
-https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Misket TV
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
-#EXTINF:-1 group-title="*TÜRK_DIGER",Natural TV
-https://broadcasttr.com:446/naturaltv/bant1/chunklist_w395051295.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",SAT 7 TÜRK
-http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",SEMERKAND
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Super Türk TV
-http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",SZC
-https://ankara.tvizlehd.com/live/sozcutv.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TBRT Kanal 1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TBRT Kanal 6
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TC TV
-http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Turkuvaz Kovboy
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
-#EXTINF:-1 group-title="*TÜRK_DIGER",TV DEN
-http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TRT Avaz
+http://185.129.1.242:80/trtavaz/mpegts
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Deniz TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/denizradyotv
+#EXTINF:-1 group-title="*TÜRK_KARISIK",ABB Web TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ankarawebtv/live
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",TV EM
-https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",tvO
-https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Türkay TV
-https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Uzay Haber
-https://livesx.canlitv.center/uzayhaber2.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Premium
-https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Yansıma Sinema
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Yaren TV
-https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist_w1479224570.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Yarımada TV
-http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Üniversite TV
-https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist_w662238065.m3u8
-#EXTINF:-1 group-title="*TÜRK_DIGER",Şaban TV
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kobim TV
+https://host.onlineradyotv.net:1936/kobimtv/kobimtv/chunklist_w61809244.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Genç SMS TV
+https://yayin.santraltr.com/hls/genctv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Sıla TV
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",aviva
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",ARTI TV (1080p)
+http://176.10.117.18:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Ferat TV
+http://176.236.106.172:8080/hls/ferat.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kanal D Drama
+http://185.226.88.3:1036/live/backup/backup/157.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Misket TV
+http://195.154.107.199:3030/live/anka-canli/zPna4ZbVP4/3892.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Turkuvaz Kovboy
+http://195.154.107.199:3030/live/anka-canli/zPna4ZbVP4/4285.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Tarım Türk TV
+http://46.31.146.187:44500/play/a02f/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",MGC
+http://46.31.146.187:44500/play/a030/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Zaza TV
+http://46.31.146.187:44500/play/a03s/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Bilsen Bizim TV
+http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TC TV
+http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",A2
+http://84.22.33.214/A2/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Şaban TV
 http://ankara.tvizlehd.com/live/sabantv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Merkez TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Super Türk TV
+http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Number 1 Dance
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67chco
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kuzey TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/kuzeytvtv
+#EXTINF:-1 group-title="*TÜRK_KARISIK",MPL TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Milli Piyango TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw
+#EXTINF:-1 group-title="*TÜRK_KARISIK",tv100 Ekonomi
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=32enbX7XKnw
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Maximum TV
+http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",CEM TV
+http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",FB TV
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV5
+http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV8
+http://istanbul.tvizlehd.com/live/tv8720.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Lalegül TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TBRT Teleon Plus
+http://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TBRT Yeşilçam
+http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kanal 5
+http://livesx.canlitv.center/kanal5.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Metro Türk
+http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Misket TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Turkuvaz Kovboy
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Guek
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Yarımada TV
+http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",SAT 7 TÜRK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",tivi01
+http://tivi011920.ozelip.com:28008/tivi01/tivi01/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kardeş TV
+http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",World Türk
+http://yerelmedya.tv:1935/worldturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Sancak TV
+https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Düğün TV
+https://5864df9ceac85.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist_w1932197580.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Yeni Malatyaspor TV
+https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/chunklist_w86285043.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Business Channel Türk
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Otağ TV
+https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist_w1843270513.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Torba TV
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist_w947360967.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Yaren TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist_w1479224570.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Üniversite TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist_w662238065.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",SZC
+https://ankara.tvizlehd.com/live/sozcutv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",SEMERKAND
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",ADD Web TV
+https://broadcasttr.com:446/addlive/bant1/chunklist_w175037243.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist_w395051295.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Ordu ORT TV
+https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",tvO
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Van Gölü TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w583842648_b1694720.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Can TV 24
+https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/chunklist_w1996358919.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Radyo Esenyurt
+https://cdn10-radyoesenyurt.yayin.com.tr/radyoesenyurt/radyoesenyurt/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Fortuna TV
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Yansıma Premium
+https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TBRT Kanal 6
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TBRT Kanal 1
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Yansıma Sinema
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Diyanet TV
+https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Kanal B
+https://mn-nl.mncdn.com/blutv_kanalb2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Timur Medya TV
+https://rtmp-eu.loola.tv:8081/hlspush/Z1Ai7y5-Z1hm3Vf.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Türkay TV
+https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TiviTürk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Teleon
+https://streaming.netdirekt.com.tr:443/35757/msyapi/teleontv_nowmediagroup_digitalplatform/chunks.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Nur TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCW9SRQR959QnMXEWDKNYHeg/live
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Akkon TV
+https://tv170.ozelip.com:1936/akkontv/akkontv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Aktif TV
+https://tv170.ozelip.com:1936/aktif/aktif/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Başkan TV
+https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Durak TV
+https://tv170.ozelip.com:1936/duraktv/duraktv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Fark Türk TV
+https://tv170.ozelip.com:1936/farkturktv/farkturktv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Fora Müzik
+https://tv170.ozelip.com:1936/foramuzik/foramuzik/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Genç Kraliçe TV
+https://tv170.ozelip.com:1936/genckralicetv/genckralicetv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Göpsen TV
+https://tv170.ozelip.com:1936/gopsentv/gopsentv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",KMD TV
+https://tv170.ozelip.com:1936/kmdtv/kmdtv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Lugat TV
+https://tv170.ozelip.com:1936/lugat/lugat/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Konya Olay TV
+https://tv170.ozelip.com:1936/olay/olay/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Super 7 TV
+https://tv170.ozelip.com:1936/super/super/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",TV Adige
+https://tv170.ozelip.com:1936/tvadige/tvadige/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Uluslararası TV
+https://tv170.ozelip.com:1936/uluslar/uluslar/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",CRI Türk
+https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Hedef TV
+https://yayin.hedeftv.com.tr:4443/hedeftv/smil:auto.smil/chunklist_w545627667_b2128000.m3u8
+#EXTINF:-1 group-title="*TÜRK_KARISIK",Medya 24
+https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
