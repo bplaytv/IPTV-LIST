@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Malta",malta
+http://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 group-title="EU_Malta",One
+https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Malta",One (720p)
+https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Malta",Smash 7News
+http://a3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Arabija
+http://a3.smashmalta.com:82/live/smash/smash/26.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Bella Italia (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Country
+http://a3.smashmalta.com:82/live/smash/smash/12.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Explore
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Food
+http://a3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1 group-title="EU_Malta",Smash House of Rock
+http://a3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Jazz
+http://a3.smashmalta.com:82/live/smash/smash/10.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Jazz Notes (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/38.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Movies
+http://a3.smashmalta.com:82/live/smash/smash/27.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Politika
+http://a3.smashmalta.com:82/live/smash/smash/19.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Radio 104.6FM
+http://a3.smashmalta.com:82/live/smash/smash/21.ts
+#EXTINF:-1 group-title="EU_Malta",Smash Rock Classics (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1 group-title="EU_Malta",Smash TV
+http://a3.smashmalta.com:82/live/smash/smash/5.ts
+#EXTINF:-1 group-title="EU_Malta",Smash TV (720p)
+http://s3.smashmalta.com/hls/smash/smash.m3u8
+#EXTINF:-1 group-title="EU_Malta",Smash TV Shopping
+http://a3.smashmalta.com:82/live/smash/smash/14.ts

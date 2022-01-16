@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_France_FRANSA",A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",AFROBEAT ODO TV
+https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Business (480p)
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Lyon (720p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Lyon (720p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BIP TV
+http://biptv.tv:80/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BIP TV (480p) [Not 24/7]
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",BOSSBROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Clubbing TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
+#EXTINF:-1 group-title="EU_France_FRANSA",Cnews (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 group-title="EU_France_FRANSA",Cribs Maisons De Star (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9
+#EXTINF:-1 group-title="EU_France_FRANSA",CSTAR (720p)
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="EU_France_FRANSA",DBM TV (1080p)
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Espace Francophone
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV (1080p)
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV (Opt-1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV (Opt-2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV (UHD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV L'Original (1080p)
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",FashionTV Midnite Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",FashionTV Mumbai (720p)
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",FashionTV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",FashionTV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",FashionTV Singapore
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24
+http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24 ES
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Gulli (720p) [Not 24/7]
+http://flusonic-4.platinum-tv.com/Gulli/mono.m3u8?token=test
+#EXTINF:-1 group-title="EU_France_FRANSA",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Gulli Girl (576p) [Not 24/7]
+http://188.40.68.167/russia/gulli_girl/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Instant Saga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11c2399-2d50-4607-be2c-d35d72152bbe
+#EXTINF:-1 group-title="EU_France_FRANSA",Juste pour Rire (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1 group-title="EU_France_FRANSA",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Loupe (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8d6c7877d40007791af0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c1-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b9651e5-80c9-45f6-b3a0-499e9abe049a
+#EXTINF:-1 group-title="EU_France_FRANSA",M6 (720p)
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTINF:-1 group-title="EU_France_FRANSA",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 group-title="EU_France_FRANSA",Pluto TV Les Nouveaux Detectives
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="EU_France_FRANSA",Pluto TV MADE TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 group-title="EU_France_FRANSA",RT FRANCE
+https://rt-fra.gcdn.co/live/rtfrance/playlist_2500Kb.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",RT France (1080p)
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Sofy TV (720p)
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Tastemade France (1080p)
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TF1 (720p)
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+#EXTINF:-1 group-title="EU_France_FRANSA",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 INFO
+https://live.easybroadcast.fr/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 Monde Europe (1080p)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 Monde Europe (1080p)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 Monde Info (Opt-2)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 Monde Info (Opt-3)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5 Monde Info (Opt-4)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV5Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV7 Colmar
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",TébéSud
+https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",viàMATÉLÉ (540p) [Not 24/7]
+https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",viàOccitanie (540p)
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",viàVosges (576p) [Not 24/7]
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 group-title="EU_France_FRANSA",Wildside TV (720p)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8

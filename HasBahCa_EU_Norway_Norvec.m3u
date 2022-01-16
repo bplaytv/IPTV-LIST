@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Norway_Norvec",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Hope Channel Norge (360p)
+http://media1.adventist.no:1935/live/hope3/chunklist_w1848872903.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Stortinget - HS1 (180p)
+https://25480cc657998e13839139df392b46eb-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal1_1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Stortinget - HS1 (576p)
+https://25480cc657998e13839139df392b46eb-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal1_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Stortinget - HS2 (576p)
+https://bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal2_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Stortinget - N-202 (576p)
+https://98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal3_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",Stortinget - Stortingssalen (576p)
+https://bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-stortinget_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",tv2 - Nyhetsstrømmen (720p)
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1 group-title="EU_Norway_Norvec",tv2 - Sport (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8

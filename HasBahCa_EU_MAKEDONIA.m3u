@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_MAKEDONIA",24 Vesti
+http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Alfa TV
+http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Bn Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Klan Macedonia
+http://185.226.88.3:1036/live/backup/backup/109.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:-1 group-title="EU_MAKEDONIA",Macedonian Channel Documentary
+http://giganet.mk/hls/macdoc.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Makedonija Net
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Makedonsko Sonce GA
+https://media2.streambrothers.com:1936/8128/8128/chunklist_w376532442.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Mnet Info
+https://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Mnet Kids
+https://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Mnet Sport
+https://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",MRT 1
+http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Sitel TV
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Sky Folk
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Star Music
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 group-title="EU_MAKEDONIA",Telma TV
+http://135.125.204.34:8081/tvstanici/3/playlist.m3u8

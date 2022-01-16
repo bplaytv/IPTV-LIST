@@ -1,0 +1,481 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RTC Telecalabria (576p) [Not 24/7]
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio 51 (480p)
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Parole di Vita (720p) [Not 24/7]
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",San Marino RTV (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RTC Telecalabria (576p) [Not 24/7]
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio 51 TV (480p)
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV Sei (576p) [Not 24/7]
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV7 Azzurra
+http://217.61.26.46:8080/hls/azzurra.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV7 News
+http://217.61.26.46:8080/hls/news.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV7 Triveneta (270p) [Not 24/7]
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 10 (540p) [Not 24/7]
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Elive Brescia TV (720p)
+http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telesud Trapani (720p)
+http://5cbd3bc28341f.streamlock.net:1935/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telesud Trapani (720p) [Not 24/7]
+http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Radio Sciacca (240p)
+http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleArena (576p)
+http://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY CINEMA DRAMA HD
+http://93.48.34.164:8000/play/08766
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY CINEMA COLLECTION HD
+http://93.48.34.164:8000/play/111232
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SPORT MOTOGP HD
+http://93.48.34.164:8000/play/23
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SPORT ARENA HD
+http://93.48.34.164:8000/play/26
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SPORT FOOTBALL HD
+http://93.48.34.164:8000/play/3547554
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SPORT FORMULA 1 HD
+http://93.48.34.164:8000/play/457558
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SPORT NBA HD
+http://93.48.34.164:8000/play/555566777
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY CINEMA DUE HD
+http://93.48.34.164:8000/play/67666
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY CINEMA SUSPENSE HD
+http://93.48.34.164:8000/play/75899
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SKY SERIES HD
+http://93.48.34.164:8000/play/87986
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky Atlantic
+http://93.48.34.164:8000/play/a003
+#EXTINF:-1 group-title="EU_Italia_ITALYA",FOX
+http://93.48.34.164:8000/play/a004
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky TG24
+http://93.48.34.164:8000/play/a006
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky Sport Calcio
+http://93.48.34.164:8000/play/a00d
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky Sport Uno
+http://93.48.34.164:8000/play/a00g
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky Sport Uno HD
+http://93.48.34.164:8000/play/a01p
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky Sport 24
+http://93.48.34.164:8000/play/a028
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Sport + HD
+http://93.48.34.164:8000/play/a02g
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Movie
+http://93.48.34.164:8000/play/a02h
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 1 HD
+http://93.48.34.164:8000/play/a02i
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Gulp
+http://93.48.34.164:8000/play/a02j
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai YoYo
+http://93.48.34.164:8000/play/a02k
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Premium
+http://93.48.34.164:8000/play/a02l
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 4
+http://93.48.34.164:8000/play/a02m
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Radio TV (720p)
+http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Teleliberta (486p) [Not 24/7]
+http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 10 Ostia (540p)
+http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV 2000 (720p)
+http://cld04wz.tv2000.it/tv2000_main.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radionorba TV (404p)
+http://flash2.xdevel.com/norbatv/smil:norbatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radionorba TV (404p) [Offline]
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TG Norba 24
+http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/chunklist_b350000.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TG Norba 24 (360p)
+http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TVA Vicenza (720p)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TVA (Vicenza) (720p)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleChiara (720p)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telechiara (720p)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV UNO
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Videolina
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Videolina (Sardegna) (404p)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai News HD (576p)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Sport [Geo-blocked]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Sport+ [Geo-blocked]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 1 (Geo)
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 4
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale Italia 83 (576p) [Offline]
+http://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio 24 (1080p)
+http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RAI News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",CafeTV24 Veneto (Opt-1)
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",La CTV (720p) [Not 24/7]
+http://streamcdnc3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",La C TV (720p) [Not 24/7]
+http://streamcdng3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Super J TV Teramo (720p) [Not 24/7]
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RMK TV Sciacca (720p) [Not 24/7]
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TRM h24 Basilicata
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Company TV (720p)
+http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 8 (480p)
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",CANALE 8 (480p)
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Carina TV (480p)
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Carina TV (480p)
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Esperia TV (480p)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Lucania Channel
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Lucania Channel (480p) [Not 24/7]
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telefoggia (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TelePavia (720p)
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Pavia (720p)
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Quattro (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Vera TV (480p) [Not 24/7]
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Vera TV (Marche) (480p) [Not 24/7]
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Video Brescia TV (720p)
+http://wms.shared.streamshow.it/videobrescia/mp4:videobrescia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Video Brescia TV (720p) [Not 24/7]
+http://wms.shared.streamshow.it/videobrescia/videobrescia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Studio 100 Puglia (480p)
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TVRS (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 3 (720p) [Not 24/7]
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 3 (576p) [Not 24/7]
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telecolor Lombardia (1080p) [Offline]
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Birikina TV (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Number One (720p)
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Kiss Kiss TV (240p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream_300p/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Kiss Kiss Italia TV (380p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Kiss Kiss Napoli TV (380p)
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rete Oro (720p) [Not 24/7]
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tevere TV (576p) [Not 24/7]
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Ibiza TV (360p) [Not 24/7]
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Aurora Arte (480p)
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 2 Altamura (576p)
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Elive TV Brescia
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Esperia TV Calabria (Opt-1)
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Icaro TV (720p)
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",ReggioTV (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Reteveneta (480p)
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Teletricolore (480p)
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telefoggia (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleVideo Agrigento (480p)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Antenna Tre Veneto (480p)
+https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Studio 100
+https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/chunklist_w807820603.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleVenezia (480p)
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telesud Trapani (720p)
+https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telesud Trapani (720p) [Not 24/7]
+https://5cbd3bc28341f.streamlock.net:444/telesud/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Videostar Canale 193
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/chunklist_w1657085036.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Videostar Canale 193 (576p) [Not 24/7]
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/videostar/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Studio Delta TV (1080p)
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Retemia (720p)
+https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",SuperSix Lombardia (720p)
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleGenova (404p) [Not 24/7]
+https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telenod (576p)
+https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Alto Adige TV (720p)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RTTR Trento (404p)
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Class CNBC
+https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Bloomberg
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Capital TV (360p)
+https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Deejay TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleTerni (720p) [Not 24/7]
+https://diretta.teleterni.it/live/stream_src.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RTP (404p)
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Pegaso Catania
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TG Norba 24 (360p)
+https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/index.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TG Norba 24 (360p)
+https://flash5.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Lombardia TV
+https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telecupole (540p)
+https://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TVL (720p) [Not 24/7]
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telebelluno (400p)
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Tele Liguria Sud (224p) [Not 24/7]
+https://live.teleliguriasud.it/hls/tls/index.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",m2o TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",m2o TV (360p)
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Donna Shopping
+https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 1 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 3 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 2 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 5 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai 4 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Premium [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Movie [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai News 24 (576p)
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Duck TV (720p)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Primocanale (1080p) [Not 24/7]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",QVC Italia (720p)
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Italia TV (480p)
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rai News 24 (720p)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Euronews Italiano (720p)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radiofreccia (432p)
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Zeta (432p)
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RTL 102.5 BEST (432p)
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Videonovara (576p) [Not 24/7]
+https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Azzurra TV (576p) [Not 24/7]
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rete Biella TV (768p)
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Nove IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",DMAX IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",HGTV Italia
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Juwelo Italia (480p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Juwelo Italia (480p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?latency=low
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Senato
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rete 7
+https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rete 55 (720p) [Not 24/7]
+https://stream.internet.one/Rete55_Live/index.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 21 Lazio (480p) [Not 24/7]
+https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",A2itv (1080p) [Not 24/7]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Stereo 5 TV (720p)
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Gold 78 (1080p)
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Cusano Italia TV (720p)
+https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Class CNBC (576p)
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Telefriuli (720p) [Not 24/7]
+https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",NSL (1080p)
+https://streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",AB Channel (768p) [Not 24/7]
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",La TR3 Marsala (720p)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Umbria TV (576p) [Not 24/7]
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Super! (480p)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Spike (Opt-2)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Spike (Opt-3)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Camera dei Deputati (via RR)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Radio Radicale TV
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Orler TV (420p) [Not 24/7]
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sophia TV (720p)
+https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Sophia TV (720p)
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1 group-title="EU_Italia_ITALYA",TVA Vicenza (Opt-2)
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Rete Biella TV
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+#EXTINF:-1 group-title="EU_Italia_ITALYA",CafeTV24 Veneto (Opt-2)
+rtmp://srv3.meway.tv:1957/cafe/live
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Company TV (Opt-2)
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Studio 100 Puglia (Opt-2)
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+#EXTINF:-1 group-title="EU_Italia_ITALYA",Canale 7 Puglia (Opt-2)
+rtmp://wms.shared.streamshow.it:80/canale7/canale7

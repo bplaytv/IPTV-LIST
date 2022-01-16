@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Holland_Belgien",100% NL TV
+http://185.157.161.141:22222/play/a073
+#EXTINF:-1 group-title="EU_Holland_Belgien",192TV
+http://185.157.161.141:22222/play/a07b
+#EXTINF:-1 group-title="EU_Holland_Belgien",1LIVE
+http://185.157.161.141:22222/play/a07t
+#EXTINF:-1 group-title="EU_Holland_Belgien",24Kitchen HD
+http://185.157.161.141:22222/play/a01f
+#EXTINF:-1 group-title="EU_Holland_Belgien",A T V
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Aljazeera English
+http://185.157.161.141:22222/play/a084
+#EXTINF:-1 group-title="EU_Holland_Belgien",Animal Planet HD
+http://185.157.161.141:22222/play/a008
+#EXTINF:-1 group-title="EU_Holland_Belgien",ATV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Baby TV
+http://185.157.161.141:22222/play/a02a
+#EXTINF:-1 group-title="EU_Holland_Belgien",BBC First HD
+http://185.157.161.141:22222/play/a01s
+#EXTINF:-1 group-title="EU_Holland_Belgien",BBC One HD
+http://185.157.161.141:22222/play/a00e
+#EXTINF:-1 group-title="EU_Holland_Belgien",BBC Two HD
+http://185.157.161.141:22222/play/a014
+#EXTINF:-1 group-title="EU_Holland_Belgien",BEL Radio PROS (Webradio)
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",BEL RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Bel RTL (720p)
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Boomerang
+http://185.157.161.141:22222/play/a06r
+#EXTINF:-1 group-title="EU_Holland_Belgien",BR6 TV (720p)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Canvas HD
+http://185.157.161.141:22222/play/a02j
+#EXTINF:-1 group-title="EU_Holland_Belgien",Cartoon Network HD
+http://185.157.161.141:22222/play/a01y
+#EXTINF:-1 group-title="EU_Holland_Belgien",CBS Reality
+http://185.157.161.141:22222/play/a078
+#EXTINF:-1 group-title="EU_Holland_Belgien",City Music (Webradio)
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",CNBC Europe
+http://185.157.161.141:22222/play/a06p
+#EXTINF:-1 group-title="EU_Holland_Belgien",Comedy Central HD
+http://185.157.161.141:22222/play/a00y
+#EXTINF:-1 group-title="EU_Holland_Belgien",DanceTelevision
+http://185.157.161.141:22222/play/a06q
+#EXTINF:-1 group-title="EU_Holland_Belgien",Den Haag TV
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Discovery HD
+http://185.157.161.141:22222/play/a02i
+#EXTINF:-1 group-title="EU_Holland_Belgien",Discovery Science HD
+http://185.157.161.141:22222/play/a01w
+#EXTINF:-1 group-title="EU_Holland_Belgien",Disney Channel
+http://185.157.161.141:22222/play/a076
+#EXTINF:-1 group-title="EU_Holland_Belgien",Disney Channel HD
+http://185.157.161.141:22222/play/a01t
+#EXTINF:-1 group-title="EU_Holland_Belgien",E! HD
+http://185.157.161.141:22222/play/a01u
+#EXTINF:-1 group-title="EU_Holland_Belgien",EBS Europe
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",EBS+ Europe
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ede TV
+http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ede TV
+http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",EDE TV (480p)
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Eldoradio TV (Webradio)
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ESPN
+http://185.157.161.141:22222/play/a06l
+#EXTINF:-1 group-title="EU_Holland_Belgien",ESPN 2
+http://185.157.161.141:22222/play/a018
+#EXTINF:-1 group-title="EU_Holland_Belgien",ESPN 3
+http://185.157.161.141:22222/play/a04d
+#EXTINF:-1 group-title="EU_Holland_Belgien",ESPN 4
+http://185.157.161.141:22222/play/a019
+#EXTINF:-1 group-title="EU_Holland_Belgien",Euronews
+http://185.157.161.141:22222/play/a085
+#EXTINF:-1 group-title="EU_Holland_Belgien",Eurosport 1 HD
+http://185.157.161.141:22222/play/a02v
+#EXTINF:-1 group-title="EU_Holland_Belgien",Eurosport 2 HD
+http://185.157.161.141:22222/play/a039
+#EXTINF:-1 group-title="EU_Holland_Belgien",Extreme Sports Channel
+http://185.157.161.141:22222/play/a079
+#EXTINF:-1 group-title="EU_Holland_Belgien",Family7
+http://185.157.161.141:22222/play/a081
+#EXTINF:-1 group-title="EU_Holland_Belgien",Fashion TV HD
+http://185.157.161.141:22222/play/a00f
+#EXTINF:-1 group-title="EU_Holland_Belgien",Feel Good TV (720p)
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Film1 Action HD
+http://185.157.161.141:22222/play/a03n
+#EXTINF:-1 group-title="EU_Holland_Belgien",Film1 Drama HD
+http://185.157.161.141:22222/play/a03l
+#EXTINF:-1 group-title="EU_Holland_Belgien",Film1 Family HD
+http://185.157.161.141:22222/play/a03o
+#EXTINF:-1 group-title="EU_Holland_Belgien",Film1 Premiere HD
+http://185.157.161.141:22222/play/a03p
+#EXTINF:-1 group-title="EU_Holland_Belgien",FOX HD
+http://185.157.161.141:22222/play/a01a
+#EXTINF:-1 group-title="EU_Holland_Belgien",Fun Radio (Webradio)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Groningen1 (1080p) [Not 24/7]
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",HISTORY HD
+http://185.157.161.141:22222/play/a01g
+#EXTINF:-1 group-title="EU_Holland_Belgien",Horse & Country TV HD
+http://185.157.161.141:22222/play/a051
+#EXTINF:-1 group-title="EU_Holland_Belgien",ID HD
+http://185.157.161.141:22222/play/a03s
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ideaal TV (480p)
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Insight TV (1080p)
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Insight+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b73efd87eb3a2717ccde/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d54bbd90-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f10cd89a-c878-4a4d-8b3d-f5238f421aa0&terminate=false&userId=
+#EXTINF:-1 group-title="EU_Holland_Belgien",JenZ (1080p)
+https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",JENZ (1080p)
+https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",L1 Limburg
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",L1TV
+http://185.157.161.141:22222/play/a05f
+#EXTINF:-1 group-title="EU_Holland_Belgien",Lansingerland TV (1080p)
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",LN24 (1080p)
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",LOE TV (720p)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Love Nature HD
+http://185.157.161.141:22222/play/a03y
+#EXTINF:-1 group-title="EU_Holland_Belgien",MaTele (1080p) [Not 24/7]
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Meer TV (720p)
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Mezzo
+http://185.157.161.141:22222/play/a074
+#EXTINF:-1 group-title="EU_Holland_Belgien",ML5 TV (480p)
+https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",MNM (Webradio) (720p)
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",MTV 90s
+http://185.157.161.141:22222/play/a07e
+#EXTINF:-1 group-title="EU_Holland_Belgien",MTV HD
+http://185.157.161.141:22222/play/a013
+#EXTINF:-1 group-title="EU_Holland_Belgien",MTV Live HD
+http://185.157.161.141:22222/play/a00i
+#EXTINF:-1 group-title="EU_Holland_Belgien",MyZen HD
+http://185.157.161.141:22222/play/a082
+#EXTINF:-1 group-title="EU_Holland_Belgien",Nat Geo WILD HD
+http://185.157.161.141:22222/play/a01h
+#EXTINF:-1 group-title="EU_Holland_Belgien",National Geographic Channel HD
+http://185.157.161.141:22222/play/a02h
+#EXTINF:-1 group-title="EU_Holland_Belgien",Net5 HD
+http://185.157.161.141:22222/play/a06k
+#EXTINF:-1 group-title="EU_Holland_Belgien",Nick Jr.
+http://185.157.161.141:22222/play/a07d
+#EXTINF:-1 group-title="EU_Holland_Belgien",Nick Music
+http://185.157.161.141:22222/play/a06s
+#EXTINF:-1 group-title="EU_Holland_Belgien",Nickelodeon HD
+http://185.157.161.141:22222/play/a037
+#EXTINF:-1 group-title="EU_Holland_Belgien",Nicktoons
+http://185.157.161.141:22222/play/a07c
+#EXTINF:-1 group-title="EU_Holland_Belgien",NoTele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Notele (576p)
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 1 extra HD
+http://185.157.161.141:22222/play/a05v
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 1 HD
+http://185.157.161.141:22222/play/a02n
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 2 (342p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 2 extra HD
+http://185.157.161.141:22222/play/a027
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 2 HD
+http://185.157.161.141:22222/play/a02o
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO 3 HD
+http://185.157.161.141:22222/play/a02p
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO Nieuws
+http://185.157.161.141:22222/play/a05b
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO Politiek
+http://185.157.161.141:22222/play/a05c
+#EXTINF:-1 group-title="EU_Holland_Belgien",NPO Zappelin extra
+http://185.157.161.141:22222/play/a080
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Brabant
+http://185.157.161.141:22222/play/a06w
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Centraal TV (480p)
+https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Ede
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Ede (480p)
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Flevoland (720p)
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Gelderland
+http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Gelderland (1080p)
+https://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&output=playlist.m3u8&protocol=http&service=wowza&type=live
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Hulst TV (720p)
+https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep P&M
+http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep P&M (480p)
+https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep P&M TV (1080p)
+https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Tilburg
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Tilburg (480p)
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Tilburg TV (480p)
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep West
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep West (1080p)
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Omrop Fryslan
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ONS
+http://185.157.161.141:22222/play/a05d
+#EXTINF:-1 group-title="EU_Holland_Belgien",Open Rotterdam (480p)
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ORTS
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ORTS (480p)
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",OUTTV HD
+http://185.157.161.141:22222/play/a041
+#EXTINF:-1 group-title="EU_Holland_Belgien",Pebble TV
+http://185.157.161.141:22222/play/a04z
+#EXTINF:-1 group-title="EU_Holland_Belgien",Podium.TV (1080p)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 group-title="EU_Holland_Belgien",Podium.TV 2 (1080p)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 group-title="EU_Holland_Belgien",Podium.TV 3 (1080p)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 group-title="EU_Holland_Belgien",Q-Music (1080p)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Q-Music (Webradio)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio 350 (360p) [Not 24/7]
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio Aalsmeer TV (720p)
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio Contact (720p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio NL (720p)
+http://558bd16067b67.streamlock.net:1935/radionl/radionl/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio VOS FM
+http://593aed234297b.streamlock.net:1935/henrymeeuws/henrymeeuws/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Radio VOS FM (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/henrymeeuws/henrymeeuws/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Regio TV Nieuws
+http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Regio TV Nieuws (1080p)
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Regio8 TV (480p)
+https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Regio90 TV (480p)
+https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ROB TV
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",ROB TV (1080p) [Not 24/7]
+https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL 4 HD
+http://185.157.161.141:22222/play/a04b
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL 5 HD
+http://185.157.161.141:22222/play/a04c
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL 7 HD
+http://185.157.161.141:22222/play/a00n
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL 8 HD
+http://185.157.161.141:22222/play/a02s
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL Crime HD
+http://185.157.161.141:22222/play/a026
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL Lounge HD
+http://185.157.161.141:22222/play/a05n
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL Telekids HD
+http://185.157.161.141:22222/play/a05o
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL Z HD
+http://185.157.161.141:22222/play/a00q
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Amstelveen
+https://live.rtva.nl/live/zender.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Arnhem
+http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Arnhem (480p)
+https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Connect TV (480p)
+https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Dordrecht
+http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Dordrecht (480p)
+https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Dordrecht (480p)
+https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV GO! (1080p) [Not 24/7]
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV NOF 1 (720p)
+http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV NOF 2 (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Noordoost Friesland
+http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Noordoost Friesland (720p)
+https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Slingeland (480p)
+https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",RTV-7
+http://185.157.161.141:22222/play/a057
+#EXTINF:-1 group-title="EU_Holland_Belgien",rtvutrecht (1080p)
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Salto 1
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/95f14edc/8d74cf86.isml/.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Salto 2
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/bc718ab6/65358d45.isml/.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Salto ADE
+https://live.salto.nl/hls/at5_high.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Salto Brasa Music
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Samen1 TV (720p)
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Sat. 1
+http://185.157.161.141:22222/play/a05e
+#EXTINF:-1 group-title="EU_Holland_Belgien",SBS6 HD
+http://185.157.161.141:22222/play/a01n
+#EXTINF:-1 group-title="EU_Holland_Belgien",SBS9 HD
+http://185.157.161.141:22222/play/a04h
+#EXTINF:-1 group-title="EU_Holland_Belgien",Secret Circle
+http://185.157.161.141:22222/play/a058
+#EXTINF:-1 group-title="EU_Holland_Belgien",Shorts TV HD
+http://185.157.161.141:22222/play/a05m
+#EXTINF:-1 group-title="EU_Holland_Belgien",Spike HD
+http://185.157.161.141:22222/play/a03v
+#EXTINF:-1 group-title="EU_Holland_Belgien",Stingray Lite TV
+http://185.157.161.141:22222/play/a07a
+#EXTINF:-1 group-title="EU_Holland_Belgien",Streek TV (720p) [Not 24/7]
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TLC HD
+http://185.157.161.141:22222/play/a01b
+#EXTINF:-1 group-title="EU_Holland_Belgien",Tommy Teleshopping (480p)
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Drenthe
+http://185.157.161.141:22222/play/a06u
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Gelderland
+http://185.157.161.141:22222/play/a06x
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Noord
+http://185.157.161.141:22222/play/a06t
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Oost
+http://185.157.161.141:22222/play/a06v
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Oost (720p) [Not 24/7]
+https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Oranje
+http://185.157.161.141:22222/play/a075
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Valkenburg
+http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV Valkenburg
+https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV5 Monde
+http://185.157.161.141:22222/play/a086
+#EXTINF:-1 group-title="EU_Holland_Belgien",TV538
+http://185.157.161.141:22222/play/a02f
+#EXTINF:-1 group-title="EU_Holland_Belgien",TVL
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",TVO (576p)
+https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtpshSvwcy.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",UStad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Vechtdal TV
+http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Veronica HD / Disney XD
+http://185.157.161.141:22222/play/a045
+#EXTINF:-1 group-title="EU_Holland_Belgien",WDR
+http://185.157.161.141:22222/play/a04e
+#EXTINF:-1 group-title="EU_Holland_Belgien",WOS TV (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",WOS TV (1080p)
+https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",X-MO
+http://185.157.161.141:22222/play/a07f
+#EXTINF:-1 group-title="EU_Holland_Belgien",XITE (720p)
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",XITE (720p)
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",Xite (720p)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",XITE (BE) (720p)
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",XITE HD
+http://185.157.161.141:22222/play/a01i
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Docu HD
+http://185.157.161.141:22222/play/a021
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Golf HD
+http://185.157.161.141:22222/play/a03t
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport HD
+http://185.157.161.141:22222/play/a04g
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Racing HD
+http://185.157.161.141:22222/play/a015
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Select HD
+http://185.157.161.141:22222/play/a01q
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Tennis
+http://185.157.161.141:22222/play/a06o
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo Sport Voetbal HD
+http://185.157.161.141:22222/play/a016
+#EXTINF:-1 group-title="EU_Holland_Belgien",Ziggo TV HD
+http://185.157.161.141:22222/play/a01r
+#EXTINF:-1 group-title="EU_Holland_Belgien",ZuidWest TV (720p)
+https://live.zuidwesttv.nl/live/zwtv.m3u8
+#EXTINF:-1 group-title="EU_Holland_Belgien",één HD
+http://185.157.161.141:22222/play/a012

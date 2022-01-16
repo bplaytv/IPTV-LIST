@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Echo24 (720p)
+https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Ezo TV (576p) [Not 24/7]
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Radio Czworka (1080p)
+http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Retro
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Sfera TV (480p) [Not 24/7]
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",Trwam TV
+http://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TV Regionalna (Lubin) (576p) [Not 24/7]
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TV Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TV Republika (1080p)
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TV Trwam (480p)
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TVP3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 group-title="EU_Polski_POLONYA",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8

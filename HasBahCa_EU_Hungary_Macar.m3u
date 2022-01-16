@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Hungary",1HD (Music)
+http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",1Music Channel Hungary
+http://www.1music.hu/1music.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Apostol TV (576p) [Not 24/7]
+https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",ATV (160p)
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",ATV (360p)
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Cool TV (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",DTV (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Film+
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Film+ (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 group-title="EU_Hungary",Hatoscsatorna (360p)
+https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Hungary",MUSIC + (720p) [Not 24/7]
+https://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Pannon RTV (648p)
+https://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF:-1 group-title="EU_Hungary",RTL II
+https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",RTL II (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Sorozat+ (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 group-title="EU_Hungary",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 group-title="EU_Hungary",VTV Füzesabony (720p) [Not 24/7]
+https://stream.unrealhosting.hu:7962/live.m3u8
+#EXTINF:-1 group-title="EU_Hungary",Ózdi Városi TV (720p) [Not 24/7]
+https://stream.unrealhosting.hu:7982/live.m3u8

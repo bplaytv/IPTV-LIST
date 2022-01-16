@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",34100 TV
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",A.EPSILON
+http://31.177.62.174:8001/play/s146
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Acheloos TV (576p) [Not 24/7]
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ACTION 24
+http://31.177.62.174:8001/play/s149
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ACTION 24
+https://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",AEOLOS TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALERT
+http://31.177.62.174:8002/play/s141
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALFA DRAMAS
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Alfa Dramas (226p) [Not 24/7]
+https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALFA SPORT CY
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALPHA
+http://31.177.62.174:8003/play/s116
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ALPHA HD
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ANT1
+http://31.177.62.174:8003/play/s120
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ANT1 HD
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",APT
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ARGOLIDA TV
+https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ART
+http://31.177.62.174:8002/play/s143
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ATTICA TV
+http://31.177.62.174:8002/play/s144
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ATTICA TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV HD
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV HD Greek Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BARAZA TV HD SUMMER
+https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BCI 24 NEWS
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BEST TV
+https://stream.net7.gr/hls/best/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BLUE SKY
+https://www.dailymotion.com/embed/video/x7z731p#tab_embed.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",BLUESKY
+http://31.177.62.174:8002/play/s142
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CANNALI TV
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Channel 9
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CHANNEL 9
+http://31.177.62.174:8002/play/s140
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CHANNEL 9
+https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CHOICE
+https://vod.streams.ovh:3528/stream/play.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CITY CHANNEL
+https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CORFU CHANNEL
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",DIAVATA TV HD
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",DIGITAL TV CY
+https://l8.cloudskep.com/digital/dtv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",DIKTYO TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Dipso TV (720p) [Not 24/7]
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",EGNATIA TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",EKKLHSIA TV HD
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ELLADA TV
+https://castvideo.eu:3384/live/elladalive.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ELLAS TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ELLINIKOS FM
+https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",EPIRUS TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT NEWS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_4Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_4Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT WORLD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT World (720p)
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT1 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT2 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ERT3 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ETV
+https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",EURONEWS
+https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",EXTRA
+http://31.177.62.174:8001/play/s148
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",FAROS TV CY
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",FAROS TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",FIGARO
+https://www.dailymotion.com/video/x7x0v7j#tab_embed.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",FOX MUSIC
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Greek TV London (1080p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",GREEK VOICE
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",GROOVY
+http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",HIGH TV
+http://31.177.62.174:8001/play/s147
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",HLEKTRA TV
+http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",HORSE RACES
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Horse Races (432p) [Not 24/7]
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",IONIAN CHANNEL
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",IRIDA TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",KIDS TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",KONTRA
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",KONTRA CHANNEL
+http://31.177.62.174:8001/play/s145
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Kontra Channel (1080p)
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",KPHTH TV (720p)
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",m.TV
+http://31.177.62.174:8003/play/s121
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",M.TV
+https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MAGIC TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Maroussiotika TV (480p) [Not 24/7]
+http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MEGA
+http://31.177.62.174:8003/play/s119
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MEGA HD
+https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MEGA HD
+https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MESOGEIOS TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MESSATIDA TV
+https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MESSINIA TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MGR TV
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",MY RADIO TV
+https://vdo.alphaserver.gr:3894/hybrid/play.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NEA TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NEA TV
+https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NG (612p)
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NG TV
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NOTIOI TV
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NRG 91 (720p)
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NRG TV
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",NS TV (720p) [Not 24/7]
+http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ONE TV HD
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",OPEN BEYOND
+http://31.177.62.174:8003/play/s122
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ORT TV
+https://s2.netmax-host.eu:2053/ort/ort/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",PANIK TV
+https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Pella TV (576p) [Not 24/7]
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",RED MUSIC
+https://s2.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Reload Play (536p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Reload Radio
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Rik Sat (Opt-2)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",RΙΚ Sat (CYBC S) (720p) [Not 24/7]
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SIGMA CY
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SKAI
+http://31.177.62.174:8003/play/s118
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SKAI HD
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SKAI HD
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Skai TV (720p)
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SMILE TV CY
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR
+http://31.177.62.174:8003/play/s117
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
+http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR HD
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",STAR K.E.
+https://www.dailymotion.com/embed/video/xqjey2#tab_embed.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",SYROS TV1
+http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",THRAKINET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TILE EPILOGES
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TOP CHANNEL
+https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TRAVEL CHANNEL
+https://channel.streams.ovh:1936/travelchannel/travelchannel/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TRT TV
+https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TV 100 (576p) [Not 24/7]
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TV FILOPOLI
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",TV Notos (720p) [Not 24/7]
+https://eco.streams.ovh/notos/notos/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Vouli Tileorasi
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV CY
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV2
+https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",VOULI TV3
+https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Xalastra TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Xalastra TV (240p)
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",XPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Zerouno TV (720p)
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ZOUGLA TV
+https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Βουλή Τηλεόραση (540p)
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Βουλή Τηλεόραση 2 (360p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",Βουλή Τηλεόραση 3 (360p)
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:-1 group-title="EU_Greek_YUNANCA",ΚρήτηTV (720p)
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8

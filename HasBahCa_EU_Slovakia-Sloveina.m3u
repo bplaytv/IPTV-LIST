@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Televizia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Povaziy
+http://213.181.128.248:8090/tvpovazie-h264.flv
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Ružinov (1080p)
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Nove Zamky (486p)
+http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Reduta (486p)
+http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ Family
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ Family
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Wau TV
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ HD
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",WAU HD
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Raj TV
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Nové Zámky
+rtmp://s1.media-planet.sk:80/live/novezamky
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Reduta
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Turzovka
+rtmp://s1.media-planet.sk:80/live/turzovka
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",RTV SLO3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",RTV SLO2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV MARIBOR (720p)
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV KOPER (720p)
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",MMC (720p)
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV SLOVENIJA 1 (1080p)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Televizia OSEM (Opt-1)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TVDX (486p) [Not 24/7]
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CRo RADIOZURNAL
+http://62.169.180.144:8001/play/a001
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CRo RADIO JUNIOR
+http://62.169.180.144:8001/play/a002
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CRo JAZZ
+http://62.169.180.144:8001/play/a003
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Slovensko
+http://62.169.180.144:8001/play/a004
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Radio_FM
+http://62.169.180.144:8001/play/a005
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Slovakia
+http://62.169.180.144:8001/play/a006
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Jemne melodie Z
+http://62.169.180.144:8001/play/a007
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",RADIO VLNA
+http://62.169.180.144:8001/play/a008
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Ocko TV
+http://62.169.180.144:8001/play/a00b
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CT 1 HD
+http://62.169.180.144:8001/play/a00c
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CT 2 HD
+http://62.169.180.144:8001/play/a00d
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CT 24 HD
+http://62.169.180.144:8001/play/a00e
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CT :D/art HD
+http://62.169.180.144:8001/play/a00g
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Nova Sport 1 HD
+http://62.169.180.144:8001/play/a00j
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Prima COOL HD
+http://62.169.180.144:8001/play/a00m
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",DAJTO HD
+http://62.169.180.144:8001/play/a00n
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV JOJ HD
+http://62.169.180.144:8001/play/a00o
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ PLUS HD
+http://62.169.180.144:8001/play/a00p
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",RiK
+http://62.169.180.144:8001/play/a00q
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Nova International
+http://62.169.180.144:8001/play/a00r
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TA3 HD
+http://62.169.180.144:8001/play/a00s
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Noe TV
+http://62.169.180.144:8001/play/a00y
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",RTL Tele Letzebuerg 23.5
+http://62.169.180.144:8001/play/a01g
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Prima PLUS HD
+http://62.169.180.144:8001/play/a01h
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Ocko Star
+http://62.169.180.144:8001/play/a01l
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Senzi
+http://62.169.180.144:8002/play/a003
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",AMC
+http://62.169.180.144:8002/play/a004
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",MTV Europe CZ
+http://62.169.180.144:8002/play/a006
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",C-Music CZ
+http://62.169.180.144:8002/play/a007
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Sport 2 HD
+http://62.169.180.144:8002/play/a008
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Markiza HD
+http://62.169.180.144:8002/play/a00b
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",DOMA HD
+http://62.169.180.144:8002/play/a00c
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",JOJ Cinema HD
+http://62.169.180.144:8002/play/a00f
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Kino Barrandov
+http://62.169.180.144:8002/play/a00g
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Barrandov HD
+http://62.169.180.144:8002/play/a00h
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",regionalnitelevize.cz
+http://62.169.180.144:8002/play/a00i
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Jednotka HD
+http://62.169.180.144:8002/play/a00j
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Dvojka HD
+http://62.169.180.144:8002/play/a00k
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Trojka HD
+http://62.169.180.144:8002/play/a00l
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Minimax SK
+http://62.169.180.144:8002/play/a00o
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Film+ SK
+http://62.169.180.144:8002/play/a00p
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",DOCUBOX
+http://62.169.180.144:8002/play/a01h
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Prima MAX HD
+http://62.169.180.144:8002/play/a01j
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Prima ZOOM HD
+http://62.169.180.144:8002/play/a01k
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Filmbox
+http://62.169.180.144:8002/play/a01l
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",CS Film/CS Mini
+http://62.169.180.144:8002/play/a01m
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Prima Love
+http://62.169.180.144:8002/play/a01r
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Nova Sport 2 HD
+http://62.169.180.144:8002/play/a02f
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",WAU HD
+http://62.169.180.144:8002/play/a02g
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Penthouse 1 HD CZ
+http://62.169.180.144:8002/play/a02n
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Penthouse 2 HD CZ
+http://62.169.180.144:8002/play/a02o
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Joj hd 720p
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",WAU HD
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",TV Nové Zámky (486p)
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Nove Zamky (486p)
+http://s1.media-planet.sk/live/novezamky/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Reduta (486p)
+http://s1.media-planet.sk/live/reduta/playlist.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Televizia Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",SK-Nove Zamky m3u8
+http://s1.media-planet.sk:80/live/novezamky/HasBahCa.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",N1 SLOVENSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Rik (540p) [Not 24/7]
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1 group-title="EU_Slovakia-Sloveina",Veseljak TV (1080p)
+https://stream.veseljak.tv/hls/stream.m3u8
