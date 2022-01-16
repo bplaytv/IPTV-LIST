@@ -2,19 +2,13 @@
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",24horas
 https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",A&E HD
-http://45.225.93.154:4000/play/aehd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",A&E HD
 http://45.4.0.46:8000/play/aehd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ADN Radio (1080p)
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Alternativa TV (Huasco) (720p)
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",AMC HD
-http://45.225.93.154:4000/play/a056
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",AMC HD
 http://45.4.0.46:8000/play/a056
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Animal Planet HD
-http://45.225.93.154:4000/play/animalplanethd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Animal Planet HD
 http://45.4.0.46:8000/play/animalplanethd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Antofagasta TV
@@ -32,8 +26,6 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Autonoma TV (1080p) [Not 24/7]
 https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",AXN HD
-http://45.225.93.154:4000/play/a06f
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",AXN HD
 http://45.4.0.46:8000/play/a06f
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Aysén TV (720p) [Not 24/7]
 https://v2.tustreaming.cl/aysentv/playlist.m3u8
@@ -44,13 +36,9 @@ http://v3.tustreaming.cl/campoabierto/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Campus TV (Talca) (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 13 HD
-http://45.225.93.154:4000/play/a07a
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 13 HD
 http://45.4.0.46:8000/play/a07a
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 2 (San Antonio) (720p)
 https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 24 Horas HD
-http://45.225.93.154:4000/play/a07d
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 24 Horas HD
 http://45.4.0.46:8000/play/a07d
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Canal 29 (614p) [Not 24/7]
@@ -84,8 +72,6 @@ https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Carolina TV (720p) [Not 24/7]
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Cartoon Network HD
-http://45.225.93.154:4000/play/a05i
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Cartoon Network HD
 http://45.4.0.46:8000/play/a05i
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",CEAC TV (Santiago) (480p)
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
@@ -94,17 +80,9 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",chilevision
 https://marine2.miplay.cl/chilevision/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",CHV HD
-http://45.225.93.154:4000/play/a08n
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",CHV HD
 http://45.4.0.46:8000/play/a08n
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",cinecanal
-https://marine2.miplay.cl/cinecanal/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Cinecanal HD
-http://45.225.93.154:4000/play/a05c
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Cinecanal HD
 http://45.4.0.46:8000/play/a05c
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Cinemax HD
-http://45.225.93.154:4000/play/cinemaxhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Cinemax HD
 http://45.4.0.46:8000/play/cinemaxhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Click TV (Coronel) (720p)
@@ -114,13 +92,7 @@ https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Cloudserver Latam (CSTV) (360p)
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",CNN Chile HD
-http://45.225.93.154:4000/play/cnnchilehd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",CNN Chile HD
 http://45.4.0.46:8000/play/cnnchilehd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Comedy Central HD
-http://45.225.93.154:4000/play/a0f5
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Comedy Central HD
-http://45.225.93.154:4000/play/comedycentralhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Comedy Central HD
 http://45.4.0.46:8000/play/a0f5
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Comedy Central HD
@@ -130,47 +102,23 @@ https://unlimited6-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",deutschewelle
 https://marine2.miplay.cl/deutschewelle/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",DHE HD
-http://45.225.93.154:4000/play/a0dz
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",DHE HD
 http://45.4.0.46:8000/play/a0dz
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery H&H HD
-http://45.225.93.154:4000/play/a0al
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery H&H HD
 http://45.4.0.46:8000/play/a0al
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery HD
-http://45.225.93.154:4000/play/a0e1
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery HD
 http://45.4.0.46:8000/play/a0e1
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery Kids HD
-http://45.225.93.154:4000/play/a0ak
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery Kids HD
 http://45.4.0.46:8000/play/a0ak
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery Theater HD
-http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery Theater HD
 http://45.4.0.46:8000/play/a0am
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",discovery turbo
-https://marine2.miplay.cl/turbo/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery World HD
-http://45.225.93.154:4000/play/a05b
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Discovery World HD
 http://45.4.0.46:8000/play/a05b
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",disney
-https://marine2.miplay.cl/disney/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Disney HD
-http://45.225.93.154:4000/play/disneyhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Disney HD
 http://45.4.0.46:8000/play/disneyhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",disneyjunior
-https://marine2.miplay.cl/disneyjunior/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",disneyxd
-https://marine2.miplay.cl/disneyxd/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Décima TV (Ancud) (720p)
 http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",EKIZ TV (Rancagua) (360p)
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",El Gourmet HD
-http://45.225.93.154:4000/play/a074
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",El Gourmet HD
 http://45.4.0.46:8000/play/a074
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",El Pingüino TV (240p) [Not 24/7]
@@ -179,30 +127,14 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",El Pingüino TV (720p) [Not 24/7]
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",espn
-https://marine2.miplay.cl/espn/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN 2 HD
-http://45.225.93.154:4000/play/a0ax
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN 2 HD
 http://45.4.0.46:8000/play/a0ax
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN 3 HD
-http://45.225.93.154:4000/play/espn3hd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN 3 HD
 http://45.4.0.46:8000/play/espn3hd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN EXTRA HD
-http://45.225.93.154:4000/play/a05e
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN EXTRA HD
 http://45.4.0.46:8000/play/a05e
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN HD
-http://45.225.93.154:4000/play/a06j
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",ESPN HD
 http://45.4.0.46:8000/play/a06j
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",espn2
-https://marine2.miplay.cl/espn2/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",espn3
-https://marine2.miplay.cl/espn3/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",espnextra
-https://marine2.miplay.cl/espnextra/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ESTACION TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Estación TV (720p)
@@ -215,38 +147,22 @@ https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ewtn
 https://marine2.miplay.cl/ewtn/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Exprezión TV (EXTV | Los Álamos) (720p)
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FMTV FRECUENCIA MUSICAL
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1259694217.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FMTV SUPER CLASIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Food Network HD
-http://45.225.93.154:4000/play/foodnetworkhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Food Network HD
 http://45.4.0.46:8000/play/foodnetworkhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX Comedy HD
-http://45.225.93.154:4000/play/a07g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX Comedy HD
 http://45.4.0.46:8000/play/a07g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX HD
-http://45.225.93.154:4000/play/a0ao
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX HD
 http://45.4.0.46:8000/play/a0ao
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Series HD
-http://45.225.93.154:4000/play/a0au
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Series HD
 http://45.4.0.46:8000/play/a0au
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Sports 1 HD
-http://45.225.93.154:4000/play/a07k
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Sports 1 HD
 http://45.4.0.46:8000/play/a07k
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX Sports 2 HD
-http://45.225.93.154:4000/play/a0at
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",FOX Sports 2 HD
 http://45.4.0.46:8000/play/a0at
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Sports 3 HD
-http://45.225.93.154:4000/play/foxsports3hd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Fox Sports 3 HD
 http://45.4.0.46:8000/play/foxsports3hd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",france24
@@ -254,11 +170,7 @@ https://marine2.miplay.cl/france24/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",fx
 https://marine2.miplay.cl/fx/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FX HD
-http://45.225.93.154:4000/play/a0aw
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",FX HD
 http://45.4.0.46:8000/play/a0aw
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",FX Movies HD
-http://45.225.93.154:4000/play/a05l
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",FX Movies HD
 http://45.4.0.46:8000/play/a05l
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",fxmovies
@@ -268,33 +180,21 @@ http://v3.tustreaming.cl/genialtv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Geovisión (Iquique) (360p)
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Golden HD
-http://45.225.93.154:4000/play/goldenhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Golden HD
 http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",HBO HD
-http://45.225.93.154:4000/play/a08o
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",HBO HD
 http://45.4.0.46:8000/play/a08o
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",HBO POP HD
-http://45.225.93.154:4000/play/a0g8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",HBO POP HD
 http://45.4.0.46:8000/play/a0g8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",History 2 HD
-http://45.225.93.154:4000/play/a0e4
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",History 2 HD
 http://45.4.0.46:8000/play/a0e4
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",History Channel HD
-http://45.225.93.154:4000/play/a06b
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",History Channel HD
 http://45.4.0.46:8000/play/a06b
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Holvoet TV (Copiapó) (720p)
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",homeandhealth
-https://marine2.miplay.cl/homeandhealth/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",ID HD
-http://45.225.93.154:4000/play/idhd
+#EXTINF:-1 group-title="Amerika_CHILE -Şili",Holvoet TV HD (Chille)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ID HD
 http://45.4.0.46:8000/play/idhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Interradio [Offline]
@@ -308,8 +208,6 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",kanald
 https://marine2.miplay.cl/kanald/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",La Red HD
-http://45.225.93.154:4000/play/laredhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",La Red HD
 http://45.4.0.46:8000/play/laredhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",lared
 https://marine2.miplay.cl/lared/mono.m3u8
@@ -317,8 +215,6 @@ https://marine2.miplay.cl/lared/mono.m3u8
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",mega
 https://marine2.miplay.cl/mega/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",MEGA HD
-http://45.225.93.154:4000/play/a08g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",MEGA HD
 http://45.4.0.46:8000/play/a08g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",megaplus
@@ -330,15 +226,9 @@ https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",MÁS+.TV Chile (720p) [Not 24/7]
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo HD
-http://45.225.93.154:4000/play/a05a
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo HD
 http://45.4.0.46:8000/play/a05a
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo Kids HD
-http://45.225.93.154:4000/play/natgeokidshd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo Kids HD
 http://45.4.0.46:8000/play/natgeokidshd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo Wild HD
-http://45.225.93.154:4000/play/a0an
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Nat Geo Wild HD
 http://45.4.0.46:8000/play/a0an
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",natgeo
@@ -350,19 +240,13 @@ https://marine2.miplay.cl/natgeowild/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",NHK
 https://marine2.miplay.cl/nhk/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",NTV
-http://45.225.93.154:4000/play/a0gu
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",NTV
 http://45.4.0.46:8000/play/a0gu
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",ntv
 https://marine2.miplay.cl/ntv/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Onda Radio (720p)
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Paramount HD
-http://45.225.93.154:4000/play/a05j
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Paramount HD
 http://45.4.0.46:8000/play/a05j
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Pasiones HD
-http://45.225.93.154:4000/play/pasioneshd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Pasiones HD
 http://45.4.0.46:8000/play/pasioneshd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Pauta
@@ -381,8 +265,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Portalfoxmix (720p)
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Radio América TV (720p)
-https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Radio El Sembrador (1080p)
 https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Radio Ritmo FM (720p) [Not 24/7]
@@ -420,23 +302,13 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Sony HD
-http://45.225.93.154:4000/play/a06d
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Sony HD
 http://45.4.0.46:8000/play/a06d
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Space HD
-http://45.225.93.154:4000/play/a06g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Space HD
 http://45.4.0.46:8000/play/a06g
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",STAR Action HD
-http://45.225.93.154:4000/play/a0bg
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",STAR Action HD
 http://45.4.0.46:8000/play/a0bg
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Star Fun HD
-http://45.225.93.154:4000/play/foxfamilyhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Star Fun HD
 http://45.4.0.46:8000/play/foxfamilyhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Star Life HD
-http://45.225.93.154:4000/play/foxlifehd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Star Life HD
 http://45.4.0.46:8000/play/foxlifehd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",starlife
@@ -444,11 +316,7 @@ https://marine2.miplay.cl/starlife/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Stgo.TV (720p)
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Studio Universal HD
-http://45.225.93.154:4000/play/studiouniversalhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Studio Universal HD
 http://45.4.0.46:8000/play/studiouniversalhd
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Sun Channel HD
-http://45.225.93.154:4000/play/a0aj
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Sun Channel HD
 http://45.4.0.46:8000/play/a0aj
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Teletrak (720p)
@@ -461,28 +329,16 @@ https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",tlc
-https://marine2.miplay.cl/tlc/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TNE (720p)
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT HD
-http://45.225.93.154:4000/play/a06w
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT HD
 http://45.4.0.46:8000/play/a06w
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT Series HD
-http://45.225.93.154:4000/play/a0bf
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT Series HD
 http://45.4.0.46:8000/play/a0bf
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT SPORTS HD
-http://45.225.93.154:4000/play/cdfhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TNT SPORTS HD
 http://45.4.0.46:8000/play/cdfhd
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",tracelatina
 https://marine2.miplay.cl/tracelatina/mono.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",traceurban
 https://marine2.miplay.cl/traceurban/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TRUTV HD
-http://45.225.93.154:4000/play/a073
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TRUTV HD
 http://45.4.0.46:8000/play/a073
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Turf Móvil (720p)
@@ -508,11 +364,7 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV Vision (720p) [Not 24/7]
 https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV! Educa Chile
-http://45.225.93.154:4000/play/a057
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TV! Educa Chile
 http://45.4.0.46:8000/play/a057
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TV+ HD
-http://45.225.93.154:4000/play/a058
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV+ HD
 http://45.4.0.46:8000/play/a058
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV+ OSORNO
@@ -521,12 +373,8 @@ https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TV5 Linares (720p)
 https://unlimited6-cl.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TV8 (Concepción) (514p) [Geo-blocked]
-https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",tvn
 https://marine2.miplay.cl/tvn/mono.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",TVN HD
-http://45.225.93.154:4000/play/a06r
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TVN HD
 http://45.4.0.46:8000/play/a06r
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",TVO (San Vicente) (270p)
@@ -545,8 +393,6 @@ http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://v2.tustreaming.cl/unidadevangelica/index.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",UNIKA.TV
 https://video.misistemareseller.com/unikatv/unikatv/chunklist_w823962789.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",UNIVERSAL CHANNEL HD
-http://45.225.93.154:4000/play/a0ap
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",UNIVERSAL CHANNEL HD
 http://45.4.0.46:8000/play/a0ap
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Universidad Autónoma Temuco (UATV) (1080p)
@@ -571,8 +417,6 @@ http://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Wapp (1080p)
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE -Şili",Warner Channel HD
-http://45.225.93.154:4000/play/a06e
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Warner Channel HD
 http://45.4.0.46:8000/play/a06e
 #EXTINF:-1 group-title="Amerika_CHILE -Şili",Zona Play TV (ZPTV) (360p)

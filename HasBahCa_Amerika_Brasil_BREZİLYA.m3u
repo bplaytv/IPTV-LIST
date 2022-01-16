@@ -7,18 +7,18 @@ http://45.148.147.13:8011/play/a037
 http://45.148.147.13:8011/play/a038
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",1001 Noites | PR - Brasil
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",A vida moderna de Rocko
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",A&amp;E FHD
 http://45.148.147.13:8000/play/a00b
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",A&E HD
 http://201.35.250.178:8001/play/a00h
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AgroMais HD
 http://201.35.250.178:8001/play/a00w
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",All Sports | BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ANIMAL PLANET FHD
 http://45.148.147.13:8010/play/a003
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ANIMAL PLANET FHD H265
@@ -37,6 +37,12 @@ http://187.94.148.4:8000/play/a07n/index.m3u8
 http://187.94.148.4:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Anos 90
 http://187.94.148.4:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",As  Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",As Aventuras de Jackie Chan
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Astral TV | Brasil
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AXN FHD H265
 http://45.148.147.13:8000/play/a007
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AXN FHD H265
@@ -45,6 +51,8 @@ http://45.148.147.13:8000/play/a022
 http://45.148.147.13:8000/play/a009
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",AXN HD1
 http://45.148.147.13:8000/play/a024
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Babyfirst
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BAND NEWS FHD
 http://45.148.147.13:8004/play/a00u
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BAND NEWS FHD H265
@@ -61,10 +69,18 @@ http://45.148.147.13:8003/play/a040
 http://45.148.147.13:8008/play/a032
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BAND SPORTS HD1
 http://45.148.147.13:8008/play/a035
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BCC TV | Brasil
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",BET Being Mary Jane
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",BET Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BH FM
 http://187.94.148.4:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Black / Hip Hop
 http://187.94.148.4:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Blast Channel TV | Brasil
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BOOMERANG FHD
@@ -75,6 +91,10 @@ http://45.148.147.13:8006/play/a03g
 http://45.148.147.13:8006/play/a03h
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",BOOMERANG SD
 http://45.148.147.13:8006/play/a03i
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Brasil
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Brasil
+http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Canal 25 Jundiaí [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Canal 26 (720p)
@@ -107,6 +127,8 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Cindie Lite | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CINEMAX FHD
 http://45.148.147.13:8000/play/a00l
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Cinemax HD
@@ -115,12 +137,14 @@ http://201.35.250.178:8001/play/a01b
 http://45.148.147.13:8000/play/a00n
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CIUDAD MAGICA 105.1 FM AUSONIA
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ClÆssica
-http://187.94.148.4:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CNN Brasil
 http://187.94.148.4:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CNN BRASIL FHD H265
 http://45.148.147.13:8004/play/a00e
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Com Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",COM Brasil (720p) [Not 24/7]
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",COMBATE FHD H265
@@ -139,8 +163,12 @@ http://45.148.147.13:8008/play/a04d
 http://45.148.147.13:8000/play/a00r
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",COMEDY CENTRAL HD1
 http://45.148.147.13:8000/play/a00t
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",COMEDY CENTRAL SD
 http://45.148.147.13:8000/play/a00u
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CONMEBOL TV 1
 http://201.35.250.178:8001/play/a00x
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CONMEBOL TV 2
@@ -149,10 +177,20 @@ http://201.35.250.178:8001/play/a00y
 http://201.35.250.178:8001/play/a00i
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CONMEBOL TV 4
 http://201.35.250.178:8001/play/a00j
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CTV | Brasil
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Cultura do Pará | Brasil
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",CURTA! FHD
 http://45.148.147.13:8011/play/a03u
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",D+ TV | Brasil
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Dark Matter TV Brazil (720p)
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",DarkFlix HD | Brasil
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Data Clip TV | Brasil
+https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",DISCOVERY CHANNEL FHD  H265
 http://45.148.147.13:8010/play/a00a
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",DISCOVERY H&amp;H FHD
@@ -193,8 +231,6 @@ http://45.148.147.13:8006/play/a03c
 http://45.148.147.13:8006/play/a03d
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",DISNEY JR HD1
 http://45.148.147.13:8006/play/a039
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Dunas Tv
-https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",E! ENTERTAINMENT TELEVISION FHD H265
 http://45.148.147.13:8011/play/a03m
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",E! ENTERTAINMENT TELEVISION HD
@@ -205,6 +241,8 @@ http://200.4.97.162:8000/play/a00b/index.m3u8
 http://200.4.97.162:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",EPTV Sªo Carlos
 http://200.4.97.162:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ESPN BRASIL HD
+http://45.148.147.13:8008/play/a030
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ESPN EXTRA FHD
 http://45.148.147.13:8007/play/a07j
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ESPN EXTRA HD
@@ -225,10 +263,18 @@ http://45.148.147.13:8007/play/a07g
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Euronews Português (720p)
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Feliz7Play - Igreja Adventista | Brasil
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Festa
 http://187.94.148.4:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Filmes Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Fish TV HD
 http://201.35.250.178:8001/play/a00u
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Fish TV | Brasil
+http://168.205.87.198:8555/live/123456/123456/62.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",FOOD NETWORK FHD
 http://45.148.147.13:8011/play/a03d
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Forrð
@@ -247,6 +293,8 @@ http://201.35.250.178:8001/play/a00l
 http://45.148.147.13:8007/play/a06z
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",FOX SPORTS SD
 http://45.148.147.13:8007/play/a071
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Fuel TV (720p)
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Funk e Rap
@@ -303,10 +351,16 @@ http://45.148.147.13:8008/play/a03d
 http://45.148.147.13:8008/play/a03e
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Gospel Movies | Brasil
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Guia de Canais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",H2 FHD
 http://45.148.147.13:8010/play/a01h
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",H2 FHD H265
 http://45.148.147.13:8010/play/a01i
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Hackathon Brasil TV
+https://video01.kshost.com.br/richard5546/richard5546/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",HBO Family HD
 http://201.35.250.178:8001/play/a01n
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",HBO FHD H265
@@ -361,6 +415,8 @@ http://201.35.250.178:8001/play/a00g
 http://45.148.147.13:8010/play/a01c
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",HISTORY CHANNEL SD
 http://45.148.147.13:8010/play/a01g
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Hollywire | Brasil
+https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ID - INVESTIGACAO DISCOVERY FHD H265
 http://45.148.147.13:8010/play/a018
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",ID - INVESTIGACAO DISCOVERY HD
@@ -389,32 +445,56 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Jazz
 http://187.94.148.4:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Jeannie é um Gênio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Jovem Pan News (1080p)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",JOVEM PAN NEWS HD
 http://45.148.147.13:8004/play/a00k
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",JOVEM PAN NEWS HD1
 http://45.148.147.13:8004/play/a00l
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Jovem Pan Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",LIFETIME FHD
 http://45.148.147.13:8011/play/a03q
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Loading
 http://187.94.148.4:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Loading TV | Brasil
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Loupe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",LOVE NATURE FHD
 http://45.148.147.13:8010/play/a022
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Master Show tv
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1282824749.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Miss Universo Brasil HD | Brasil
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MKK Web TV (360p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MOSAICO PREMIERE FHD
 http://45.148.147.13:8009/play/a02y
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MOSAICO PREMIERE FHD
 http://45.148.147.13:8009/play/a03r
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Motorvision | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",MTV Are you the One?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MTV com o ex | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MTV FHD
 http://45.148.147.13:8002/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MTV FHD
 http://45.148.147.13:8002/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MULTISHOW FHD H265
 http://45.148.147.13:8002/play/a068/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",MULTISHOW FHD H265
@@ -433,6 +513,10 @@ http://187.94.148.4:8000/play/a02m/index.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Mœsica Eletrħnica
 http://187.94.148.4:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Nashville | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NAT GEO FHD
 http://45.148.147.13:8010/play/a01m
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NAT GEO FHD H265
@@ -445,8 +529,18 @@ http://45.148.147.13:8010/play/a01q
 http://45.148.147.13:8010/play/a01s
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NAT GEO WILD SD
 http://45.148.147.13:8010/play/a01v
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Natureza | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Nick Clássico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NICK JR FHD
 http://45.148.147.13:8006/play/a040
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Nick Jr. Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Nosey Escândalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Nova Era TV (1080p)
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Novo Tempo (480p)
@@ -459,22 +553,88 @@ http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Novo Tempo (480p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Novo tempo Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",NTV Patos de Minas | BR
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",O Encantador de Cães
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",OFF FHD
 http://45.148.147.13:8007/play/a06r
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PARAMOUNT CHANNEL HD
 http://45.148.147.13:8000/play/a013
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PARAMOUNT CHANNEL SD
 http://45.148.147.13:8000/play/a015
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Paramount+ Apresenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Phoenix TV | Brasil
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PLAYKIDS HD
 http://45.148.147.13:8006/play/a04d
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PLAYKIDS SD
 http://45.148.147.13:8006/play/a04e
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Anime Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Família
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Estilo de Vida
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Fashionbox
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Filmes Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Filmes Nacionais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Investigação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Karaokê por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Mistérios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Natureza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Paisagens por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Record News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Retrô
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Shows por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Séries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Pluto TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Pop Hits
 http://187.94.148.4:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Porta dos Fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PREMIERE 2 FHD
 http://45.148.147.13:8009/play/a038
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Premiere 3 HD
@@ -505,6 +665,8 @@ http://45.148.147.13:8009/play/a03u
 http://45.148.147.13:8009/play/a033
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",PREMIERE CLUBES HD
 http://45.148.147.13:8009/play/a03w
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Primer TV | Brasil
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RBS TV Porto Alegre
 http://187.94.148.4:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RBS TV Porto Alegre
@@ -521,6 +683,8 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 http://187.94.148.4:8000/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Amazħnica Manaus
 http://200.4.97.162:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Brasil (720p) [Not 24/7]
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Brasil - TV Marajoara (PA)
@@ -545,12 +709,16 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Mão Amiga (720p) [Not 24/7]
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Premium TV | Osasco - SP - Brasil
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede RC (360p) [Not 24/7]
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",REDE RECORD FHD
 http://45.148.147.13:8004/play/a016
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",REDE RECORD FHD
 http://45.148.147.13:8004/play/a01o
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede SPTV | SP Brasil
+https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede Século 21 (240p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Rede TV! Pampa (720p) [Not 24/7]
@@ -593,8 +761,6 @@ http://187.94.148.4:8000/play/a02o/index.m3u8
 http://187.94.148.4:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RÆdio Gaœcha AM/FM
 http://187.94.148.4:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RÆdio Globo RJ
-http://187.94.148.4:8000/play/a079/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RÆdio Globo SP
 http://187.94.148.4:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",RÆdio Nativa FM
@@ -627,8 +793,16 @@ http://187.94.148.4:8000/play/a03o/index.m3u8
 http://187.94.148.4:8000/play/a07k/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Sesc TV (1080p) [Not 24/7]
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Sesc TV - 1080 | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Sesc TV - 720 | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Soft Hits
 http://187.94.148.4:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",sombra e água fresca - Hogan's Heroes | Brasil
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Soul Cine Clube | Brasil
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",SPACE FHD
 http://45.148.147.13:8000/play/a00w
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",SPORTV 2 FHD
@@ -661,6 +835,8 @@ http://45.148.147.13:8005/play/a012
 http://45.148.147.13:8005/play/a014
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Summer tv
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1894102479.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Tastemade Brasil (1080p)
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TCM HD
@@ -689,6 +865,8 @@ http://45.148.147.13:8005/play/a007
 http://187.94.148.4:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Terra Viva (720p)
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT FHD
 http://45.148.147.13:8000/play/a01e
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT FHD H265
@@ -707,12 +885,24 @@ http://45.148.147.13:8000/play/a01o
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 2 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 4 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TNT Sports 5 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Tokusato
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Toon Google | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TOONCAST HD
 http://45.148.147.13:8006/play/a045
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Top TV | BR
@@ -723,20 +913,30 @@ http://201.35.250.178:8001/play/a00v
 http://45.148.147.13:8011/play/a043
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Trilhas Sonoras
 http://187.94.148.4:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brazil_PLUTO",Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV A Plateia | BR
 https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Aberta (1080p) [Not 24/7]
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Alego | Brasil
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Anhanguera GoiÐnia
 http://187.94.148.4:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Anhanguera GoiÐnia
 http://200.4.97.162:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Aparecida | Brasil
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Aparecida | PUC TV (GO)
+https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Bahia
 http://187.94.148.4:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Bahia
 http://200.4.97.162:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Balcão | MG - Brasil
+https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Birigui
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Birigui (320p)
@@ -751,6 +951,12 @@ http://200.4.97.162:8000/play/a01h/index.m3u8
 https://edge-rj-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(kyMRVuhfTf2jk2bhk4oZVw)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGXTwBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Brasil 2
 http://187.94.148.4:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Brasil Web
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtjtjz4zZYlKBxJc5RiwT5I)/dm/3/x82pp99/d/live-2.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Brasil | TV UFG (GO)
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Brasil | TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Camara de Sao Paulo (720p)
@@ -761,14 +967,20 @@ http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w30179315.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Carioca (720p)
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Carioca | Brasil
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Caxias
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Cidade Canal 9 (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Cinec (720p) [Not 24/7]
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV CINEC BRASIL
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Cultura | TBC - Brasil Central - GO - Brasil
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Câmara 2 (1080p)
@@ -785,14 +997,24 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Digital Birigui | BR
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Diário do Sertão | PB - Brasil
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Escola
 https://edge-pe-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(iKyPRJ66GZqYJf0OVp_mxw)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGVQABm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Escola 1 | Brasil
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(YGZMV3kiOs8Ell07oQb28A)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGWVQBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Escola 2 | Brasil
+https://bit.ly/3FbL360
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Evangelizar (480p)
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Galega - Blumenau - SC - Brasil
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Gazeta (720p)
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Gazeta (SP) (720p)
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Gazeta | Brasil
+https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpnuPv1A1--KkRISQ8NMUARY)/dm/3/x818u6b/s/live-1.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Tv Gazetaᴴᴰ
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Gideoes (720p) [Not 24/7]
@@ -825,14 +1047,12 @@ http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
 http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Maná Brasil | BR
 http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV MAX (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Nordestina | PB - Brasil
+https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Pai Eterno (480p) [Not 24/7]
@@ -873,6 +1093,8 @@ http://200.4.97.162:8000/play/a01v/index.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Universal | BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV União Brasília | DF - Brasil
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Verdes Campos
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",TV Verdes Campos (360p) [Not 24/7]
@@ -907,14 +1129,24 @@ https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/ind
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Universidade da Pessoa | Brasil
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",VH1 HD
 http://45.148.147.13:8002/play/a06m/index.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Via Morena | BR
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Viajando pelo Brasil
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Vintage TV * | BR
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",WARNER TV SD
 http://45.148.147.13:8000/play/a01t
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Wild Earth | Brasil - Samsung
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Woohoo | Brasil
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",XR Health Brasil
+https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Brasil_BREZİLYA",Yeeaah TV
