@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ATR Kırım Tatar
+http://stream.atr.ua/atr//live/index.m3u8
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ARB (576p) [Not 24/7]
+https://europe2.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Azarbayjan Gharbi (576p)
+https://sdm.telewebion.com/live/azarbayjangharbi/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",KARBALA TV HD
+http://45.94.31.190:7003/play/a0bj
+#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Ada TV
 http://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",Ada TV
@@ -9,10 +19,6 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://217.174.225.146/legacyhls/ch001_720/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ANT AZ
 https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ARB (576p) [Not 24/7]
-https://europe2.livetv.az/azerbaijan/arb/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ATV 1
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 group-title="*TÜRKİ_ÜLKELER",ATV 2
