@@ -3,20 +3,14 @@
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",ATB DIGITAL HD
 https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",ATV HD
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",BEST CABLE CANAL 3 PARA TODOS
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",BOLIVISION HD
-http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",BOLIVISION HD
 http://live.cdn.comteco.com.bo/comgo/0202/index.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",CANAL DTV
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",CANANGA.TV HD
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",Central TV HD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",CROM TV canal-del-siglo
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",DAN.TV
@@ -37,12 +31,8 @@ https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w1454000528.m3u8
 https://panel.streamingtv-mediacp.online:1936/8170/8170/chunklist_w547238305.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",MEGA.TV AREQUIPA
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",MEGAVISION
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1135556674.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",Panamericana TV HD
-https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",REC ONLINE.YV
 https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w1301373844.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",RNN CANAL 27.TV
@@ -53,20 +43,12 @@ https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TELEFUTURO CANAL 23 HD
 http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",TELENOVISA CANAL 43 HD
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",TELESUR CANAL 10
-https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TRECES
 https://stream.rpc.com.py/live/trece_low.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TRECES
 https://stream.rpc.com.py/live/trece_low.m3u8?_=1
-#EXTINF:-1 group-title="Amerika_URUGUAY",TV LATINA CANAL 42 HD
-https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_URUGUAY",TVS CANAL 22 DE TODOS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TVS HD
 http://181.40.66.93:1935/tvspub/tvs/chunklist_w1086942918.m3u8
 #EXTINF:-1 group-title="Amerika_URUGUAY",TVS HD

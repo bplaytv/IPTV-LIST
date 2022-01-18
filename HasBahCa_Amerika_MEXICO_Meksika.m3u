@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",*E! Entertainment
-http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",24h NOTICIAS TVE
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",A +
@@ -57,8 +55,6 @@ http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
 http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 6 SALTILLO
 http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL 7 SLP
-https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",CANAL CATORCE
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Canal Catorce (720p)
@@ -91,12 +87,8 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FRANCE24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",FX HD
-http://etvhome.com:25461/Arturo/Arturo1/13344
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",GOURMET
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",HBO FULL.HD
-http://etvhome.com:25461/Arturo/Arturo1/20158
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",IMRyT 15.1
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",JALISCO TV
@@ -177,8 +169,6 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Telemax (XEWH-TDT) (720p)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELEMUNDO
-http://71.187.29.220:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELEMUNDO NOVELAS
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",TELERITMO
@@ -201,9 +191,5 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w88863126
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x3m1xfy?autoplay=1
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNICANAL
 http://45.55.127.106/live/unicanal_src.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNIMAS
-http://71.187.29.220:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO_Meksika",UNIVISION
-http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="Amerika_MEXICO_Meksika",Uno TV (720p) [Not 24/7]
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
